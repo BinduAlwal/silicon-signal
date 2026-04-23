@@ -1,0 +1,73 @@
+name: Refresh news feed
+
+# Rebuilds silicon-signal.html with fresh RSS items and publishes to GitHub Pages.
+# Runs on a schedule, on push to main, and on manual dispatch.
+
+on:
+  schedule:
+    # 07:00 UTC every day (midnight Pacific). Adjust to taste.
+    - cron: '0 7 * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Permissions needed to (a) commit the refreshed HTML back and (b) deploy to Pages.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch feeds and inject into HTML
+        run: |
+          python3 fetch_feeds.py --inject silicon-signal.html
+
+      - name: Commit refreshed files (if changed)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add silicon-signal.html news_data.json
+            git commit -m "chore: refresh news feed [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Prepare Pages artifact
+        run: |
+          # GitHub Pages expects an index.html at the site root.
+          mkdir -p _site
+          cp silicon-signal.html _site/index.html
+          cp news_data.json _site/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

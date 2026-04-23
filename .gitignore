@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.Python
+
+# Local runtime
+fetch.log
+*.log
+
+# Editor/OS cruft
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Environment secrets — if you ever add any
+.env
+.env.local

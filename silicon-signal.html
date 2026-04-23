@@ -1,0 +1,1786 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>SILICON SIGNAL — Cloud · CPU · GPU Intelligence Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;0,9..144,800;0,9..144,900;1,9..144,300;1,9..144,400&family=JetBrains+Mono:wght@300;400;500;600;700&family=Inter+Tight:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0b0d;
+    --bg-panel: #111316;
+    --bg-panel-2: #15181c;
+    --bg-panel-3: #1a1e23;
+    --ink: #e8e4dc;
+    --ink-mute: #8a8880;
+    --ink-dim: #575650;
+    --rule: #222529;
+    --rule-light: #2c3036;
+    --amber: #f5b841;
+    --amber-deep: #d4941d;
+    --electric: #5eead4;
+    --signal-red: #ef4444;
+    --signal-green: #22c55e;
+    --signal-blue: #60a5fa;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Inter Tight', sans-serif;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
+  }
+
+  body::before {
+    content: "";
+    position: fixed; inset: 0;
+    pointer-events: none; z-index: 100;
+    opacity: 0.04;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  /* TICKER */
+  .top-strip {
+    background: #050608;
+    border-bottom: 1px solid var(--rule);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    overflow: hidden;
+  }
+  .ticker {
+    display: flex; gap: 48px;
+    padding: 10px 0; white-space: nowrap;
+    animation: tick 80s linear infinite;
+    width: max-content;
+  }
+  .ticker span { display: inline-flex; align-items: center; gap: 8px; }
+  .ticker .up { color: var(--signal-green); }
+  .ticker .down { color: var(--signal-red); }
+  .ticker .dot { display: inline-block; width: 5px; height: 5px; border-radius: 50%; background: var(--amber); }
+  @keyframes tick { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+
+  /* MASTHEAD */
+  .masthead {
+    padding: 32px 48px 24px;
+    border-bottom: 2px solid var(--ink);
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: end;
+    gap: 32px;
+  }
+  .meta-block {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    line-height: 1.9;
+  }
+  .meta-block .row {
+    display: flex; justify-content: space-between;
+    border-bottom: 1px dotted var(--rule-light);
+    padding: 3px 0;
+  }
+  .meta-block .row span:last-child { color: var(--ink); }
+  .meta-right { text-align: right; }
+
+  .masthead-title { text-align: center; line-height: 0.88; }
+  .masthead-title .eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.32em;
+    color: var(--amber);
+    margin-bottom: 14px;
+  }
+  .masthead-title h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    font-size: clamp(52px, 8vw, 116px);
+    letter-spacing: -0.045em;
+    font-variation-settings: "opsz" 144;
+    color: var(--ink);
+  }
+  .masthead-title h1 em {
+    font-style: italic;
+    font-weight: 300;
+    color: var(--amber);
+  }
+  .masthead-title .sub {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 16px;
+    color: var(--ink-mute);
+    margin-top: 12px;
+    letter-spacing: 0.01em;
+  }
+
+  /* BRIEF BAR */
+  .brief-bar {
+    padding: 14px 48px;
+    background: #07080a;
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    gap: 40px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    align-items: center;
+  }
+  .brief-bar .pill {
+    padding: 4px 10px;
+    background: var(--amber);
+    color: #000;
+    font-weight: 700;
+    border-radius: 2px;
+  }
+
+  main { max-width: 1680px; margin: 0 auto; padding: 40px 48px 80px; }
+
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding-bottom: 14px;
+    margin-bottom: 28px;
+    border-bottom: 1px solid var(--ink);
+  }
+  .section-head .num {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--amber);
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+    display: block;
+  }
+  .section-head h2 {
+    font-family: 'Fraunces', serif;
+    font-weight: 800;
+    font-size: 38px;
+    letter-spacing: -0.025em;
+    color: var(--ink);
+  }
+  .section-head .caption {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 14px;
+    color: var(--ink-mute);
+    max-width: 380px;
+    text-align: right;
+  }
+
+  /* LEAD */
+  .lead-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 28px;
+    margin-bottom: 64px;
+  }
+  .lead-story {
+    background: var(--bg-panel);
+    border: 1px solid var(--rule);
+    padding: 36px;
+    position: relative;
+    overflow: hidden;
+  }
+  .lead-story::before {
+    content: "";
+    position: absolute; top: 0; left: 0; right: 0; height: 3px;
+    background: linear-gradient(90deg, var(--amber), transparent 60%);
+  }
+  .lead-story .tag {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--amber);
+    margin-bottom: 14px;
+  }
+  .lead-story h3 {
+    font-family: 'Fraunces', serif;
+    font-weight: 800;
+    font-size: 42px;
+    line-height: 1.02;
+    letter-spacing: -0.03em;
+    margin-bottom: 20px;
+  }
+  .lead-story h3 em { font-style: italic; font-weight: 400; color: var(--amber); }
+  .lead-story .dek {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 1.45;
+    color: var(--ink-mute);
+    margin-bottom: 24px;
+    max-width: 640px;
+  }
+  .lead-story .body {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #c8c4bb;
+    max-width: 640px;
+    margin-bottom: 24px;
+  }
+  .lead-story .body strong { color: var(--ink); font-weight: 600; }
+
+  .lead-metrics {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    border-top: 1px solid var(--rule);
+    padding-top: 24px;
+    margin-top: 24px;
+  }
+  .lead-metrics .metric { padding: 0 20px; border-right: 1px solid var(--rule); }
+  .lead-metrics .metric:first-child { padding-left: 0; }
+  .lead-metrics .metric:last-child { padding-right: 0; border-right: none; }
+  .lead-metrics .label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    margin-bottom: 8px;
+  }
+  .lead-metrics .value {
+    font-family: 'Fraunces', serif;
+    font-weight: 800;
+    font-size: 32px;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    line-height: 1;
+  }
+  .lead-metrics .delta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--signal-green);
+    margin-top: 4px;
+  }
+
+  .side-brief {
+    background: var(--bg-panel);
+    border: 1px solid var(--rule);
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+  }
+  .side-brief .source {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--electric);
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .side-brief .source::before {
+    content: "";
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--electric);
+    box-shadow: 0 0 8px var(--electric);
+  }
+  .side-brief h4 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    margin-bottom: 12px;
+  }
+  .side-brief p {
+    font-size: 14px;
+    line-height: 1.55;
+    color: #b8b4ab;
+    flex-grow: 1;
+  }
+  .side-brief p strong { color: var(--ink); }
+  .side-brief .foot {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-dim);
+    margin-top: 16px;
+    padding-top: 14px;
+    border-top: 1px dotted var(--rule-light);
+  }
+
+  /* MATRIX */
+  .matrix-wrapper {
+    background: var(--bg-panel);
+    border: 1px solid var(--rule);
+    padding: 32px;
+    margin-bottom: 64px;
+    overflow-x: auto;
+  }
+  table.matrix {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    min-width: 900px;
+  }
+  table.matrix thead th {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+    font-weight: 500;
+    text-align: left;
+    padding: 0 14px 14px;
+    border-bottom: 1px solid var(--rule-light);
+  }
+  table.matrix tbody td {
+    padding: 18px 14px;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  table.matrix tbody tr:last-child td { border-bottom: none; }
+  table.matrix tbody tr:hover { background: rgba(245, 184, 65, 0.03); }
+
+  .chip-name {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--ink);
+    letter-spacing: -0.01em;
+  }
+  .chip-maker {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--amber);
+    margin-top: 4px;
+  }
+  .spec-val {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .spec-sub {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--ink-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 3px;
+  }
+  .status-badge {
+    display: inline-block;
+    padding: 3px 9px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    border-radius: 2px;
+    font-weight: 500;
+  }
+  .status-shipping { background: rgba(34, 197, 94, 0.12); color: var(--signal-green); border: 1px solid rgba(34, 197, 94, 0.3); }
+  .status-ramping { background: rgba(245, 184, 65, 0.12); color: var(--amber); border: 1px solid rgba(245, 184, 65, 0.3); }
+  .status-future { background: rgba(96, 165, 250, 0.12); color: var(--signal-blue); border: 1px solid rgba(96, 165, 250, 0.3); }
+
+  /* CAPEX + CHARTS */
+  .two-col {
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 28px;
+    margin-bottom: 64px;
+  }
+  .panel {
+    background: var(--bg-panel);
+    border: 1px solid var(--rule);
+    padding: 32px;
+  }
+  .panel h3 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 28px;
+    letter-spacing: -0.02em;
+    margin-bottom: 6px;
+  }
+  .panel .kicker {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--amber);
+    margin-bottom: 10px;
+  }
+  .panel .subtitle {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 14px;
+    color: var(--ink-mute);
+    margin-bottom: 24px;
+  }
+
+  .capex-chart { margin-top: 12px; }
+  .capex-row {
+    display: grid;
+    grid-template-columns: 140px 1fr 100px;
+    gap: 16px;
+    align-items: center;
+    padding: 14px 0;
+    border-bottom: 1px dotted var(--rule-light);
+  }
+  .capex-row:last-child { border-bottom: none; }
+  .capex-row .co {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: -0.01em;
+  }
+  .capex-row .co small {
+    display: block;
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 400;
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--ink-dim);
+    margin-top: 2px;
+  }
+  .bar-wrap {
+    height: 22px;
+    background: var(--bg-panel-2);
+    border-radius: 2px;
+    position: relative;
+    overflow: hidden;
+  }
+  .bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--amber-deep), var(--amber));
+    animation: grow 1.4s cubic-bezier(.2,.8,.2,1) both;
+    transform-origin: left;
+  }
+  .bar-fill.blue { background: linear-gradient(90deg, #2563eb, var(--signal-blue)); }
+  .bar-fill.teal { background: linear-gradient(90deg, #0d9488, var(--electric)); }
+  .bar-fill.red { background: linear-gradient(90deg, #b91c1c, var(--signal-red)); }
+  .bar-fill.purple { background: linear-gradient(90deg, #7c3aed, #a78bfa); }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+
+  .capex-row .val {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--ink);
+    text-align: right;
+  }
+  .capex-row .val small {
+    display: block;
+    font-size: 10px;
+    font-weight: 400;
+    color: var(--signal-green);
+    margin-top: 2px;
+  }
+
+  .donut-wrap {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    margin-top: 20px;
+  }
+  .donut-legend { flex-grow: 1; font-size: 13px; }
+  .donut-legend .lg-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 0;
+    border-bottom: 1px dotted var(--rule-light);
+  }
+  .donut-legend .lg-row:last-child { border-bottom: none; }
+  .lg-dot { width: 10px; height: 10px; border-radius: 2px; }
+  .lg-label { flex-grow: 1; font-family: 'Inter Tight', sans-serif; }
+  .lg-label small {
+    display: block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--ink-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  .lg-val {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 600;
+    font-size: 13px;
+  }
+
+  /* FEED */
+  .feed-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+    margin-bottom: 64px;
+  }
+  .news-card {
+    background: var(--bg-panel);
+    border: 1px solid var(--rule);
+    padding: 26px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    transition: border-color .2s, transform .2s;
+    cursor: pointer;
+  }
+  .news-card:hover { border-color: var(--amber); transform: translateY(-2px); }
+  .news-card .stamp {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+  .news-card .cat {
+    color: var(--amber);
+    padding: 3px 7px;
+    background: rgba(245, 184, 65, 0.1);
+    border: 1px solid rgba(245, 184, 65, 0.25);
+    border-radius: 2px;
+  }
+  .news-card .cat.infra { color: var(--electric); background: rgba(94, 234, 212, 0.08); border-color: rgba(94, 234, 212, 0.25); }
+  .news-card .cat.cpu { color: var(--signal-blue); background: rgba(96, 165, 250, 0.08); border-color: rgba(96, 165, 250, 0.25); }
+  .news-card .cat.policy { color: var(--signal-red); background: rgba(239, 68, 68, 0.08); border-color: rgba(239, 68, 68, 0.25); }
+  .news-card .cat.edge { color: var(--signal-green); background: rgba(34, 197, 94, 0.08); border-color: rgba(34, 197, 94, 0.25); }
+  .news-card .stamp .date { color: var(--ink-dim); }
+  .news-card h4 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    margin-bottom: 12px;
+  }
+  .news-card p {
+    font-size: 14px;
+    line-height: 1.55;
+    color: #b5b1a7;
+    flex-grow: 1;
+    margin-bottom: 16px;
+  }
+  .news-card .foot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink-dim);
+    padding-top: 14px;
+    border-top: 1px solid var(--rule);
+  }
+  .news-card .foot .src { color: var(--ink-mute); }
+
+  /* PM TAKE */
+  .pm-take {
+    background: linear-gradient(135deg, #0d0f12 0%, #131619 100%);
+    border: 1px solid var(--amber-deep);
+    padding: 44px;
+    margin-bottom: 64px;
+    position: relative;
+    overflow: hidden;
+  }
+  .pm-take::before {
+    content: "";
+    position: absolute; top: -80px; right: -80px;
+    width: 300px; height: 300px;
+    background: radial-gradient(circle, rgba(245,184,65,0.18) 0%, transparent 65%);
+    pointer-events: none;
+  }
+  .pm-take .byline {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--amber);
+    margin-bottom: 12px;
+  }
+  .pm-take h3 {
+    font-family: 'Fraunces', serif;
+    font-weight: 800;
+    font-size: 36px;
+    letter-spacing: -0.025em;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    max-width: 800px;
+  }
+  .pm-take h3 em { font-style: italic; color: var(--amber); font-weight: 400; }
+  .pm-take .lede {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 18px;
+    color: var(--ink-mute);
+    max-width: 720px;
+    margin-bottom: 32px;
+  }
+  .pm-take ol {
+    list-style: none;
+    counter-reset: take;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+    position: relative;
+  }
+  .pm-take ol li {
+    counter-increment: take;
+    padding-top: 24px;
+    border-top: 1px solid var(--rule);
+    position: relative;
+  }
+  .pm-take ol li::before {
+    content: counter(take, decimal-leading-zero);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--amber);
+    letter-spacing: 0.2em;
+    display: block;
+    margin-bottom: 10px;
+  }
+  .pm-take ol li h5 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 21px;
+    letter-spacing: -0.015em;
+    line-height: 1.15;
+    margin-bottom: 12px;
+  }
+  .pm-take ol li p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #b8b4ab;
+  }
+
+  /* WATCHLIST */
+  .watchlist {
+    background: var(--bg-panel);
+    border: 1px solid var(--rule);
+    padding: 36px;
+    margin-bottom: 64px;
+  }
+  .watchlist-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+  }
+  .watch-item {
+    padding: 24px;
+    border-right: 1px solid var(--rule);
+  }
+  .watch-item:last-child { border-right: none; }
+  .watch-item .when {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--amber);
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  .watch-item h5 {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: -0.015em;
+    margin-bottom: 8px;
+    line-height: 1.2;
+  }
+  .watch-item p {
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--ink-mute);
+  }
+
+  /* FOOTER */
+  footer {
+    border-top: 2px solid var(--ink);
+    padding: 40px 48px;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: 40px;
+    background: #07080a;
+  }
+  footer .colophon {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 14px;
+    color: var(--ink-mute);
+    line-height: 1.5;
+    max-width: 520px;
+  }
+  footer .colophon .marque {
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 22px;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    display: block;
+    margin-bottom: 8px;
+  }
+  footer h6 {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--amber);
+    margin-bottom: 14px;
+  }
+  footer ul { list-style: none; }
+  footer ul li {
+    padding: 4px 0;
+    font-size: 13px;
+    color: var(--ink-mute);
+    font-family: 'JetBrains Mono', monospace;
+    letter-spacing: 0.04em;
+  }
+
+  @media (max-width: 1180px) {
+    .lead-grid { grid-template-columns: 1fr; }
+    .two-col { grid-template-columns: 1fr; }
+    .feed-grid { grid-template-columns: repeat(2, 1fr); }
+    .pm-take ol { grid-template-columns: 1fr; }
+    .watchlist-grid { grid-template-columns: repeat(2, 1fr); }
+    .watch-item { border-right: none; border-bottom: 1px solid var(--rule); }
+    .masthead { grid-template-columns: 1fr; text-align: center; }
+    .meta-right { text-align: left; }
+    .matrix-wrapper > div > div[style*="grid-template-columns: repeat(4, 1fr)"] { grid-template-columns: repeat(2, 1fr) !important; }
+    .matrix-wrapper > div > div[style*="grid-template-columns: repeat(4, 1fr)"] > div:nth-child(2) { border-right: none !important; }
+    .matrix-wrapper > div > div[style*="grid-template-columns: repeat(4, 1fr)"] > div:nth-child(1),
+    .matrix-wrapper > div > div[style*="grid-template-columns: repeat(4, 1fr)"] > div:nth-child(2) { border-bottom: 1px solid var(--rule) !important; }
+  }
+  @media (max-width: 700px) {
+    main { padding: 24px 20px 60px; }
+    .masthead { padding: 24px 20px; }
+    .brief-bar { padding: 12px 20px; flex-wrap: wrap; gap: 14px; }
+    footer { grid-template-columns: 1fr; padding: 30px 20px; }
+    .feed-grid { grid-template-columns: 1fr; }
+    .watchlist-grid { grid-template-columns: 1fr; }
+    .lead-metrics { grid-template-columns: 1fr; }
+    .lead-metrics .metric { border-right: none; border-bottom: 1px solid var(--rule); padding: 14px 0; }
+    .donut-wrap { flex-direction: column; }
+  }
+</style>
+</head>
+<body>
+
+<!-- TICKER -->
+<div class="top-strip">
+  <div class="ticker">
+    <span><span class="dot"></span> NVDA DATA CENTER REV FY26 $197.3B <span class="up">▲ 71.3%</span></span>
+    <span>AMZN 2026 CAPEX GUIDE $200B <span class="up">▲ 53%</span></span>
+    <span>GOOGL 2026 CAPEX $180B <span class="up">▲ 37%</span></span>
+    <span>MSFT AZURE GB300 NVL72 LIVE · 92.1 EXAFLOPS</span>
+    <span>TRAINIUM3 SUPPLY <span class="down">NEAR-SOLD-OUT BY MID-2026</span></span>
+    <span>MAIA 200 LIVE · DES MOINES · POWERS GPT-5.2</span>
+    <span>CEREBRAS-OPENAI $10B · 750MW INFERENCE CLOUD</span>
+    <span>GROQ LPU <span class="up">800-2,800 TOK/S</span> LLAMA/GEMMA</span>
+    <span>JETSON THOR GA · 2,070 TFLOPS FP4 · 128GB</span>
+    <span>TESLA AI5 TAPED OUT <span class="up">HOPPER-CLASS SoC</span></span>
+    <span>GRAVITON5 · 40% PRICE/PERF vs X86</span>
+    <span>NVDA RUBIN (VR200) <span class="up">FULL PRODUCTION H2 2026</span></span>
+    <span>HYPERSCALER CAPEX 2026 $602B <span class="up">▲ 36%</span></span>
+    <span><span class="dot"></span> NVDA DATA CENTER REV FY26 $197.3B <span class="up">▲ 71.3%</span></span>
+    <span>AMZN 2026 CAPEX GUIDE $200B <span class="up">▲ 53%</span></span>
+    <span>GOOGL 2026 CAPEX $180B <span class="up">▲ 37%</span></span>
+    <span>MSFT AZURE GB300 NVL72 LIVE · 92.1 EXAFLOPS</span>
+    <span>TRAINIUM3 SUPPLY <span class="down">NEAR-SOLD-OUT BY MID-2026</span></span>
+    <span>MAIA 200 LIVE · DES MOINES · POWERS GPT-5.2</span>
+    <span>CEREBRAS-OPENAI $10B · 750MW INFERENCE CLOUD</span>
+    <span>GROQ LPU <span class="up">800-2,800 TOK/S</span> LLAMA/GEMMA</span>
+    <span>JETSON THOR GA · 2,070 TFLOPS FP4 · 128GB</span>
+    <span>TESLA AI5 TAPED OUT <span class="up">HOPPER-CLASS SoC</span></span>
+    <span>GRAVITON5 · 40% PRICE/PERF vs X86</span>
+    <span>NVDA RUBIN (VR200) <span class="up">FULL PRODUCTION H2 2026</span></span>
+    <span>HYPERSCALER CAPEX 2026 $602B <span class="up">▲ 36%</span></span>
+  </div>
+</div>
+
+<!-- MASTHEAD -->
+<header class="masthead">
+  <div class="meta-block">
+    <div class="row"><span>Edition</span><span>Vol. I · No. 012</span></div>
+    <div class="row"><span>Date</span><span>Thu · 23 Apr 2026</span></div>
+    <div class="row"><span>Desk</span><span>Cloud · CPU · GPU</span></div>
+    <div class="row"><span>Coverage</span><span>Infra &amp; Silicon</span></div>
+  </div>
+
+  <div class="masthead-title">
+    <div class="eyebrow">Cloud · CPU · GPU · Physical AI · Intelligence Desk</div>
+    <h1>Silicon <em>Signal</em></h1>
+    <div class="sub">A strategist's read on what the chips running the cloud — and the robots — are telling us this week.</div>
+  </div>
+
+  <div class="meta-block meta-right">
+    <div class="row"><span>Status</span><span style="color: var(--signal-green);">● LIVE</span></div>
+    <div class="row"><span>Sources</span><span>36 Tracked</span></div>
+    <div class="row"><span>Updated</span><span>09:14 PT</span></div>
+    <div class="row"><span>Next Sync</span><span>17:00 PT</span></div>
+  </div>
+</header>
+
+<!-- BRIEF BAR -->
+<div class="brief-bar">
+  <span class="pill">TODAY'S SIGNAL</span>
+  <span>Rubin transitions from roadmap to procurement · Maia 200 validates hyperscaler ASIC thesis · Jetson Thor + Tesla AI5 reprice the physical AI silicon stack</span>
+</div>
+
+<main>
+
+  <!-- LEAD SECTION -->
+  <div class="section-head">
+    <div>
+      <span class="num">§ 01 · Lead</span>
+      <h2>The Big Three Stories</h2>
+    </div>
+    <div class="caption">What shifted in the cloud-silicon landscape this cycle, and why it reprices the competitive map.</div>
+  </div>
+
+  <section class="lead-grid">
+    <article class="lead-story">
+      <div class="tag">▸ GPU · Platform Shift · Priority One</div>
+      <h3>Nvidia's Vera Rubin goes into <em>full production</em> — and the buying cycle has already started without you.</h3>
+      <p class="dek">Six chips shipping concurrently on a single platform. Nvidia's cadence is no longer "one or two new parts a year" — it is a yearly full-stack replacement, and the hyperscalers have voted.</p>
+      <p class="body">Jensen Huang used his CES keynote to confirm that the <strong>Vera Rubin</strong> platform — Vera CPU, Rubin GPU, NVLink 6, ConnectX-9, BlueField-4, and Spectrum-X — is <strong>in full production</strong>, positioned as a 3.5× training and 5× inference uplift over Blackwell. The inference-cost story is the one to watch: Nvidia claims <strong>one-seventh the cost per token versus Blackwell</strong>, with GPU counts for MoE training down 75%.</p>
+      <p class="body">Microsoft Azure and Google Cloud both <strong>committed to Rubin NVL72 in H2 2026</strong>. Azure says its Fairwater sites in Wisconsin and Atlanta were designed for Rubin's power/thermal envelope years ago. Meanwhile, hyperscaler backlogs keep ratcheting up: Amazon at <strong>$244B</strong>, Google at <strong>$240B</strong>. The 2–3 year GPU bottleneck Huang describes is the backdrop for every procurement conversation this year.</p>
+
+      <div class="lead-metrics">
+        <div class="metric">
+          <div class="label">Rubin vs. Blackwell · Training</div>
+          <div class="value">3.5×</div>
+          <div class="delta">▲ Per-GPU uplift</div>
+        </div>
+        <div class="metric">
+          <div class="label">Inference Cost / Token</div>
+          <div class="value">-86%</div>
+          <div class="delta">vs B200 platform</div>
+        </div>
+        <div class="metric">
+          <div class="label">Nvidia FY26 DC Revenue</div>
+          <div class="value">$197.3B</div>
+          <div class="delta">▲ 71.3% YoY</div>
+        </div>
+      </div>
+    </article>
+
+    <article class="side-brief">
+      <div class="source">Custom Silicon · Azure</div>
+      <h4>Maia 200 goes live and starts swinging.</h4>
+      <p>Microsoft's second-gen accelerator is running workloads in Des Moines, powering GPT-5.2, Copilot, and the Superintelligence team's internal projects. Microsoft claims <strong>3× FP4 over Trainium3</strong>, FP8 above TPU v7, and 30% better perf-per-dollar than Maia 100. On TSMC 3nm with 216 GB HBM3e.</p>
+      <div class="foot">GeekWire · Jan 26</div>
+    </article>
+
+    <article class="side-brief">
+      <div class="source">CPU · AWS</div>
+      <h4>Graviton5 is AWS's quiet margin machine.</h4>
+      <p>Used by <strong>90%+ of top-1000 AWS customers</strong>, Graviton5 claims up to 40% better price-performance than leading x86. Combined Trainium + Graviton run-rate is now <strong>$10B+ and growing triple digits</strong> — a structural challenge to Intel Xeon and AMD Epyc at cloud scale.</p>
+      <div class="foot">Amazon 8-K · FY2026</div>
+    </article>
+  </section>
+
+  <!-- COMPETITIVE MATRIX -->
+  <div class="section-head">
+    <div>
+      <span class="num">§ 02 · Landscape</span>
+      <h2>The Accelerator Stack</h2>
+    </div>
+    <div class="caption">Every chip that will matter to a cloud-scale AI buyer between now and year-end, at a glance.</div>
+  </div>
+
+  <section class="matrix-wrapper">
+    <table class="matrix">
+      <thead>
+        <tr>
+          <th style="width: 22%">Chip / Platform</th>
+          <th>Category</th>
+          <th>Peak Perf</th>
+          <th>Memory</th>
+          <th>Process</th>
+          <th>Status</th>
+          <th>Strategic Read</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <div class="chip-name">Rubin (VR200)</div>
+            <div class="chip-maker">Nvidia</div>
+          </td>
+          <td><span class="spec-val">Merchant GPU</span></td>
+          <td>
+            <span class="spec-val">~50 PFLOPS FP4</span>
+            <div class="spec-sub">NVL72 rack · ~1.8 ExaFLOPS</div>
+          </td>
+          <td>
+            <span class="spec-val">288 GB HBM4</span>
+            <div class="spec-sub">est., per chip</div>
+          </td>
+          <td><span class="spec-val">TSMC 3nm</span></td>
+          <td><span class="status-badge status-ramping">H2 2026 Ramp</span></td>
+          <td>Default training fabric. Azure, GCP first in line.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">GB300 (Blackwell Ultra)</div>
+            <div class="chip-maker">Nvidia</div>
+          </td>
+          <td><span class="spec-val">Merchant GPU</span></td>
+          <td>
+            <span class="spec-val">15 PFLOPS FP4</span>
+            <div class="spec-sub">NVL72 · 92.1 ExaFLOPS</div>
+          </td>
+          <td>
+            <span class="spec-val">288 GB HBM3e</span>
+            <div class="spec-sub">per chip</div>
+          </td>
+          <td><span class="spec-val">TSMC 4NP</span></td>
+          <td><span class="status-badge status-shipping">Shipping</span></td>
+          <td>The workhorse through 2026. Anchors Azure supercomputer.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Maia 200</div>
+            <div class="chip-maker">Microsoft · Azure</div>
+          </td>
+          <td><span class="spec-val">Custom ASIC · Inference</span></td>
+          <td>
+            <span class="spec-val">10 PFLOPS FP4</span>
+            <div class="spec-sub">5 PFLOPS FP8 · 750W TDP</div>
+          </td>
+          <td>
+            <span class="spec-val">216 GB HBM3e</span>
+            <div class="spec-sub">7 TB/s · 272 MB SRAM</div>
+          </td>
+          <td><span class="spec-val">TSMC 3nm</span></td>
+          <td><span class="status-badge status-shipping">Live in Prod</span></td>
+          <td>Microsoft's leverage vs Nvidia pricing. OpenAI workloads first.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">TPU v7 (Ironwood)</div>
+            <div class="chip-maker">Google · GCP</div>
+          </td>
+          <td><span class="spec-val">Custom ASIC · Train + Inf</span></td>
+          <td>
+            <span class="spec-val">~4.6 PFLOPS FP8</span>
+            <div class="spec-sub">Pod scale: ~9,216 chips</div>
+          </td>
+          <td>
+            <span class="spec-val">192 GB HBM3e</span>
+            <div class="spec-sub">per chip</div>
+          </td>
+          <td><span class="spec-val">TSMC 3nm</span></td>
+          <td><span class="status-badge status-shipping">Shipping · 40%+ growth</span></td>
+          <td>The most mature hyperscaler ASIC. Price/perf lever for GCP.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Trainium3</div>
+            <div class="chip-maker">Amazon · AWS</div>
+          </td>
+          <td><span class="spec-val">Custom ASIC · Training</span></td>
+          <td>
+            <span class="spec-val">~2× Trainium2</span>
+            <div class="spec-sub">UltraServers link thousands</div>
+          </td>
+          <td>
+            <span class="spec-val">HBM3e</span>
+            <div class="spec-sub">Capacity not disclosed</div>
+          </td>
+          <td><span class="spec-val">3nm</span></td>
+          <td><span class="status-badge status-ramping">Near-sold-out mid-2026</span></td>
+          <td>Anthropic's Project Rainier (500K+ chips) proves it at scale.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Instinct MI450</div>
+            <div class="chip-maker">AMD</div>
+          </td>
+          <td><span class="spec-val">Merchant GPU</span></td>
+          <td>
+            <span class="spec-val">Next-gen CDNA</span>
+            <div class="spec-sub">Rack-scale platform</div>
+          </td>
+          <td>
+            <span class="spec-val">HBM4</span>
+            <div class="spec-sub">est.</div>
+          </td>
+          <td><span class="spec-val">TSMC 3nm</span></td>
+          <td><span class="status-badge status-future">2026 · Major customer landed</span></td>
+          <td>AMD's real Nvidia challenger. France national AI anchor deal.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">WSE-3 (CS-3)</div>
+            <div class="chip-maker">Cerebras</div>
+          </td>
+          <td><span class="spec-val">Wafer-Scale · Train + Inf</span></td>
+          <td>
+            <span class="spec-val">125 PFLOPS FP8</span>
+            <div class="spec-sub">1,000+ tok/s Llama-class</div>
+          </td>
+          <td>
+            <span class="spec-val">44 GB SRAM</span>
+            <div class="spec-sub">21 PB/s on-chip BW</div>
+          </td>
+          <td><span class="spec-val">TSMC 5nm</span></td>
+          <td><span class="status-badge status-shipping">Shipping · AWS Bedrock</span></td>
+          <td>$10B OpenAI deal. Now on AWS via disaggregated w/ Trainium.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">LPU (GroqRack)</div>
+            <div class="chip-maker">Groq</div>
+          </td>
+          <td><span class="spec-val">Inference-Only ASIC</span></td>
+          <td>
+            <span class="spec-val">800–2,800 tok/s</span>
+            <div class="spec-sub">Llama 70B → Gemma 7B</div>
+          </td>
+          <td>
+            <span class="spec-val">230 MB SRAM</span>
+            <div class="spec-sub">No HBM/DRAM</div>
+          </td>
+          <td><span class="spec-val">GlobalFoundries 14nm</span></td>
+          <td><span class="status-badge status-shipping">Shipping · GroqCloud</span></td>
+          <td>Deterministic latency. Real-time apps &amp; voice AI winner.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Graviton5</div>
+            <div class="chip-maker">Amazon · AWS</div>
+          </td>
+          <td><span class="spec-val">Custom ARM CPU</span></td>
+          <td>
+            <span class="spec-val">General cloud workloads</span>
+            <div class="spec-sub">40% better price/perf vs x86</div>
+          </td>
+          <td>
+            <span class="spec-val">DDR5</span>
+            <div class="spec-sub">Standard server mem</div>
+          </td>
+          <td><span class="spec-val">3nm-class</span></td>
+          <td><span class="status-badge status-shipping">Shipping</span></td>
+          <td>Silent assassin of x86 share. 90%+ top-1000 AWS customers.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Core Ultra (Panther Lake)</div>
+            <div class="chip-maker">Intel</div>
+          </td>
+          <td><span class="spec-val">Client + Edge CPU</span></td>
+          <td>
+            <span class="spec-val">Hybrid P+E + NPU</span>
+            <div class="spec-sub">18A foundational part</div>
+          </td>
+          <td>
+            <span class="spec-val">LPDDR5X</span>
+            <div class="spec-sub">—</div>
+          </td>
+          <td><span class="spec-val">Intel 18A</span></td>
+          <td><span class="status-badge status-ramping">CES 2026 Launch</span></td>
+          <td>Intel's credibility test. Cloud impact mostly indirect via AI PCs.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- PHYSICAL AI PROCESSORS -->
+  <div class="section-head">
+    <div>
+      <span class="num">§ 03 · Edge · Physical AI</span>
+      <h2>The Robot Brain Stack</h2>
+    </div>
+    <div class="caption">The CPUs and AI processors going into humanoids, robots, and autonomous vehicles — where inference moves on-device.</div>
+  </div>
+
+  <section class="matrix-wrapper">
+    <table class="matrix">
+      <thead>
+        <tr>
+          <th style="width: 22%">Chip / Platform</th>
+          <th>Form Factor</th>
+          <th>AI Compute</th>
+          <th>Memory</th>
+          <th>Power</th>
+          <th>Status</th>
+          <th>Strategic Read</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <div class="chip-name">Jetson AGX Thor</div>
+            <div class="chip-maker">Nvidia · Blackwell</div>
+          </td>
+          <td><span class="spec-val">Humanoid · Industrial</span></td>
+          <td>
+            <span class="spec-val">2,070 TFLOPS FP4</span>
+            <div class="spec-sub">7.5× Orin · 3.1× CPU</div>
+          </td>
+          <td>
+            <span class="spec-val">128 GB LPDDR5X</span>
+            <div class="spec-sub">14-core Arm Neoverse-V3AE</div>
+          </td>
+          <td><span class="spec-val">40–130 W</span></td>
+          <td><span class="status-badge status-shipping">GA · Jan 2026</span></td>
+          <td>The de facto platform. Boston Dynamics, NEURA, Agility all adopted.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Jetson T4000</div>
+            <div class="chip-maker">Nvidia · Blackwell</div>
+          </td>
+          <td><span class="spec-val">Mid-tier Robotics</span></td>
+          <td>
+            <span class="spec-val">1,200 TFLOPS</span>
+            <div class="spec-sub">Cost-effective SKU</div>
+          </td>
+          <td>
+            <span class="spec-val">64 GB</span>
+            <div class="spec-sub">LPDDR5X</div>
+          </td>
+          <td><span class="spec-val">40–70 W</span></td>
+          <td><span class="status-badge status-shipping">Available · CES '26</span></td>
+          <td>Volume play — AMRs, delivery bots, smart tractors.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">DRIVE Thor</div>
+            <div class="chip-maker">Nvidia · Blackwell</div>
+          </td>
+          <td><span class="spec-val">Autonomous Vehicle</span></td>
+          <td>
+            <span class="spec-val">~2,000 TFLOPS</span>
+            <div class="spec-sub">Unified world-model inference</div>
+          </td>
+          <td>
+            <span class="spec-val">Integrated SoC</span>
+            <div class="spec-sub">Sensor + AI fabric</div>
+          </td>
+          <td><span class="spec-val">~130 W</span></td>
+          <td><span class="status-badge status-shipping">In Production Vehicles</span></td>
+          <td>Aurora, Waabi, BMW iX3 (Level 4). Ecosystem &gt; silicon.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Dragonwing IQ-X</div>
+            <div class="chip-maker">Qualcomm</div>
+          </td>
+          <td><span class="spec-val">Humanoid · Service Robot</span></td>
+          <td>
+            <span class="spec-val">VLA + VLM optimized</span>
+            <div class="spec-sub">Snapdragon heritage</div>
+          </td>
+          <td>
+            <span class="spec-val">Integrated LPDDR</span>
+            <div class="spec-sub">—</div>
+          </td>
+          <td><span class="spec-val">&lt; Jetson class</span></td>
+          <td><span class="status-badge status-ramping">CES '26 · Figure partner</span></td>
+          <td>Power/efficiency play vs Jetson. Figure, KUKA, Advantech signed on.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Snapdragon Ride Pilot</div>
+            <div class="chip-maker">Qualcomm</div>
+          </td>
+          <td><span class="spec-val">ADAS · Autonomous Drive</span></td>
+          <td>
+            <span class="spec-val">Flex compute tiers</span>
+            <div class="spec-sub">Up to L4</div>
+          </td>
+          <td>
+            <span class="spec-val">—</span>
+            <div class="spec-sub">Auto-grade</div>
+          </td>
+          <td><span class="spec-val">—</span></td>
+          <td><span class="status-badge status-shipping">BMW iX3 '26</span></td>
+          <td>Qualcomm's auto beachhead. Main Nvidia DRIVE counterweight.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Tesla AI5 (HW5)</div>
+            <div class="chip-maker">Tesla</div>
+          </td>
+          <td><span class="spec-val">FSD · Optimus · Vehicle</span></td>
+          <td>
+            <span class="spec-val">~H100 class</span>
+            <div class="spec-sub">10× AI4 compute</div>
+          </td>
+          <td>
+            <span class="spec-val">~9× AI4 memory</span>
+            <div class="spec-sub">In-house design</div>
+          </td>
+          <td><span class="spec-val">Auto-grade</span></td>
+          <td><span class="status-badge status-ramping">Taped out · H2 2026</span></td>
+          <td>Optimus first, not cars. Dual-source TSMC AZ + Samsung TX.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Dojo 3 (AI6)</div>
+            <div class="chip-maker">Tesla</div>
+          </td>
+          <td><span class="spec-val">Training Supercomputer</span></td>
+          <td>
+            <span class="spec-val">~2× AI5</span>
+            <div class="spec-sub">Neural net training</div>
+          </td>
+          <td>
+            <span class="spec-val">—</span>
+            <div class="spec-sub">Server class</div>
+          </td>
+          <td><span class="spec-val">Data center</span></td>
+          <td><span class="status-badge status-future">Tape-out Dec '26</span></td>
+          <td>Dojo returns. Trains the models AI5 deploys. Samsung fab.</td>
+        </tr>
+        <tr>
+          <td>
+            <div class="chip-name">Hailo-15 / Hailo-10</div>
+            <div class="chip-maker">Hailo</div>
+          </td>
+          <td><span class="spec-val">Low-power Edge AI</span></td>
+          <td>
+            <span class="spec-val">Up to 40 TOPS</span>
+            <div class="spec-sub">Vision-centric</div>
+          </td>
+          <td>
+            <span class="spec-val">Integrated</span>
+            <div class="spec-sub">Host-paired</div>
+          </td>
+          <td><span class="spec-val">&lt; 5 W typical</span></td>
+          <td><span class="status-badge status-shipping">Shipping</span></td>
+          <td>Cameras, smart sensors, low-cost AMRs. Below Jetson's power floor.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <!-- CUSTOMER ADOPTION MAP -->
+    <div style="margin-top: 40px; padding-top: 32px; border-top: 1px solid var(--rule);">
+      <div style="display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 24px; gap: 24px; flex-wrap: wrap;">
+        <div>
+          <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--amber); margin-bottom: 6px;">▸ Customer Adoption · Who Ships What</div>
+          <h4 style="font-family: 'Fraunces', serif; font-weight: 700; font-size: 24px; letter-spacing: -0.02em; color: var(--ink);">Robotics &amp; AV customers by silicon platform</h4>
+        </div>
+        <div style="font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; font-size: 13px; color: var(--ink-mute); max-width: 320px; text-align: right;">Design-win concentration is the leading indicator of platform lock-in — follow the robots, not the roadmaps.</div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; border: 1px solid var(--rule); background: var(--bg-panel-2);">
+        <!-- NVIDIA JETSON THOR -->
+        <div style="padding: 24px; border-right: 1px solid var(--rule);">
+          <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 14px;">
+            <div style="width: 8px; height: 8px; background: var(--amber); border-radius: 50%;"></div>
+            <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--amber);">Jetson Thor · T4000</div>
+          </div>
+          <div style="font-family: 'Fraunces', serif; font-weight: 700; font-size: 15px; color: var(--ink); margin-bottom: 10px;">Humanoids &amp; Industrial Robotics</div>
+          <div style="font-family: 'Inter Tight', sans-serif; font-size: 13px; line-height: 1.7; color: #c8c4bb;">
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Boston Dynamics</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Atlas humanoid</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Agility Robotics</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Digit Gen 6</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">NEURA Robotics</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Gen 3 humanoid</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Franka · Humanoid</strong> <span style="color: var(--ink-mute); font-size: 11px;">· GR00T workflows</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Caterpillar · LG</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Industrial · appliances</span></div>
+            <div style="padding: 4px 0;"><strong style="color: var(--ink);">Locus · Fetch</strong> <span style="color: var(--ink-mute); font-size: 11px;">· AMRs on Orin / T4000</span></div>
+          </div>
+          <div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--rule); font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.1em; color: var(--signal-green);">◆ DOMINANT · Ecosystem moat</div>
+        </div>
+
+        <!-- NVIDIA DRIVE -->
+        <div style="padding: 24px; border-right: 1px solid var(--rule);">
+          <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 14px;">
+            <div style="width: 8px; height: 8px; background: var(--amber-deep); border-radius: 50%;"></div>
+            <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--amber-deep);">DRIVE Thor · AGX</div>
+          </div>
+          <div style="font-family: 'Fraunces', serif; font-weight: 700; font-size: 15px; color: var(--ink); margin-bottom: 10px;">Autonomous Vehicles</div>
+          <div style="font-family: 'Inter Tight', sans-serif; font-size: 13px; line-height: 1.7; color: #c8c4bb;">
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Aurora</strong> <span style="color: var(--ink-mute); font-size: 11px;">· L4 autonomous trucking</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Waabi</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Autonomous trucks</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Nuro</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Last-mile delivery</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Zoox · Mercedes</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Robotaxi · DRIVE</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Volvo · JLR</strong> <span style="color: var(--ink-mute); font-size: 11px;">· OEM partners</span></div>
+            <div style="padding: 4px 0;"><span style="color: var(--ink-dim); font-size: 11px;">Cruise · wound down (GM, 2024)</span></div>
+          </div>
+          <div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--rule); font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.1em; color: var(--signal-green);">◆ STRONG · Default in L4 trucking</div>
+        </div>
+
+        <!-- QUALCOMM DRAGONWING -->
+        <div style="padding: 24px; border-right: 1px solid var(--rule);">
+          <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 14px;">
+            <div style="width: 8px; height: 8px; background: var(--signal-blue); border-radius: 50%;"></div>
+            <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--signal-blue);">Dragonwing · Ride</div>
+          </div>
+          <div style="font-family: 'Fraunces', serif; font-weight: 700; font-size: 15px; color: var(--ink); margin-bottom: 10px;">Qualcomm Ecosystem</div>
+          <div style="font-family: 'Inter Tight', sans-serif; font-size: 13px; line-height: 1.7; color: #c8c4bb;">
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Figure AI</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Humanoid · OpenAI-backed</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">KUKA Robotics</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Industrial arms</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Booster</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Humanoid</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Advantech · APLUX</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Edge compute OEMs</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">BMW</strong> <span style="color: var(--ink-mute); font-size: 11px;">· iX3 Ride Pilot L2+</span></div>
+            <div style="padding: 4px 0;"><strong style="color: var(--ink);">Robotec.ai · VinMotion</strong></div>
+          </div>
+          <div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--rule); font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.1em; color: var(--amber);">◆ EMERGING · Figure is the headline</div>
+        </div>
+
+        <!-- IN-HOUSE SILICON -->
+        <div style="padding: 24px;">
+          <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 14px;">
+            <div style="width: 8px; height: 8px; background: var(--signal-red); border-radius: 50%;"></div>
+            <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--signal-red);">In-House Silicon</div>
+          </div>
+          <div style="font-family: 'Fraunces', serif; font-weight: 700; font-size: 15px; color: var(--ink); margin-bottom: 10px;">Vertically Integrated Stacks</div>
+          <div style="font-family: 'Inter Tight', sans-serif; font-size: 13px; line-height: 1.7; color: #c8c4bb;">
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Tesla</strong> <span style="color: var(--ink-mute); font-size: 11px;">· AI5 · FSD + Optimus</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Waymo</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Custom silicon · 6th gen</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Mobileye</strong> <span style="color: var(--ink-mute); font-size: 11px;">· EyeQ family · OEM ADAS</span></div>
+            <div style="padding: 4px 0; border-bottom: 1px dotted var(--rule-light);"><strong style="color: var(--ink);">Hailo</strong> <span style="color: var(--ink-mute); font-size: 11px;">· Merchant edge ASIC</span></div>
+            <div style="padding: 4px 0;"><span style="color: var(--ink-dim); font-size: 11px;">Rationale: volume, latency, IP control</span></div>
+          </div>
+          <div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--rule); font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.1em; color: var(--signal-red);">◆ CONTRARIAN · Scale-dependent bet</div>
+        </div>
+      </div>
+
+      <div style="margin-top: 20px; padding: 20px 24px; background: rgba(245, 184, 65, 0.05); border-left: 3px solid var(--amber); font-family: 'Fraunces', serif; font-style: italic; font-weight: 300; font-size: 15px; color: #d8d4cb; line-height: 1.55;">
+        <strong style="font-style: normal; font-weight: 700; color: var(--amber); font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.2em; display: block; margin-bottom: 8px;">▸ THE PATTERN</strong>
+        Nvidia owns the reference design for humanoids and L4 trucking — Boston Dynamics, Agility, Aurora and Waabi all ship on Jetson or DRIVE. Qualcomm's early design wins (Figure, KUKA, Booster) cluster around Series-A/B startups optimizing for power and BOM cost; Figure is the headline, KUKA is the volume. The vertically-integrated camp — Tesla, Waymo, Mobileye — pays the CapEx to own their silicon because their deployment volumes (or ADAS royalty streams) justify it. Most new entrants will pick from the Nvidia or Qualcomm stack; building your own is a business-model decision, not a technology one.
+      </div>
+    </div>
+
+    <div style="margin-top: 28px; padding-top: 24px; border-top: 1px solid var(--rule); display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+      <div>
+        <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-mute); letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 6px;">▸ Key Insight · Stack Bifurcates</div>
+        <div style="font-family: 'Fraunces', serif; font-weight: 700; font-size: 18px; letter-spacing: -0.01em; line-height: 1.2; color: var(--ink);">"Android of robotics" vs vertical integration</div>
+        <div style="font-size: 13px; color: var(--ink-mute); margin-top: 8px; line-height: 1.5;">Nvidia is betting Jetson + Isaac + GR00T becomes the open standard. Tesla is betting custom silicon + in-house everything wins on volume. Both can be right.</div>
+      </div>
+      <div>
+        <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-mute); letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 6px;">▸ The Qualcomm Angle</div>
+        <div style="font-family: 'Fraunces', serif; font-weight: 700; font-size: 18px; letter-spacing: -0.01em; line-height: 1.2; color: var(--ink);">Arduino acquisition + Dragonwing</div>
+        <div style="font-size: 13px; color: var(--ink-mute); margin-top: 8px; line-height: 1.5;">Qualcomm's edge: power efficiency heritage from mobile. Partnerships with Figure, KUKA, Advantech suggest genuine Jetson alternative — but no Isaac-equivalent yet.</div>
+      </div>
+      <div>
+        <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-mute); letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 6px;">▸ What Matters Most</div>
+        <div style="font-family: 'Fraunces', serif; font-weight: 700; font-size: 18px; letter-spacing: -0.01em; line-height: 1.2; color: var(--ink);">The foundation model, not the flop</div>
+        <div style="font-size: 13px; color: var(--ink-mute); margin-top: 8px; line-height: 1.5;">GR00T N1.6, Cosmos Reason 2, Isaac Lab-Arena — robotics is software-defined. Pick silicon with the software stack, not the spec sheet.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CAPEX + MARKET SHARE -->
+  <div class="section-head">
+    <div>
+      <span class="num">§ 04 · The Money</span>
+      <h2>Who's Buying, How Much</h2>
+    </div>
+    <div class="caption">Capex is the leading indicator for every chip roadmap. In 2026, the top five will commit ~$600B.</div>
+  </div>
+
+  <section class="two-col">
+    <div class="panel">
+      <div class="kicker">▸ Hyperscaler Capex · 2026 Guide</div>
+      <h3>$602B, three-quarters of it AI</h3>
+      <div class="subtitle">Projected 2026 capital expenditures by company, with YoY growth. Source: company guidance, Dell'Oro, Introl.</div>
+
+      <div class="capex-chart">
+        <div class="capex-row">
+          <div class="co">Amazon <small>AWS Heavy</small></div>
+          <div class="bar-wrap"><div class="bar-fill" style="width: 100%; animation-delay: 0.05s;"></div></div>
+          <div class="val">$200B<small>▲ 53%</small></div>
+        </div>
+        <div class="capex-row">
+          <div class="co">Google <small>GCP + Search</small></div>
+          <div class="bar-wrap"><div class="bar-fill blue" style="width: 90%; animation-delay: 0.15s;"></div></div>
+          <div class="val">$180B<small>▲ 37%</small></div>
+        </div>
+        <div class="capex-row">
+          <div class="co">Microsoft <small>Azure Core</small></div>
+          <div class="bar-wrap"><div class="bar-fill teal" style="width: 80%; animation-delay: 0.25s;"></div></div>
+          <div class="val">~$160B<small>▲ ~50%</small></div>
+        </div>
+        <div class="capex-row">
+          <div class="co">Meta <small>AI Infra</small></div>
+          <div class="bar-wrap"><div class="bar-fill purple" style="width: 62%; animation-delay: 0.35s;"></div></div>
+          <div class="val">$115–135B<small>▲ ~80%</small></div>
+        </div>
+        <div class="capex-row">
+          <div class="co">Oracle <small>OCI</small></div>
+          <div class="bar-wrap"><div class="bar-fill red" style="width: 35%; animation-delay: 0.45s;"></div></div>
+          <div class="val">~$70B<small>▲ Accelerating</small></div>
+        </div>
+      </div>
+
+      <div style="margin-top: 28px; padding-top: 24px; border-top: 1px solid var(--rule); display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+        <div>
+          <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-mute); letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 6px;">AI Share of Capex</div>
+          <div style="font-family: 'Fraunces', serif; font-weight: 800; font-size: 28px; color: var(--amber);">~75%</div>
+          <div style="font-size: 11px; color: var(--ink-mute); font-family: 'JetBrains Mono', monospace;">$450B of the $602B</div>
+        </div>
+        <div>
+          <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-mute); letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 6px;">Capex / Revenue</div>
+          <div style="font-family: 'Fraunces', serif; font-weight: 800; font-size: 28px; color: var(--electric);">45–57%</div>
+          <div style="font-size: 11px; color: var(--ink-mute); font-family: 'JetBrains Mono', monospace;">Utility-like intensity</div>
+        </div>
+        <div>
+          <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-mute); letter-spacing: 0.18em; text-transform: uppercase; margin-bottom: 6px;">2025 Debt Raised</div>
+          <div style="font-family: 'Fraunces', serif; font-weight: 800; font-size: 28px; color: var(--signal-red);">$108B</div>
+          <div style="font-size: 11px; color: var(--ink-mute); font-family: 'JetBrains Mono', monospace;">$1.5T projected</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="kicker">▸ Accelerator Market · 2026E</div>
+      <h3>Nvidia keeps training — custom ASICs take inference</h3>
+      <div class="subtitle">Share of AI accelerator spend by type. Custom silicon CAGR to 2033: ~44.6% vs merchant GPU ~16.1%.</div>
+
+      <div class="donut-wrap">
+        <svg viewBox="0 0 180 180" width="180" height="180" style="flex-shrink: 0;">
+          <circle cx="90" cy="90" r="70" fill="none" stroke="#1a1e23" stroke-width="24"/>
+          <circle cx="90" cy="90" r="70" fill="none" stroke="#f5b841" stroke-width="24" stroke-dasharray="316.7 439.8" stroke-dashoffset="0" transform="rotate(-90 90 90)"/>
+          <circle cx="90" cy="90" r="70" fill="none" stroke="#60a5fa" stroke-width="24" stroke-dasharray="43.98 439.8" stroke-dashoffset="-316.7" transform="rotate(-90 90 90)"/>
+          <circle cx="90" cy="90" r="70" fill="none" stroke="#5eead4" stroke-width="24" stroke-dasharray="30.78 439.8" stroke-dashoffset="-360.68" transform="rotate(-90 90 90)"/>
+          <circle cx="90" cy="90" r="70" fill="none" stroke="#a78bfa" stroke-width="24" stroke-dasharray="17.59 439.8" stroke-dashoffset="-391.46" transform="rotate(-90 90 90)"/>
+          <circle cx="90" cy="90" r="70" fill="none" stroke="#ef4444" stroke-width="24" stroke-dasharray="21.99 439.8" stroke-dashoffset="-409.05" transform="rotate(-90 90 90)"/>
+          <circle cx="90" cy="90" r="70" fill="none" stroke="#575650" stroke-width="24" stroke-dasharray="8.8 439.8" stroke-dashoffset="-431.04" transform="rotate(-90 90 90)"/>
+
+          <text x="90" y="86" text-anchor="middle" fill="#e8e4dc" font-family="Fraunces" font-size="22" font-weight="800">$604B</text>
+          <text x="90" y="104" text-anchor="middle" fill="#8a8880" font-family="JetBrains Mono" font-size="9" letter-spacing="2">BY 2033 · BI EST.</text>
+        </svg>
+
+        <div class="donut-legend">
+          <div class="lg-row">
+            <div class="lg-dot" style="background: #f5b841;"></div>
+            <div class="lg-label">Nvidia GPUs <small>Merchant silicon</small></div>
+            <div class="lg-val">~72%</div>
+          </div>
+          <div class="lg-row">
+            <div class="lg-dot" style="background: #60a5fa;"></div>
+            <div class="lg-label">Google TPU <small>Ironwood v7</small></div>
+            <div class="lg-val">~10%</div>
+          </div>
+          <div class="lg-row">
+            <div class="lg-dot" style="background: #5eead4;"></div>
+            <div class="lg-label">AWS Trainium <small>Gen 2 + 3</small></div>
+            <div class="lg-val">~7%</div>
+          </div>
+          <div class="lg-row">
+            <div class="lg-dot" style="background: #ef4444;"></div>
+            <div class="lg-label">AMD Instinct <small>MI325X / MI450</small></div>
+            <div class="lg-val">~5%</div>
+          </div>
+          <div class="lg-row">
+            <div class="lg-dot" style="background: #a78bfa;"></div>
+            <div class="lg-label">MSFT Maia <small>+ Meta MTIA</small></div>
+            <div class="lg-val">~4%</div>
+          </div>
+          <div class="lg-row">
+            <div class="lg-dot" style="background: #575650;"></div>
+            <div class="lg-label">Other <small>Cerebras, Groq, SN</small></div>
+            <div class="lg-val">~2%</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- NEWS FEED -->
+  <div class="section-head">
+    <div>
+      <span class="num">§ 05 · Feed</span>
+      <h2>The Wire</h2>
+    </div>
+    <div class="caption">Live from our tracked sources — rebuilt on every run of <code style="font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--amber); background: rgba(245,184,65,0.08); padding: 2px 6px; border-radius: 2px;">fetch_feeds.py</code>.</div>
+  </div>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding: 12px 20px; background: var(--bg-panel-2); border: 1px solid var(--rule); border-radius: 2px; font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-mute);">
+    <span><span style="color: var(--signal-green);">●</span> Live Feed</span>
+    <span id="feed-meta">Generated: <span id="feed-generated">—</span> · Items: <span id="feed-count">—</span></span>
+  </div>
+
+  <section class="feed-grid" id="feed-grid">
+    <!-- Cards are rendered by JS from #news-data below. This div is the fallback if JS is off. -->
+    <noscript>
+      <article class="news-card">
+        <h4>JavaScript required for live feed.</h4>
+        <p>The news feed is rendered from embedded JSON at page load. Enable JavaScript to see the latest items from our tracked sources.</p>
+      </article>
+    </noscript>
+  </section>
+
+  <!-- ========= EMBEDDED NEWS DATA ========= -->
+  <!-- This block is rewritten on every build by fetch_feeds.py --inject -->
+  <script id="news-data" type="application/json">
+{
+  "generated_at": "2026-04-23T20:56:42.392996+00:00",
+  "item_count": 9,
+  "items": [
+    {
+      "category": "gpu",
+      "title": "YouTuber has DIMM idea, builds working DRAM in backyard",
+      "summary": "What are you doing to solve the memory crisis? If you follow PC hardware prices, you’ll know AI demand has pushed memory prices higher as manufacturers prioritize memory for datacenters. To deal with that, you can pay through the nose, buy less memory, or…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/youtuber_builds_working_dram/",
+      "age": "3h ago",
+      "date_iso": "2026-04-23T17:43:14+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Electrical panel company SPAN launches XFRA \"distributed data center\" offering",
+      "summary": "Aims to use underutilized electrical capacity in homes and commercial spaces",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/electrical-panel-company-span-launches-xfra-distributed-data-center-offering/",
+      "age": "3h ago",
+      "date_iso": "2026-04-23T17:00:26+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Applied Digital secures 300MW lease with hyperscaler at Louisiana data center campus",
+      "summary": "Secures unnamed investment-grade customer at Delta Forge 1 site",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/applied-digital-secures-300mw-lease-with-hyperscaler-at-louisiana-data-center-campus/",
+      "age": "4h ago",
+      "date_iso": "2026-04-23T16:30:28+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Planning commission in Franklin County, Missouri, recommends approval of one data center, denies another",
+      "summary": "But both projects still need approval from County Commission",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/planning-commission-in-franklin-county-missouri-recommends-approval-of-one-data-center-denies-another/",
+      "age": "4h ago",
+      "date_iso": "2026-04-23T16:00:25+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "EPRI launches data center flexibility framework to speed up grid connections",
+      "summary": "Undertaken through its DCFlex initiative",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/epri-launches-data-center-flexibility-framework-to-speed-up-grid-connections/",
+      "age": "5h ago",
+      "date_iso": "2026-04-23T15:50:23+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Datadog digs down into GPU efficiency as AI costs soar",
+      "summary": "Down to you to work out the value Datadog has added GPU monitoring to its observability stack, giving AI-hungry organizations more insight into exactly what's happening on their most expensive silicon.…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/datadog_digs_down_into_gpu/",
+      "age": "5h ago",
+      "date_iso": "2026-04-23T15:33:40+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Stop measuring AI training costs in GPU hours",
+      "summary": "Why idle time, checkpointing, and cluster failures are quietly inflating your training budget Partner Content The cost of training today’s large-scale foundation models is often reduced to a single number: the price of a GPU hour. It's a convenient metric.…",
+      "source": "The Register · AI/ML",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/stop_measuring_ai_training/",
+      "age": "5h ago",
+      "date_iso": "2026-04-23T15:00:12+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AI now gobbling up power and management chips for servers",
+      "summary": "Bad news for multiple general server components as vendors switch to more lucrative gear The chip shortage is spreading to power and management controller silicon, threatening server shipments as vendors prioritize capacity for higher-margin AI server…",
+      "source": "The Register · AI/ML",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/ai_now_gobbling_up_power/",
+      "age": "7h ago",
+      "date_iso": "2026-04-23T12:59:13+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "'Nature has the solution': Researchers fuse DNA and silicon to build Holy Grail of memory storage",
+      "summary": "'Nature has the solution': Researchers fuse DNA and silicon to build Holy Grail of memory storage TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWQ5SFg0bS1kN1JNWnVVblN3LWh5SEJoQXVuOS1MRGtrMGpZblY1SzJkY1VoMVN1OE9wSDhLOXpGVXpZQkktT2xxNlJJaUZpZ0I3RXI3RFNrd3QyN0lKT1FWZzNzWmlyeE5SckEwNjdkOFhOcGFjMFg1SExTcEh3YVRwb2QwMEpfYWxkV2xnMC1vU2ZsbXVOckxnNDBGRGRjNEVleDhINkh3aHM0VFdJTGh2Wkx0NkpQaEMyRHMyOS1jdw?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-04-22T16:05:00+00:00"
+    }
+  ]
+}
+    </script>
+
+  <!-- ========= RENDERER ========= -->
+  <script>
+    (function renderFeed() {
+      const payload = JSON.parse(document.getElementById('news-data').textContent);
+      const grid = document.getElementById('feed-grid');
+      const genEl = document.getElementById('feed-generated');
+      const countEl = document.getElementById('feed-count');
+
+      // Format the generated_at into something human-friendly.
+      if (payload.generated_at) {
+        try {
+          const d = new Date(payload.generated_at);
+          genEl.textContent = d.toLocaleString(undefined, {
+            month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+          });
+        } catch (_) {
+          genEl.textContent = payload.generated_at;
+        }
+      }
+      countEl.textContent = payload.item_count || 0;
+
+      if (!payload.items || payload.items.length === 0) {
+        grid.innerHTML = `
+          <article class="news-card" style="grid-column: 1 / -1; text-align: center;">
+            <div class="stamp"><span class="cat">Empty</span><span class="date">—</span></div>
+            <h4>No items yet.</h4>
+            <p>Run <code>python3 fetch_feeds.py --inject silicon-signal.html</code> to populate the feed from tracked RSS sources.</p>
+          </article>`;
+        return;
+      }
+
+      // Whitelist of category slugs that have dedicated styling in the CSS.
+      const validCats = new Set(['gpu', 'infra', 'cpu', 'policy', 'edge']);
+      const catLabels = {
+        gpu: 'GPU · Silicon', infra: 'Infra · Cloud', cpu: 'CPU',
+        policy: 'Policy', edge: 'Edge · Physical AI'
+      };
+
+      const esc = s => String(s || '').replace(/[&<>"']/g,
+        c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+      grid.innerHTML = payload.items.map(item => {
+        const cat = validCats.has(item.category) ? item.category : 'gpu';
+        const catClass = cat === 'gpu' ? '' : cat;   // GPU is the default (no modifier class)
+        const catLabel = catLabels[cat] || 'GPU';
+        const href = item.link && item.link.startsWith('http') ? item.link : '#';
+
+        return `
+          <article class="news-card" onclick="window.open('${esc(href)}','_blank','noopener')">
+            <div class="stamp">
+              <span class="cat ${catClass}">${esc(catLabel)}</span>
+              <span class="date">${esc(item.age || '—')}</span>
+            </div>
+            <h4>${esc(item.title)}</h4>
+            <p>${esc(item.summary)}</p>
+            <div class="foot">
+              <span class="src">${esc(item.source)}</span>
+              <span>▸ Read</span>
+            </div>
+          </article>`;
+      }).join('');
+    })();
+  </script>
+
+  <!-- PM TAKE -->
+  <div class="section-head">
+    <div>
+      <span class="num">§ 06 · Strategy</span>
+      <h2>The PM's Read</h2>
+    </div>
+    <div class="caption">Three decisions your product and strategy teams should be pressure-testing this week.</div>
+  </div>
+
+  <section class="pm-take">
+    <div class="byline">▸ Desk analysis · For internal planning</div>
+    <h3>The cloud-silicon map has already <em>repriced</em>. Here's what matters for our roadmap.</h3>
+    <p class="lede">If we're planning anything beyond a 6-month horizon that touches AI compute, cloud pricing, or memory availability, these three pivots frame the conversation.</p>
+
+    <ol>
+      <li>
+        <h5>Design for multi-silicon from day one</h5>
+        <p>Nvidia still owns training, but inference is splintering fast — Maia 200, Trainium3, TPU v7 all claim parity or better on perf/dollar within their home clouds. Assume our workloads will run on at least two accelerator families in 18 months. Abstract the runtime now; the CUDA lock-in story weakens every quarter as vLLM, ROCm, and custom compilers mature.</p>
+      </li>
+      <li>
+        <h5>Memory, not compute, is the binding constraint</h5>
+        <p>DRAM up 125%, NAND up 234% in 2026 per Gartner. Any product decision that assumes stable memory pricing through 2027 is wrong. Renegotiate long-term cloud commits before Q3; avoid locking in pricing terms past 2027 without inflation adjustments. Memflation is PM-relevant — it'll show up in our COGS before it shows up in our infra bill.</p>
+      </li>
+      <li>
+        <h5>Neoclouds — both threat and option</h5>
+        <p>Meta's $27B Nebius deal is the permission structure. Even hyperscalers are capacity-constrained enough to rent. CoreWeave, Nebius, IREN, Lambda give us leverage in any pricing negotiation with the Big 3, and optionality on Rubin allocation. Brief CFO on neocloud economics; it's the cheapest hedge against hyperscaler lock-in we have right now.</p>
+      </li>
+    </ol>
+  </section>
+
+  <!-- WATCHLIST -->
+  <div class="section-head">
+    <div>
+      <span class="num">§ 07 · Calendar</span>
+      <h2>On the Radar</h2>
+    </div>
+    <div class="caption">The four near-term events with the biggest potential to move our planning assumptions.</div>
+  </div>
+
+  <section class="watchlist">
+    <div class="watchlist-grid">
+      <div class="watch-item">
+        <div class="when">◦ May 5</div>
+        <h5>AMD Q1 '26 earnings</h5>
+        <p>MI450 pipeline commentary, data-center AI share, ROCm adoption metrics. Key question: is the French gov deal a one-off or the start of a pattern?</p>
+      </div>
+      <div class="watch-item">
+        <div class="when">◦ Q2 '26</div>
+        <h5>Nvidia Rubin VR200 first shipments</h5>
+        <p>Azure and GCP allocation confirmation. Rubin NVL72 rack economics. Whether the 7× inference cost claim holds on real workloads.</p>
+      </div>
+      <div class="watch-item">
+        <div class="when">◦ Mid-2026</div>
+        <h5>Trainium3 capacity fully committed</h5>
+        <p>AWS guided nearly all supply committed by mid-year. When it tips over, pricing power shifts materially in AWS's favor. Watch for Trainium4 guidance.</p>
+      </div>
+      <div class="watch-item">
+        <div class="when">◦ Jul 1</div>
+        <h5>Section 232 tariff review</h5>
+        <p>US Commerce required to update POTUS on chip tariffs affecting data-center builds. Changes here ripple into every capex model downstream.</p>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- FOOTER -->
+<footer>
+  <div class="colophon">
+    <span class="marque">Silicon Signal.</span>
+    A product strategist's daily digest of cloud, CPU, GPU, and physical-AI silicon news — filtered for what actually affects product decisions at a semiconductor startup. Assembled from 36 tracked sources across tier-1 trade press, vendor IR, and independent analysts. Views are our own; figures are estimates where noted.
+  </div>
+  <div>
+    <h6>◦ Sources Tracked</h6>
+    <ul>
+      <li>SemiAnalysis · ChipsAndCheese</li>
+      <li>The Register · Tom's Hardware</li>
+      <li>ServeTheHome · HotHardware</li>
+      <li>TechRadar · CRN · DCD</li>
+      <li>Nvidia · AMD · Intel · Tesla IR</li>
+      <li>AWS · Azure · GCP blogs</li>
+      <li>SIA · WSTS · Gartner · Dell'Oro</li>
+      <li>Federal Register · BIS</li>
+    </ul>
+  </div>
+  <div>
+    <h6>◦ Coverage Scope</h6>
+    <ul>
+      <li>Merchant GPU (Nvidia, AMD)</li>
+      <li>Hyperscaler ASICs</li>
+      <li>Inference specialists (Cerebras, Groq)</li>
+      <li>Cloud CPUs (ARM, x86)</li>
+      <li>Physical AI &amp; robotics silicon</li>
+      <li>Data center infra &amp; capex</li>
+      <li>Export controls &amp; tariffs</li>
+    </ul>
+  </div>
+</footer>
+
+</body>
+</html>

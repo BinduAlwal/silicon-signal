@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-04-23T20:56:42.392996+00:00",
+  "item_count": 9,
+  "items": [
+    {
+      "category": "gpu",
+      "title": "YouTuber has DIMM idea, builds working DRAM in backyard",
+      "summary": "What are you doing to solve the memory crisis? If you follow PC hardware prices, you’ll know AI demand has pushed memory prices higher as manufacturers prioritize memory for datacenters. To deal with that, you can pay through the nose, buy less memory, or…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/youtuber_builds_working_dram/",
+      "age": "3h ago",
+      "date_iso": "2026-04-23T17:43:14+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Electrical panel company SPAN launches XFRA \"distributed data center\" offering",
+      "summary": "Aims to use underutilized electrical capacity in homes and commercial spaces",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/electrical-panel-company-span-launches-xfra-distributed-data-center-offering/",
+      "age": "3h ago",
+      "date_iso": "2026-04-23T17:00:26+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Applied Digital secures 300MW lease with hyperscaler at Louisiana data center campus",
+      "summary": "Secures unnamed investment-grade customer at Delta Forge 1 site",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/applied-digital-secures-300mw-lease-with-hyperscaler-at-louisiana-data-center-campus/",
+      "age": "4h ago",
+      "date_iso": "2026-04-23T16:30:28+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Planning commission in Franklin County, Missouri, recommends approval of one data center, denies another",
+      "summary": "But both projects still need approval from County Commission",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/planning-commission-in-franklin-county-missouri-recommends-approval-of-one-data-center-denies-another/",
+      "age": "4h ago",
+      "date_iso": "2026-04-23T16:00:25+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "EPRI launches data center flexibility framework to speed up grid connections",
+      "summary": "Undertaken through its DCFlex initiative",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/epri-launches-data-center-flexibility-framework-to-speed-up-grid-connections/",
+      "age": "5h ago",
+      "date_iso": "2026-04-23T15:50:23+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Datadog digs down into GPU efficiency as AI costs soar",
+      "summary": "Down to you to work out the value Datadog has added GPU monitoring to its observability stack, giving AI-hungry organizations more insight into exactly what's happening on their most expensive silicon.…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/datadog_digs_down_into_gpu/",
+      "age": "5h ago",
+      "date_iso": "2026-04-23T15:33:40+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Stop measuring AI training costs in GPU hours",
+      "summary": "Why idle time, checkpointing, and cluster failures are quietly inflating your training budget Partner Content The cost of training today’s large-scale foundation models is often reduced to a single number: the price of a GPU hour. It's a convenient metric.…",
+      "source": "The Register · AI/ML",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/stop_measuring_ai_training/",
+      "age": "5h ago",
+      "date_iso": "2026-04-23T15:00:12+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AI now gobbling up power and management chips for servers",
+      "summary": "Bad news for multiple general server components as vendors switch to more lucrative gear The chip shortage is spreading to power and management controller silicon, threatening server shipments as vendors prioritize capacity for higher-margin AI server…",
+      "source": "The Register · AI/ML",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/ai_now_gobbling_up_power/",
+      "age": "7h ago",
+      "date_iso": "2026-04-23T12:59:13+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "'Nature has the solution': Researchers fuse DNA and silicon to build Holy Grail of memory storage",
+      "summary": "'Nature has the solution': Researchers fuse DNA and silicon to build Holy Grail of memory storage TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWQ5SFg0bS1kN1JNWnVVblN3LWh5SEJoQXVuOS1MRGtrMGpZblY1SzJkY1VoMVN1OE9wSDhLOXpGVXpZQkktT2xxNlJJaUZpZ0I3RXI3RFNrd3QyN0lKT1FWZzNzWmlyeE5SckEwNjdkOFhOcGFjMFg1SExTcEh3YVRwb2QwMEpfYWxkV2xnMC1vU2ZsbXVOckxnNDBGRGRjNEVleDhINkh3aHM0VFdJTGh2Wkx0NkpQaEMyRHMyOS1jdw?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-04-22T16:05:00+00:00"
+    }
+  ]
+}
