@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T00:14:11.479691+00:00",
+  "generated_at": "2026-04-24T02:56:35.995411+00:00",
   "item_count": 9,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "What are you doing to solve the memory crisis? If you follow PC hardware prices, you’ll know AI demand has pushed memory prices higher as manufacturers prioritize memory for datacenters. To deal with that, you can pay through the nose, buy less memory, or…",
       "source": "The Register",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/youtuber_builds_working_dram/",
-      "age": "6h ago",
+      "age": "9h ago",
       "date_iso": "2026-04-23T17:43:14+00:00"
     },
     {
@@ -17,7 +17,7 @@
       "summary": "Aims to use underutilized electrical capacity in homes and commercial spaces",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/electrical-panel-company-span-launches-xfra-distributed-data-center-offering/",
-      "age": "7h ago",
+      "age": "9h ago",
       "date_iso": "2026-04-23T17:00:26+00:00"
     },
     {
@@ -26,7 +26,7 @@
       "summary": "Secures unnamed investment-grade customer at Delta Forge 1 site",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/applied-digital-secures-300mw-lease-with-hyperscaler-at-louisiana-data-center-campus/",
-      "age": "7h ago",
+      "age": "10h ago",
       "date_iso": "2026-04-23T16:30:28+00:00"
     },
     {
@@ -35,7 +35,7 @@
       "summary": "But both projects still need approval from County Commission",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/planning-commission-in-franklin-county-missouri-recommends-approval-of-one-data-center-denies-another/",
-      "age": "8h ago",
+      "age": "10h ago",
       "date_iso": "2026-04-23T16:00:25+00:00"
     },
     {
@@ -44,7 +44,7 @@
       "summary": "Undertaken through its DCFlex initiative",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/epri-launches-data-center-flexibility-framework-to-speed-up-grid-connections/",
-      "age": "8h ago",
+      "age": "11h ago",
       "date_iso": "2026-04-23T15:50:23+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "summary": "Down to you to work out the value Datadog has added GPU monitoring to its observability stack, giving AI-hungry organizations more insight into exactly what's happening on their most expensive silicon.…",
       "source": "The Register · AI/ML",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/datadog_digs_down_into_gpu/",
-      "age": "8h ago",
+      "age": "11h ago",
       "date_iso": "2026-04-23T15:33:40+00:00"
     },
     {
@@ -62,7 +62,7 @@
       "summary": "Why idle time, checkpointing, and cluster failures are quietly inflating your training budget Partner Content The cost of training today’s large-scale foundation models is often reduced to a single number: the price of a GPU hour. It's a convenient metric.…",
       "source": "The Register · AI/ML",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/stop_measuring_ai_training/",
-      "age": "9h ago",
+      "age": "11h ago",
       "date_iso": "2026-04-23T15:00:12+00:00"
     },
     {
@@ -71,7 +71,7 @@
       "summary": "AI agent designs a complete RISC-V CPU from a 219-word spec sheet in just 12 hours — comparably simple design required 'many tens of billions of tokens' Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUldzc2huMkUtUUVYcjlET3BkcGVETWw1QzJ4UWRNQTltaXpydGhqbVNPNGNPRjdWRkRoZHFHTE9TMjIzaVMxMjMtZkV6RjRpRHI0VDdOTGE2YVlzdkdPS2tkdjRIaWFsQlFYeWpvcm1lMVRlRzd0R2xfRzFJdGY2b1dDcURfNUFKYkFTQ0xleTFPdjE4UDB3LWN5dFNSUXRzV1ZwTVpDM01sZUxXeTBtWUphZURSZUZZZmZQTlRRaHF1YUladmFveDhsMUx6b1ZwZ2JNZzVnME0tX1U?oc=5",
-      "age": "14h ago",
+      "age": "16h ago",
       "date_iso": "2026-04-23T10:00:00+00:00"
     },
     {
