@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-04-24T08:56:29.605462+00:00",
+  "generated_at": "2026-04-25T08:01:15.682015+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "infra",
-      "title": "Sponsored: How does the data center industry move closer to net zero? Charting a practical path towards responsible data center growth",
-      "summary": "Net zero in the age of AI: How sustainable innovation is powering progress",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/how-does-the-data-center-industry-move-closer-to-net-zero-charting-a-practical-path-towards-responsible-data-center-growth/",
-      "age": "1h ago",
-      "date_iso": "2026-04-24T07:00:00+00:00"
+      "category": "gpu",
+      "title": "DeepSeek's new models are so efficient they'll run on a toaster ... by which we mean Huawei's NPUs",
+      "summary": "Now available in preview, DeepSeek V4 cuts inference costs to a fraction of R1 Chinese AI darling DeepSeek is back with a new open weights large language model that promises performance to rival the best proprietary American LLMs. Perhaps more importantly,…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/deepseek_v4/",
+      "age": "10h ago",
+      "date_iso": "2026-04-24T21:25:01+00:00"
     },
     {
       "category": "gpu",
-      "title": "Dell Pro Max GB10 Review: NVIDIA’s Mini AI Supercomputer Tested",
-      "summary": "Dell Pro Max GB10 Review: NVIDIA’s Mini AI Supercomputer Tested HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqbVpfVldpOEhOanlQZzEtWVlVMXpXbEliVS02MFRfdmJtSTRmNF8wQnhaOEJDLWd4WmxmSDhxSUtpc0trZnI1dXFpdmdMRk1SRkFvZTNrQ1c0dkxiVUtqRGgxbDc3LVdLWlZwT213?oc=5",
-      "age": "14h ago",
-      "date_iso": "2026-04-23T18:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Intel Says Software Optimization, Not Silicon, Behind Up to 30% Gaming Performance Gap",
-      "summary": "Intel Says Software Optimization, Not Silicon, Behind Up to 30% Gaming Performance Gap HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORWhwMG4xd2NtbjRZNDRZeFhXX0k3b05YNWxvMWgxWjhmUTBMbVp5SXZ3OFFGNW1CUlpxbEgyWmhIT25oYVN0aUFuX0F2alMxTVdHalJ4LWxwb19vSEEzS3J1anhXSkQxUG9UZEloS2dfdTl4RVlsdzk1NTJTSlE5NXNQSmpEUQ?oc=5",
+      "title": "Pentagon wants to water down drone program with autonomous subs",
+      "summary": "What, you didn't expect autonomous military craft to stay in the sky forever? Drones: they're not just for the sky anymore. DARPA is seeking compact deep-ocean autonomous craft developed faster, smaller, and cheaper than today's full-ocean-depth AUV systems.…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/pentagons_deep_sea_drones/",
       "age": "15h ago",
-      "date_iso": "2026-04-23T17:30:00+00:00"
+      "date_iso": "2026-04-24T16:34:13+00:00"
     },
     {
       "category": "infra",
-      "title": "Electrical panel company SPAN launches XFRA \"distributed data center\" offering",
-      "summary": "Aims to use underutilized electrical capacity in homes and commercial spaces",
+      "title": "$4bn data center rejected by Nobles County, Minnesota",
+      "summary": "County officials prevent data centers from being added as a use category",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/electrical-panel-company-span-launches-xfra-distributed-data-center-offering/",
+      "link": "https://www.datacenterdynamics.com/en/news/4bn-data-center-rejected-by-nobles-county-minnesota/",
       "age": "15h ago",
-      "date_iso": "2026-04-23T17:00:26+00:00"
+      "date_iso": "2026-04-24T16:30:28+00:00"
     },
     {
-      "category": "infra",
-      "title": "Applied Digital secures 300MW lease with hyperscaler at Louisiana data center campus",
-      "summary": "Secures unnamed investment-grade customer at Delta Forge 1 site",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/applied-digital-secures-300mw-lease-with-hyperscaler-at-louisiana-data-center-campus/",
-      "age": "16h ago",
-      "date_iso": "2026-04-23T16:30:28+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Planning commission in Franklin County, Missouri, recommends approval of one data center, denies another",
-      "summary": "But both projects still need approval from County Commission",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/planning-commission-in-franklin-county-missouri-recommends-approval-of-one-data-center-denies-another/",
-      "age": "16h ago",
-      "date_iso": "2026-04-23T16:00:25+00:00"
+      "category": "policy",
+      "title": "US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit",
+      "summary": "Silicon often from US, but the kit from APAC and elsewhere America's telco regulator has clarified its ban on foreign-made routers also includes mobile hotspots and domestic routers that use a 5G cellular connection to the internet.…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/fcc_does_a_doubletake_adds/",
+      "age": "15h ago",
+      "date_iso": "2026-04-24T16:03:14+00:00"
     },
     {
       "category": "gpu",
-      "title": "Datadog digs down into GPU efficiency as AI costs soar",
-      "summary": "Down to you to work out the value Datadog has added GPU monitoring to its observability stack, giving AI-hungry organizations more insight into exactly what's happening on their most expensive silicon.…",
-      "source": "The Register · AI/ML",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/datadog_digs_down_into_gpu/",
-      "age": "17h ago",
-      "date_iso": "2026-04-23T15:33:40+00:00"
+      "title": "'It was awesome to see it work': OpenAI deploys GPT-5.5 Codex across Nvidia Blackwell systems – 50x efficiency boost and 35x cost reduction makes AI ‘viable at enterprise scale’",
+      "summary": "'It was awesome to see it work': OpenAI deploys GPT-5.5 Codex across Nvidia Blackwell systems – 50x efficiency boost and 35x cost reduction makes AI ‘viable at enterprise scale’ TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQS2VnUWtqekdNUXAzLWJWRHdEZDNRcTFfblJNcThraWRkemZQOVRYYmpkSVcxSlNHNXJKVF8xYW00ZVVFNzlmZFQydGtTNGc5ZVUwZG5OX1hfbkdrM21rYlBVWjc4dGJ6NGp4aGotbjYwWHJncDJGa1BPU2pzYnRvaDF3UzVoaDEtalIyZHlvZHFjNHU4TTJVWUJUZXlOMVlWT2dwelQ2Qzd0V3hmTFJrTWQ0YTdRb2dZVkUzMWc1bnhBQjU1ZlRqYUZIalFFTGhlZ1E2UWF3bXBKNE1IS19iMFRKS3FIZmtkbXpjZldDeTdrQndyYl81X19YeldzSXFjNndDRDRFZ0FRSWNaY0xDX01uUTdqNkZrVTRhdThvQ1BBc1Z5QjNR?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-04-24T15:35:47+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Stop measuring AI training costs in GPU hours",
-      "summary": "Why idle time, checkpointing, and cluster failures are quietly inflating your training budget Partner Content The cost of training today’s large-scale foundation models is often reduced to a single number: the price of a GPU hour. It's a convenient metric.…",
-      "source": "The Register · AI/ML",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/stop_measuring_ai_training/",
-      "age": "17h ago",
-      "date_iso": "2026-04-23T15:00:12+00:00"
+      "category": "infra",
+      "title": "QumulusAI secures $45m in convertible notes for AI cloud expansion",
+      "summary": "Will be used to buy GPUs and expand data center infrastructure",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/qumulusai-secures-45m-in-convertible-notes-for-ai-cloud-expansion/",
+      "age": "16h ago",
+      "date_iso": "2026-04-24T15:30:27+00:00"
     },
     {
-      "category": "cpu",
-      "title": "AI agent designs a complete RISC-V CPU from a 219-word spec sheet in just 12 hours — comparably simple design required 'many tens of billions of tokens'",
-      "summary": "AI agent designs a complete RISC-V CPU from a 219-word spec sheet in just 12 hours — comparably simple design required 'many tens of billions of tokens' Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUldzc2huMkUtUUVYcjlET3BkcGVETWw1QzJ4UWRNQTltaXpydGhqbVNPNGNPRjdWRkRoZHFHTE9TMjIzaVMxMjMtZkV6RjRpRHI0VDdOTGE2YVlzdkdPS2tkdjRIaWFsQlFYeWpvcm1lMVRlRzd0R2xfRzFJdGY2b1dDcURfNUFKYkFTQ0xleTFPdjE4UDB3LWN5dFNSUXRzV1ZwTVpDM01sZUxXeTBtWUphZURSZUZZZmZQTlRRaHF1YUladmFveDhsMUx6b1ZwZ2JNZzVnME0tX1U?oc=5",
-      "age": "22h ago",
-      "date_iso": "2026-04-23T10:00:00+00:00"
+      "category": "infra",
+      "title": "Wärtsilä inks two natural gas supply deals with data center operators in Ohio and Texas",
+      "summary": "For more than 1GW of combined capacity",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/w%C3%A4rtsil%C3%A4-inks-two-natural-gas-supply-deals-with-data-center-operators-in-ohio-and-texas/",
+      "age": "16h ago",
+      "date_iso": "2026-04-24T15:29:51+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Schneider Electric Innovation Summit",
+      "summary": "Redefining the data center for AI.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/magazines/schneider-electric-innovation-summit/",
+      "age": "16h ago",
+      "date_iso": "2026-04-24T15:27:24+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Lebanon's gov't plans to transform warehouse into National Data Center",
+      "summary": "The AUB presented last week the results of a national data center benchmarking exercise",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/lebanons-govt-plans-to-transform-warehouse-into-national-data-center/",
+      "age": "16h ago",
+      "date_iso": "2026-04-24T15:14:16+00:00"
     }
   ]
 }
