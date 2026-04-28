@@ -1,51 +1,78 @@
 {
-  "generated_at": "2026-04-27T09:13:55.907386+00:00",
+  "generated_at": "2026-04-28T09:14:40.511758+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "gpu",
+      "title": "The Navy's autonomous carrier-based refueling drone has finally flown",
+      "summary": "After missing its 2025 target, Boeing's MQ-25A Stingray is one step closer to a carrier deck The US Navy’s current carrier-based refueling aircraft may soon be getting help, as Boeing has completed the first flight of its autonomous tanker drone designed…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/navys_autonomous_carrierlaunched_refueling_drones/",
+      "age": "12h ago",
+      "date_iso": "2026-04-27T20:26:40+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "The crypto-to-AI bandwagon jumpers' club just landed another member: Core Scientific",
+      "summary": "They were doing it in Texas... Core Scientific is trading coins for tokens, revealing plans on Monday to convert a 300-megawatt bitcoin mining operation in Pecos, Texas, to an 1.5 gigawatt AI datacenter campus.…",
+      "source": "The Register · AI/ML",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/core_scientific_ai/",
+      "age": "14h ago",
+      "date_iso": "2026-04-27T18:58:06+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "DCD Intelligence: Financing the Data Center Buildout",
+      "summary": "How investment decisions are evolving in the modern data center sector",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/dcd-intelligence-financing-the-data-center-buildout/",
+      "age": "16h ago",
+      "date_iso": "2026-04-27T17:06:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "DCD>Studio: Building the AI Edge across Europe, with Anwar Saliba, nLighten",
+      "summary": "Seb Moss speaks with Anwar Saliba of nLighten on scaling European edge platforms, decentralizing infrastructure, and how AI inference, sustainability, and data sovereignty are reshaping data center design.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcdstudio-building-the-ai-edge-across-europe-with-anwar-saliba-nlighten/",
+      "age": "16h ago",
+      "date_iso": "2026-04-27T16:48:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Strategic framework proposed for data center applications in the state of Lower Austria",
+      "summary": "Draft legislation intended to harness surging demand for data centers while preventing runaway power consumption by sector, says ruling party",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/strategic-framework-proposed-for-data-center-applications-in-the-state-of-lower-austria/",
+      "age": "16h ago",
+      "date_iso": "2026-04-27T16:40:30+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Transforming global hyperscale data center efficiency with Octave Attune EAM",
+      "summary": "Unify operations, boost uptime, and scale sustainable data center performance.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/transforming-global-hyperscale-data-center-efficiency-with-octave-attune-eam/",
+      "age": "17h ago",
+      "date_iso": "2026-04-27T16:11:31+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses — Kevin O'Leary's 9 Gigawatt Utah data center campus approved",
+      "summary": "New AI data center in Utah will generate and consume more than twice the amount of power the entire state uses — Kevin O'Leary's 9 Gigawatt Utah data center campus approved Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXQzUmRzTXZFMno1aF9FMVVFNldTMGNYX3g1WmljeENfY1ctTHQxUFRuWWl2M3NNN0ZyUXZBZV91aUdYc1IwaUJWaWFWcmJPWVNlUDZ0Zm1vM0swbTcwSUlteGdac05iZE5iUms0T3V6ZUlqd3oyeGx4OGVGelY3Q0lONTlJOUdyd2x6U1dKWFItR3FvMkswQnRyWQ?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-04-27T14:58:17+00:00"
+    },
     {
       "category": "cpu",
       "title": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs — customers more willing to accept lesser chips due to overwhelming CPU demand",
       "summary": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs — customers more willing to accept lesser chips due to overwhelming CPU demand Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNRVhPVkx3X3Rjc3NSSEZYQnJsYlUtdHA4blowTDh5R0duX1hTVEIyY1QxaW5SYWFPb3NILXR5LUp2elk5ejJhNmRzMHBoNXFJRzRGdktmZDRIWmNJVlNWc0ZXMzJENmxNMDhNZW83dHcxZ2NXSGtEemN4Zmtuc1ViSlFIZTE4aFZ6SXNvYkpsWWV3Zkc1Z1pZYnJrZU5oSkFJMXUxZ0Fmd3o3LW9VT0E1QVluV1I4WUZnV0x5SDc1R2Etb0MtVllSQmZBSFl1ZzJNbkpyRktkUU10X3BVT3dXNmJJSnA5NC03QThxMWQ0NFAwSzE1aWkzbUpPa2JkYXlyUTM3R09yZHRPVXJQM2lTa1dTbnRmbVBFZ1ZMU0VKcEEzQ2xlOEEtQ1VxMnNqeUcycDYyM2JXUDVhYUxLajQycXMwUi1Ebkp2UFo5ZA?oc=5",
-      "age": "21h ago",
+      "age": "1d ago",
       "date_iso": "2026-04-26T11:45:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Maine governor vetoes bill that bans large new data centers — says legislature should’ve exempted one particular well-supported data center",
-      "summary": "Maine governor vetoes bill that bans large new data centers — says legislature should’ve exempted one particular well-supported data center Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWVlZM2NIMzRfSHdZRklVTF9mQU9RTzB6TEJHci1sSGx1ZEJwaGc4QmxEU3BSM1NaVmQ5U1ZfbEEwZTh0d3JtT1lZRi1aVnM0VUlMZ1hDWW1jVjB2T2tVeTE0Sjl3ZUMyX09FUkZ2RUZJOHRVcEFIdWtBR3g0VmdNUFEwWXFFWEtELU14eFFraUdWdVRtRi10c1I0ZmkyMFpoUHBTalR0Zkhmb1JvSnhBbGFicFlyZnRrZEVKLWMtLXJ4aEotLTJBUTd4ZUZ2NkJCZUQ0YmsycVVKT3VhbzlwWnJtTnk5RlZGcG5SV2V5YWZ2MzYzS3ZNV1ItVExieE4xb0R6b2s2eVd2dnM5ZlJz?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-04-25T13:40:16+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Ex-AWS legend explains what enterprises need to make AI actually work",
-      "summary": "AI transformation is about people and organization, not technology Enterprise AI projects go off the rails when companies focus on the technology instead of the people.…",
-      "source": "The Register",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/25/ai_enterprise_matt_domo/",
-      "age": "1d ago",
-      "date_iso": "2026-04-25T13:07:06+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Sponsored: Data center dilemma: How hyperscalers can meet AI-driven timelines without limiting renewable energy options",
-      "summary": "By treating the control and data architecture as a core component of the build, rather than an afterthought, operators can move quickly today without sacrificing flexibility tomorrow",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/data-center-dilemma-how-hyperscalers-can-meet-ai-driven-timelines-without-limiting-renewable-energy-options/",
-      "age": "2d ago",
-      "date_iso": "2026-04-25T07:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "DeepSeek's new models are so efficient they'll run on a toaster ... by which we mean Huawei's NPUs",
-      "summary": "Now available in preview, DeepSeek V4 cuts inference costs to a fraction of R1 Chinese AI darling DeepSeek is back with a new open weights large language model that promises performance to rival the best proprietary American LLMs. Perhaps more importantly,…",
-      "source": "The Register · AI/ML",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/deepseek_v4/",
-      "age": "2d ago",
-      "date_iso": "2026-04-24T21:25:01+00:00"
     },
     {
       "category": "gpu",
@@ -53,35 +80,8 @@
       "summary": "Intel Boosted Revenue By Selling Pricier CPUs, Raising Prices As Volumes Fell crn.com",
       "source": "CRN",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcTFCRDFCZ0VCUVNFUm5sOTNQWm1LRlY4LVp3M0QxS0d0UFVOS051aGpua2hUUVBKZ2RNTkhkNEtvWGNnNVRxNG8tSmVsNTFnVVNFVDVnY2pOOXFPSUwxb0x1bTBIT1otcmVTdS1uUG5rUk4zNV81bExmQ1lqOXljeXctTi1YNHFoVkJHeTVPUnlvTERaZVIxeEc2eTZLUVJWOWNQSFcyMEdNZTFFaHFUa2l0dWduNmxkc184dWFNbEFnMjg0ZjRrbg?oc=5",
-      "age": "2d ago",
+      "age": "3d ago",
       "date_iso": "2026-04-24T20:26:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "$4bn data center rejected by Nobles County, Minnesota",
-      "summary": "County officials prevent data centers from being added as a use category",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/4bn-data-center-rejected-by-nobles-county-minnesota/",
-      "age": "2d ago",
-      "date_iso": "2026-04-24T16:30:28+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "'It was awesome to see it work': OpenAI deploys GPT-5.5 Codex across Nvidia Blackwell systems – 50x efficiency boost and 35x cost reduction makes AI ‘viable at enterprise scale’",
-      "summary": "'It was awesome to see it work': OpenAI deploys GPT-5.5 Codex across Nvidia Blackwell systems – 50x efficiency boost and 35x cost reduction makes AI ‘viable at enterprise scale’ TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQS2VnUWtqekdNUXAzLWJWRHdEZDNRcTFfblJNcThraWRkemZQOVRYYmpkSVcxSlNHNXJKVF8xYW00ZVVFNzlmZFQydGtTNGc5ZVUwZG5OX1hfbkdrM21rYlBVWjc4dGJ6NGp4aGotbjYwWHJncDJGa1BPU2pzYnRvaDF3UzVoaDEtalIyZHlvZHFjNHU4TTJVWUJUZXlOMVlWT2dwelQ2Qzd0V3hmTFJrTWQ0YTdRb2dZVkUzMWc1bnhBQjU1ZlRqYUZIalFFTGhlZ1E2UWF3bXBKNE1IS19iMFRKS3FIZmtkbXpjZldDeTdrQndyYl81X19YeldzSXFjNndDRDRFZ0FRSWNaY0xDX01uUTdqNkZrVTRhdThvQ1BBc1Z5QjNR?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-04-24T15:35:47+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "QumulusAI secures $45m in convertible notes for AI cloud expansion",
-      "summary": "Will be used to buy GPUs and expand data center infrastructure",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/qumulusai-secures-45m-in-convertible-notes-for-ai-cloud-expansion/",
-      "age": "2d ago",
-      "date_iso": "2026-04-24T15:30:27+00:00"
     }
   ]
 }
