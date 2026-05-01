@@ -1,33 +1,78 @@
 {
-  "generated_at": "2026-04-30T09:08:07.847738+00:00",
+  "generated_at": "2026-05-01T08:54:11.370245+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Sponsored: Liquid cooling for AI data centers: 3 risks and how a trusted partner ensures success",
-      "summary": "Adding liquid cooling to your existing data center can be complicated, but when done successfully, it effectively meets the power and GPU-intensive demands of high-density data centers",
+      "title": "Who is going to foot the data center power bill?",
+      "summary": "The data center utility debate, and how AWS is handling the balancing act",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/liquid-cooling-for-ai-data-centers-3-risks-and-how-a-trusted-partner-ensures-success/",
-      "age": "2h ago",
-      "date_iso": "2026-04-30T07:00:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/analysis/who-is-going-to-foot-the-data-center-power-bill/",
+      "age": "1h ago",
+      "date_iso": "2026-05-01T07:20:46+00:00"
     },
     {
       "category": "infra",
-      "title": "Microsoft levels up Azure Local to make it fit for large-scale sovereign clouds",
-      "summary": "Can now use SANs for storage, and adds a local control plane and key management Microsoft has given its Azure Local on-prem cloud a major makeover to make it fit for duty powering large-scale sovereign infrastructure.…",
+      "title": "User found the perfect formula to make Excel misbehave",
+      "summary": "For once, Oracle ERP wasn’t the problem On Call Fridays can be a drag, but The Register has a formula to inject a little fun by delivering a new instalment of On Call – the reader-contributed column in which we share your tech support stories.…",
       "source": "The Register",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/azure_local_upgrade/",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/on_call/",
+      "age": "1h ago",
+      "date_iso": "2026-05-01T07:00:11+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Qualcomm teases ‘dedicated CPU for agentic experiences’ and ‘agentic smartphones’",
+      "summary": "Enters the custom AI silicon business with secret silicon for an un-named hyperscaler Qualcomm has quietly entered the market for custom hyperscale silicon, and datacenter CPUs…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/qualcomm_q2_fy_26/",
       "age": "2h ago",
-      "date_iso": "2026-04-30T06:59:19+00:00"
+      "date_iso": "2026-05-01T06:43:19+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "China’s National Supercomputing Center announces plans for two exaflops CPU-powered machine",
+      "summary": "The LineShine system will comprise entirely of Chinese-made hardware",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/chinas-national-supercomputing-center-announces-plans-for-two-exaflops-cpu-powered-machine/",
+      "age": "16h ago",
+      "date_iso": "2026-04-30T16:50:30+00:00"
     },
     {
       "category": "infra",
-      "title": "Amazon chips no longer just a side dish, they're a $20B biz",
-      "summary": "The Trainium train keeps a-rollin' Amazon is now among the top three datacenter chip businesses in the world, as its semiconductor business surpassed a $20 billion annual run rate ... and it would be closer to $50 billion if it included itself among the…",
-      "source": "The Register",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/29/amazon_chips_20b_business/",
-      "age": "9h ago",
-      "date_iso": "2026-04-29T23:47:45+00:00"
+      "title": "Data center in Columbus, Ohio, sold to occupier",
+      "summary": "Five 9s sells facility, likely to Expedient",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/data-center-in-columbus-ohio-sold-to-occupier/",
+      "age": "16h ago",
+      "date_iso": "2026-04-30T16:20:28+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "ValorC3 secures credit facility to fund 10MW data center in Boise, Idaho",
+      "summary": "Planned facility leased to Fortune 50 tech company",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/valorc3-secures-credit-facility-to-fund-10mw-data-center-in-boise-idaho/",
+      "age": "17h ago",
+      "date_iso": "2026-04-30T15:33:25+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Samsung and SK hynix warn AI-driven memory shortages could last until 2027 and beyond, as HBM demand explodes — customers already reserving supply years ahead, while the wider DRAM market begins to tighten",
+      "summary": "Samsung and SK hynix warn AI-driven memory shortages could last until 2027 and beyond, as HBM demand explodes — customers already reserving supply years ahead, while the wider DRAM market begins to tighten Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQb190b3ktbkR1OHRjdFFsUUNUQjNXNUViR2p4dGpaYjVWU2ZhLU1ETENtRUxpc1l1TWlFSExWeW50VnFHNWE4UFVzS2ZYSzRYTWxCTXN0LUp4eTB3amVwWXlvLTFIcV80SzBWeVlvNzVqU0ZRWGRNTXc3QzA1NnZEN0JGZTcxOWt0QzZIRTZRemdxc01vb2RfQ1lhZlVBUV81NzZwMjFMYTJXcmlQTkdvWVRlXzNUUTdVc1R5UDZUNVZaYnAyYzdQQ0ZzbFhGSFdtY01hb2xheGg4V1owdWFpMGJmaEI5VFduWE9yYUd5Rk5mVGlKS2dHMEJGdG01dk1CLVpuRms1WXM1VDRfSWkwQVFMNThvVHpoZkI0NE1KMDhlMHUzdlJkZzdkaHBCaVRsR3hCVDJkV0dQSEtaZVRmZktUSVdUMTNreXJXSTJyTklpa1FGbUJvN2h3ejhnd1VFUmRzOTdLN3lrellIT2xtQ0lBYUlBVjZONENkeWs4R0tYUQ?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-04-30T14:46:57+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Exploding number of AI data center build-outs delay Texas housing projects — data centers' high demand for electricians prices out contractors, homes now take two months longer to complete",
+      "summary": "Exploding number of AI data center build-outs delay Texas housing projects — data centers' high demand for electricians prices out contractors, homes now take two months longer to complete Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaloyQXNoeHh4VjhXdm14TVRyazJfN0QtYzFLSU5qREFiWnRTZjhJRkl2d0VPRGJrdF9URXJ1LTI5UkcwdEdISTFhMU9WVE8tZ3hIRHpUQ1hma2JjNGhDVFg0VW1LOHI2YllQTWcyWXZ2Wjl4MkdMMjVCU25SdVNWQUlvSzBaZXN3bTVTSzl3WGsxejNtQXkzY0NHNEUyNzdKeVpfRWNsWVlHVXBJMnBpX2xVbC1SM1ZOcXBfNS1XZXVQMnk0aVE4V2t1NnRlYTg2VzFKUkNlblVTMkxnanNHMk5kV1E2ZEI5ck8yLUlQOFFBRjU3LUFzOWRrWEJUYmZXQmNZQnliRk5VbjBNSDBBQUYxUlk5a0tycDZOMDA5ZmJ3ZjE5OEFLTFVGeFU1eXhXMWNxMTZ1aFJhMVJvTlpKa0ozWUdYenZ2U0N3c3c4ejN6Nm8ySnh6NUtNcWFIQQ?oc=5",
+      "age": "22h ago",
+      "date_iso": "2026-04-30T10:00:00+00:00"
     },
     {
       "category": "gpu",
@@ -35,53 +80,8 @@
       "summary": "Microsoft Previews Shader Model 6.10 with New DirectX GPU Features HotHardware",
       "source": "HotHardware",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVVfdFdHSHNWd3JBNThPOUFrZmRhRDNXTXIxYndGejItN0s0LWpORVhLVWVWVzN3OHZKMHFjamlMX2ZOWllaZEw2TWVEajR1cmh5ZHZ4N1ZIa1pLUUVTYmYwSjRWdXA4UlIxRVNyazQtR3ZBSDZBQnlnbHNtZkFvOEVLenVKTlpuUnZGZWt3?oc=5",
-      "age": "14h ago",
+      "age": "1d ago",
       "date_iso": "2026-04-29T18:33:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Insight Exec: Clients Are ‘Accelerating’ Data Center Exits Amid Chip Shortages, VMware Changes And Google’s Enterprise AI Push",
-      "summary": "Insight Exec: Clients Are ‘Accelerating’ Data Center Exits Amid Chip Shortages, VMware Changes And Google’s Enterprise AI Push crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMEs3NnhmZkRpa2lCREJhRjE1Q3dnQXQxNkZYUjJtZHNvbHRzeHV4alJ1Zm0zOEJMeW9nOFdCazVNclJLRFlsRWVnMjFmUk1MUElfMUVYWERndXhzN0ZlQXJnLThheXZmRlkxbWRTOFNUanZJUHJkcFNXZkN5clNzbFIyYksxcmcxN25LeXBLZGZDajVKMTdyVDJ1NVdaVnBGQVdJdTZPT3pJMmNkUFc5SGZQaHl5MThvVXhYRE4wS3pYUEdfMEo2LWJzX1lqMjBaM3A5aUllblozUTlOcTdaT2xkX1RaLWxZTjRWa2RTVQ?oc=5",
-      "age": "15h ago",
-      "date_iso": "2026-04-29T17:25:00+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Meta's multi-billion-dollar Graviton deal highlights intensifying CPU shortages in AI infrastructure — the industry signals a shift to Agentic inference workloads, pushing demand",
-      "summary": "Meta's multi-billion-dollar Graviton deal highlights intensifying CPU shortages in AI infrastructure — the industry signals a shift to Agentic inference workloads, pushing demand Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUjJ3dFFlMkJzY2ZYSlc3Ujl4cFNGdEt3RmdpNm50VjZfUkxXQ2g2MlU5SjluOXVEalJiM3FYZ1c3b0ZHTHV5R2VxVGNWVlhDQ1JYLUhIWEJjTFVBMFhOMjB6dU0xZ1FjQllMV0R2QUpsN2FwR05ZYURlLS1GNm1leUxuUXEyaUIwZFdGZzNJRUlGRDhQR09BWWkySGNTb25tVExocUE2UjdDNnpwSTEzQnhpejZMZlBPbDNtUExzUDZ1RE1reHlqWGdrU09scS1xcEdveUIwb1pVdnM4Q3h1blZ4dXBWdw?oc=5",
-      "age": "16h ago",
-      "date_iso": "2026-04-29T16:54:24+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Decision on QTS' planned expansion of data center in East Windsor, New Jersey, postponed",
-      "summary": "Will now go to a third meeting",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/decision-on-qts-planned-expansion-of-data-center-in-east-windsor-new-jersey-postponed/",
-      "age": "16h ago",
-      "date_iso": "2026-04-29T16:40:23+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "DCD>Studio: Developing hyperscale facilities in Europe, with Fabien Vieu, Sepia Infrastructure",
-      "summary": "Seb Moss speaks with Fabien Vieu of Sepia Infrastructure on developing European hyperscale campuses, land strategy, long-term asset management, and building community trust through responsible data center development.",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcdstudio-developing-hyperscale-facilities-in-europe-with-fabien-vieu-sepia-infrastructure/",
-      "age": "16h ago",
-      "date_iso": "2026-04-29T16:38:28+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "BlockchAIn outlines $9.9bn plan for 715MW data center portfolio",
-      "summary": "Company aims high with planned pipeline",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/blockchain-outlines-99bn-plan-for-715mw-data-center-portfolio/",
-      "age": "16h ago",
-      "date_iso": "2026-04-29T16:30:32+00:00"
     }
   ]
 }
