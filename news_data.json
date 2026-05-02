@@ -1,78 +1,42 @@
 {
-  "generated_at": "2026-05-01T08:54:11.370245+00:00",
+  "generated_at": "2026-05-02T08:18:35.749510+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Who is going to foot the data center power bill?",
-      "summary": "The data center utility debate, and how AWS is handling the balancing act",
+      "title": "Sponsored: Silicon diversification: How a growing choice of chips is reshaping data center infrastructure",
+      "summary": "Why data center operators should evaluate power and cooling infrastructure in the context of an expanding range of chips designed to support AI workloads",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/analysis/who-is-going-to-foot-the-data-center-power-bill/",
+      "link": "https://www.datacenterdynamics.com/en/opinions/silicon-diversification-how-a-growing-choice-of-chips-is-reshaping-data-center-infrastructure/",
       "age": "1h ago",
-      "date_iso": "2026-05-01T07:20:46+00:00"
+      "date_iso": "2026-05-02T07:00:00+00:00"
     },
     {
       "category": "infra",
-      "title": "User found the perfect formula to make Excel misbehave",
-      "summary": "For once, Oracle ERP wasn’t the problem On Call Fridays can be a drag, but The Register has a formula to inject a little fun by delivering a new instalment of On Call – the reader-contributed column in which we share your tech support stories.…",
-      "source": "The Register",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/on_call/",
-      "age": "1h ago",
-      "date_iso": "2026-05-01T07:00:11+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Qualcomm teases ‘dedicated CPU for agentic experiences’ and ‘agentic smartphones’",
-      "summary": "Enters the custom AI silicon business with secret silicon for an un-named hyperscaler Qualcomm has quietly entered the market for custom hyperscale silicon, and datacenter CPUs…",
-      "source": "The Register",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/qualcomm_q2_fy_26/",
-      "age": "2h ago",
-      "date_iso": "2026-05-01T06:43:19+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "China’s National Supercomputing Center announces plans for two exaflops CPU-powered machine",
-      "summary": "The LineShine system will comprise entirely of Chinese-made hardware",
+      "title": "OCP members tout DC power in the data center to meet growing AI power demands",
+      "summary": "Low voltage direct current project targets more efficient servers",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/chinas-national-supercomputing-center-announces-plans-for-two-exaflops-cpu-powered-machine/",
+      "link": "https://www.datacenterdynamics.com/en/news/ocp-members-tout-dc-power-in-the-data-center-to-meet-growing-ai-power-demands/",
+      "age": "15h ago",
+      "date_iso": "2026-05-01T16:56:17+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AMD signs additional 25MW data center lease with Riot in Texas",
+      "summary": "Chip designer expands on initial lease signed with cryptominer in January",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/amd-signs-additional-25mw-data-center-lease-with-riot-in-texas/",
+      "age": "15h ago",
+      "date_iso": "2026-05-01T16:42:51+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Gulf firms Taranis and EEC partner to develop 50MW data centers in Saudi Arabia",
+      "summary": "The fund is targeting $2bn of investment to develop and operate data center infrastructure",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/gulf-firms-taranis-and-eec-partner-to-develop-50mw-data-centers-in-saudi-arabia/",
       "age": "16h ago",
-      "date_iso": "2026-04-30T16:50:30+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Data center in Columbus, Ohio, sold to occupier",
-      "summary": "Five 9s sells facility, likely to Expedient",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/data-center-in-columbus-ohio-sold-to-occupier/",
-      "age": "16h ago",
-      "date_iso": "2026-04-30T16:20:28+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "ValorC3 secures credit facility to fund 10MW data center in Boise, Idaho",
-      "summary": "Planned facility leased to Fortune 50 tech company",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/valorc3-secures-credit-facility-to-fund-10mw-data-center-in-boise-idaho/",
-      "age": "17h ago",
-      "date_iso": "2026-04-30T15:33:25+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Samsung and SK hynix warn AI-driven memory shortages could last until 2027 and beyond, as HBM demand explodes — customers already reserving supply years ahead, while the wider DRAM market begins to tighten",
-      "summary": "Samsung and SK hynix warn AI-driven memory shortages could last until 2027 and beyond, as HBM demand explodes — customers already reserving supply years ahead, while the wider DRAM market begins to tighten Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQb190b3ktbkR1OHRjdFFsUUNUQjNXNUViR2p4dGpaYjVWU2ZhLU1ETENtRUxpc1l1TWlFSExWeW50VnFHNWE4UFVzS2ZYSzRYTWxCTXN0LUp4eTB3amVwWXlvLTFIcV80SzBWeVlvNzVqU0ZRWGRNTXc3QzA1NnZEN0JGZTcxOWt0QzZIRTZRemdxc01vb2RfQ1lhZlVBUV81NzZwMjFMYTJXcmlQTkdvWVRlXzNUUTdVc1R5UDZUNVZaYnAyYzdQQ0ZzbFhGSFdtY01hb2xheGg4V1owdWFpMGJmaEI5VFduWE9yYUd5Rk5mVGlKS2dHMEJGdG01dk1CLVpuRms1WXM1VDRfSWkwQVFMNThvVHpoZkI0NE1KMDhlMHUzdlJkZzdkaHBCaVRsR3hCVDJkV0dQSEtaZVRmZktUSVdUMTNreXJXSTJyTklpa1FGbUJvN2h3ejhnd1VFUmRzOTdLN3lrellIT2xtQ0lBYUlBVjZONENkeWs4R0tYUQ?oc=5",
-      "age": "18h ago",
-      "date_iso": "2026-04-30T14:46:57+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Exploding number of AI data center build-outs delay Texas housing projects — data centers' high demand for electricians prices out contractors, homes now take two months longer to complete",
-      "summary": "Exploding number of AI data center build-outs delay Texas housing projects — data centers' high demand for electricians prices out contractors, homes now take two months longer to complete Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaloyQXNoeHh4VjhXdm14TVRyazJfN0QtYzFLSU5qREFiWnRTZjhJRkl2d0VPRGJrdF9URXJ1LTI5UkcwdEdISTFhMU9WVE8tZ3hIRHpUQ1hma2JjNGhDVFg0VW1LOHI2YllQTWcyWXZ2Wjl4MkdMMjVCU25SdVNWQUlvSzBaZXN3bTVTSzl3WGsxejNtQXkzY0NHNEUyNzdKeVpfRWNsWVlHVXBJMnBpX2xVbC1SM1ZOcXBfNS1XZXVQMnk0aVE4V2t1NnRlYTg2VzFKUkNlblVTMkxnanNHMk5kV1E2ZEI5ck8yLUlQOFFBRjU3LUFzOWRrWEJUYmZXQmNZQnliRk5VbjBNSDBBQUYxUlk5a0tycDZOMDA5ZmJ3ZjE5OEFLTFVGeFU1eXhXMWNxMTZ1aFJhMVJvTlpKa0ozWUdYenZ2U0N3c3c4ejN6Nm8ySnh6NUtNcWFIQQ?oc=5",
-      "age": "22h ago",
-      "date_iso": "2026-04-30T10:00:00+00:00"
+      "date_iso": "2026-05-01T15:38:10+00:00"
     },
     {
       "category": "gpu",
@@ -80,8 +44,44 @@
       "summary": "Microsoft Previews Shader Model 6.10 with New DirectX GPU Features HotHardware",
       "source": "HotHardware",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVVfdFdHSHNWd3JBNThPOUFrZmRhRDNXTXIxYndGejItN0s0LWpORVhLVWVWVzN3OHZKMHFjamlMX2ZOWllaZEw2TWVEajR1cmh5ZHZ4N1ZIa1pLUUVTYmYwSjRWdXA4UlIxRVNyazQtR3ZBSDZBQnlnbHNtZkFvOEVLenVKTlpuUnZGZWt3?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-04-29T18:33:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Insight Exec: Clients Are ‘Accelerating’ Data Center Exits Amid Chip Shortages, VMware Changes And Google’s Enterprise AI Push",
+      "summary": "Insight Exec: Clients Are ‘Accelerating’ Data Center Exits Amid Chip Shortages, VMware Changes And Google’s Enterprise AI Push crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMEs3NnhmZkRpa2lCREJhRjE1Q3dnQXQxNkZYUjJtZHNvbHRzeHV4alJ1Zm0zOEJMeW9nOFdCazVNclJLRFlsRWVnMjFmUk1MUElfMUVYWERndXhzN0ZlQXJnLThheXZmRlkxbWRTOFNUanZJUHJkcFNXZkN5clNzbFIyYksxcmcxN25LeXBLZGZDajVKMTdyVDJ1NVdaVnBGQVdJdTZPT3pJMmNkUFc5SGZQaHl5MThvVXhYRE4wS3pYUEdfMEo2LWJzX1lqMjBaM3A5aUllblozUTlOcTdaT2xkX1RaLWxZTjRWa2RTVQ?oc=5",
+      "age": "2d ago",
+      "date_iso": "2026-04-29T17:25:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia exec says AI is more expensive than actual workers — yet some companies don't see the extra costs as a negative",
+      "summary": "Nvidia exec says AI is more expensive than actual workers — yet some companies don't see the extra costs as a negative Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQW5XdFFvZ3VCM0hZUWxlV19LWVFHZkdyQy1mTWhrYnE1VnlNMkpuQzZSX1F4UllZYVEzMFZFNXhlWDB5SlBvTkREaUc5cDlsbm1ZVU9zcGhiQ19qcjZ2b3lmbmxvRHFFOVVEbjRVRk4tRzFmOGpmTWpnVnA2VGJHLUlKN05hdVBBSDJfTUxJVDN5U2ZqRkhRd083SlVfbXB5VzNZaTVBSDRmalFBNmtOUHh4NlVMSmp2cERGTjA1NTJ6a0lUMGkydlVpckRjS3UtbUN3SExTcENCcmVrRzYyeU8tNk01RkpxRi1VbGhYWG9aSVhYdkVMM1pRRWNrY0ZkSEc1OUFuNVZPRVNVXzBr?oc=5",
+      "age": "2d ago",
+      "date_iso": "2026-04-29T11:20:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Exclusive: Nvidia Networking Rival Cornelis Gives Channel Supply Reprieve For AI Buildout",
+      "summary": "Exclusive: Nvidia Networking Rival Cornelis Gives Channel Supply Reprieve For AI Buildout crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHJRVHdRU0FQbUVOdWNYb2ZfbF9DTmp2dEdQR2JBS2hwaUVXdG1abXIzWGZKTFRxNjZyRGVKQWw1TTJqdlBFTXJ1TEFwME5HQ2xld25IdUNOa0s4c2JacHFFZjZteW9iUWk3dzM1Y2ZoNTAwYm92WU94a01DNl9fSFVBRHVrRFNQWnhkTGVHNGxTaF93dkVXVWhhTUM0Q3FON2xfMzEtUmFKVUp0eUQzLU1LMEtNMU0wUWNMemJlb2JRRnVncjRRWQ?oc=5",
+      "age": "3d ago",
+      "date_iso": "2026-04-28T16:46:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "BIG AI Cluster Little Power the 8x NVIDIA GB10 Cluster",
+      "summary": "BIG AI Cluster Little Power the 8x NVIDIA GB10 Cluster ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORW9TUmJKRUZCcXFTMi1RZXRUOUdOU29fWmpZd0hKQlhsX1VySE1DM1gxX3ktUERHZUVnZllISlozVjJBd0tXd19vS0tFTE4taHlPdHFDdU9KQ2FNaUdqdjF4LVVBOThaTTdpZlYwMTZFNEJqbG9fQ2RTMU44MFc4VHBRNU5NNjZZeGhqX002bVYwX0h0MjI1VFBwelJBNGpyUjF4NUhEQjB5dzM0Yll0eEFzaw?oc=5",
+      "age": "4d ago",
+      "date_iso": "2026-04-27T21:02:15+00:00"
     }
   ]
 }
