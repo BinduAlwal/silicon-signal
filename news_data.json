@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-05-02T08:18:35.749510+00:00",
+  "generated_at": "2026-05-03T08:30:06.436881+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "gpu",
+      "title": "Apple warns Mac mini and Mac Studio shortages could last for months — local AI boom and memory crunch drive demand beyond Apple’s manufacturing capacity",
+      "summary": "Apple warns Mac mini and Mac Studio shortages could last for months — local AI boom and memory crunch drive demand beyond Apple’s manufacturing capacity Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZWpPdjNHUmxqSnIzQk40Q1Rhd0lGeVQ3UXdCNUxJUFRlbUJtdkNfYzI5cDlxV0pRUFd4TWt6VGtrV1o3VW9McmlzQ2l6YnFrV0IzLTE0RGprMDI1c3ZBek1oMi1lZGRQakdLaEFlTWRiaXZlSWdFNGxDX3pBa2x2akd4SEVUVXZfbGhYN0s1czVfd1gwVnozRDVJS0p4LWVodThsRHYwRkgtaEdPeGtQSWtWVlZxLUU4YmQwTzBGZThXN0c4cGhBd1lqeHRTZTlIU292M0I2SDRoOERkTTJNQ283dW9KdWNwQjFWMDZwSU9xbzBwWkIzSklSNERoVmpoYWNYa1cwSDlEd0lOTWRrTTNPeHZqUQ?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-05-02T10:40:00+00:00"
+    },
     {
       "category": "infra",
       "title": "Sponsored: Silicon diversification: How a growing choice of chips is reshaping data center infrastructure",
       "summary": "Why data center operators should evaluate power and cooling infrastructure in the context of an expanding range of chips designed to support AI workloads",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/opinions/silicon-diversification-how-a-growing-choice-of-chips-is-reshaping-data-center-infrastructure/",
-      "age": "1h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-02T07:00:00+00:00"
     },
     {
@@ -17,7 +26,7 @@
       "summary": "Low voltage direct current project targets more efficient servers",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/ocp-members-tout-dc-power-in-the-data-center-to-meet-growing-ai-power-demands/",
-      "age": "15h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-01T16:56:17+00:00"
     },
     {
@@ -26,7 +35,7 @@
       "summary": "Chip designer expands on initial lease signed with cryptominer in January",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/amd-signs-additional-25mw-data-center-lease-with-riot-in-texas/",
-      "age": "15h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-01T16:42:51+00:00"
     },
     {
@@ -35,8 +44,26 @@
       "summary": "The fund is targeting $2bn of investment to develop and operate data center infrastructure",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/gulf-firms-taranis-and-eec-partner-to-develop-50mw-data-centers-in-saudi-arabia/",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-01T15:38:10+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia continues to stress importance of human workers - but for how long?",
+      "summary": "Nvidia continues to stress importance of human workers - but for how long? TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYkVKd0VPSDFiUHNTeTh2TzVZbzRQcXN6ZUNaS19EeFp6Z0JWR05wSWFPeU92ZEhxOFNVUDVHSFZTd1BKSFpLMDVQaXBEZG04b0JVTGtUZHpfZC1XbU91eE5iamZnODVhOUZScUQ1T01EN0RxVTY1VDFKSG5lbmUyY2Rhck1NbWFzYzZpRDBZQWctMzZiX3lCaEVHOWZWMGlDMGYxWWNLbmp3SFJTSGFmVmpRVlVXWlBXdmtGa045RkZZbTc5RFozaEJYblBpUDRycnllWlFOSXEtb2FMQm1NN2RFTUFnaVZ6Y05LV0JNS3lDcy14QXdZekVsakhrZktKdXZaSlVzTFE?oc=5",
+      "age": "2d ago",
+      "date_iso": "2026-04-30T11:05:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AWS Says AI Is Driving New Wave Of Cloud Spending—And Growth Is Accelerating",
+      "summary": "AWS Says AI Is Driving New Wave Of Cloud Spending—And Growth Is Accelerating crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzhvOW0wem40Zi0wZktoM1F5SGl2Sk1FVjVQS2tHVzFQZEJaNkNYbHk1NjZOOEE0c2JaZUdQMDlJMVM3Z0psYmFWVmJlcDJPR2o1RHZDeUlaWGtRcTB5V1pRRXpob0Vsc0UtMGg3S3VWdV9DaXYzM1dCNjVNRnRPakxwMG9hSDZtcDB1SV9fcTlTVWpwemduelM0Yk5CbGpEbE90NlpnNWVwZC1aYVE?oc=5",
+      "age": "3d ago",
+      "date_iso": "2026-04-30T00:06:00+00:00"
     },
     {
       "category": "gpu",
@@ -44,7 +71,7 @@
       "summary": "Microsoft Previews Shader Model 6.10 with New DirectX GPU Features HotHardware",
       "source": "HotHardware",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVVfdFdHSHNWd3JBNThPOUFrZmRhRDNXTXIxYndGejItN0s0LWpORVhLVWVWVzN3OHZKMHFjamlMX2ZOWllaZEw2TWVEajR1cmh5ZHZ4N1ZIa1pLUUVTYmYwSjRWdXA4UlIxRVNyazQtR3ZBSDZBQnlnbHNtZkFvOEVLenVKTlpuUnZGZWt3?oc=5",
-      "age": "2d ago",
+      "age": "3d ago",
       "date_iso": "2026-04-29T18:33:00+00:00"
     },
     {
@@ -53,35 +80,8 @@
       "summary": "Insight Exec: Clients Are ‘Accelerating’ Data Center Exits Amid Chip Shortages, VMware Changes And Google’s Enterprise AI Push crn.com",
       "source": "CRN",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMEs3NnhmZkRpa2lCREJhRjE1Q3dnQXQxNkZYUjJtZHNvbHRzeHV4alJ1Zm0zOEJMeW9nOFdCazVNclJLRFlsRWVnMjFmUk1MUElfMUVYWERndXhzN0ZlQXJnLThheXZmRlkxbWRTOFNUanZJUHJkcFNXZkN5clNzbFIyYksxcmcxN25LeXBLZGZDajVKMTdyVDJ1NVdaVnBGQVdJdTZPT3pJMmNkUFc5SGZQaHl5MThvVXhYRE4wS3pYUEdfMEo2LWJzX1lqMjBaM3A5aUllblozUTlOcTdaT2xkX1RaLWxZTjRWa2RTVQ?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-04-29T17:25:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Nvidia exec says AI is more expensive than actual workers — yet some companies don't see the extra costs as a negative",
-      "summary": "Nvidia exec says AI is more expensive than actual workers — yet some companies don't see the extra costs as a negative Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQW5XdFFvZ3VCM0hZUWxlV19LWVFHZkdyQy1mTWhrYnE1VnlNMkpuQzZSX1F4UllZYVEzMFZFNXhlWDB5SlBvTkREaUc5cDlsbm1ZVU9zcGhiQ19qcjZ2b3lmbmxvRHFFOVVEbjRVRk4tRzFmOGpmTWpnVnA2VGJHLUlKN05hdVBBSDJfTUxJVDN5U2ZqRkhRd083SlVfbXB5VzNZaTVBSDRmalFBNmtOUHh4NlVMSmp2cERGTjA1NTJ6a0lUMGkydlVpckRjS3UtbUN3SExTcENCcmVrRzYyeU8tNk01RkpxRi1VbGhYWG9aSVhYdkVMM1pRRWNrY0ZkSEc1OUFuNVZPRVNVXzBr?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-04-29T11:20:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Exclusive: Nvidia Networking Rival Cornelis Gives Channel Supply Reprieve For AI Buildout",
-      "summary": "Exclusive: Nvidia Networking Rival Cornelis Gives Channel Supply Reprieve For AI Buildout crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHJRVHdRU0FQbUVOdWNYb2ZfbF9DTmp2dEdQR2JBS2hwaUVXdG1abXIzWGZKTFRxNjZyRGVKQWw1TTJqdlBFTXJ1TEFwME5HQ2xld25IdUNOa0s4c2JacHFFZjZteW9iUWk3dzM1Y2ZoNTAwYm92WU94a01DNl9fSFVBRHVrRFNQWnhkTGVHNGxTaF93dkVXVWhhTUM0Q3FON2xfMzEtUmFKVUp0eUQzLU1LMEtNMU0wUWNMemJlb2JRRnVncjRRWQ?oc=5",
       "age": "3d ago",
-      "date_iso": "2026-04-28T16:46:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "BIG AI Cluster Little Power the 8x NVIDIA GB10 Cluster",
-      "summary": "BIG AI Cluster Little Power the 8x NVIDIA GB10 Cluster ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORW9TUmJKRUZCcXFTMi1RZXRUOUdOU29fWmpZd0hKQlhsX1VySE1DM1gxX3ktUERHZUVnZllISlozVjJBd0tXd19vS0tFTE4taHlPdHFDdU9KQ2FNaUdqdjF4LVVBOThaTTdpZlYwMTZFNEJqbG9fQ2RTMU44MFc4VHBRNU5NNjZZeGhqX002bVYwX0h0MjI1VFBwelJBNGpyUjF4NUhEQjB5dzM0Yll0eEFzaw?oc=5",
-      "age": "4d ago",
-      "date_iso": "2026-04-27T21:02:15+00:00"
+      "date_iso": "2026-04-29T17:25:00+00:00"
     }
   ]
 }
