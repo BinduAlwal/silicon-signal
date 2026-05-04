@@ -1,14 +1,59 @@
 {
-  "generated_at": "2026-05-03T08:30:06.436881+00:00",
+  "generated_at": "2026-05-04T09:12:24.928945+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "OpenAI missed revenue and user targets, faces internal concern over meeting data center spend commitments - report",
+      "summary": "As company reworks Stargate and preps for IPO",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/openai-missed-revenue-and-user-targets-faces-internal-concern-over-meeting-data-center-spend-commitments-report/",
+      "age": "14h ago",
+      "date_iso": "2026-05-03T18:29:30+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Inference is giving AI chip startups a second chance to make their mark",
+      "summary": "In a disaggregated AI world, Nvidia can be both a friend and an enemy AI adoption is reaching an inflection point as the focus shifts from training new models to serving them. For the AI startups vying for a slice of Nvidia's pie, it's now or never.…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/03/inference_is_giving_ai_chip/",
+      "age": "20h ago",
+      "date_iso": "2026-05-03T13:05:11+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "\"No single vendor can (or should) dictate the full solution\" — AMD positions itself as the open platform champion in the space race, highlighting its role in NASA Mars Rovers and Artemis missions as precursors to autonomous AI that can sense, decide, and act",
+      "summary": "\"No single vendor can (or should) dictate the full solution\" — AMD positions itself as the open platform champion in the space race, highlighting its role in NASA Mars Rovers and Artemis missions as precursors to autonomous AI that can sense, decide, and…",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPYmVXVTFnajlPWm9rLXRkd1lSdENDQi1jeW80TlBuSnJlTmVPYzFQemUyNGxhQ2JuM3k3dmN0UWpBWVo2V1FSSGNaMEMzSnVRMW5idGs5R1NyRkxUTnFRYlBkc0haWC05X093d2RNZlZJZi00UG5MajhHb3djSlpYS1Fsb3BPcWJ3OWh4NGQ0ejlhbnFhbGVIX2xFV1hTTzVTbWZXal9TR3BENlRGYTJSNVVTNmRlYTkwamZRbkhxNDItdDlFMlRNMk5LZEJRV0ZQWGhZeUxQS0xTYUUybTdlMEFlVnNlUFdOc1RudEZQSzJndHF6bUxwWFdpdEtmY3pTZ1BWV3N2ajUyX3JEanBNMHV1X0U0RDdwbTNja3c3UzRrTE95WXdMYktZMEc1LVp2eVc5ejVremlfdGo0?oc=5",
+      "age": "20h ago",
+      "date_iso": "2026-05-03T13:05:00+00:00"
+    },
+    {
+      "category": "edge",
+      "title": "Royal Navy chief backs drones, autonomous weapons in ‘Hybrid Navy’",
+      "summary": "Plan mixes crewed ships, robot escorts, and long-range strike to bolster a stretched fleet The leader of Britain’s Royal Navy has outlined a “Hybrid Navy” built on a mix of crewed, uncrewed, and autonomous platforms to ensure it can continue to defend the…",
+      "source": "The Register",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/03/future_royal_navy_drones_high_tech/",
+      "age": "22h ago",
+      "date_iso": "2026-05-03T10:30:14+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Intel Arc G3 Extreme Pummels Ryzen Z2 Extreme in Benchmark Leak",
+      "summary": "Intel Arc G3 Extreme Pummels Ryzen Z2 Extreme in Benchmark Leak HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZOGMzalpaQkJMeXRWcmNqd1FpY29RUUM3WWtpaEtRdGgtQlJfcndWUUlseDMtSTdKU0M4RGRWQUVZTDhoSkFEb1FwMERwU2hnNk0xZXowaE01cVkxWXZNQUMyMkhUdFR6MU9uMFVnMlV6UQ?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-05-02T16:00:00+00:00"
+    },
     {
       "category": "gpu",
       "title": "Apple warns Mac mini and Mac Studio shortages could last for months — local AI boom and memory crunch drive demand beyond Apple’s manufacturing capacity",
       "summary": "Apple warns Mac mini and Mac Studio shortages could last for months — local AI boom and memory crunch drive demand beyond Apple’s manufacturing capacity Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZWpPdjNHUmxqSnIzQk40Q1Rhd0lGeVQ3UXdCNUxJUFRlbUJtdkNfYzI5cDlxV0pRUFd4TWt6VGtrV1o3VW9McmlzQ2l6YnFrV0IzLTE0RGprMDI1c3ZBek1oMi1lZGRQakdLaEFlTWRiaXZlSWdFNGxDX3pBa2x2akd4SEVUVXZfbGhYN0s1czVfd1gwVnozRDVJS0p4LWVodThsRHYwRkgtaEdPeGtQSWtWVlZxLUU4YmQwTzBGZThXN0c4cGhBd1lqeHRTZTlIU292M0I2SDRoOERkTTJNQ283dW9KdWNwQjFWMDZwSU9xbzBwWkIzSklSNERoVmpoYWNYa1cwSDlEd0lOTWRrTTNPeHZqUQ?oc=5",
-      "age": "21h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-02T10:40:00+00:00"
     },
     {
@@ -17,7 +62,7 @@
       "summary": "Why data center operators should evaluate power and cooling infrastructure in the context of an expanding range of chips designed to support AI workloads",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/opinions/silicon-diversification-how-a-growing-choice-of-chips-is-reshaping-data-center-infrastructure/",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-05-02T07:00:00+00:00"
     },
     {
@@ -26,7 +71,7 @@
       "summary": "Low voltage direct current project targets more efficient servers",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/ocp-members-tout-dc-power-in-the-data-center-to-meet-growing-ai-power-demands/",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-05-01T16:56:17+00:00"
     },
     {
@@ -35,53 +80,8 @@
       "summary": "Chip designer expands on initial lease signed with cryptominer in January",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/amd-signs-additional-25mw-data-center-lease-with-riot-in-texas/",
-      "age": "1d ago",
-      "date_iso": "2026-05-01T16:42:51+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Gulf firms Taranis and EEC partner to develop 50MW data centers in Saudi Arabia",
-      "summary": "The fund is targeting $2bn of investment to develop and operate data center infrastructure",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/gulf-firms-taranis-and-eec-partner-to-develop-50mw-data-centers-in-saudi-arabia/",
-      "age": "1d ago",
-      "date_iso": "2026-05-01T15:38:10+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Nvidia continues to stress importance of human workers - but for how long?",
-      "summary": "Nvidia continues to stress importance of human workers - but for how long? TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYkVKd0VPSDFiUHNTeTh2TzVZbzRQcXN6ZUNaS19EeFp6Z0JWR05wSWFPeU92ZEhxOFNVUDVHSFZTd1BKSFpLMDVQaXBEZG04b0JVTGtUZHpfZC1XbU91eE5iamZnODVhOUZScUQ1T01EN0RxVTY1VDFKSG5lbmUyY2Rhck1NbWFzYzZpRDBZQWctMzZiX3lCaEVHOWZWMGlDMGYxWWNLbmp3SFJTSGFmVmpRVlVXWlBXdmtGa045RkZZbTc5RFozaEJYblBpUDRycnllWlFOSXEtb2FMQm1NN2RFTUFnaVZ6Y05LV0JNS3lDcy14QXdZekVsakhrZktKdXZaSlVzTFE?oc=5",
       "age": "2d ago",
-      "date_iso": "2026-04-30T11:05:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AWS Says AI Is Driving New Wave Of Cloud Spending—And Growth Is Accelerating",
-      "summary": "AWS Says AI Is Driving New Wave Of Cloud Spending—And Growth Is Accelerating crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzhvOW0wem40Zi0wZktoM1F5SGl2Sk1FVjVQS2tHVzFQZEJaNkNYbHk1NjZOOEE0c2JaZUdQMDlJMVM3Z0psYmFWVmJlcDJPR2o1RHZDeUlaWGtRcTB5V1pRRXpob0Vsc0UtMGg3S3VWdV9DaXYzM1dCNjVNRnRPakxwMG9hSDZtcDB1SV9fcTlTVWpwemduelM0Yk5CbGpEbE90NlpnNWVwZC1aYVE?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-04-30T00:06:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Microsoft Previews Shader Model 6.10 with New DirectX GPU Features",
-      "summary": "Microsoft Previews Shader Model 6.10 with New DirectX GPU Features HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVVfdFdHSHNWd3JBNThPOUFrZmRhRDNXTXIxYndGejItN0s0LWpORVhLVWVWVzN3OHZKMHFjamlMX2ZOWllaZEw2TWVEajR1cmh5ZHZ4N1ZIa1pLUUVTYmYwSjRWdXA4UlIxRVNyazQtR3ZBSDZBQnlnbHNtZkFvOEVLenVKTlpuUnZGZWt3?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-04-29T18:33:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Insight Exec: Clients Are ‘Accelerating’ Data Center Exits Amid Chip Shortages, VMware Changes And Google’s Enterprise AI Push",
-      "summary": "Insight Exec: Clients Are ‘Accelerating’ Data Center Exits Amid Chip Shortages, VMware Changes And Google’s Enterprise AI Push crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMEs3NnhmZkRpa2lCREJhRjE1Q3dnQXQxNkZYUjJtZHNvbHRzeHV4alJ1Zm0zOEJMeW9nOFdCazVNclJLRFlsRWVnMjFmUk1MUElfMUVYWERndXhzN0ZlQXJnLThheXZmRlkxbWRTOFNUanZJUHJkcFNXZkN5clNzbFIyYksxcmcxN25LeXBLZGZDajVKMTdyVDJ1NVdaVnBGQVdJdTZPT3pJMmNkUFc5SGZQaHl5MThvVXhYRE4wS3pYUEdfMEo2LWJzX1lqMjBaM3A5aUllblozUTlOcTdaT2xkX1RaLWxZTjRWa2RTVQ?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-04-29T17:25:00+00:00"
+      "date_iso": "2026-05-01T16:42:51+00:00"
     }
   ]
 }
