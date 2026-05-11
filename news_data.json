@@ -1,15 +1,78 @@
 {
-  "generated_at": "2026-05-10T08:49:13.200939+00:00",
+  "generated_at": "2026-05-11T10:29:55.993875+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "edge",
+      "title": "ASIA IN BRIEF: China’s agentic AI policy wants to keep humans in the loop",
+      "summary": "PLUS: Robot becomes Buddhist monk in Korea; TikTok spending $25bn in Thailand; Baidu floating chip biz; and more!",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/05/11/asia-in-brief-chinas-agentic-ai-policy-wants-to-keep-humans-in-the-loop/5237632",
+      "age": "9h ago",
+      "date_iso": "2026-05-11T00:49:55+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "New PCIe AI accelerator promises massive enterprise language models",
+      "summary": "New PCIe AI accelerator promises massive enterprise language models TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNN0Y4b2I4VGQzaDJqVDNhNzRweE43U05FOThUczByc1ByUC1sZ2VZMlMzQWphQk40Nld3RUZ0dmEyckFWbkxIQlNPNS1RRlZqVWE5ak1KNVUtdlVsQWdYempzekxqd0daU2s2c2pJYjlQeUUxck14RG1ZWWZsUjJnMF96VlFaR1ZTTjZJeWhNNE42TWkxU3BkOTJTYnM5aUQ5c0NoVnBsLWs4Vkl3MjVlcThPVWx6R3lVMzROdXF0cUZldXEwQ2hVNVo5ZWR2OUt3LXBmVzdSbFBUOC1IOGJtY3NBQm9hcXJJU0VGS2k1dWp0djZHU3g5dGlxcHR4ZWRHdFZid1c0QWlxRkhaaUlzM1N1MzJMRUtlYXFfOFBnbDZLTVBTdmc4QU5rTk9wUQ?oc=5",
+      "age": "13h ago",
+      "date_iso": "2026-05-10T20:35:00+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22",
+      "summary": "The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMks4ODlLaXNOT2w4LW01X05PMktFRnNxUy1nZ0xKU0RkTUF6cldwOW83ejh1SFh1SVE4enlZRUdfNGdYaTRRTXRmeWtMUVZyakx0Y2xzd2lpRm00M0FyN3o1Q2MyTkVpcHlsZDlqV0pYUExkRHc5SzJYQ0VJbVpQOTJOZDI0dGg4UVJpVXJkWC0?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-05-10T15:00:26+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Memory godboxes could offer relief from the RAMpocalypse",
+      "summary": "Amid the AI-fueled memory crunch, will Compute Express Link finally have its moment to shine?",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/05/10/memory-godboxes-could-offer-relief-from-the-rampocalypse/5237463",
+      "age": "20h ago",
+      "date_iso": "2026-05-10T14:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine builders of massive 6.2 million-square-foot facility over unauthorized water use",
+      "summary": "AI data center project secretly sucked 29 million gallons of water over 15 months before detected by residents complaining about low water pressure — officials refuse to fine builders of massive 6.2 million-square-foot facility over unauthorized water use…",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFFaQWQ4RVctVlB5RkJhRzVzajR3YkE4SnVhNm1DVEc3alRMM2IzaFRBUkE5b2wzemNhVlFPSGpLTzdfRGZtVXFNSlROTC1uX1dDeGJXbS1IY1E5c3MtMXNnOVVaVVhWWWRhM3gtSnIxbGJ5SG9CQmVCeWdUTGNGeEkzWE93OWtUemNQSldFY3NRVjVFS3l5bEs1bw?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-05-10T12:40:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "$200 'socketed' Nvidia AI GPU for servers hacked into a PCIe card with custom PCB and 3D-printed cooling — modded Tesla V100 SMX data center GPU runs AI LLMs and is more efficient than many modern midrange offerings in AI inference",
+      "summary": "$200 'socketed' Nvidia AI GPU for servers hacked into a PCIe card with custom PCB and 3D-printed cooling — modded Tesla V100 SMX data center GPU runs AI LLMs and is more efficient than many modern midrange offerings in AI inference Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOZW5NZE9rUFRrRFJzbHNMTnVIUFgwUXVHeG40ZmJqcVFScV8zSXlvWEEwdWJ2RlNSNWY3ZzdUai02TVZlVXlNZHBIMjROYm9DLTVtdHVZSjhma1NzcDRSbnJIMWZWQ3R6RktfVVZxMndhLTFJQWVaSUgwWE9oaUczUXlxVVl6cE12ejNUcWJEMTM3WWtxS0hhanRxU191MTJSOGVGbGE3czFQY0s3X1VnM2Z4aUwzQXhBbzFmdFU4ZGJCLUZ6WTVpR1RoYkU2RWFEZUI2M0UtM0xsa2VBTFlhUU5meUdZV3NTTmN1M3ZmZ3BCSDRrY2FwUThxcEJJNmp6TFF3Z3loUHlkbnhZTFdJN2RRSWNXNEhNekhEVk9VMTBpSXhYUXI1dGtFVk5CRl9ic0pORTR2VWZXeHhFZkdRNURZcE41NU1TaFBsT25CTEg4YWhFODhvR0xjNW9WdUcxLVJVVlBPNVNmRVNzdVJlcGw1U2hXeE1TcGxWQ2dpLVFibC1pR0gwclFUSQ?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-05-10T10:50:00+00:00"
+    },
     {
       "category": "infra",
       "title": "Anthropic Signs SpaceX Colossus 1 Data Center to Boost Capacity",
       "summary": "Anthropic Signs SpaceX Colossus 1 Data Center to Boost Capacity ServeTheHome",
       "source": "ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmJRYUFDVElpVm4zM0FSTGktSjVzOGlhbzh5c3hKUEVRWFZ4Z255M0ltbjNjQUlSN1pUTDNRSzhvQjUxS0hNM1hFYy1PcjJPdXVCVUxEYlBrOTZyN1E3R0xrUVd0bTgxdWhyZ0ZudkRRNlczVHZnc2ZFdVcwLTF6a3Z3Rk5QeUxQdWJwNjlmOEQ1SWFraXZtRg?oc=5",
-      "age": "14h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-09T18:00:33+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Apple and Intel Reportedly Reach Landmark Deal to Manufacture iPhone and Mac Chips in the US",
+      "summary": "Apple and Intel Reportedly Reach Landmark Deal to Manufacture iPhone and Mac Chips in the US HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSZzctME1GenNpeFlxaVdVTmlDcnIxOVVEa3NaT0RWYXVUS2FYYkwwS1Q4cUkzd2prcmVYZWYwYXljbW5Ob0k3YjdXQktXalFja092bU1Jam9vT1hGZWEzS1dMWV8yejFHUGN1VUdJWFpxYTBBd3FNSg?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-05-09T15:10:00+00:00"
     },
     {
       "category": "gpu",
@@ -17,71 +80,8 @@
       "summary": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data — 'transfer stations' operate through proxy networks that harvest user data…",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWUUzQVREYXZPRWpSZkxDTDcwTkZXS25YbzhVSEFQRkQ4VkN6VXlBWndoWFo0clFub09kaTcySC00V09GYjFSa0l1NnVWdjZZa2s4U1NGN21jaXF4ejExNkpHRGp4MHZHTnVwUXlZd2tWVk5Fc0h6bG9faE9sc21ubG9tNms3Mk8yZXgxQkVkR1d6T1Q1aU83VnlMOUptbWhyUURYb3ItVklBQ2pzX24xbUJBWmlIWWJHQm13ZzBTblA0ZWxLOVltUUhTbFZRNlJjaHNQY0hjam9ieWRyZW5lX0FxMlBwLXE4UHcwMmxhd1ZsYWI5YUYzWGJkY2RkRWJNWF9kTw?oc=5",
-      "age": "22h ago",
+      "age": "2d ago",
       "date_iso": "2026-05-09T10:20:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Sponsored: In-rack CDU v. floor-mounted CDU: Which option is better for your data center?",
-      "summary": "Making a choice comes down to the specific requirements of the liquid cooling architecture in each implementation",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/in-rack-cdu-v-floor-mounted-cdu-which-option-is-better-for-your-data-center/",
-      "age": "1d ago",
-      "date_iso": "2026-05-09T07:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Billions invested in semiconductor fabs bring rising water demand",
-      "summary": "Billions invested in semiconductor fabs bring rising water demand TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNbjdlTzZ0Z01aYlNEYTdTSDk2NFZiV1BPVzhpODBOSHg3QkZLV1lkaXBJdGhfTWdSSnJiLUpPVjZ4ekJyME0zenVqaUVLZTlYbEJXeV9Sem5mdW5jbVd2eEZDRllVX29hT2hKZkdtc0JTR2tGN0JLb1B6S0FLMElDbzBocllmbHlhQWlpYWY5ZHRRdDYtMm5wamxvUkJBcllSVHpzV0JqRmJvZE5NR1FVc19oZU1tNU13cWFzSU5TOERqVHU5RU1OSGk1Z19McmJrZUg5OXh6eGx5dm9ySmRYREd2dmtUUlpSWjdJd2ozX2hZUTZ2dFc3aGRGVFVyVXdobXlJb2pYcmRybHV6bHlQT1pnVUUybzZJTURMTkM5RjRIMU50X0hILTVKM1AwTmFENnNv?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-08T22:15:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Jensen Huang says new Nvidia AI partnership will ‘revitalize American manufacturing’",
-      "summary": "Jensen Huang says new Nvidia AI partnership will ‘revitalize American manufacturing’ TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbFI0c2o2eGZ0bG9idi0ydjBBOVF1cS11eEY5Rl9OaEZ1NUY3VWwxWVB4MVItTU9iX2oyUWFRU2xGVWpfRXNiNjlPeHVSVkx3T2RaWWZBSFBsWG1IUEpsbGpqbExKOTE0d05yeW95OE8tUUdsQmhsS2RwV3Bjc0hJR1IySFBpUjFFTFp0NkRZamcySlF0ZzJESUtIM2RIU2pqYUtPQ3B2VGQ0R3BUQ0RtOGRyRTFRbTRJLXpuaHVBTENfeUt5WjYxSEtNZ3hSN1lLR3p0SnNNRFVtN05tS0xRS0hxV3hxSGhSVXlBblBNUkR2NUN5ZTU4anV0b0dVa0JPZTY5SFpMLW9hYWRrTDRfOXlQdU5VWGRqSWZv?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-08T17:25:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Developers file application for $1.6bn data center in Cleveland, Ohio",
-      "summary": "But a potential moratorium could stop it in its tracks",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/developers-file-application-for-16bn-data-center-in-cleveland-ohio/",
-      "age": "1d ago",
-      "date_iso": "2026-05-08T17:00:33+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Iren acquires Spanish data center developer Nostrum",
-      "summary": "Busy week for the former crypto company",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/iren-acquires-spanish-data-center-developer-nostrum/",
-      "age": "1d ago",
-      "date_iso": "2026-05-08T16:44:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Mitsubishi Heavy Industries to revamp gas turbine production process to meet growing demand from AI data center sector",
-      "summary": "Seeking to boost production by 30 percent",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/mitsubishi-heavy-industries-to-revamp-gas-turbine-production-process-to-meet-growing-demand-from-ai-data-center-sector/",
-      "age": "1d ago",
-      "date_iso": "2026-05-08T16:30:34+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AI data center bans are rapidly multiplying across the US — 69 jurisdictions block new builds, with four moves noted as permanent",
-      "summary": "AI data center bans are rapidly multiplying across the US — 69 jurisdictions block new builds, with four moves noted as permanent Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxONXJKYUpDcHdxajhpNEUtM0Y1YkN4VzdzREZuMGh2RFBFVWdmRkV4RXJvWGFJTHJSREJRRFJQYVp1RzBpQXhmRmkwSkRUTlZsd1lsNlB2ZlJIMC1lRWphb0YxcmswdmRUT1YzLUtMWUM2TU15V0dHbE02YTUzT0M5bDM5ZWQzLUc3RHRVLVZuMk9LYUZXSW1iRUdCZkxLWjJyUDVXSVgyRUtKVVZUal9RSjRWUUpqdFhzSFd1S2dsU0hCSWRQTGdIeEZJWDJrSm5OcXFGMG1Jc3FUTTBTSURtUU12d0hoUUdTZGt2MUh0aVJCdWVUQ195TlJwQ3dyOV94R3ZtQ3Z3bmFWWXNEYkJ0aTI1dDhCR1ZSZHl5MjJn?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-08T12:31:02+00:00"
     }
   ]
 }
