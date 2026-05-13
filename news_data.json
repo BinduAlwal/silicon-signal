@@ -1,15 +1,51 @@
 {
-  "generated_at": "2026-05-12T09:30:30.389534+00:00",
+  "generated_at": "2026-05-13T09:37:04.293877+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Red Hat blasts RHEL 10.1 into orbit aboard Voyager's micro datacenter",
-      "summary": "Orbital compute platform, which launched on a mission to the ISS last year, gets an immutable upgrade alongside refreshed container images",
-      "source": "The Register",
-      "link": "https://www.theregister.com/off-prem/2026/05/12/red-hat-gives-rhel-101-the-boot-into-orbit/5238373",
-      "age": "9h ago",
-      "date_iso": "2026-05-12T00:14:00+00:00"
+      "title": "Sponsored: Beyond the silo: GCV Group launches to address the data center lifecycle gap",
+      "summary": "This isn't a merger or a rebrand. This is a structural shift",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/beyond-the-silo-gcv-group-launches-to-address-the-data-center-lifecycle-gap/",
+      "age": "2h ago",
+      "date_iso": "2026-05-13T07:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sponsored: The power of prefabrication",
+      "summary": "How prefabricated data center solutions are solving the scalability and infrastructure challenges posed by the AI boom",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/the-power-of-prefabrication/",
+      "age": "2h ago",
+      "date_iso": "2026-05-13T07:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Malaysia's NCT Alliance Berhad could sell 100-acre site for 800MW data center",
+      "summary": "Identity of operator is unclear",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/malaysias-nct-alliance-berhad-could-sell-100-acre-site-for-800mw-data-center/",
+      "age": "16h ago",
+      "date_iso": "2026-05-12T16:55:40+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "UK's Kao Data acquires brownfield site in West London for data center development",
+      "summary": "Company buys site in Park Royal, previous owner aimed to build 35,000 sqm facility",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/uks-kao-data-acquires-brownfield-site-in-west-london-for-data-center-development/",
+      "age": "16h ago",
+      "date_iso": "2026-05-12T16:51:16+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Microsoft's massive Kenya AI data center would require switching off 'half the country' to meet power requirements, government says — $1 billion project stalls over capacity disagreements and lack of infrastructure",
+      "summary": "Microsoft's massive Kenya AI data center would require switching off 'half the country' to meet power requirements, government says — $1 billion project stalls over capacity disagreements and lack of infrastructure Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbkxESnpNVmR5dzBGUXE1eFBrN2p5WURyb21BTElNc0NWRG45dnFONVl1dVJxaC1HdEdGWXNuajRvMVlsRWxnRUdOV1BiaDZwekxWY0Qzb3hqaEV2WGo0eEdaM0p6UXNoejRzc1ZfSkNOamZTMkxLQTlGWFBIbU5xeFhJX1RHU2ZrbEFRSFpydXQxX29IUTNCZkZDUG9XRTFEbHBia082QVF0c3dXc2ZUQ2kzeEIySnM4T3MyYU9qZWNXSHc?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-05-12T10:00:00+00:00"
     },
     {
       "category": "gpu",
@@ -17,53 +53,8 @@
       "summary": "How Intel’s AI Chip Strategy Is Coming Into Shape After Years Of Struggles crn.com",
       "source": "CRN",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDNRUlBxLXQ2Z1ZjOTlwdkdna2pTV25ydkxxekpqNHlJYUdEMGNzQmhfZk1SWXFTNXhieHlVMXg2VGlwSV80RWd3cG0wVlg3TWd2RC1CMzVSNGZ5V0Y3bDU3Q3pxbFk0dUl1c2pwdWtZYjZkTjM5MEl2VlB6VTM4WFFGUElRa1F2UXRnOU9lOHRnWnFFX3F2N2tORDZzTlVNQW8zYXZ0bmdGTkpUYkY4WjkyRHAzVFk2QzBqN2tjMGtHOXVMVWc?oc=5",
-      "age": "15h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-11T18:30:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AiOnX secures hyperscale tenant for Irish data center campus outside Dublin",
-      "summary": "Tenant likely Amazon, first phase due to launch later this year",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/aionx-secures-hyperscale-tenant-for-irish-data-center-campus-outside-dublin/",
-      "age": "16h ago",
-      "date_iso": "2026-05-11T17:00:36+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "DCD>Studio: European data center sustainability with Gaelle Mogabure, Virtus DC",
-      "summary": "Seb Moss speaks with Gaelle Mogabure of Virtus DC on ESG strategy, community engagement, sustainable cooling innovation, supply chain collaboration, and developing future talent for responsible data center growth",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcdstudio-european-data-center-sustainability-with-gaelle-mogabure-virtus-dc/",
-      "age": "16h ago",
-      "date_iso": "2026-05-11T16:38:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "The private cloud crunch",
-      "summary": "Why global memory shortages are risky business for on-prem IT",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-private-cloud-crunch/",
-      "age": "16h ago",
-      "date_iso": "2026-05-11T16:30:43+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Developer eyes Broken Arrow, Oklahoma, for new data center development",
-      "summary": "City officials are promising maximum transparency",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/developer-eyes-broken-arrow-oklahoma-for-new-data-center-development/",
-      "age": "16h ago",
-      "date_iso": "2026-05-11T16:30:41+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "ABB invests $200m to expand medium-voltage manufacturing across Europe to support data center growth",
-      "summary": "Aims to strengthen supply for utility, industrial, and data center customers",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/abb-invests-200m-to-expand-medium-voltage-manufacturing-across-europe-to-support-data-center-growth/",
-      "age": "17h ago",
-      "date_iso": "2026-05-11T16:20:30+00:00"
     },
     {
       "category": "infra",
@@ -71,7 +62,7 @@
       "summary": "AI data center developers target rural territory to bypass city construction bans and regulations — rural locations allow sites to bypass city council approvals, rezoning votes, land-use reviews, and reduce public scrutiny Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPMmFGMy1DRVFHdlZDMVo1TWUyckJDQzEzNHFYTU1tS2toYmtXbERoTmo4ZzZrTHA0N1N4NTZuRTAwUGVkbUNzSG1ld05xRXBSbzMxUTQtM3REV0Q2czVPaEEzOW1tY1g3ZExOTTJ4ZTIwRURRSHpDRkRwZ1czU1JscHV0TVJLcHFud2Zpc292UXFtR2dTcTVGYjhnbEFaRTRqOGZDN1JqVjFBYkJSYWNaTERING05cnptQlBOajBMRWg1bDMyOUJ1YVZRMWpJV2tRaVNrcmxZbS1BbnhsQVNoSlZUa2xwSHhVOEdpWHNLMFhkQWxudmRKRkh1U0J3X1FqWFIxNHJMb0FFQ1RMRHFsZGtCQnlMTEcxUC05emlBRmNKeElOMUluVWh3V0lsUXZxWGtHYVRhR01IUVVRRjhzVUtUZS10bUNfUzY5bHNvVjlUOXYyd1pORlZoMnBTdTRSTnVOT0o3c1hDSHJqaVFndFBOTnh0dDVWVUpfWWpiZmR1VmVoV2dEMUQtd01PMVA4ZHh4WDhPMA?oc=5",
-      "age": "22h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-11T11:10:00+00:00"
     },
     {
@@ -80,8 +71,17 @@
       "summary": "New PCIe AI accelerator promises massive enterprise language models TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNN0Y4b2I4VGQzaDJqVDNhNzRweE43U05FOThUczByc1ByUC1sZ2VZMlMzQWphQk40Nld3RUZ0dmEyckFWbkxIQlNPNS1RRlZqVWE5ak1KNVUtdlVsQWdYempzekxqd0daU2s2c2pJYjlQeUUxck14RG1ZWWZsUjJnMF96VlFaR1ZTTjZJeWhNNE42TWkxU3BkOTJTYnM5aUQ5c0NoVnBsLWs4Vkl3MjVlcThPVWx6R3lVMzROdXF0cUZldXEwQ2hVNVo5ZWR2OUt3LXBmVzdSbFBUOC1IOGJtY3NBQm9hcXJJU0VGS2k1dWp0djZHU3g5dGlxcHR4ZWRHdFZid1c0QWlxRkhaaUlzM1N1MzJMRUtlYXFfOFBnbDZLTVBTdmc4QU5rTk9wUQ?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-05-10T20:35:00+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22",
+      "summary": "The Case For Compilers: A Look at SPEC CPU 2026 on LLVM 22 ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMks4ODlLaXNOT2w4LW01X05PMktFRnNxUy1nZ0xKU0RkTUF6cldwOW83ejh1SFh1SVE4enlZRUdfNGdYaTRRTXRmeWtMUVZyakx0Y2xzd2lpRm00M0FyN3o1Q2MyTkVpcHlsZDlqV0pYUExkRHc5SzJYQ0VJbVpQOTJOZDI0dGg4UVJpVXJkWC0?oc=5",
+      "age": "2d ago",
+      "date_iso": "2026-05-10T15:00:26+00:00"
     }
   ]
 }
