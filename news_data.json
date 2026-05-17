@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-05-16T08:45:11.694057+00:00",
+  "generated_at": "2026-05-17T08:58:47.705075+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "Microsoft’s data center would require shutting down half of Kenya’s electricity supply",
+      "summary": "Microsoft’s data center would require shutting down half of Kenya’s electricity supply TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOSzRFVC1wcTV5OVF0cHhIMFE3OHNOelRtOWVyNEFaSnlRMUZFZ2ZOQW5RcXRXRS1DQjdUSGMtb1N6WE9WSEpCWHk1WXA0ZVVLZHF0ZFVscmh1LXlLQUx6eU83S0o5ZEpkS1kwemdncEFJelVqbEl1eV9zT2I0WlloQVFTOEJHWEtxR2xlY09SSVBSNHZnY0NnTnNwa1NGb0N2eG9VM3M2RnZLdXVVQUdkcjNRYW43NHo2cVNkVjJBZU1SOTJNU25sSWFoeVllaFg0T3IyUEREek1QSEdZd3B1MWVlZmFDRTM3XzVDanZKMVJGNEFHNkVkWnhFdE05dXc3QXJkeHA3LVVUQk4weW5qRzdCTlkyazQxaElwYnR3?oc=5",
+      "age": "7h ago",
+      "date_iso": "2026-05-17T01:05:55+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Texas county passes data center ban for rural areas for a year, move comes in wake of AI data centers moving to remote areas to skirt regulations — state senator says counties cannot legally impose these bans",
+      "summary": "Texas county passes data center ban for rural areas for a year, move comes in wake of AI data centers moving to remote areas to skirt regulations — state senator says counties cannot legally impose these bans Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOa2c4cGpST3ZRSjk0b0JHLTliYVNmQ3NqRXdDYUhGekxyTHYwU1VtYVVseGMzMHhQSFlJZTlvdnc2cUdrNWsxSlF2b0JEeWkzTUl5WjRSYmplcFVGTDNscEtiNTY3WWVSR1FsTXhfdVgyYUNBS1VZQzJZZDg3bHp6WW9GZW8xMEwwc0xTWU1fTHUxbHlnc29QVXFjRGU5Mk9ibGl5M0dfd0ptZ2k2YnZwMmxPOHpGN2h6cVJ3MlhRZzN4Zk8tTFplQWZPUnNjOG1RZUR3dmpxNWYyUlBTODNUVklJaDFzcXF2ZmRXWTlDVmN2QUFLeXphLU9vYVpVZ2VfZ19yTkhhSDg4ZXIwdjZYMm14UUxXVTV0aEI5QUMyOE0wSThMTWpoc0dxX3IwOFNDUmozVFdIaF94TTdXM09xWA?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-05-16T14:37:59+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Europe built sovereign clouds to escape US control. Then forgot about the processors",
+      "summary": "Intel ME and AMD PSP: The silicon layer nobody certifies",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
+      "age": "22h ago",
+      "date_iso": "2026-05-16T10:30:00+00:00"
+    },
     {
       "category": "infra",
       "title": "NextDC brings data center near Kuala Lumpur, Malaysia, online",
       "summary": "Set to offer 65MW of capacity at full buildout",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/nextdc-brings-data-center-near-kuala-lumpur-malaysia-online/",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-15T16:00:46+00:00"
     },
     {
@@ -17,7 +44,7 @@
       "summary": "Will come into force in July",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/oklahoma-enacts-bill-to-shield-ratepayers-from-cost-increases-associated-with-data-center-buildout/",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-15T15:50:35+00:00"
     },
     {
@@ -26,7 +53,7 @@
       "summary": "Now has 28.3GW in its pipeline",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/pennsylvania-utility-ppl-records-12-percent-jump-in-advanced-stage-data-center-pipeline-from-last-quarter/",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-15T15:30:33+00:00"
     },
     {
@@ -35,7 +62,7 @@
       "summary": "But details unclear",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/malaysian-data-center-firm-and-chinese-tech-company-plan-digital-park-in-perak-malaysia/",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-15T15:22:45+00:00"
     },
     {
@@ -44,17 +71,8 @@
       "summary": "Why the roof should be viewed as a strategic asset rather than a covering",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/opinions/the-modern-shield-securing-data-center-uptime-with-silicone/",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-15T15:00:34+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Pennsylvania residents complain they are being 'bulldozed' over AI data center concerns — lambast Gov. Shapiro in two-hour town hall, say he is losing support base",
-      "summary": "Pennsylvania residents complain they are being 'bulldozed' over AI data center concerns — lambast Gov. Shapiro in two-hour town hall, say he is losing support base Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOX1Nja19IVGx0WFB5N1dmX09SYVIyWXVSLU5IU1J2dm16bndBVkM3dk1KTnU2NGtoWEZHV3ZLU2R6YXFoQTB0MmpSTW00YnR4ZUE4ZjVnQXdQUDEtQkhlZkVndGlvb21IR2djR0RyMnBOMXhuU3VzQ2VjWGZDY1A3Y1RualdRYnZKcklCWXlUZWJpUjktYnlOU3l0UkI3bjlyOGNPNDNjZ0p4ZmtaMlRRNnN6ZkJxZGFTOHBVaWlxNUdfVUhUVFEwWURWZk1reWllRkRuT09QbklqazU3blpCZUZ2MlN3elVwTDFfTlhSaG1aS3A4V2hPQnAyU3VZZ292T1JjZWJuRU1qZ29UNFhxVktqT1JRaV9TUlR5Z1JxTS1TYnB0YnEyLU9kNm00SHF3M1F3?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-05-15T14:46:19+00:00"
     },
     {
       "category": "gpu",
@@ -62,26 +80,8 @@
       "summary": "Samsung starts winding down chip production six days before planned 18-day strike — company enters 'emergency management mode,' daily losses could hit $2 billion Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUFNHdUlsTG40TlpYMzlnMUxKY25aY19nQXdSdDFpaVhUM2k1NHF6eUNDRjhGZXROZ1BCWXVjeENrXzFEakdfWVFzUGNuQ3Jkb3MwTGF1X09jejJnRGtHTnh0SF9rNXVPam9JQ2NXLVBMZnNqdkN4NTZrZEtXTXUybDUyYmp6QW9xd1MtbS16MDFfWDFTX2tzRVNHWFdIX0ltN2NHMHJEQ1pXaVhNbnlKd1I2WXJBdm5OVHZCcjl1cTc?oc=5",
-      "age": "20h ago",
-      "date_iso": "2026-05-15T12:11:19+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead — Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO",
-      "summary": "Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead — Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPSGIxSUxnbFNDVGxNR2FUNXRxck81NHNCSm9DLUVvUXpRRTJWc0ExWDRqY2RYNHpSVUd2RHY2MDVyclNhUVBJLTdvUDhTa0tvbV83dkctbk54dk1SZnJsYVlzZXVSSnJXN2FIR1VEX2x5NzNpQ1g3LUNHbG03VHA2VW5JakIwLUVwT2JsejVWS2V1SW1FQk5hek9kalRxZmllelVHQ3FTd0lOQW9IUEdld2tNbVdBb0lJZ0ZrdU1tZjhOZm1FY2F0dE9IUUR5eEdRU0R3THMwUkNIRkc1MHJkb3hQZ0VnTTVwWWZtT2VYcEdRSndBZ2x4Y19MangtSDJUdnAzcjhpWTVuaGMtRUFEdlpNTGcxczctWklaWDdCZ05EQ1UwNFFDUFVGWG91S1FUV0pCRnU5cjNScUhDNjY0Rmc3ekdNMGIzakVfajBJeHA2Nml0WnhiN0ZUdzVTT0hIUDVqNTR2UUpWRzhuRGY2eXdfSG1paUI0cnV0cVZwSWNGQ2VmY2dQLUFUVXQzVHhfSmstb3oyTzhJaEkyZUdFNGhRSkZEemUxRlN0S3VB?oc=5",
-      "age": "22h ago",
-      "date_iso": "2026-05-15T10:08:57+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Utah just approved a data center twice the size of Manhattan that will consume more electricity than the entire state",
-      "summary": "Utah just approved a data center twice the size of Manhattan that will consume more electricity than the entire state TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdWpJbXM2LU1uYmU0Q2RKUTJPb2tTVU0ya252RzVjQWg1UXZPOHFUcVZDZXJtd1dha1Q0UWEyTzJsRVRTVUxsWldqQ0FKNmxHSDZzc2poZUJIN1E0LWdjbFNCVV9NMUxBdndFM21fRHlaNGdNQmhBX2RBRFV1SHRXby1KVzlpNnB1Njg4MjNXdjlobF9kUjJYcEtmUk1YbWdsa2tYUVBZaGhMZmhGUGRheEpNSnY4eXBlQUo4X3pKZXVBUU1FZHpHdDktTy1vLU1iV3NnYnczdEFPVHc2ZGYyMg?oc=5",
       "age": "1d ago",
-      "date_iso": "2026-05-14T21:15:00+00:00"
+      "date_iso": "2026-05-15T12:11:19+00:00"
     }
   ]
 }
