@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-05-18T10:59:16.233874+00:00",
+  "generated_at": "2026-05-19T10:33:44.005482+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "infra",
-      "title": "A new data center model for EMEA",
-      "summary": "A strategic framework for AI ready data center deployment across EMEA",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/a-new-data-center-model-for-emea/",
-      "age": "just now",
-      "date_iso": "2026-05-18T10:36:57+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Developer Lumon Solutions backing data center project in Marshfield, Missouri",
-      "summary": "Project faces steep opposition",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/developer-lumon-solutions-backing-data-center-project-in-marshfield-missouri/",
-      "age": "just now",
-      "date_iso": "2026-05-18T10:23:00+00:00"
-    },
-    {
       "category": "gpu",
-      "title": "Sponsored: When fiber clicks into place",
-      "summary": "CommScope’s Scott Eischens explores how rack-scale fiber architectures simplify deployment and reduce risk in high-density GPU deployments",
+      "title": "Blackstone and Google team up for new TPU-based cloud platform",
+      "summary": "Will enable customers to access TPUs via a different platform from Google Cloud",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/when-fiber-clicks-into-place/",
-      "age": "3h ago",
-      "date_iso": "2026-05-18T07:00:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/blackstone-and-google-team-up-for-new-tpu-based-cloud-platform/",
+      "age": "just now",
+      "date_iso": "2026-05-19T10:19:51+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Argentum AI signs $2.5bn AI data center agreement with Boosteroid and DL Invest Group",
+      "summary": "Data center will offer 300MW of capacity",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/argentum-ai-signs-25bn-ai-data-center-agreement-with-boosteroid-and-dl-invest-group/",
+      "age": "2h ago",
+      "date_iso": "2026-05-19T07:38:00+00:00"
     },
     {
       "category": "cpu",
-      "title": "China bypasses US GPU bans with 1.54-exaflops 'LineShine' supercomputer — CPU-only monster packs 2.4 million Huawei-designed Armv9 cores",
-      "summary": "China bypasses US GPU bans with 1.54-exaflops 'LineShine' supercomputer — CPU-only monster packs 2.4 million Huawei-designed Armv9 cores Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSC12MjVmSHVVa0ZPc1NqZ0hERzB1YThOTzdxa3g3NXJnbllGeUxrcnRjRmUtZU5IX1pZZXRBajNFUnlZdkpZWnhnZXdIaUxrclpmMTV3Tmd3U19pYVdEdWs2S3pvV3FNOVpmSFR6SDRUWWpoWXRPc092ZG5jYU4tcjhpdEV3ZjhOLVhXZmZVcWtZZGEtRXNKeDFLckZDOUxlTkNKS0hsX0dzeExsYk1CRUF0UWVHS3NVN2pnRld1Y002QjFWVGlTUi1WWTZkNlZweXc5YVBlYmFtajRHOXNYd1pPT1NxU3BDeXdEeGY5TlFiSmZsbE1zUm8waU1Yazloa2tDQTlpSURUTzV1OFItSklHd0NINV9QLXRGTWVaTGpFSlE1LUE?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-05-17T17:22:03+00:00"
-    },
-    {
-      "category": "policy",
-      "title": "US FTC reportedly launches antitrust probe into Arm following its launch of its own AGI CPU — regulators investigate if chip designer is restricting architecture access to rivals",
-      "summary": "US FTC reportedly launches antitrust probe into Arm following its launch of its own AGI CPU — regulators investigate if chip designer is restricting architecture access to rivals Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNUW5ZcFA0Y0YzdFFNT0dSS1ZWRTRDTmdfUGN1Q25pTWNWZDZpWlB5b3ZidWpnYVdZS1MwbUdCMVdXX2d3RElpVHJRMXp5c1FxUzVhdGtCdGoydGU1Yk1tUWZSWWhnOFhmdDZPYzBCWFZlbjZkVVliVTctcUtnTEpOMzhVUTFlMU5IX3ljMklYMU1VWURJeTA3cmpiM3pCQ2d1eEVQVG5XUzBQM3lpMTczTEJPQXd6R2JFbXA3YWtqXzlJWjhuMmdyMUdzOElLRmhjXzN5eVlRWHVSOWM4V1gtOHlSVDFEZFVOUzVxTmloNlhLZ2hNOUdWazZxQ3hvMmNpU1pJcXdQdG5OY3VlSjJ0U0JJRDlxVG5IOVFMbWphQ183V3NWMHFRUUZMdFFpQ3YzcFV1bmI3ZE1mSjdoa21fN2M2SEJfSjZ1NzFSUw?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-05-17T11:40:00+00:00"
-    },
-    {
-      "category": "edge",
-      "title": "Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson — entirely local machine entity runs Gemma 4 E4B and can respond in 200ms",
-      "summary": "Maker packs an opinionated, googly-eyed AI chatbot into a mobile suitcase, powered by an Nvidia Jetson — entirely local machine entity runs Gemma 4 E4B and can respond in 200ms Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPMjllMEFXdTUxOU1sbTN0UUxqdGZnMnM0aFctR1FMRXFMWHNRcGVnWkVRYWRRZTVTMWdJaXdidVl4UnVIQlpMenlwRExZanR6Qmd0cEhHenlrelpWak9QQ3FwYmd1SHJkY2tlcHo5OVc4OGFTWEstTlRTS2dKWFJCeUJESHVXNWE1d0o3WFpzcmRrZVJDUnN1cTVFVFJ3WU9KOGtGWjNxUDJtdGx6ZjRJTW4yQklEU0gxdUNhN3RyLTUzTFZQV1hSWnlfcXhUT1BCWWJ0UXVWM1hyWnNGNmlFU2taMEszeUFEUEtOaVg2OFozanFpY1ZMQ3I4Tm1mQ0djTmdUa19fcUpNUVlrdmxlT28xbDBIcDRYR2ZPUGJ1bGlHUzBjRWx6anBqbmdpVm5KWDkwcHBqc25tNkszR3FTQ2F5Z1dUYnNzbDRldEgwbnRIU2h6OGZPZVVZNA?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-17T09:40:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Microsoft’s data center would require shutting down half of Kenya’s electricity supply",
-      "summary": "Microsoft’s data center would require shutting down half of Kenya’s electricity supply TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOSzRFVC1wcTV5OVF0cHhIMFE3OHNOelRtOWVyNEFaSnlRMUZFZ2ZOQW5RcXRXRS1DQjdUSGMtb1N6WE9WSEpCWHk1WXA0ZVVLZHF0ZFVscmh1LXlLQUx6eU83S0o5ZEpkS1kwemdncEFJelVqbEl1eV9zT2I0WlloQVFTOEJHWEtxR2xlY09SSVBSNHZnY0NnTnNwa1NGb0N2eG9VM3M2RnZLdXVVQUdkcjNRYW43NHo2cVNkVjJBZU1SOTJNU25sSWFoeVllaFg0T3IyUEREek1QSEdZd3B1MWVlZmFDRTM3XzVDanZKMVJGNEFHNkVkWnhFdE05dXc3QXJkeHA3LVVUQk4weW5qRzdCTlkyazQxaElwYnR3?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-17T01:05:00+00:00"
+      "title": "Baidu says the quiet part out loud – you can’t build AI infrastructure, so clouds can cash in",
+      "summary": "CFO says GPU rentals are ‘structurally higher margin than CPU cloud’",
+      "source": "The Register",
+      "link": "https://www.theregister.com/off-prem/2026/05/19/baidu-says-the-quiet-part-out-loud-you-cant-build-ai-infrastructure-so-clouds-can-cash-in/5242344",
+      "age": "3h ago",
+      "date_iso": "2026-05-19T06:52:46+00:00"
     },
     {
       "category": "gpu",
-      "title": "Thousands of Nvidia GPUs could soon appear outside ordinary American homes",
-      "summary": "Thousands of Nvidia GPUs could soon appear outside ordinary American homes TechRadar",
+      "title": "VMware quietly debuts Arm hypervisor tech preview",
+      "summary": "Supports Nvidia Grace and Ampere processors",
+      "source": "The Register",
+      "link": "https://www.theregister.com/virtualization/2026/05/19/vmware-quietly-debuts-arm-hypervisor-tech-preview/5242293",
+      "age": "8h ago",
+      "date_iso": "2026-05-19T02:02:24+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Experimental chip delivers extreme performance gains but…",
+      "summary": "Experimental chip delivers extreme performance gains but… TechRadar",
       "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT1BOQjM1N3pkUWtCOTREeGV5UENybndWeVNIOTFNdHVHdGVWaVYxRDVZY1IxZ3dkN3UtTEVGSGlQNjM5bS1FZVAwSU1jOE1iZk1ValNKUTJzYTNZUXVlODFnRlE5ZklBWktNa0lYNlg2MzNuM2VGZkFOYTlXUktpbVJnclQwRGlYa2dZXzNMQWlHbjd1emlzdUMteTRGUXVfMW5MWTM0c3I3V1NKRjBKUk5ud3ZROUQzTlJPTV9LOXdxTFlieEVWeXZLS2NySmpvT1BuMVlFYUpmTmItY2ZB?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-16T20:25:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxObUVBQ3RZSDlBaW1rNjVvU0RPNzRWQTBzUG1MNFZtUmFGckR5ZXRkb1RyWUF5dVNQTi1UYnRQU19CVWFiV1hxSlhWaGFva2VsdC1JbTJveWo1YVhvSkRPNkxYc2NUN1ltTFJmekpFdkVJZUZEODZMaTN5cDV2SFFITlNRbllVeC1BSkdyQWFYak9kSHQwTEVET3BPeXgxbEltSmVpWFJCV2Fud0xPMHZVR1NOTjNRZkRfVENOM3FuQWpzV1VkdHZ1MDdBeWZ1SnJCTTlraHVmbFlCOXB6Z1BydWh0SkJLSDRiMFRyeFJVbWVYeTVQZXIwYmZlQ1pwYjdLRWtFMnN2UjAtckNacTlkSjNhcmFyMHlaaE4yc0JkWUpYbWJURDlNQ0JBMWJJeFFXN2pWdTgzR09QSm9WMy02bVVlNW1ZdGJFMDBybmZNR21OMWNGNzdUa1Zza2ZZOW1OemtFYXA0c2RvVGZWaktDdw?oc=5",
+      "age": "11h ago",
+      "date_iso": "2026-05-18T23:10:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Dell launches PowerRack, a turnkey compute, storage, and networking solution, updates Nvidia AI Factory platform",
+      "summary": "Company says it is working to close the gap between AI ambition and outcomes",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/dell-launches-powerrack-a-turnkey-compute-storage-and-networking-solution-updates-nvidia-ai-factory-platform/",
+      "age": "17h ago",
+      "date_iso": "2026-05-18T17:00:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Dell Technologies World 2026: Biggest Dell AI Factory With Nvidia Innovation",
+      "summary": "Dell Technologies World 2026: Biggest Dell AI Factory With Nvidia Innovation crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUN4Z3hXQ3JPTHAwT1BJX1NMTmtiM3h3ejFQR1poNmtkM0xVLWNrS2FWMUxnbHNRYUp4d1UtSktEQUozT2xNTWdJZEZqQXZqbk1kaEJrOHBLbmlENXdIX3RRdVJXSEVfbjBXamxFU29CMzExUElkNVdHR3QxeVAxVGVMR0ZBTThaNjV2MWxaZjhYSmFSYVJRdG5MTUR3T1J0VFc0ZUZxRVdBd1Nv?oc=5",
+      "age": "17h ago",
+      "date_iso": "2026-05-18T17:00:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Texas county passes data center ban for rural areas for a year, move comes in wake of AI data centers moving to remote areas to skirt regulations — state senator says counties cannot legally impose these bans",
-      "summary": "Texas county passes data center ban for rural areas for a year, move comes in wake of AI data centers moving to remote areas to skirt regulations — state senator says counties cannot legally impose these bans Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOa2c4cGpST3ZRSjk0b0JHLTliYVNmQ3NqRXdDYUhGekxyTHYwU1VtYVVseGMzMHhQSFlJZTlvdnc2cUdrNWsxSlF2b0JEeWkzTUl5WjRSYmplcFVGTDNscEtiNTY3WWVSR1FsTXhfdVgyYUNBS1VZQzJZZDg3bHp6WW9GZW8xMEwwc0xTWU1fTHUxbHlnc29QVXFjRGU5Mk9ibGl5M0dfd0ptZ2k2YnZwMmxPOHpGN2h6cVJ3MlhRZzN4Zk8tTFplQWZPUnNjOG1RZUR3dmpxNWYyUlBTODNUVklJaDFzcXF2ZmRXWTlDVmN2QUFLeXphLU9vYVpVZ2VfZ19yTkhhSDg4ZXIwdjZYMm14UUxXVTV0aEI5QUMyOE0wSThMTWpoc0dxX3IwOFNDUmozVFdIaF94TTdXM09xWA?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-16T14:37:59+00:00"
+      "title": "Italy plans to build ‘Europe’s largest data center’ in former Trino power plant",
+      "summary": "Data center developer Techbau is reportedly behind the plans",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/italy-plans-to-build-europes-largest-data-center-in-former-trino-power-plant/",
+      "age": "17h ago",
+      "date_iso": "2026-05-18T16:36:22+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "$1.6bn data center plan rejected in Cleveland, Ohio",
+      "summary": "Would have spanned 35 acres and offered 150MW of IT capacity",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/16bn-data-center-plan-rejected-in-cleveland-ohio/",
+      "age": "18h ago",
+      "date_iso": "2026-05-18T16:24:58+00:00"
     }
   ]
 }
