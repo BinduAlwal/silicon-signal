@@ -1,42 +1,78 @@
 {
-  "generated_at": "2026-05-19T10:33:44.005482+00:00",
+  "generated_at": "2026-05-20T10:20:20.156618+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "gpu",
-      "title": "Blackstone and Google team up for new TPU-based cloud platform",
-      "summary": "Will enable customers to access TPUs via a different platform from Google Cloud",
+      "category": "infra",
+      "title": "Stak Energy proposes 3GW natural gas-powered data center in Alaska's North Slope",
+      "summary": "Set to lease 715.4 acres of land in Umiat Meridian",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/blackstone-and-google-team-up-for-new-tpu-based-cloud-platform/",
+      "link": "https://www.datacenterdynamics.com/en/news/stak-energy-proposes-3gw-natural-gas-powered-data-center-in-alaskas-north-slope/",
       "age": "just now",
-      "date_iso": "2026-05-19T10:19:51+00:00"
+      "date_iso": "2026-05-20T10:11:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Argentum AI signs $2.5bn AI data center agreement with Boosteroid and DL Invest Group",
-      "summary": "Data center will offer 300MW of capacity",
+      "title": "Stack commits $73.5bn investment into data center campus in Berry Hill, Virginia",
+      "summary": "Company secures local performance agreement with Danville-Pittsylvania Regional Industrial Facility Authority",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/argentum-ai-signs-25bn-ai-data-center-agreement-with-boosteroid-and-dl-invest-group/",
-      "age": "2h ago",
-      "date_iso": "2026-05-19T07:38:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/stack-commits-735bn-investment-into-data-center-campus-in-berry-hill-virginia/",
+      "age": "just now",
+      "date_iso": "2026-05-20T10:07:15+00:00"
     },
     {
-      "category": "cpu",
-      "title": "Baidu says the quiet part out loud – you can’t build AI infrastructure, so clouds can cash in",
-      "summary": "CFO says GPU rentals are ‘structurally higher margin than CPU cloud’",
+      "category": "infra",
+      "title": "DCD>Survey Report: Mission Critical Power",
+      "summary": "Understanding how evolving power demands, operational resilience, and infrastructure modernization are reshaping enterprise data center strategies",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/research/dcdsurvey-report-mission-critical-power/",
+      "age": "just now",
+      "date_iso": "2026-05-20T09:58:12+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "PostgreSQL backup tool gets some backup of its own after sole maintainer sounds alarm",
+      "summary": "AWS, Percona, Supabase, pgEdge, and Tiger Data rally round pgBackRest with funding pledge",
       "source": "The Register",
-      "link": "https://www.theregister.com/off-prem/2026/05/19/baidu-says-the-quiet-part-out-loud-you-cant-build-ai-infrastructure-so-clouds-can-cash-in/5242344",
-      "age": "3h ago",
-      "date_iso": "2026-05-19T06:52:46+00:00"
+      "link": "https://www.theregister.com/databases/2026/05/20/postgresql-backup-tool-gets-some-backup-of-its-own-after-sole-maintainer-sounds-alarm/5242822",
+      "age": "1h ago",
+      "date_iso": "2026-05-20T09:15:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "VMware quietly debuts Arm hypervisor tech preview",
-      "summary": "Supports Nvidia Grace and Ampere processors",
+      "title": "Space factories edge closer after experimental capsule survives hypersonic landing",
+      "summary": "Varda hails success of autonomous touchdown tech and celebrates heat data haul",
       "source": "The Register",
-      "link": "https://www.theregister.com/virtualization/2026/05/19/vmware-quietly-debuts-arm-hypervisor-tech-preview/5242293",
-      "age": "8h ago",
-      "date_iso": "2026-05-19T02:02:24+00:00"
+      "link": "https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140",
+      "age": "3h ago",
+      "date_iso": "2026-05-20T06:21:07+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "AMD Ryzen 7 7700X3D Leak: Budget 8-Core AM5 Chip Keeps Full 3D V-Cache Intact",
+      "summary": "AMD Ryzen 7 7700X3D Leak: Budget 8-Core AM5 Chip Keeps Full 3D V-Cache Intact HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0xzUzBqemxFYjBpRkZfa1k0cTlRWXlyTWZmbWtVamdDdG5SQVhsX3lKZi1tTDFVU2VZcUJERzRmRm8zMWdVMHZld3puTTcycTNyN0tIZFpqRFhBUW5qUmVvVFowZl9BWW42UTBTZlRDNnZiQU1HdlMzUWlQR2hBcUpn?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-05-19T14:34:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Intel tells PC makers to adopt 18A CPUs or lose their supply, report claims — Intel 7 supply dries up, pressuring notebook and PC manufacturers in the US, China, and Taiwan",
+      "summary": "Intel tells PC makers to adopt 18A CPUs or lose their supply, report claims — Intel 7 supply dries up, pressuring notebook and PC manufacturers in the US, China, and Taiwan Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmFIU2F2TTVyQVQtQ3RMQUxzTmxHcGFUVUNmMlg1a2J4b0hmdklKTlpWZGdCdTNlT3ZZZlpRZlFTYWhWUW9PLXhyeGxHX3o3TmhCMDRFZFY3aHo0aU1lTUdDazZTTFFTZDlmNFpWVlVuY18zVVJXMmxuU0tTTnRlNWktejlqeGRwNGxNdjJQUWtPU1pLZGdoQUlTd25xMWxLWjBIbFJlTW5wWDZ3?oc=5",
+      "age": "22h ago",
+      "date_iso": "2026-05-19T12:13:24+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Meta to receive over $3 billion in tax breaks for its 2,250 acre Louisiana data center – enough to fund the state’s police budget for seven years",
+      "summary": "Meta to receive over $3 billion in tax breaks for its 2,250 acre Louisiana data center – enough to fund the state’s police budget for seven years TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS2RmWFlCLXd5M1VfeldzTkFIS0tCMnRNZ01SU205Ukl5UDQwWkJRQ01sVU9ONzNOd3V6Q2htdHN6QWJXY1k2S2JMTVhLdi01eVRyai03X0NEeGpMalU5QUFLMnZkTk5FLTdBNE1hcEpWU0lEQ1FxUkFEYTlxOVVGZ05wNkpjSGtqVUp3Wk1BbFVqa1NqcWRvdmZSQlE0N2t1a0Ixc0Ezd3F5N3NzdlV2cUZJYmk0Q2hFT3JGejI0N0lJWXZlellSSFV5TXUxRGctWWZGaG5EdTMwMW9YQjYwMWw1R3hxeW5wNU9kcG81MTRlUjE0UFIzNHBMMGxOamtwZGpURg?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-05-19T01:25:00+00:00"
     },
     {
       "category": "gpu",
@@ -44,44 +80,8 @@
       "summary": "Experimental chip delivers extreme performance gains but… TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxObUVBQ3RZSDlBaW1rNjVvU0RPNzRWQTBzUG1MNFZtUmFGckR5ZXRkb1RyWUF5dVNQTi1UYnRQU19CVWFiV1hxSlhWaGFva2VsdC1JbTJveWo1YVhvSkRPNkxYc2NUN1ltTFJmekpFdkVJZUZEODZMaTN5cDV2SFFITlNRbllVeC1BSkdyQWFYak9kSHQwTEVET3BPeXgxbEltSmVpWFJCV2Fud0xPMHZVR1NOTjNRZkRfVENOM3FuQWpzV1VkdHZ1MDdBeWZ1SnJCTTlraHVmbFlCOXB6Z1BydWh0SkJLSDRiMFRyeFJVbWVYeTVQZXIwYmZlQ1pwYjdLRWtFMnN2UjAtckNacTlkSjNhcmFyMHlaaE4yc0JkWUpYbWJURDlNQ0JBMWJJeFFXN2pWdTgzR09QSm9WMy02bVVlNW1ZdGJFMDBybmZNR21OMWNGNzdUa1Zza2ZZOW1OemtFYXA0c2RvVGZWaktDdw?oc=5",
-      "age": "11h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-18T23:10:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Dell launches PowerRack, a turnkey compute, storage, and networking solution, updates Nvidia AI Factory platform",
-      "summary": "Company says it is working to close the gap between AI ambition and outcomes",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/dell-launches-powerrack-a-turnkey-compute-storage-and-networking-solution-updates-nvidia-ai-factory-platform/",
-      "age": "17h ago",
-      "date_iso": "2026-05-18T17:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Dell Technologies World 2026: Biggest Dell AI Factory With Nvidia Innovation",
-      "summary": "Dell Technologies World 2026: Biggest Dell AI Factory With Nvidia Innovation crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUN4Z3hXQ3JPTHAwT1BJX1NMTmtiM3h3ejFQR1poNmtkM0xVLWNrS2FWMUxnbHNRYUp4d1UtSktEQUozT2xNTWdJZEZqQXZqbk1kaEJrOHBLbmlENXdIX3RRdVJXSEVfbjBXamxFU29CMzExUElkNVdHR3QxeVAxVGVMR0ZBTThaNjV2MWxaZjhYSmFSYVJRdG5MTUR3T1J0VFc0ZUZxRVdBd1Nv?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-05-18T17:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Italy plans to build ‘Europe’s largest data center’ in former Trino power plant",
-      "summary": "Data center developer Techbau is reportedly behind the plans",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/italy-plans-to-build-europes-largest-data-center-in-former-trino-power-plant/",
-      "age": "17h ago",
-      "date_iso": "2026-05-18T16:36:22+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "$1.6bn data center plan rejected in Cleveland, Ohio",
-      "summary": "Would have spanned 35 acres and offered 150MW of IT capacity",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/16bn-data-center-plan-rejected-in-cleveland-ohio/",
-      "age": "18h ago",
-      "date_iso": "2026-05-18T16:24:58+00:00"
     }
   ]
 }
