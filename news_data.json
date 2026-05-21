@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-05-20T10:20:20.156618+00:00",
+  "generated_at": "2026-05-21T10:32:58.184525+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "infra",
-      "title": "Stak Energy proposes 3GW natural gas-powered data center in Alaska's North Slope",
-      "summary": "Set to lease 715.4 acres of land in Umiat Meridian",
+      "category": "gpu",
+      "title": "Alibaba announces new AI chip for training and inferencing workloads",
+      "summary": "Zhenwu M890 has 144GB of GPU memory",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/stak-energy-proposes-3gw-natural-gas-powered-data-center-in-alaskas-north-slope/",
-      "age": "just now",
-      "date_iso": "2026-05-20T10:11:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Stack commits $73.5bn investment into data center campus in Berry Hill, Virginia",
-      "summary": "Company secures local performance agreement with Danville-Pittsylvania Regional Industrial Facility Authority",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/stack-commits-735bn-investment-into-data-center-campus-in-berry-hill-virginia/",
-      "age": "just now",
-      "date_iso": "2026-05-20T10:07:15+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "DCD>Survey Report: Mission Critical Power",
-      "summary": "Understanding how evolving power demands, operational resilience, and infrastructure modernization are reshaping enterprise data center strategies",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/research/dcdsurvey-report-mission-critical-power/",
-      "age": "just now",
-      "date_iso": "2026-05-20T09:58:12+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "PostgreSQL backup tool gets some backup of its own after sole maintainer sounds alarm",
-      "summary": "AWS, Percona, Supabase, pgEdge, and Tiger Data rally round pgBackRest with funding pledge",
-      "source": "The Register",
-      "link": "https://www.theregister.com/databases/2026/05/20/postgresql-backup-tool-gets-some-backup-of-its-own-after-sole-maintainer-sounds-alarm/5242822",
+      "link": "https://www.datacenterdynamics.com/en/news/alibaba-announces-new-ai-chip-for-training-and-inferencing-workloads/",
       "age": "1h ago",
-      "date_iso": "2026-05-20T09:15:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Space factories edge closer after experimental capsule survives hypersonic landing",
-      "summary": "Varda hails success of autonomous touchdown tech and celebrates heat data haul",
-      "source": "The Register",
-      "link": "https://www.theregister.com/science/2026/05/20/space-factories-edge-closer-after-experimental-capsule-survives-hypersonic-landing/5243140",
-      "age": "3h ago",
-      "date_iso": "2026-05-20T06:21:07+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD Ryzen 7 7700X3D Leak: Budget 8-Core AM5 Chip Keeps Full 3D V-Cache Intact",
-      "summary": "AMD Ryzen 7 7700X3D Leak: Budget 8-Core AM5 Chip Keeps Full 3D V-Cache Intact HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0xzUzBqemxFYjBpRkZfa1k0cTlRWXlyTWZmbWtVamdDdG5SQVhsX3lKZi1tTDFVU2VZcUJERzRmRm8zMWdVMHZld3puTTcycTNyN0tIZFpqRFhBUW5qUmVvVFowZl9BWW42UTBTZlRDNnZiQU1HdlMzUWlQR2hBcUpn?oc=5",
-      "age": "19h ago",
-      "date_iso": "2026-05-19T14:34:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Intel tells PC makers to adopt 18A CPUs or lose their supply, report claims — Intel 7 supply dries up, pressuring notebook and PC manufacturers in the US, China, and Taiwan",
-      "summary": "Intel tells PC makers to adopt 18A CPUs or lose their supply, report claims — Intel 7 supply dries up, pressuring notebook and PC manufacturers in the US, China, and Taiwan Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmFIU2F2TTVyQVQtQ3RMQUxzTmxHcGFUVUNmMlg1a2J4b0hmdklKTlpWZGdCdTNlT3ZZZlpRZlFTYWhWUW9PLXhyeGxHX3o3TmhCMDRFZFY3aHo0aU1lTUdDazZTTFFTZDlmNFpWVlVuY18zVVJXMmxuU0tTTnRlNWktejlqeGRwNGxNdjJQUWtPU1pLZGdoQUlTd25xMWxLWjBIbFJlTW5wWDZ3?oc=5",
-      "age": "22h ago",
-      "date_iso": "2026-05-19T12:13:24+00:00"
+      "date_iso": "2026-05-21T08:54:44+00:00"
     },
     {
       "category": "infra",
-      "title": "Meta to receive over $3 billion in tax breaks for its 2,250 acre Louisiana data center – enough to fund the state’s police budget for seven years",
-      "summary": "Meta to receive over $3 billion in tax breaks for its 2,250 acre Louisiana data center – enough to fund the state’s police budget for seven years TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS2RmWFlCLXd5M1VfeldzTkFIS0tCMnRNZ01SU205Ukl5UDQwWkJRQ01sVU9ONzNOd3V6Q2htdHN6QWJXY1k2S2JMTVhLdi01eVRyai03X0NEeGpMalU5QUFLMnZkTk5FLTdBNE1hcEpWU0lEQ1FxUkFEYTlxOVVGZ05wNkpjSGtqVUp3Wk1BbFVqa1NqcWRvdmZSQlE0N2t1a0Ixc0Ezd3F5N3NzdlV2cUZJYmk0Q2hFT3JGejI0N0lJWXZlellSSFV5TXUxRGctWWZGaG5EdTMwMW9YQjYwMWw1R3hxeW5wNU9kcG81MTRlUjE0UFIzNHBMMGxOamtwZGpURg?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-19T01:25:00+00:00"
+      "title": "Open Compute urges local government to bask in the warm glow of excess datacenter heat",
+      "summary": "Org that represents Meta, Google and Microsoft plans more heat reuse guidelines as debate over bit barn social license burns red hot",
+      "source": "The Register",
+      "link": "https://www.theregister.com/off-prem/2026/05/21/open-compute-urges-local-government-to-bask-in-the-warm-glow-of-excess-datacenter-heat/5243917",
+      "age": "4h ago",
+      "date_iso": "2026-05-21T05:38:58+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Nvidia on track to be worlds leading CPU supplier claims CFO",
+      "summary": "GPUzilla forecasts $20 billion in CPU revenues this year",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/05/21/nvidia-on-track-to-be-worlds-leading-cpu-supplier-claims-cfo/5243868",
+      "age": "10h ago",
+      "date_iso": "2026-05-21T00:23:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Experimental chip delivers extreme performance gains but…",
-      "summary": "Experimental chip delivers extreme performance gains but… TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxObUVBQ3RZSDlBaW1rNjVvU0RPNzRWQTBzUG1MNFZtUmFGckR5ZXRkb1RyWUF5dVNQTi1UYnRQU19CVWFiV1hxSlhWaGFva2VsdC1JbTJveWo1YVhvSkRPNkxYc2NUN1ltTFJmekpFdkVJZUZEODZMaTN5cDV2SFFITlNRbllVeC1BSkdyQWFYak9kSHQwTEVET3BPeXgxbEltSmVpWFJCV2Fud0xPMHZVR1NOTjNRZkRfVENOM3FuQWpzV1VkdHZ1MDdBeWZ1SnJCTTlraHVmbFlCOXB6Z1BydWh0SkJLSDRiMFRyeFJVbWVYeTVQZXIwYmZlQ1pwYjdLRWtFMnN2UjAtckNacTlkSjNhcmFyMHlaaE4yc0JkWUpYbWJURDlNQ0JBMWJJeFFXN2pWdTgzR09QSm9WMy02bVVlNW1ZdGJFMDBybmZNR21OMWNGNzdUa1Zza2ZZOW1OemtFYXA0c2RvVGZWaktDdw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-18T23:10:00+00:00"
+      "title": "AMD Ups Ante With 192GB Ryzen AI Max PRO 400 Chips for AI Systems",
+      "summary": "AMD Ups Ante With 192GB Ryzen AI Max PRO 400 Chips for AI Systems ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1ZOUGR0MEpCbHl4cDJBejRLUlNoWl9RLS1HMFA5T2c4UzROOF9kY29DYkVXSDAySGVQaTVHQ3BVTXVzUFp1TlVRdUl0dEFtVHU2cGdKQnJTc2hLR1o3RVhqR1ZDajhvakZ1ZG84X1FUMGhOSmEwY0lJaXo0Q01LazIyRXE5anBkeXI5RGx6NlAzak1zTTdWMHdB?oc=5",
+      "age": "10h ago",
+      "date_iso": "2026-05-21T00:00:43+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Meta begins laying off 8,000 workers, including data center staff",
+      "summary": "Even as the job cuts look to help fund more AI data centers",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/meta-begins-laying-off-8000-workers-including-data-center-staff/",
+      "age": "11h ago",
+      "date_iso": "2026-05-20T22:53:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Nvidia posts record quarterly revenue of $81.6bn as company splits reporting framework into data center and Edge computing segments",
+      "summary": "Data center segment will now contain two sub-markets: Hyperscale and AI Clouds, Industrial, and Enterprise",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-posts-record-quarterly-revenue-of-816bn-as-company-splits-reporting-framework-into-data-center-and-edge-computing-segments/",
+      "age": "13h ago",
+      "date_iso": "2026-05-20T20:55:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Analog Devices acquires Empower Semiconductor in $1.5bn all-cash deal",
+      "summary": "Empower CEO Tim Phillips will continue to lead IVR development efforts once transaction has closed",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/analog-devices-acquires-empower-semiconductor-in-15bn-all-cash-deal/",
+      "age": "14h ago",
+      "date_iso": "2026-05-20T19:46:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Crypto firm Mara sued over 'data center noise and dead chickens'",
+      "summary": "Denies any wrongdoing",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/crypto-firm-mara-sued-over-data-center-noise-and-dead-chickens/",
+      "age": "16h ago",
+      "date_iso": "2026-05-20T18:25:43+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Samsung narrowly avoids 18-day chip strike after last-minute wage deal with 48,000-worker union — tentative deal, subject to workers' vote, suspends billions of dollars worth of potential losses",
+      "summary": "Samsung narrowly avoids 18-day chip strike after last-minute wage deal with 48,000-worker union — tentative deal, subject to workers' vote, suspends billions of dollars worth of potential losses Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZTJ6ejluU3ByM3BnWjdKay1YWGVtYnRrRzJ3UDJjSXo5Q3VZZnA5NTBEMFhmekx5aFNnV0EzeHF1ZE1YcGM5NG40WXJaZXBOTlBBeXEzeGNPV2lfaW1Ob3JYSjFnNnYzT2ZkQUhqX08tZlA2d1I4b0ZPWlR1NWxuazliZ1hQaHNwajRrMVY0LVdVLWtUcF91YTRyOGJCbGZWUHg2VkZETkt3N3B3V3dhLTA2czBHTmk0UXp3QjRrYTByODdNY3FuNGpuMWx4WDhtZjdXSzFsMUNvNTAyREZJeS01cF9mTzAyLXVRU0ZHZ3h0ZkVtQzZfSGR6WWtydE1vQzVEbzNWUlpwR1djN05NZ013RmtRM0ROM0Z2X1NlSVhRZ052SEpiYzIzMDIxeU5yWG5yeVZ0dHdkMktOWFF2a05kNXE3WndaQjFZYlRaTEZ2UFhfclJXWmM0bmNJdw?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-05-20T17:53:18+00:00"
     }
   ]
 }
