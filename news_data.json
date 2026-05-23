@@ -1,24 +1,69 @@
 {
-  "generated_at": "2026-05-22T10:18:09.049982+00:00",
+  "generated_at": "2026-05-23T08:58:05.475613+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "gpu",
-      "title": "Anthropic in talks to use Microsoft's custom Maia AI chips - report",
-      "summary": "Remain in early stages and may not progress to an agreement",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/anthropic-in-talks-to-use-microsofts-custom-maia-ai-chips-report/",
+      "category": "cpu",
+      "title": "Evaluating SPEC CPU2026",
+      "summary": "SPEC’s CPU benchmark suite has been a long established industry standard, and is almost impossible to miss when reading through various publications.",
+      "source": "ChipsAndCheese",
+      "link": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
       "age": "just now",
-      "date_iso": "2026-05-22T10:07:56+00:00"
+      "date_iso": "2026-05-23T08:40:38+00:00"
     },
     {
       "category": "gpu",
-      "title": "Alibaba just admitted it’s struggling to keep up with rival chipmakers and AI shops",
-      "summary": "Reveals decent new homegrown accelerator and tiny production volumes",
+      "title": "Corsair Taps Chinese CXMT DRAM to Combat Brutal 2026 Memory Shortage",
+      "summary": "Corsair Taps Chinese CXMT DRAM to Combat Brutal 2026 Memory Shortage HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MZ3BJMkkzUTJkYTZEendMMEdXOUdFNkdSVFZpS3g3X0FsMzF0clN0cnRnUmY4eDRyN3BKcERlcG9JLWdaRjU0NVVXYzl3Q05OVUlKRFZVZ1NxTDRuLTRrVw?oc=5",
+      "age": "14h ago",
+      "date_iso": "2026-05-22T18:50:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Datacenter builders face an impossible quandary: Demand to the left of me, protests to the right",
+      "summary": "Wood Mackenzie analysts say bit barn operators are in a tough spot",
       "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/05/22/alibaba-just-admitted-its-struggling-to-keep-up-with-rival-chipmakers-and-ai-shops/5244665",
-      "age": "7h ago",
-      "date_iso": "2026-05-22T02:39:40+00:00"
+      "link": "https://www.theregister.com/systems/2026/05/22/ai-datacenter-boom-collides-with-us-grid-reality/5245295",
+      "age": "15h ago",
+      "date_iso": "2026-05-22T17:10:04+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "As memory prices squeeze enterprise buyers, Lenovo laughs all the way to the bank",
+      "summary": "Switch to premium devices pays off as PC giant post record record, just don't ask about cheap laptops",
+      "source": "The Register",
+      "link": "https://www.theregister.com/personal-tech/2026/05/22/as-memory-prices-squeeze-enterprise-buyers-lenovo-laughs-all-the-way-to-the-bank/5245202",
+      "age": "17h ago",
+      "date_iso": "2026-05-22T15:52:17+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Musk: SpaceX-xAI is actively seeking more AI compute customers, following Anthropic deal",
+      "summary": "As the business appears to be morphing into a neocloud",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/musk-spacex-xai-is-actively-seeking-more-ai-compute-customers-following-anthropic-deal/",
+      "age": "17h ago",
+      "date_iso": "2026-05-22T15:09:36+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Meta data center allegedly muddies Georgia town's drinking water, investigation underway — EPA promises immediate investigation after congresswoman brings dirty jars of water to hearing",
+      "summary": "Meta data center allegedly muddies Georgia town's drinking water, investigation underway — EPA promises immediate investigation after congresswoman brings dirty jars of water to hearing Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOaUplYng3UEhvVkk1c3p0dnVrd1l1VGItZ2lnaGpjUFMwUnBzTVdzR2FFTi1Ya1c2UjNUczA3ZVREWmtQc0pURjN4Tklkc1RXcmpUTllUSmdlTFVDT0sxNzMyME1VMXBOU1dZc2hPRVdIeXFMSndwdGFQTW80SmRjZXlwX0o1NWIwbzVMQVMxZlA4Q09Yb1k0U0RzWFJRTmZyTHplUnJBVnAxRG0wdlBpYzdyVWd3eHc4aHQ5dHkxM2Vkam9LN0F6NWpnNXhELW5Kb0NOa2dEUFNnenc2TmZ6RlhSam5UMGlPVWYwekphWTVGc3lEMGxaYnpIYkhzSkYtb1lzU3cySEhBM0JjWFYwdjBLS1VLNDdja2ZYU3RHVmpzUldQWk1wbXdYcDBNMXc5VG8taEJDbGtsS1lRSUJiczQ4a2duSmxtakVPLWxVc04ySFU?oc=5",
+      "age": "17h ago",
+      "date_iso": "2026-05-22T15:05:30+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Analyst says Nvidia poised to capture two-thirds of the x86 server CPU market from Intel and AMD with expected $20 billion in revenue — 'Nvidia is already on track' to deliver 4 million Vera CPUs in FY2027",
+      "summary": "Analyst says Nvidia poised to capture two-thirds of the x86 server CPU market from Intel and AMD with expected $20 billion in revenue — 'Nvidia is already on track' to deliver 4 million Vera CPUs in FY2027 Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOcEVJT0g3R3JvM2ZRZ1JnQWNIc1lFaUs1eGRqZDZRdDRwSFJCMFVIMlR2aGl4N0hKNXdfUUVBTUNhXzBwbDlnWk1ncFo3Uk1ZV3owTHN6aFBQTlJCQ1F0VC1jSjl6VnhNM0R2OURGOGQxbXNRSUEzcDNvM1NLdXAxMElDQUIwVE1zZS1jdGRnLUk3ZExiS1hxTW5zeUttUVRaQ29QY2VQNjAxMERhaGg2dDgxZ1ZXMThNWWRWWVVnMmNMZnJOZEw4OElFMlU3dFp2VHQ2UmhnQnRjQ2FoTEJFRUEzTzJqS0NlbFFISmlhN0hpS1hRSmlXZm9IQUp2X2xPa09VZUlTeEtSZGd1ZmNhbTF0bGFPNW5ScnZ0UzhkYVBDcUhlTWZMb3BWSExldTR1eER4UEZoU0JXODFCck5FZVgzZnpzR1Bia0NIRXJzeHRJRHJrSW9xNXRMN296SDFGRFNXOUx6c2VzRHM?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-05-22T14:30:00+00:00"
     },
     {
       "category": "infra",
@@ -26,62 +71,17 @@
       "summary": "A submerged Chinese data center is packed with 2,000 servers TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQb1lLdUNTUHNZcXJmeURocHUzQzdJeDFUdUNocXZQbV95S05BMFJHLWxVVHNsTEQzQ1hweWNzMDBNNmFxdUdqQjJMYWtCdm1IMjZLcEFxSTJRemxDaTNGQVhhb2h4WDh1WnM3VXJHZXNEeF9jeVB4VzhXUXhkcGhZZWxSTnNaVTBiRGVaTUFQMFBXano1bmEwcGpKOS0zZ1QtS1pNelVKc3ZTbU0wTzJIaDZXYlU1blpBZVZjTFl5MXBmWVZDendEUm0xMEF5YXVKU3Q4eS1FMG1fZ2taMS1mc2hRcDNvR2ItVkc2dENodllPTmZ1dmloZi1NNENvbW9rVFVlV3c5YnktaVdUdUJqRHBCbVZmeHN1aThCU19Haw?oc=5",
-      "age": "13h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-21T21:10:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling — hunts three fugitives for document forgery, fraudulent declarations in Super Micro smuggling case",
-      "summary": "Taiwan raids 12 locations in its first formal crackdown on Nvidia AI chip smuggling — hunts three fugitives for document forgery, fraudulent declarations in Super Micro smuggling case Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQMXB6NE5pNUk4ZnJPMHl6VzlwaFFsRDVOaWlzcjJiNGk4N1pfLW4wYmpVd1pTdy1MQ1c2UHFjalY4YVItTU9rcXBPQTVsYzI5MXcyZ1F3NTNheWRZZ0hKQUxuSFN2VFRoTkp2Nno5cVJ6S3V0WTNvR2tuZHdJNEpVaW1SVW5oUC1GZEpudC03V3RfZW1MUGxMSmdNOXA3NlpXWHY0Znc5b2NmTE80NW5qa3hIN0ZYTUF4aFpZenJlU3M5QTQtM2hSVFFWTFFibVhzYVg0QS10ckJndjBLeVJvOEkxaFE2MExiMXlIeWFXRlppZGtnSjdZUHlpNG9EQnNFZmhoQU91WGNaM21sLVc2LUtYekItcU80c2NwRTVnNEYzSnBWRzdXeUpfTUJraWhKTzVqc1FYaS1MNi01MEZMTmF4YlpELUZhNmc?oc=5",
-      "age": "21h ago",
-      "date_iso": "2026-05-21T13:01:39+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD Details Ryzen AI Halo AI Dev Mini-PC, Pre-Orders In June For $3999",
-      "summary": "AMD Details Ryzen AI Halo AI Dev Mini-PC, Pre-Orders In June For $3999 ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEQwRTdPQ3YwU0phVUE4THRyc2NnRjI1MWFGU205Xy1kdkF5ZnJYMHp2TnlGOW8wZ1dXU1Myam95bzdnMWZKc2VSbmYxdWMzNE5xaFFhV283LU52VHR2ZFZWSUx5ZWRtRWdsdE9WLUIyRUs5T3dDdkN4LW1wemVTblRWdWdUY3lQYVpkMXhETkJZWmxyRU5XODhOYUJDeHM?oc=5",
+      "title": "Nvidia tells users to update GPU drivers now or face possible attack — here's what we know",
+      "summary": "Nvidia tells users to update GPU drivers now or face possible attack — here's what we know TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODJtc0VuQzlzVjZYdnZsY0NDUElibWxVLVNfWGtoaFZvZkh4LVJvTnRxOUJfS1FlSFY2NnBDejVteFJjRTlxemJfYUVOTGFDZFhFQWNSVE1KaHZ5dVBuQ0ItOG9Sem93SDJDVEFSdnZKZDJ4ajR1X2pnLS1uM0JKMXJsNGFfZm1XYU4zSk90aDNQOXhPUHhpNkU3WlA3QUFNSnpiTW5HRnY1VXpvOGJXOHJTMVBZRlJBQ2ZZa29kcE1VMXlw?oc=5",
       "age": "1d ago",
-      "date_iso": "2026-05-21T00:41:36+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD Ups Ante With 192GB Ryzen AI Max PRO 400 Chips for AI Systems",
-      "summary": "AMD Ups Ante With 192GB Ryzen AI Max PRO 400 Chips for AI Systems ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1ZOUGR0MEpCbHl4cDJBejRLUlNoWl9RLS1HMFA5T2c4UzROOF9kY29DYkVXSDAySGVQaTVHQ3BVTXVzUFp1TlVRdUl0dEFtVHU2cGdKQnJTc2hLR1o3RVhqR1ZDajhvakZ1ZG84X1FUMGhOSmEwY0lJaXo0Q01LazIyRXE5anBkeXI5RGx6NlAzak1zTTdWMHdB?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-21T00:00:43+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Samsung narrowly avoids 18-day chip strike after last-minute wage deal with 48,000-worker union — tentative deal, subject to workers' vote, suspends billions of dollars worth of potential losses",
-      "summary": "Samsung narrowly avoids 18-day chip strike after last-minute wage deal with 48,000-worker union — tentative deal, subject to workers' vote, suspends billions of dollars worth of potential losses Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZTJ6ejluU3ByM3BnWjdKay1YWGVtYnRrRzJ3UDJjSXo5Q3VZZnA5NTBEMFhmekx5aFNnV0EzeHF1ZE1YcGM5NG40WXJaZXBOTlBBeXEzeGNPV2lfaW1Ob3JYSjFnNnYzT2ZkQUhqX08tZlA2d1I4b0ZPWlR1NWxuazliZ1hQaHNwajRrMVY0LVdVLWtUcF91YTRyOGJCbGZWUHg2VkZETkt3N3B3V3dhLTA2czBHTmk0UXp3QjRrYTByODdNY3FuNGpuMWx4WDhtZjdXSzFsMUNvNTAyREZJeS01cF9mTzAyLXVRU0ZHZ3h0ZkVtQzZfSGR6WWtydE1vQzVEbzNWUlpwR1djN05NZ013RmtRM0ROM0Z2X1NlSVhRZ052SEpiYzIzMDIxeU5yWG5yeVZ0dHdkMktOWFF2a05kNXE3WndaQjFZYlRaTEZ2UFhfclJXWmM0bmNJdw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-20T17:53:18+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD Ryzen 7 7700X3D Leak: Budget 8-Core AM5 Chip Keeps Full 3D V-Cache Intact",
-      "summary": "AMD Ryzen 7 7700X3D Leak: Budget 8-Core AM5 Chip Keeps Full 3D V-Cache Intact HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0xzUzBqemxFYjBpRkZfa1k0cTlRWXlyTWZmbWtVamdDdG5SQVhsX3lKZi1tTDFVU2VZcUJERzRmRm8zMWdVMHZld3puTTcycTNyN0tIZFpqRFhBUW5qUmVvVFowZl9BWW42UTBTZlRDNnZiQU1HdlMzUWlQR2hBcUpn?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-05-19T14:34:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Intel tells PC makers to adopt 18A CPUs or lose their supply, report claims — Intel 7 supply dries up, pressuring notebook and PC manufacturers in the US, China, and Taiwan",
-      "summary": "Intel tells PC makers to adopt 18A CPUs or lose their supply, report claims — Intel 7 supply dries up, pressuring notebook and PC manufacturers in the US, China, and Taiwan Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmFIU2F2TTVyQVQtQ3RMQUxzTmxHcGFUVUNmMlg1a2J4b0hmdklKTlpWZGdCdTNlT3ZZZlpRZlFTYWhWUW9PLXhyeGxHX3o3TmhCMDRFZFY3aHo0aU1lTUdDazZTTFFTZDlmNFpWVlVuY18zVVJXMmxuU0tTTnRlNWktejlqeGRwNGxNdjJQUWtPU1pLZGdoQUlTd25xMWxLWjBIbFJlTW5wWDZ3?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-05-19T12:13:24+00:00"
+      "date_iso": "2026-05-21T16:05:00+00:00"
     }
   ]
 }
