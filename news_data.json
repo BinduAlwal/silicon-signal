@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-05-23T08:58:05.475613+00:00",
+  "generated_at": "2026-05-24T09:14:43.603165+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "gpu",
+      "title": "Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips — Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint",
+      "summary": "Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips — Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNeGxwZmNtUVdKS3VpeEtaTTZDUHU0eVFmYk1jamtiVG5aeXQ3czRfb3NZSUg5aDEwT1dfS0tITTFoNW9BM0VzRF9kTDlTYUt3bjE1ZU1heVlRZFlDV0NyQndsRXhoWG9KUUpYUWpRc0wtVEZxOE5LOGR2M21iaDh0V1hVOEE5WlhSVXN3ZU9jUlR6Nm9IQ09wb0N0ZTZZTnA5Y1NyZ082N01UdHFUZFpGcl83aHFNY3lBeDVGbzdHeWVDenB1QzJUQU5ES3Q4YWVpYUtiRTVTMjhic1BuQ3dzSGJ4TzVhSUpMRWQzbjE1cVc3dEJLTHVEM1FyVU1FUG5DM3JXeGEtbGpncTlqMjgzNHZDTU1tVktqUzFxbnoxellQWlJfVFplcVFmWUw?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-05-23T11:40:00+00:00"
+    },
     {
       "category": "cpu",
       "title": "Evaluating SPEC CPU2026",
       "summary": "SPEC’s CPU benchmark suite has been a long established industry standard, and is almost impossible to miss when reading through various publications.",
       "source": "ChipsAndCheese",
       "link": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
-      "age": "just now",
+      "age": "1d ago",
       "date_iso": "2026-05-23T08:40:38+00:00"
     },
     {
@@ -17,26 +26,17 @@
       "summary": "Corsair Taps Chinese CXMT DRAM to Combat Brutal 2026 Memory Shortage HotHardware",
       "source": "HotHardware",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MZ3BJMkkzUTJkYTZEendMMEdXOUdFNkdSVFZpS3g3X0FsMzF0clN0cnRnUmY4eDRyN3BKcERlcG9JLWdaRjU0NVVXYzl3Q05OVUlKRFZVZ1NxTDRuLTRrVw?oc=5",
-      "age": "14h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-22T18:50:00+00:00"
     },
     {
-      "category": "infra",
-      "title": "Datacenter builders face an impossible quandary: Demand to the left of me, protests to the right",
-      "summary": "Wood Mackenzie analysts say bit barn operators are in a tough spot",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/05/22/ai-datacenter-boom-collides-with-us-grid-reality/5245295",
-      "age": "15h ago",
-      "date_iso": "2026-05-22T17:10:04+00:00"
-    },
-    {
       "category": "gpu",
-      "title": "As memory prices squeeze enterprise buyers, Lenovo laughs all the way to the bank",
-      "summary": "Switch to premium devices pays off as PC giant post record record, just don't ask about cheap laptops",
-      "source": "The Register",
-      "link": "https://www.theregister.com/personal-tech/2026/05/22/as-memory-prices-squeeze-enterprise-buyers-lenovo-laughs-all-the-way-to-the-bank/5245202",
-      "age": "17h ago",
-      "date_iso": "2026-05-22T15:52:17+00:00"
+      "title": "Intel Titan Lake Rumored for All P-Cores, Hammer Lake to Return Hyper-Threading",
+      "summary": "Intel Titan Lake Rumored for All P-Cores, Hammer Lake to Return Hyper-Threading HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYZk1OeHJJU3l1TV9RSjhWaHBlSVlRYlp0RVcxczY3eno1Q3NkRm1ZMTQwbS1lZGVMRVNXQUQwUE9xZ01zMmZqZGV5NWhYU3lzc1JIeUJWUDBBWlUtWndtMGVpSjJQOXZ3SnlLZkNtUGY5dw?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-05-22T17:10:00+00:00"
     },
     {
       "category": "infra",
@@ -44,7 +44,7 @@
       "summary": "As the business appears to be morphing into a neocloud",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/musk-spacex-xai-is-actively-seeking-more-ai-compute-customers-following-anthropic-deal/",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-22T15:09:36+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "summary": "Meta data center allegedly muddies Georgia town's drinking water, investigation underway — EPA promises immediate investigation after congresswoman brings dirty jars of water to hearing Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOaUplYng3UEhvVkk1c3p0dnVrd1l1VGItZ2lnaGpjUFMwUnBzTVdzR2FFTi1Ya1c2UjNUczA3ZVREWmtQc0pURjN4Tklkc1RXcmpUTllUSmdlTFVDT0sxNzMyME1VMXBOU1dZc2hPRVdIeXFMSndwdGFQTW80SmRjZXlwX0o1NWIwbzVMQVMxZlA4Q09Yb1k0U0RzWFJRTmZyTHplUnJBVnAxRG0wdlBpYzdyVWd3eHc4aHQ5dHkxM2Vkam9LN0F6NWpnNXhELW5Kb0NOa2dEUFNnenc2TmZ6RlhSam5UMGlPVWYwekphWTVGc3lEMGxaYnpIYkhzSkYtb1lzU3cySEhBM0JjWFYwdjBLS1VLNDdja2ZYU3RHVmpzUldQWk1wbXdYcDBNMXc5VG8taEJDbGtsS1lRSUJiczQ4a2duSmxtakVPLWxVc04ySFU?oc=5",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-22T15:05:30+00:00"
     },
     {
@@ -62,7 +62,7 @@
       "summary": "Analyst says Nvidia poised to capture two-thirds of the x86 server CPU market from Intel and AMD with expected $20 billion in revenue — 'Nvidia is already on track' to deliver 4 million Vera CPUs in FY2027 Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOcEVJT0g3R3JvM2ZRZ1JnQWNIc1lFaUs1eGRqZDZRdDRwSFJCMFVIMlR2aGl4N0hKNXdfUUVBTUNhXzBwbDlnWk1ncFo3Uk1ZV3owTHN6aFBQTlJCQ1F0VC1jSjl6VnhNM0R2OURGOGQxbXNRSUEzcDNvM1NLdXAxMElDQUIwVE1zZS1jdGRnLUk3ZExiS1hxTW5zeUttUVRaQ29QY2VQNjAxMERhaGg2dDgxZ1ZXMThNWWRWWVVnMmNMZnJOZEw4OElFMlU3dFp2VHQ2UmhnQnRjQ2FoTEJFRUEzTzJqS0NlbFFISmlhN0hpS1hRSmlXZm9IQUp2X2xPa09VZUlTeEtSZGd1ZmNhbTF0bGFPNW5ScnZ0UzhkYVBDcUhlTWZMb3BWSExldTR1eER4UEZoU0JXODFCck5FZVgzZnpzR1Bia0NIRXJzeHRJRHJrSW9xNXRMN296SDFGRFNXOUx6c2VzRHM?oc=5",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-22T14:30:00+00:00"
     },
     {
@@ -71,7 +71,7 @@
       "summary": "A submerged Chinese data center is packed with 2,000 servers TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQb1lLdUNTUHNZcXJmeURocHUzQzdJeDFUdUNocXZQbV95S05BMFJHLWxVVHNsTEQzQ1hweWNzMDBNNmFxdUdqQjJMYWtCdm1IMjZLcEFxSTJRemxDaTNGQVhhb2h4WDh1WnM3VXJHZXNEeF9jeVB4VzhXUXhkcGhZZWxSTnNaVTBiRGVaTUFQMFBXano1bmEwcGpKOS0zZ1QtS1pNelVKc3ZTbU0wTzJIaDZXYlU1blpBZVZjTFl5MXBmWVZDendEUm0xMEF5YXVKU3Q4eS1FMG1fZ2taMS1mc2hRcDNvR2ItVkc2dENodllPTmZ1dmloZi1NNENvbW9rVFVlV3c5YnktaVdUdUJqRHBCbVZmeHN1aThCU19Haw?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-05-21T21:10:00+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "summary": "Nvidia tells users to update GPU drivers now or face possible attack — here's what we know TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODJtc0VuQzlzVjZYdnZsY0NDUElibWxVLVNfWGtoaFZvZkh4LVJvTnRxOUJfS1FlSFY2NnBDejVteFJjRTlxemJfYUVOTGFDZFhFQWNSVE1KaHZ5dVBuQ0ItOG9Sem93SDJDVEFSdnZKZDJ4ajR1X2pnLS1uM0JKMXJsNGFfZm1XYU4zSk90aDNQOXhPUHhpNkU3WlA3QUFNSnpiTW5HRnY1VXpvOGJXOHJTMVBZRlJBQ2ZZa29kcE1VMXlw?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-05-21T16:05:00+00:00"
     }
   ]
