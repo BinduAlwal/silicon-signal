@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-05-25T11:05:11.479107+00:00",
+  "generated_at": "2026-05-27T10:49:52.518577+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Digital sovereignty, the musical: One engineer’s bizarre crusade against hyperscalers",
-      "summary": "A French engineer has declared war on AWS, Google and Microsoft using AI-generated sea shanties, satirical poetry, and a multilingual protest campaign",
-      "source": "The Register",
-      "link": "https://www.theregister.com/offbeat/2026/05/25/digital-sovereignty-the-musical-one-engineers-bizarre-crusade-against-hyperscalers/5245148",
-      "age": "1h ago",
-      "date_iso": "2026-05-25T09:38:00+00:00"
-    },
-    {
-      "category": "edge",
-      "title": "Samsung memory workers call off strike and may score six-figure bonuses",
-      "summary": "PLUS: Huawei says it’s replaced Moore’s Law; Chinese mobile plans add token allowances; Singtel slinging Optus; And more!",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/05/25/samsung-memory-workers-call-off-strike-and-may-score-six-figure-bonuses/5245573",
-      "age": "6h ago",
-      "date_iso": "2026-05-25T04:14:46+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "APC PowerForge with Dell and NVIDIA at DTW 2026",
-      "summary": "APC PowerForge with Dell and NVIDIA at DTW 2026 ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMVNTOVNEMDdvVFJYalN3OUt2b3VSdnFVNGxUS2drTVU2TTZDNjNtRDZWVFpsdmxNWndjVUJXdHNMRFd4Yy1GbURrdHlpMXNnSjU2S3l5VXNtTFU2NmRYMFVBUmhFdklpSEoyUHhScjVCQU5kZTdBdmcxbjY2R3pEdy1Kaw?oc=5",
-      "age": "14h ago",
-      "date_iso": "2026-05-24T20:14:23+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "NVIDIA's Vera CPU Rumored To Crush Intel And AMD x86 Chips By 1.5X At Computex",
-      "summary": "NVIDIA's Vera CPU Rumored To Crush Intel And AMD x86 Chips By 1.5X At Computex HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUEyTnpxSVZKTU1lTm1Hd2x3d3VROTlzZDBIb3c4YUxzUXlGSjZ1eDFZOGpyejVURklHUEJzOHFMQkhTRmtxZzVJOVMxRjBYX1JOMXMwNFRJYVRxRGU5bVJBcUpkQ1NqUjE4eWNURkhvX3dteG5WX3NBWXRlLXZ1ak9RNjRjZw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-23T18:37:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips — Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint",
-      "summary": "Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips — Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNeGxwZmNtUVdKS3VpeEtaTTZDUHU0eVFmYk1jamtiVG5aeXQ3czRfb3NZSUg5aDEwT1dfS0tITTFoNW9BM0VzRF9kTDlTYUt3bjE1ZU1heVlRZFlDV0NyQndsRXhoWG9KUUpYUWpRc0wtVEZxOE5LOGR2M21iaDh0V1hVOEE5WlhSVXN3ZU9jUlR6Nm9IQ09wb0N0ZTZZTnA5Y1NyZ082N01UdHFUZFpGcl83aHFNY3lBeDVGbzdHeWVDenB1QzJUQU5ES3Q4YWVpYUtiRTVTMjhic1BuQ3dzSGJ4TzVhSUpMRWQzbjE1cVc3dEJLTHVEM1FyVU1FUG5DM3JXeGEtbGpncTlqMjgzNHZDTU1tVktqUzFxbnoxellQWlJfVFplcVFmWUw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-23T11:40:00+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Evaluating SPEC CPU2026",
-      "summary": "SPEC’s CPU benchmark suite has been a long established industry standard, and is almost impossible to miss when reading through various publications.",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
-      "age": "2d ago",
-      "date_iso": "2026-05-23T08:40:38+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Corsair Taps Chinese CXMT DRAM to Combat Brutal 2026 Memory Shortage",
-      "summary": "Corsair Taps Chinese CXMT DRAM to Combat Brutal 2026 Memory Shortage HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MZ3BJMkkzUTJkYTZEendMMEdXOUdFNkdSVFZpS3g3X0FsMzF0clN0cnRnUmY4eDRyN3BKcERlcG9JLWdaRjU0NVVXYzl3Q05OVUlKRFZVZ1NxTDRuLTRrVw?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-05-22T18:50:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Intel Titan Lake Rumored for All P-Cores, Hammer Lake to Return Hyper-Threading",
-      "summary": "Intel Titan Lake Rumored for All P-Cores, Hammer Lake to Return Hyper-Threading HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYZk1OeHJJU3l1TV9RSjhWaHBlSVlRYlp0RVcxczY3eno1Q3NkRm1ZMTQwbS1lZGVMRVNXQUQwUE9xZ01zMmZqZGV5NWhYU3lzc1JIeUJWUDBBWlUtWndtMGVpSjJQOXZ3SnlLZkNtUGY5dw?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-05-22T17:10:00+00:00"
+      "title": "Sponsored: Modine announces landmark $4 billion long-term capacity agreement through 2029 with strategic data center customer for Airedale by Modine cooling solutions",
+      "summary": "The agreement solidifies the company’s position as a premier provider of advanced cooling technologies for the rapidly expanding data center market",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/product-news/modine-announces-landmark-4-billion-long-term-capacity-agreement-through-2029-with-strategic-data-center-customer-for-airedale-by-modine-cooling-solutions/",
+      "age": "just now",
+      "date_iso": "2026-05-27T10:00:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Musk: SpaceX-xAI is actively seeking more AI compute customers, following Anthropic deal",
-      "summary": "As the business appears to be morphing into a neocloud",
+      "title": "Mapletree sells data center in Philadelphia, Pennsylvania",
+      "summary": "Company said it had struggled to lease facility",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/musk-spacex-xai-is-actively-seeking-more-ai-compute-customers-following-anthropic-deal/",
-      "age": "2d ago",
-      "date_iso": "2026-05-22T15:09:36+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/mapletree-sells-data-center-in-philadelphia-pennsylvania/",
+      "age": "1h ago",
+      "date_iso": "2026-05-27T09:40:42+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "AWS whips out Graviton-powered Redshift instances, claims 7x speed for data warehouse",
+      "summary": "AI agents asking questions in natural language apparently issue a lot more queries than your average SQL jockey",
+      "source": "The Register",
+      "link": "https://www.theregister.com/databases/2026/05/27/aws-whips-out-graviton-powered-redshift-instances-claims-7x-speed-for-data-warehouse/5246148",
+      "age": "1h ago",
+      "date_iso": "2026-05-27T09:15:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sponsored: Powering smarter: The decisions that determine data center performance",
+      "summary": "The data center industry has a power problem, but it’s not the one everyone is talking about",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/powering-smarter-the-decisions-that-determine-data-center-performance/",
+      "age": "3h ago",
+      "date_iso": "2026-05-27T07:00:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "AMD Zen 7 Grimlock Reportedly Targets TSMC's Cutting-Edge 1.4nm A14 Process",
+      "summary": "AMD Zen 7 Grimlock Reportedly Targets TSMC's Cutting-Edge 1.4nm A14 Process HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hYUFJckhwWTRPVzg1ZzQ2eFR0SE4wNVJYUjd6dEFDRWtVeWh5akI2U011WlBMcmV6U1lWVDlKeGFRNFUtUTljNHBMYkdrLWFpV3lMc1RxTzRWY3Z4emwxcmg1UWh0cWhGbXB1akFaMTl3MlN3?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-05-26T18:45:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Equinix opens MD5 data center in Madrid, Spain",
+      "summary": "New IBX facility adds 4,400 sqm of colocation space",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/equinix-opens-md5-data-center-in-alcobendas-waterless-cooling-to-drive-ai-in-southern-europe/",
+      "age": "17h ago",
+      "date_iso": "2026-05-26T17:20:26+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Bull delivers Finland’s national supercomputer Roihu to CSC’s Kajaani data center",
+      "summary": "System is powered by AMD Turin CPUs and Nvidia GH200 superchips",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/bull-delivers-finlands-national-supercomputer-roihu-to-cscs-kajaani-data-center/",
+      "age": "17h ago",
+      "date_iso": "2026-05-26T17:00:51+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source — integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers",
+      "summary": "SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source — integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPTzFhTjVlZEdxRXpfUjF2NzhicWo1RVBQR3gyOXRmTnlTMnVFLUlCYmQxODlva1BacGhVbjlPSkhTc2RXRDN0Uk5yZ0M4RnZIWVBYTWlNZ2dGQ25ucy1iZ1dITl9RZ0UyQ3g2WVdVSGFwMnF1czdvWjdER3h6Z2NnYzhEcTVvRVd2SlpvMHkxT0FVSVdZTUtVR1VHQkNiYk00VTRlUzJVa1JMVVNnVld0UU9kQTdCclY2Z21Wd3JJd2tzUEdGN0FoSkFSYTM5YVdHb3RmMWZRdWRLTHA4WE5VU2hQM04wTzhaa2NaTlA3a29reEVHbUVVSGFfc0RtT0lqMGZtdi1GQXpnLWVYX3B2MmItc3hCRTJLSzFlblRGRkRyNVFnMWhnWkVXSEJGaGpLT0hLTl9oN2VzVXR1UTBCX215WnlqR0h3ZmF3QTc4eFFiUVZNSWw2bEdfaVQtdzJTVi04Xzg3bjlONDN0UWZzenVxMkJyYXoxX1hneko0bUtrNGpwOXlNaTU2SmJyNHZHN2p3?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-05-26T11:49:14+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Supermicro SYS-112D-36C-FN3P Review A 36 Core Intel Xeon 6 SoC Server with 2x 100GbE",
+      "summary": "Supermicro SYS-112D-36C-FN3P Review A 36 Core Intel Xeon 6 SoC Server with 2x 100GbE ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzkyXzJIRVRzakc3Wl9jZ2RtWDBCMkhLbEJEeG5wVHl4Zi1DSWRTOTkxOWhEX0xtYTRjeE9mZWJPdDlaTWlheGxwWXl0Vk1jZ3BTallCWEp6U2xuLVByYkhYSlB3dnVoMlNFcVI1WFU4Rm8yLVk3blhKVlNuck5zaXhrXzU1OUtzcER2WWd4bVNlSUpGbTNWQ290WFF0ckN3YjhOQ3gxNy13MloxV3JlU2stMGQ?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-05-25T20:22:12+00:00"
     }
   ]
 }
