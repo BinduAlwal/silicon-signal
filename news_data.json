@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-05-27T10:49:52.518577+00:00",
+  "generated_at": "2026-05-28T10:45:40.496872+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Sponsored: Modine announces landmark $4 billion long-term capacity agreement through 2029 with strategic data center customer for Airedale by Modine cooling solutions",
-      "summary": "The agreement solidifies the company’s position as a premier provider of advanced cooling technologies for the rapidly expanding data center market",
+      "title": "Cisco plans to bring SONiC foundation to customers beyond just hyperscalers",
+      "summary": "Blog post inadvertently reveals SONiC support for data center switches will extend to enterprises, neoclouds",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/product-news/modine-announces-landmark-4-billion-long-term-capacity-agreement-through-2029-with-strategic-data-center-customer-for-airedale-by-modine-cooling-solutions/",
+      "link": "https://www.datacenterdynamics.com/en/news/cisco-plans-to-bring-sonic-foundation-to-customers-beyond-just-hyperscalers/",
       "age": "just now",
-      "date_iso": "2026-05-27T10:00:00+00:00"
+      "date_iso": "2026-05-28T10:27:32+00:00"
     },
     {
       "category": "infra",
-      "title": "Mapletree sells data center in Philadelphia, Pennsylvania",
-      "summary": "Company said it had struggled to lease facility",
+      "title": "Applied Digital signs 430MW data center lease with unnamed hyperscaler",
+      "summary": "Applied also completes spin-out of cloud business",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/mapletree-sells-data-center-in-philadelphia-pennsylvania/",
-      "age": "1h ago",
-      "date_iso": "2026-05-27T09:40:42+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/applied-digital-signs-430mw-data-center-lease-with-unnamed-hyperscaler/",
+      "age": "just now",
+      "date_iso": "2026-05-28T10:17:59+00:00"
     },
     {
-      "category": "cpu",
-      "title": "AWS whips out Graviton-powered Redshift instances, claims 7x speed for data warehouse",
-      "summary": "AI agents asking questions in natural language apparently issue a lot more queries than your average SQL jockey",
+      "category": "infra",
+      "title": "DartPoints acquires data center in Lexington, Kentucky",
+      "summary": "Colo company plans large-scale expansion, potentially up to 70MW",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/dartpoints-acquires-data-center-in-lexington-kentucky/",
+      "age": "1h ago",
+      "date_iso": "2026-05-28T09:41:17+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "TeraWulf acquires site in Kentucky for 1GW data center campus",
+      "summary": "Company buys second site in Kentucky",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/terawulf-acquires-site-in-kentucky-for-1gw-data-center-campus/",
+      "age": "1h ago",
+      "date_iso": "2026-05-28T09:06:29+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Swiss-backed GreenSquareDC withdraws application for 120MW data center in Perth, Australia",
+      "summary": "Proposal faced backlash related to noise and proximity to school",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/swiss-backed-greensquaredc-withdraws-application-for-120mw-data-center-in-perth-australia/",
+      "age": "1h ago",
+      "date_iso": "2026-05-28T08:55:35+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Arm moves into the heart of the cloud stack",
+      "summary": "Hyperscaler adoption and AI workloads are accelerating multi-architecture infrastructure",
       "source": "The Register",
-      "link": "https://www.theregister.com/databases/2026/05/27/aws-whips-out-graviton-powered-redshift-instances-claims-7x-speed-for-data-warehouse/5246148",
-      "age": "1h ago",
-      "date_iso": "2026-05-27T09:15:00+00:00"
+      "link": "https://www.theregister.com/off-prem/2026/05/28/arm-moves-into-the-heart-of-the-cloud-stack/5246780",
+      "age": "2h ago",
+      "date_iso": "2026-05-28T08:00:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Sponsored: Powering smarter: The decisions that determine data center performance",
-      "summary": "The data center industry has a power problem, but it’s not the one everyone is talking about",
+      "title": "Kao Data appoints Spencer Lamb as CEO",
+      "summary": "Company to focus on UK data center buildout",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/powering-smarter-the-decisions-that-determine-data-center-performance/",
+      "link": "https://www.datacenterdynamics.com/en/news/kao-data-appoints-spencer-lamb-as-ceo/",
       "age": "3h ago",
-      "date_iso": "2026-05-27T07:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD Zen 7 Grimlock Reportedly Targets TSMC's Cutting-Edge 1.4nm A14 Process",
-      "summary": "AMD Zen 7 Grimlock Reportedly Targets TSMC's Cutting-Edge 1.4nm A14 Process HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hYUFJckhwWTRPVzg1ZzQ2eFR0SE4wNVJYUjd6dEFDRWtVeWh5akI2U011WlBMcmV6U1lWVDlKeGFRNFUtUTljNHBMYkdrLWFpV3lMc1RxTzRWY3Z4emwxcmg1UWh0cWhGbXB1akFaMTl3MlN3?oc=5",
-      "age": "16h ago",
-      "date_iso": "2026-05-26T18:45:00+00:00"
+      "date_iso": "2026-05-28T07:39:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Equinix opens MD5 data center in Madrid, Spain",
-      "summary": "New IBX facility adds 4,400 sqm of colocation space",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/equinix-opens-md5-data-center-in-alcobendas-waterless-cooling-to-drive-ai-in-southern-europe/",
-      "age": "17h ago",
-      "date_iso": "2026-05-26T17:20:26+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Bull delivers Finland’s national supercomputer Roihu to CSC’s Kajaani data center",
-      "summary": "System is powered by AMD Turin CPUs and Nvidia GH200 superchips",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/bull-delivers-finlands-national-supercomputer-roihu-to-cscs-kajaani-data-center/",
-      "age": "17h ago",
-      "date_iso": "2026-05-26T17:00:51+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source — integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers",
-      "summary": "SK hynix unveils 'iHBM' thermal architecture that cools AI memory at the source — integrated cooling elements inside HBM interface cut thermal resistance by 30%, target next-gen HBM5 accelerators and dense AI data centers Tom's Hardware",
+      "title": "Italian council sets 200% tax on data center development in agricultural zones — aims to spur the use of old industrial areas instead and limit environmental impact",
+      "summary": "Italian council sets 200% tax on data center development in agricultural zones — aims to spur the use of old industrial areas instead and limit environmental impact Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPTzFhTjVlZEdxRXpfUjF2NzhicWo1RVBQR3gyOXRmTnlTMnVFLUlCYmQxODlva1BacGhVbjlPSkhTc2RXRDN0Uk5yZ0M4RnZIWVBYTWlNZ2dGQ25ucy1iZ1dITl9RZ0UyQ3g2WVdVSGFwMnF1czdvWjdER3h6Z2NnYzhEcTVvRVd2SlpvMHkxT0FVSVdZTUtVR1VHQkNiYk00VTRlUzJVa1JMVVNnVld0UU9kQTdCclY2Z21Wd3JJd2tzUEdGN0FoSkFSYTM5YVdHb3RmMWZRdWRLTHA4WE5VU2hQM04wTzhaa2NaTlA3a29reEVHbUVVSGFfc0RtT0lqMGZtdi1GQXpnLWVYX3B2MmItc3hCRTJLSzFlblRGRkRyNVFnMWhnWkVXSEJGaGpLT0hLTl9oN2VzVXR1UTBCX215WnlqR0h3ZmF3QTc4eFFiUVZNSWw2bEdfaVQtdzJTVi04Xzg3bjlONDN0UWZzenVxMkJyYXoxX1hneko0bUtrNGpwOXlNaTU2SmJyNHZHN2p3?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-05-26T11:49:14+00:00"
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPWHRGNnJza2JqOWZaR01zeWEtQkx0Q0ZLREIxMFVjTW02UWV4c3lPU1RaYm5QSzZYajF6V1hHUndXSmRoODBYby1OZ0k1dFl1WGI0N1h6YVBaaFZzMmdrV3NrOXBOUGk0UHcyUHdYYTRHTExDMEpaUmt5cHZpTGpqY2MxNnZjazdXcmtVUVFUOW1lT3VsZC1RZko2ZUk3SXNjYng4aWxSWHhqamdvdG5ETHdWMkRhdWEtRWRTN3dCczQyZ0YwU291aUUwazB3a2RFcHc4NzJPcERFaFlMWjV5dmd0Tzg1ZHZvNUFWN0NUQk9Cc0tYeWJRUWVDQkQ5WHp3MTU3MlVKQjZiLWstT0p6TGdXWkVDTF9qMExmUW9QYThrVWk1dGFpdTFud25KUjRwZ1RZajVJSlIzREtWck9teDVUUm9QcTNVLXQzSzBSWlNxN1VZRTZj?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-05-27T16:40:27+00:00"
     },
     {
       "category": "cpu",
-      "title": "Supermicro SYS-112D-36C-FN3P Review A 36 Core Intel Xeon 6 SoC Server with 2x 100GbE",
-      "summary": "Supermicro SYS-112D-36C-FN3P Review A 36 Core Intel Xeon 6 SoC Server with 2x 100GbE ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzkyXzJIRVRzakc3Wl9jZ2RtWDBCMkhLbEJEeG5wVHl4Zi1DSWRTOTkxOWhEX0xtYTRjeE9mZWJPdDlaTWlheGxwWXl0Vk1jZ3BTallCWEp6U2xuLVByYkhYSlB3dnVoMlNFcVI1WFU4Rm8yLVk3blhKVlNuck5zaXhrXzU1OUtzcER2WWd4bVNlSUpGbTNWQ290WFF0ckN3YjhOQ3gxNy13MloxV3JlU2stMGQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-25T20:22:12+00:00"
+      "title": "Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests",
+      "summary": "Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT3I2QmRYTExtNmZPQjcxd1B0eTY1Ym9pTWVqWTNSYk5TYldUZUNkVlBvVjBTQXZ0V05neXRPS1hfOEdKODh0V0lreDU2UGxpaXdlQnRLaklQOWVCaWh3SDJkT2g5UWZGMGxic2J5SUY2cnhMVGJPWUhlenR4WWNkR0NsbU9yRXA1azVZLTczOW1PM1VIOWNOWW9FcHhaazYtb09aaC14d2NlbHhBV2JjRmpWNUFuM2M0VFI1ZmFpODdSV2lyQk9kVmQ4SXI2My1IQzVhVU1ka214SGxOcE1RbTI3Y20xb1FUeEVfTEYwVVN1QWp6RmJOOG9PeWFKN0FIOWc2X3dqSQ?oc=5",
+      "age": "20h ago",
+      "date_iso": "2026-05-27T13:52:31+00:00"
     }
   ]
 }
