@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-05-28T10:45:40.496872+00:00",
+  "generated_at": "2026-05-29T10:39:15.606768+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Cisco plans to bring SONiC foundation to customers beyond just hyperscalers",
-      "summary": "Blog post inadvertently reveals SONiC support for data center switches will extend to enterprises, neoclouds",
+      "title": "Edged files to develop data center in Fort Worth, Texas",
+      "summary": "Company set to launch latest Texas facility next year",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/cisco-plans-to-bring-sonic-foundation-to-customers-beyond-just-hyperscalers/",
+      "link": "https://www.datacenterdynamics.com/en/news/edged-files-to-develop-data-center-in-fort-worth-texas/",
       "age": "just now",
-      "date_iso": "2026-05-28T10:27:32+00:00"
+      "date_iso": "2026-05-29T10:37:07+00:00"
     },
     {
       "category": "infra",
-      "title": "Applied Digital signs 430MW data center lease with unnamed hyperscaler",
-      "summary": "Applied also completes spin-out of cloud business",
+      "title": "Goodman eyes new data center development outside Tokyo, Japan",
+      "summary": "Company plans project in Sagamihara, few details available",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/applied-digital-signs-430mw-data-center-lease-with-unnamed-hyperscaler/",
+      "link": "https://www.datacenterdynamics.com/en/news/goodman-eyes-new-data-center-development-outside-tokyo-japan/",
       "age": "just now",
-      "date_iso": "2026-05-28T10:17:59+00:00"
+      "date_iso": "2026-05-29T10:30:31+00:00"
     },
     {
       "category": "infra",
-      "title": "DartPoints acquires data center in Lexington, Kentucky",
-      "summary": "Colo company plans large-scale expansion, potentially up to 70MW",
+      "title": "LVL Energy announces plans to build 50MW data center in Dąbrowa Górnicza, Poland",
+      "summary": "Call for foreign investors in the project made by its Polish developer",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/dartpoints-acquires-data-center-in-lexington-kentucky/",
-      "age": "1h ago",
-      "date_iso": "2026-05-28T09:41:17+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/lvl-energy-announces-plans-to-build-50mw-data-center-in-d%C4%85browa-g%C3%B3rnicza-poland/",
+      "age": "just now",
+      "date_iso": "2026-05-29T09:59:32+00:00"
     },
     {
       "category": "infra",
-      "title": "TeraWulf acquires site in Kentucky for 1GW data center campus",
-      "summary": "Company buys second site in Kentucky",
+      "title": "Plans revealed for AWS data center in Maintal, Germany",
+      "summary": "Facility will expand the cloud computing giant’s Frankfurt region",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/terawulf-acquires-site-in-kentucky-for-1gw-data-center-campus/",
-      "age": "1h ago",
-      "date_iso": "2026-05-28T09:06:29+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/plans-revealed-for-aws-data-center-in-maintal-germany/",
+      "age": "just now",
+      "date_iso": "2026-05-29T09:57:42+00:00"
     },
     {
-      "category": "infra",
-      "title": "Swiss-backed GreenSquareDC withdraws application for 120MW data center in Perth, Australia",
-      "summary": "Proposal faced backlash related to noise and proximity to school",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/swiss-backed-greensquaredc-withdraws-application-for-120mw-data-center-in-perth-australia/",
-      "age": "1h ago",
-      "date_iso": "2026-05-28T08:55:35+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Arm moves into the heart of the cloud stack",
-      "summary": "Hyperscaler adoption and AI workloads are accelerating multi-architecture infrastructure",
+      "category": "gpu",
+      "title": "Google, Canonical team up to certify Ubuntu images for TPU VMs",
+      "summary": "Chocolate Factory shifts Tensor Processing Unit Ubuntu support back upstream",
       "source": "The Register",
-      "link": "https://www.theregister.com/off-prem/2026/05/28/arm-moves-into-the-heart-of-the-cloud-stack/5246780",
-      "age": "2h ago",
-      "date_iso": "2026-05-28T08:00:00+00:00"
+      "link": "https://www.theregister.com/off-prem/2026/05/28/google-canonical-team-up-to-certify-ubuntu-images-for-tpu-vms/5248028",
+      "age": "15h ago",
+      "date_iso": "2026-05-28T19:00:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Kao Data appoints Spencer Lamb as CEO",
-      "summary": "Company to focus on UK data center buildout",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/kao-data-appoints-spencer-lamb-as-ceo/",
-      "age": "3h ago",
-      "date_iso": "2026-05-28T07:39:00+00:00"
+      "title": "Leaks reveal US authorities concerned about the rise of ‘anti-tech extremists’ as AI data center issues become increasingly contentious — critics say this could lead to surveillance, criminalization of peaceful opposition",
+      "summary": "Leaks reveal US authorities concerned about the rise of ‘anti-tech extremists’ as AI data center issues become increasingly contentious — critics say this could lead to surveillance, criminalization of peaceful opposition Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOdXdiOENFUWc2dVVDWGJrMElnT3lHOFExZGJhampBOUFabUJrRXhrcnFub2x1cEJiNnBsNFk3dDUwWFF3NDdxaWdKMHFoWm5vZ1BJeEQ2MVFjNGw4TlJXYksyVUN5TThMUGU0UkNJcXh6YU94NVVIUE1PaGlNamh4TUNHaFI2V3dGS0VWNXhtOHFhM1g5V0RicjVsZkt2aGR3VjdYZHRJRVNBaU9Bb205ZENiS05yYjZadjBYQnprVnVNanZ6bldHOWZNdkRQcFVlTmtadVQzcHR3dHEwVzVZeGEtOTFtbFo2WUJYdlNnUThqUVRkUHZuQzJUa1k0RGc4ZDRrUUh3WDNyekFFeG9ac1A4cmR6MUNZTUloYU5GZkVRX0lzaG5GVDlfajB4YUFpbE5oaC1sUDZ3elJfUkdMRGZoZFlpVXFRYldRclpnTG5TdHdPUFpYRmdBQ1VzV2ZMMmlQMS01Y2QyM1ZlYWJVbUNzNkJVNDVVaHg4aUlRaUJBSE5EeDNxV1ZaNFJYckxnNy1GNHZR?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-05-28T15:00:29+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "HP’s AI PC, Memory Crisis Updates: Big Takeaways From Q2 Results",
+      "summary": "HP’s AI PC, Memory Crisis Updates: Big Takeaways From Q2 Results crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjFFeTltenlOQU45NXZ4WEdRa1RLdHhJc21DV0FUQXNHSXhtRTd4T1ZDV2FlQVNPVG9BWUhfWWthNFRWYml4YXc2dWUzczZyVTRHZnNEaFBBeXpPNkVZV3FsVWNzUU0yeWV6VWM5cEVkUnpqYmhQdXFOQVRpQXk5MUVQeXIxWmtZdDdKYXd1dFFTRmFXSVB2RkZrZllzbVdtVGlPTg?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-05-27T23:15:00+00:00"
     },
     {
       "category": "infra",
@@ -71,7 +71,7 @@
       "summary": "Italian council sets 200% tax on data center development in agricultural zones — aims to spur the use of old industrial areas instead and limit environmental impact Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPWHRGNnJza2JqOWZaR01zeWEtQkx0Q0ZLREIxMFVjTW02UWV4c3lPU1RaYm5QSzZYajF6V1hHUndXSmRoODBYby1OZ0k1dFl1WGI0N1h6YVBaaFZzMmdrV3NrOXBOUGk0UHcyUHdYYTRHTExDMEpaUmt5cHZpTGpqY2MxNnZjazdXcmtVUVFUOW1lT3VsZC1RZko2ZUk3SXNjYng4aWxSWHhqamdvdG5ETHdWMkRhdWEtRWRTN3dCczQyZ0YwU291aUUwazB3a2RFcHc4NzJPcERFaFlMWjV5dmd0Tzg1ZHZvNUFWN0NUQk9Cc0tYeWJRUWVDQkQ5WHp3MTU3MlVKQjZiLWstT0p6TGdXWkVDTF9qMExmUW9QYThrVWk1dGFpdTFud25KUjRwZ1RZajVJSlIzREtWck9teDVUUm9QcTNVLXQzSzBSWlNxN1VZRTZj?oc=5",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-27T16:40:27+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "summary": "Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT3I2QmRYTExtNmZPQjcxd1B0eTY1Ym9pTWVqWTNSYk5TYldUZUNkVlBvVjBTQXZ0V05neXRPS1hfOEdKODh0V0lreDU2UGxpaXdlQnRLaklQOWVCaWh3SDJkT2g5UWZGMGxic2J5SUY2cnhMVGJPWUhlenR4WWNkR0NsbU9yRXA1azVZLTczOW1PM1VIOWNOWW9FcHhaazYtb09aaC14d2NlbHhBV2JjRmpWNUFuM2M0VFI1ZmFpODdSV2lyQk9kVmQ4SXI2My1IQzVhVU1ka214SGxOcE1RbTI3Y20xb1FUeEVfTEYwVVN1QWp6RmJOOG9PeWFKN0FIOWc2X3dqSQ?oc=5",
-      "age": "20h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-27T13:52:31+00:00"
     }
   ]
