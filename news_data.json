@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-05-29T10:39:15.606768+00:00",
+  "generated_at": "2026-05-30T09:10:02.481394+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Edged files to develop data center in Fort Worth, Texas",
-      "summary": "Company set to launch latest Texas facility next year",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/edged-files-to-develop-data-center-in-fort-worth-texas/",
-      "age": "just now",
-      "date_iso": "2026-05-29T10:37:07+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Goodman eyes new data center development outside Tokyo, Japan",
-      "summary": "Company plans project in Sagamihara, few details available",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/goodman-eyes-new-data-center-development-outside-tokyo-japan/",
-      "age": "just now",
-      "date_iso": "2026-05-29T10:30:31+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "LVL Energy announces plans to build 50MW data center in Dąbrowa Górnicza, Poland",
-      "summary": "Call for foreign investors in the project made by its Polish developer",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/lvl-energy-announces-plans-to-build-50mw-data-center-in-d%C4%85browa-g%C3%B3rnicza-poland/",
-      "age": "just now",
-      "date_iso": "2026-05-29T09:59:32+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Plans revealed for AWS data center in Maintal, Germany",
-      "summary": "Facility will expand the cloud computing giant’s Frankfurt region",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/plans-revealed-for-aws-data-center-in-maintal-germany/",
-      "age": "just now",
-      "date_iso": "2026-05-29T09:57:42+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Google, Canonical team up to certify Ubuntu images for TPU VMs",
-      "summary": "Chocolate Factory shifts Tensor Processing Unit Ubuntu support back upstream",
+      "title": "AWS reportedly to tuck Elon Musk's Grok into Bedrock, despite zero enterprise demand",
+      "summary": "The energy drink of frontier models",
       "source": "The Register",
-      "link": "https://www.theregister.com/off-prem/2026/05/28/google-canonical-team-up-to-certify-ubuntu-images-for-tpu-vms/5248028",
-      "age": "15h ago",
-      "date_iso": "2026-05-28T19:00:00+00:00"
+      "link": "https://www.theregister.com/ai-ml/2026/05/29/aws-reportedly-to-tuck-elon-musks-grok-into-bedrock-despite-zero-enterprise-demand/5248832",
+      "age": "10h ago",
+      "date_iso": "2026-05-29T22:23:25+00:00"
     },
     {
       "category": "infra",
-      "title": "Leaks reveal US authorities concerned about the rise of ‘anti-tech extremists’ as AI data center issues become increasingly contentious — critics say this could lead to surveillance, criminalization of peaceful opposition",
-      "summary": "Leaks reveal US authorities concerned about the rise of ‘anti-tech extremists’ as AI data center issues become increasingly contentious — critics say this could lead to surveillance, criminalization of peaceful opposition Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOdXdiOENFUWc2dVVDWGJrMElnT3lHOFExZGJhampBOUFabUJrRXhrcnFub2x1cEJiNnBsNFk3dDUwWFF3NDdxaWdKMHFoWm5vZ1BJeEQ2MVFjNGw4TlJXYksyVUN5TThMUGU0UkNJcXh6YU94NVVIUE1PaGlNamh4TUNHaFI2V3dGS0VWNXhtOHFhM1g5V0RicjVsZkt2aGR3VjdYZHRJRVNBaU9Bb205ZENiS05yYjZadjBYQnprVnVNanZ6bldHOWZNdkRQcFVlTmtadVQzcHR3dHEwVzVZeGEtOTFtbFo2WUJYdlNnUThqUVRkUHZuQzJUa1k0RGc4ZDRrUUh3WDNyekFFeG9ac1A4cmR6MUNZTUloYU5GZkVRX0lzaG5GVDlfajB4YUFpbE5oaC1sUDZ3elJfUkdMRGZoZFlpVXFRYldRclpnTG5TdHdPUFpYRmdBQ1VzV2ZMMmlQMS01Y2QyM1ZlYWJVbUNzNkJVNDVVaHg4aUlRaUJBSE5EeDNxV1ZaNFJYckxnNy1GNHZR?oc=5",
-      "age": "19h ago",
-      "date_iso": "2026-05-28T15:00:29+00:00"
+      "title": "Meta's Andrew Rudersdorf joins Anthropic's data center energy team",
+      "summary": "As Anthropic expands, and Meta contracts",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/the-build-out-of-anthropics-data-center-team-comes-as-it-expanded-its-compute-portfolio-primarily-through-cloud-contracts-the-company-has-major-microsoft-aws-and-google-contracts-with-all-three-hyperscalers-anthropic-investors-in-october-google/",
+      "age": "17h ago",
+      "date_iso": "2026-05-29T15:44:16+00:00"
     },
     {
       "category": "gpu",
-      "title": "HP’s AI PC, Memory Crisis Updates: Big Takeaways From Q2 Results",
-      "summary": "HP’s AI PC, Memory Crisis Updates: Big Takeaways From Q2 Results crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjFFeTltenlOQU45NXZ4WEdRa1RLdHhJc21DV0FUQXNHSXhtRTd4T1ZDV2FlQVNPVG9BWUhfWWthNFRWYml4YXc2dWUzczZyVTRHZnNEaFBBeXpPNkVZV3FsVWNzUU0yeWV6VWM5cEVkUnpqYmhQdXFOQVRpQXk5MUVQeXIxWmtZdDdKYXd1dFFTRmFXSVB2RkZrZllzbVdtVGlPTg?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-27T23:15:00+00:00"
+      "title": "Energy efficient compute is most important attribute for customers, TSMC claims",
+      "summary": "Comments made by deputy co-COO Kevin Zhang during company’s Amsterdam Technology Symposium",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/energy-efficient-compute-is-most-important-attribute-for-customers-tsmc-claims/",
+      "age": "18h ago",
+      "date_iso": "2026-05-29T14:50:29+00:00"
     },
     {
       "category": "infra",
-      "title": "Italian council sets 200% tax on data center development in agricultural zones — aims to spur the use of old industrial areas instead and limit environmental impact",
-      "summary": "Italian council sets 200% tax on data center development in agricultural zones — aims to spur the use of old industrial areas instead and limit environmental impact Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPWHRGNnJza2JqOWZaR01zeWEtQkx0Q0ZLREIxMFVjTW02UWV4c3lPU1RaYm5QSzZYajF6V1hHUndXSmRoODBYby1OZ0k1dFl1WGI0N1h6YVBaaFZzMmdrV3NrOXBOUGk0UHcyUHdYYTRHTExDMEpaUmt5cHZpTGpqY2MxNnZjazdXcmtVUVFUOW1lT3VsZC1RZko2ZUk3SXNjYng4aWxSWHhqamdvdG5ETHdWMkRhdWEtRWRTN3dCczQyZ0YwU291aUUwazB3a2RFcHc4NzJPcERFaFlMWjV5dmd0Tzg1ZHZvNUFWN0NUQk9Cc0tYeWJRUWVDQkQ5WHp3MTU3MlVKQjZiLWstT0p6TGdXWkVDTF9qMExmUW9QYThrVWk1dGFpdTFud25KUjRwZ1RZajVJSlIzREtWck9teDVUUm9QcTNVLXQzSzBSWlNxN1VZRTZj?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-27T16:40:27+00:00"
+      "title": "UK's Reabold Resources seeks partner for 100MW off-grid gas-powered data center in Yorkshire",
+      "summary": "Company aiming to open up West Newton well to data center partners",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/uks-reabold-resources-seeks-partner-for-100mw-off-grid-gas-powered-data-center-in-yorkshire/",
+      "age": "18h ago",
+      "date_iso": "2026-05-29T14:20:25+00:00"
     },
     {
-      "category": "cpu",
-      "title": "Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests",
-      "summary": "Nvidia offers restricted access to Vera CPU in first round of Linux benchmarks - 88-core monster competes with or beats Epyc and Xeon in selected tests Tom's Hardware",
+      "category": "infra",
+      "title": "Digital Edge tops out first data center at new campus outside Jakarta, Indonesia",
+      "summary": "Facility due live by year-end",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/digital-edge-tops-out-first-data-center-at-new-campus-outside-jakarta-indonesia/",
+      "age": "19h ago",
+      "date_iso": "2026-05-29T13:53:01+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Amazon unveils 'Resilient Network Graphs' data center network that cuts hardware by 69% and boosts throughput by 33% — now the default for most AWS workloads",
+      "summary": "Amazon unveils 'Resilient Network Graphs' data center network that cuts hardware by 69% and boosts throughput by 33% — now the default for most AWS workloads Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT3I2QmRYTExtNmZPQjcxd1B0eTY1Ym9pTWVqWTNSYk5TYldUZUNkVlBvVjBTQXZ0V05neXRPS1hfOEdKODh0V0lreDU2UGxpaXdlQnRLaklQOWVCaWh3SDJkT2g5UWZGMGxic2J5SUY2cnhMVGJPWUhlenR4WWNkR0NsbU9yRXA1azVZLTczOW1PM1VIOWNOWW9FcHhaazYtb09aaC14d2NlbHhBV2JjRmpWNUFuM2M0VFI1ZmFpODdSV2lyQk9kVmQ4SXI2My1IQzVhVU1ka214SGxOcE1RbTI3Y20xb1FUeEVfTEYwVVN1QWp6RmJOOG9PeWFKN0FIOWc2X3dqSQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-05-27T13:52:31+00:00"
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNTnVHODMyOEtrSEJ6M0xSMk1ydUV5TzZaLXNxNHpxYWNuWC1VN3o0NkprQW9VTG9YV3gtQXZrTU44OWlTdUVDVlRnanI2VXhSdHRKNWc0WG9sbExzck02TmJNdTRNQjNpYTVtb3g0VHp2NzQ4RGFWSTRMdnFFczMwQ21oYU1uTlg0Nm85TnhnZEczNjRYV0hfOFBSTDNXeHgtUWVJenpqbGNRZ0kwdHRTZVdVWDd0SVZEYmhybWVkZnhsWVd6cVNra2tLRVY2cXlfUUQzOVNENGFUdWpHQnp4dS1LeFU4azdFUVJ6Ync4azBwb01fTElXVzRmbW52SzR0T0RSQ0I3akJEcUI2U2FPQVlZbmNTbERpU21PRDFnNnNiLU1qOFprdnlMOEs2TDN4TzVDOThOZjd4bVI1QWQ2Rw?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-05-29T13:51:31+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Finland's Winda Energy plans 100MW data center in Lapland industrial park",
+      "summary": "Company announces second data center project this year",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/finlands-winda-energy-plans-100mw-data-center-in-lapland-industrial-park/",
+      "age": "19h ago",
+      "date_iso": "2026-05-29T13:46:35+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Sponsored: Physical and digital infrastructure across deep canyons boosts rural development in Guizhou",
+      "summary": "Huawei and China Mobile will continue to innovate in rural network technologies and provide digital skills training to help more regions bridge geographical and digital divides",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/product-news/physical-and-digital-infrastructure-across-deep-canyons-boosts-rural-development-in-guizhou/",
+      "age": "19h ago",
+      "date_iso": "2026-05-29T13:30:42+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Microsoft warns GPU mining malware is being spread to users through SEO poisoning and AI chatbots — cryptojacking campaign targets gamers and high-end PC users with downloads disguised as popular PC utilities",
+      "summary": "Microsoft warns GPU mining malware is being spread to users through SEO poisoning and AI chatbots — cryptojacking campaign targets gamers and high-end PC users with downloads disguised as popular PC utilities Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOa2UwQ0drRExYdktOdjFaLU0ydGhoN3Jfc01NUDMzUmdoRVJkUmc0eGdUS2tRTlp6ajhLbjBNaDFlVENtbTMxeDc0X25PUDhabVQ4UmZibTdFdS11RGVNY1RIbVBmYm9Mckh6dUV2a2NoWlFJMmFPcVV3ZE9JeWtZSklPeHBLVVVzaHpqdzlSa0V4NEpJNFp2UEEyd21RS2tvbmJ1OVdzRWU3R2F6Sl95YUhxUUctWk9WbjlOTzFoc2NzYzY5bm03NmRtdGF2TnFKdU1ya0FxbWFDazBtZ2ZVRzJMQUo4R25EbW9JcGpOUkt5bWs5Nmc3S2pwT2RxSEh2WTlxYWNsYlZYVl9kcUxLdVk3NVI5V0tPM3VNeGFRMEJQb1hjX1c3YW1OZlVEV2wyckZEUXFHMGFOZHlQdGpCZWNtMXFLVmoyMFlIblRzeTZhSmF2NVE1SzMzd3VlSG5saFhpS1JPWnVMZU4zb1ZLTnp6VWp4cGQ3QW14dEhkamRfN1VMYk5nRw?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-05-29T09:30:00+00:00"
     }
   ]
 }
