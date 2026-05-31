@@ -1,14 +1,59 @@
 {
-  "generated_at": "2026-05-30T09:10:02.481394+00:00",
+  "generated_at": "2026-05-31T09:43:22.845460+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "SoftBank plans up to 5GW data center buildout in France, investment of up to €75bn",
+      "summary": "Will partner with Schneider Electric for a \"large-scale industrial production cluster\" at the Port of Dunkirk",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/softbank-plans-up-to-5gw-data-center-buildout-in-france-investment-of-up-to-75bn/",
+      "age": "10h ago",
+      "date_iso": "2026-05-30T22:52:45+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "ASUS XA NB3I-E12 Review A Massive 8x NVIDIA B300 GPU Server",
+      "summary": "ASUS XA NB3I-E12 Review A Massive 8x NVIDIA B300 GPU Server ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdm10MGsxa28tUldxTC1tNFNhN0VSajJPVnhWUmZJRHA1SEU3UGxUOWRhWHRPMndHQnlvTHVhRl9qUkk4YXExRWctUlNqMllyamlTQXpETk92cTF1UlJWajJCTWdhUkdUV0gtMTBKSzBaM2ZNSjY3N1dxZEM2VTdDZXRmZkZoYkF6SmVxc2FSWUdKME0?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-05-30T17:00:09+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "NVIDIA, Microsoft And Arm Hint That A New Era Of PC Is Coming",
+      "summary": "NVIDIA, Microsoft And Arm Hint That A New Era Of PC Is Coming HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9obi02REtjU0diZ1lJYm9NcEg4U2JILXJWZnhMSVdBU0wzTXhhLW9HY21jZURRSUFkamhsQzVsVGhpcDBGT0k2U1JFSDhNRzlPQUVzUUpXbDQ0NDdlRE12Y2NLU3lSQzFhWm9XWHVVUjN4emlrbEFhYy03cw?oc=5",
+      "age": "17h ago",
+      "date_iso": "2026-05-30T16:30:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Kevin O'Leary claims Chinese propaganda is to blame for anti-datacenter backlash, 'hundreds of millions of dollars' being spent to kill US dominance in AI — industry proponents and Trump administration reinforce claims of foreign interference",
+      "summary": "Kevin O'Leary claims Chinese propaganda is to blame for anti-datacenter backlash, 'hundreds of millions of dollars' being spent to kill US dominance in AI — industry proponents and Trump administration reinforce claims of foreign interference Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ1liWTM4R0VtcGs5dGI1SVlrZmJjRHF2OGFHMkpLWG8xNUJIVGI3RzR5cVBVTWowN18wVFZKSjFTWUlXNnl3bDVOUXIyTzliZVJCM3dOZTI3SzNiSnd3Tk5Rb0Q3enVNVXkyY2Nwamp5dm9Pd3R0cVYyNEw3NHRObW1YU3U1RktoUXVwejdqQkZSWXlRZ2RPRTlCTDdGYXdFdFBzSHp4S012blBUSmtncDZTQkpuNGpKdkhaTy1aTkQyaUFMNDlLYUxjLVJrX2Q3MGNiTWYySkMxcU1zNXBwT2lHb0dMaWxpMmFWazdJRkJpOEhRZG1YcVVsSW9SOVFLX1o2MXl4M0J3Q3pFYWh3ckF6WWdQMjU5ZkNONkVLa0l1SnBYOVAtNFNWQmcxVFhGdVN0NXh5bC1vU2hSUUk4SzM5VmRHdUx4bF9yLWh6d1htTWc?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-05-30T12:30:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "AMD's rival to Nvidia's GB10 AI workstation is set to go on preorder in days, but is it too little too late?",
+      "summary": "AMD's rival to Nvidia's GB10 AI workstation is set to go on preorder in days, but is it too little too late? TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnQ0T0JwUzJaaFlTa3RYVGt3M2NtODFETkJKY0x5cE51ZEwyZkxyMVhWRlVBNEtKR2NoRVBuaVJsODZEZDlKbkIwZ19sYmRrb21xOGgwTHJNTS1lYXBwVUVaOTN3dDJmMUtBMllDRVNHOFRzOTQ0czBhakUwWnE3emFfb3dfNW5SWV9UaXMweFlDYzJHR3RUMkRBZUxJRmVHU2VyN0tjOXc5VnBvaElNalpVbGNrSWlvbHI1VDBNSW9nWnVlSFhaMzc5Vl9QYms?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-05-29T22:55:00+00:00"
+    },
     {
       "category": "infra",
       "title": "AWS reportedly to tuck Elon Musk's Grok into Bedrock, despite zero enterprise demand",
       "summary": "The energy drink of frontier models",
       "source": "The Register",
       "link": "https://www.theregister.com/ai-ml/2026/05/29/aws-reportedly-to-tuck-elon-musks-grok-into-bedrock-despite-zero-enterprise-demand/5248832",
-      "age": "10h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-29T22:23:25+00:00"
     },
     {
@@ -17,7 +62,7 @@
       "summary": "As Anthropic expands, and Meta contracts",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/the-build-out-of-anthropics-data-center-team-comes-as-it-expanded-its-compute-portfolio-primarily-through-cloud-contracts-the-company-has-major-microsoft-aws-and-google-contracts-with-all-three-hyperscalers-anthropic-investors-in-october-google/",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-29T15:44:16+00:00"
     },
     {
@@ -26,7 +71,7 @@
       "summary": "Comments made by deputy co-COO Kevin Zhang during company’s Amsterdam Technology Symposium",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/energy-efficient-compute-is-most-important-attribute-for-customers-tsmc-claims/",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-29T14:50:29+00:00"
     },
     {
@@ -35,53 +80,8 @@
       "summary": "Company aiming to open up West Newton well to data center partners",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/uks-reabold-resources-seeks-partner-for-100mw-off-grid-gas-powered-data-center-in-yorkshire/",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-05-29T14:20:25+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Digital Edge tops out first data center at new campus outside Jakarta, Indonesia",
-      "summary": "Facility due live by year-end",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/digital-edge-tops-out-first-data-center-at-new-campus-outside-jakarta-indonesia/",
-      "age": "19h ago",
-      "date_iso": "2026-05-29T13:53:01+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Amazon unveils 'Resilient Network Graphs' data center network that cuts hardware by 69% and boosts throughput by 33% — now the default for most AWS workloads",
-      "summary": "Amazon unveils 'Resilient Network Graphs' data center network that cuts hardware by 69% and boosts throughput by 33% — now the default for most AWS workloads Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNTnVHODMyOEtrSEJ6M0xSMk1ydUV5TzZaLXNxNHpxYWNuWC1VN3o0NkprQW9VTG9YV3gtQXZrTU44OWlTdUVDVlRnanI2VXhSdHRKNWc0WG9sbExzck02TmJNdTRNQjNpYTVtb3g0VHp2NzQ4RGFWSTRMdnFFczMwQ21oYU1uTlg0Nm85TnhnZEczNjRYV0hfOFBSTDNXeHgtUWVJenpqbGNRZ0kwdHRTZVdVWDd0SVZEYmhybWVkZnhsWVd6cVNra2tLRVY2cXlfUUQzOVNENGFUdWpHQnp4dS1LeFU4azdFUVJ6Ync4azBwb01fTElXVzRmbW52SzR0T0RSQ0I3akJEcUI2U2FPQVlZbmNTbERpU21PRDFnNnNiLU1qOFprdnlMOEs2TDN4TzVDOThOZjd4bVI1QWQ2Rw?oc=5",
-      "age": "19h ago",
-      "date_iso": "2026-05-29T13:51:31+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Finland's Winda Energy plans 100MW data center in Lapland industrial park",
-      "summary": "Company announces second data center project this year",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/finlands-winda-energy-plans-100mw-data-center-in-lapland-industrial-park/",
-      "age": "19h ago",
-      "date_iso": "2026-05-29T13:46:35+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Sponsored: Physical and digital infrastructure across deep canyons boosts rural development in Guizhou",
-      "summary": "Huawei and China Mobile will continue to innovate in rural network technologies and provide digital skills training to help more regions bridge geographical and digital divides",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/product-news/physical-and-digital-infrastructure-across-deep-canyons-boosts-rural-development-in-guizhou/",
-      "age": "19h ago",
-      "date_iso": "2026-05-29T13:30:42+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Microsoft warns GPU mining malware is being spread to users through SEO poisoning and AI chatbots — cryptojacking campaign targets gamers and high-end PC users with downloads disguised as popular PC utilities",
-      "summary": "Microsoft warns GPU mining malware is being spread to users through SEO poisoning and AI chatbots — cryptojacking campaign targets gamers and high-end PC users with downloads disguised as popular PC utilities Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOa2UwQ0drRExYdktOdjFaLU0ydGhoN3Jfc01NUDMzUmdoRVJkUmc0eGdUS2tRTlp6ajhLbjBNaDFlVENtbTMxeDc0X25PUDhabVQ4UmZibTdFdS11RGVNY1RIbVBmYm9Mckh6dUV2a2NoWlFJMmFPcVV3ZE9JeWtZSklPeHBLVVVzaHpqdzlSa0V4NEpJNFp2UEEyd21RS2tvbmJ1OVdzRWU3R2F6Sl95YUhxUUctWk9WbjlOTzFoc2NzYzY5bm03NmRtdGF2TnFKdU1ya0FxbWFDazBtZ2ZVRzJMQUo4R25EbW9JcGpOUkt5bWs5Nmc3S2pwT2RxSEh2WTlxYWNsYlZYVl9kcUxLdVk3NVI5V0tPM3VNeGFRMEJQb1hjX1c3YW1OZlVEV2wyckZEUXFHMGFOZHlQdGpCZWNtMXFLVmoyMFlIblRzeTZhSmF2NVE1SzMzd3VlSG5saFhpS1JPWnVMZU4zb1ZLTnp6VWp4cGQ3QW14dEhkamRfN1VMYk5nRw?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-05-29T09:30:00+00:00"
     }
   ]
 }
