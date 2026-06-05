@@ -1,51 +1,60 @@
 {
-  "generated_at": "2026-06-04T10:34:18.027863+00:00",
+  "generated_at": "2026-06-05T10:41:30.501093+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Sponsored: Leviton addresses chaos of cabling networks in AI data centers",
-      "summary": "Leviton’s webinar ‘Neural networking: Finding order in chaos’ breaks down the challenges of AI integration in the data center across four key subsystems",
+      "title": "Google commits to replenish more water than it consumes at its data center sites by 2030",
+      "summary": "Announces $17m in investment into water sustainability efforts across seven US states",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/leviton-addresses-chaos-of-cabling-networks-in-ai-data-centers/",
-      "age": "1h ago",
-      "date_iso": "2026-06-04T09:00:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/google-commits-to-replenish-more-water-than-it-consumes-at-its-data-center-sites-by-2030/",
+      "age": "just now",
+      "date_iso": "2026-06-05T10:30:15+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AWS adopts random graph network architecture as default cloud fabric",
+      "summary": "Could cut router counts by 69 percent while reducing network power consumption by 40 percent",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/aws-adopts-random-graph-network-architecture-as-default-cloud-fabric/",
+      "age": "2h ago",
+      "date_iso": "2026-06-05T08:00:27+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "UK's National Physical Laboratory seeks bids for new data center",
+      "summary": "NPL puts out pipeline notice for £9.6m project",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/uks-national-physical-laboratory-seeks-bids-for-new-data-center/",
+      "age": "3h ago",
+      "date_iso": "2026-06-05T07:30:27+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Portland General Electric moves to implement Oregon's new data center rate class",
+      "summary": "Scheduled to take effect on June 10, 2026, pending approval",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/portland-general-electric-moves-to-implement-oregons-new-data-center-rate-class/",
+      "age": "3h ago",
+      "date_iso": "2026-06-05T07:01:49+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Property developer Eagle Rock proposes 1GW data center in Christian County, Illinois",
+      "summary": "Developer says construction would not begin until 2029 or 2030 even if facility was approved",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/property-developer-eagle-rock-proposes-1gw-data-center-in-christian-county-illinois/",
+      "age": "3h ago",
+      "date_iso": "2026-06-05T06:59:46+00:00"
     },
     {
       "category": "gpu",
-      "title": "Megaport secures four AI contracts worth AU$458.9m",
-      "summary": "Also plans to raise AU$827.3m to build inference cloud offering",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/megaport-secures-four-ai-contracts-worth-au4589m/",
-      "age": "3h ago",
-      "date_iso": "2026-06-04T07:25:34+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Asprofin Bank unveils $12bn proposal for data centers in UAE",
-      "summary": "The plan features a cost efficiency model reducing capex to $4m-$8m per MW",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/asprofin-bank-unveils-12bn-proposal-for-data-centers-in-uae/",
-      "age": "5h ago",
-      "date_iso": "2026-06-04T05:00:28+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Government of Maharashtra, India, signs LoI with AirTrunk for $21bn data center deal",
-      "summary": "Facility aims to provide 3GW of capacity",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/government-of-maharashtra-india-signs-loi-with-airtrunk-for-21bn-data-center-deal/",
-      "age": "7h ago",
-      "date_iso": "2026-06-04T03:00:27+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Iren targets Australia for 800MW data center campus",
-      "summary": "Company building outside Adelaide in Bundey",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/iren-targets-australia-for-800mw-data-center-campus/",
-      "age": "17h ago",
-      "date_iso": "2026-06-03T16:42:00+00:00"
+      "title": "Elon Musk's SpaceX secures 100% property tax exemption for planned $55 billion Terafab semiconductor factory in Texas — county approves 35-year deal worth hundreds of millions despite resident backlash",
+      "summary": "Elon Musk's SpaceX secures 100% property tax exemption for planned $55 billion Terafab semiconductor factory in Texas — county approves 35-year deal worth hundreds of millions despite resident backlash Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOdjVHTGREWGM1RGdQM2IydEczcXRJZFQtampOeUlvSUR3b04taEhQZXdxSFNZT0dHMHJ6OTRwanU5RGNDQXlTckN6akhtcG9WOXY2X2ZpX2owOG9TYVB2NmRWeEZ0RTdhcTdLMGYxeExybml5Qm03UUVBd0xidHRFUTFWTVFicmRIZXdEVFJUdnluMjJtY0tQMzlSM2VzbmtMb3dTN0hvSkp5dXN4RV9vcTBTelVmd3NtbFBPaFRaaG5Nb2NSVXhKSVFFYmFiNV9sQ2JycGNLbXpXRElkYWs0S3lfQXBCWFZZQko1WUJweHJHTV9VbHJHU0ZIYTh3ajJsNnI0a2JsdDhIY3JzMEo4QTJiREdENXNVZ1pta19xSUZLeEpZSEM0bzZkT3dYTjdITlo5MXdLNDZZYlk3MVFMbkZNSGpRUEhmT1Jla0hCYzZydllaS1NiaTFyYVpKaHNLQlhjcFFoZUlQb3h6aXU0VlhzX1RtQQ?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-06-04T14:46:11+00:00"
     },
     {
       "category": "gpu",
@@ -53,8 +62,17 @@
       "summary": "We Found the AMD Ryzen AI Halo AI Developer PC ServeTheHome",
       "source": "ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWxCQUxFME9WNXdLa0NTME5NSDFkckZwSWlBOFo5NmJ0emg4cVppYXg4UWtmS1FRZGNFMlpLZEZNdVJ4WF9ybV9BdlF3ZzA5RHZlejVmYWRLUlpYOHB4NExySmhqYzJMemk1a1FiTHc0MlBPZWVJVzdtMGdiU0pKLW1R?oc=5",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-03T15:00:42+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Intel Z990 Motherboard? Surprise Gigabyte Reveal Looks Ready For Nova Lake",
+      "summary": "Intel Z990 Motherboard? Surprise Gigabyte Reveal Looks Ready For Nova Lake HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DcGJWOXV1MG5ZYVotdm1KQ3FNY3F6LVVSWk9COGdwMl9SdFlpeFJkMW1QZU8zTWd0bmpjcUZEZW5Rd3pzNWFWSFBlRnYyRzdidTZCak5PV1RXTHBVdF9lMm00Z1ZvdmV1WVRPa28xSXhNaDhZdHJfckItcw?oc=5",
+      "age": "2d ago",
+      "date_iso": "2026-06-02T20:15:00+00:00"
     },
     {
       "category": "cpu",
@@ -62,26 +80,8 @@
       "summary": "Intel Xeon 7 Diamond Rapids Now Slated for 2027 ServeTheHome",
       "source": "ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQm1hSlg2UnpPUGMtcUd3Z1d4RmxfT01zOEZBcFJXdW1QSGx4NjJsdERSeC1wT0JXZFU3TXdtdElKeFdoTC1vWWNka2d2ZVJiRnR2OTNWZ0VXWUd1a252U2FCbGlGOXVya2lMR1kxLS1FYWN5N0lKM3ZBMGI2dE9UbElOTQ?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-06-02T15:00:10+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Intel Xeon 6+ Clearwater Forest is Out",
-      "summary": "Intel Xeon 6+ Clearwater Forest is Out ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wX21EcWhKTVdzUTJ1NDRqNElmb3lDWnNxTGg5SHdRVzBTMWYzdlkyZGhiQjJiY3gyT2k2VjA4NzVUdTgxa1RCNzc3QVlSc3dhZnd1anV6cTlQYXdIbUlnN3Voa0JLUDN4amZub2NnRnFPRDFTNFE?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-06-01T13:50:37+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Microsoft Surface Laptop Ultra Packs NVIDIA RTX Spark And Mini LED Display",
-      "summary": "Microsoft Surface Laptop Ultra Packs NVIDIA RTX Spark And Mini LED Display HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUVTMFZVRGpGSm5JM1djOXV0dWc2OUN5MnYwSk1weFc5eXZmR19lVXJkZ29QdGtINWZvOEF4ZVNFbTh4eG1QdktVUXJpUGh6SVpqaTlmLThPdS11SFFwZ1d6ZFZRNHBBMXFLTExNTlBiYml3Q1ZZNzYtZDBtUnRLYlBkckx1cWEzb0poam1QeUcxamF2a21pbg?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-06-01T13:00:00+00:00"
     }
   ]
 }
