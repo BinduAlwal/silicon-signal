@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-06-06T09:18:59.157720+00:00",
+  "generated_at": "2026-06-07T09:56:04.599295+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "Space Solar agrees to host Lonestar data storage aboard orbital power stations",
+      "summary": "Two ambitious space startups join forces to align with orbital data center trend",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/space-solar-agrees-to-host-lonestar-data-storage-aboard-orbital-power-stations/",
+      "age": "17h ago",
+      "date_iso": "2026-06-06T16:00:28+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model — 1,000 Ascend 910C chips used in training",
+      "summary": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model — 1,000 Ascend 910C chips used in training Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa3ZVSmhycVplS0lpdktialBTV21OazRWalh3OTFJWUplYktMaTZkQUlLLS1PY0IyQ0hTNTBESUlBUW9PZmZ5RW5fTVlhNGtrbzNCemlEbHlSWU1QRWxnSzF6YWhZS2ZLUE1rQ3lpa3lGRDMxNkIwS1pXZEFSOUZMMVdrUTdIaUY5UElHZXBrRVlJY01mYmEzMDMyLVZ5SkhtOEVOV0xtRUpqYTNnQU94OEZnVERDbFNFSzZzcHJLaUpWcmJWY3JHM05vUHFjcXM3U1JWOFU1Z2xZTWV6NEJLVVlNNkJJQUNSZjg4VjZtYnptT3BSMHVKcTF3?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-06-06T12:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Grupo Fotones eyes €1.15bn data center campus in Murcia, Spain",
+      "summary": "The initiative plans to deploy up to 140MW of capacity",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/grupo-fotones-launches-a-115-billion-euro-data-campus-in-murcia/",
+      "age": "22h ago",
+      "date_iso": "2026-06-06T11:00:30+00:00"
+    },
     {
       "category": "infra",
       "title": "Claro Argentina launches data center Buenos Aires",
       "summary": "The project addresses adds 650kW of IT power and a scalable architecture",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/claro-argentina-expands-its-network-capacity-in-buenos-aires-with-a-new-data-center-designed-by-fibratel/",
-      "age": "2h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-06T07:00:32+00:00"
     },
     {
@@ -17,8 +44,17 @@
       "summary": "The future of data center security will be defined by systems that are layered, integrated, intelligent, and cybersecure",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/opinions/data-center-security-must-move-beyond-the-perimeter/",
-      "age": "2h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-06T07:00:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "HP announces the most powerful Windows AI PC ever built — Nvidia GB300 workstation can handle one trillion parameters thanks to its 784GB unified memory, but it won't be cheap",
+      "summary": "HP announces the most powerful Windows AI PC ever built — Nvidia GB300 workstation can handle one trillion parameters thanks to its 784GB unified memory, but it won't be cheap TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOcUJmNk5GVDNTaUN5TVhkM0JVeFRnZzhrdFl3RFIxZDU2RmlJTDYyVndiVlRQaWU4MU03ZllPNkJiVEEwWnkzZWg1Y21EQzRDck8wbF9fMHlNMlNOdmFMN2JVSDZhNFZKdWpWN014OE5SWXNZb3Nmd3FOY2hxZlVPWEdQY2U1Y0dxSXBXWFBOX3lSVjdZXzI1T011LXNDUDNoWG9iZTkwWHBLNkI4aHlYamk4ZVpaSzl0N0x5c0xrR255QjdKYVpTMm9HUXZ5QUw5eUhPTXplOVAwbkRxVmVCVEp5X3h1SThBUzNkanVfUFJsQi02TGVXX2pZb3AtZWZpa1ZFWjNZUVlfZ0tWNzBHWUlzZ2JKYmR5cUFvb2ZUOGdFSzVzeHpPbw?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-06-06T01:05:00+00:00"
     },
     {
       "category": "infra",
@@ -26,35 +62,8 @@
       "summary": "Inner-city facility eyed at former Bed Bath & Beyond store",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/digital-realty-plans-data-center-in-seattle-washington/",
-      "age": "15h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-05T18:00:29+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Quant trading firm Jane Street plans data center - report",
-      "summary": "Company is looking to build and finance its own data center",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/quant-trading-firm-jane-street-plans-data-center-report/",
-      "age": "16h ago",
-      "date_iso": "2026-06-05T16:20:24+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Earthquake-proof prefab Rome data center built in five weeks",
-      "summary": "The €28m facility was built using 100 percent recyclable materials, Italian media said",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/earthquake-proof-prefab-rome-data-center-built-in-five-weeks/",
-      "age": "17h ago",
-      "date_iso": "2026-06-05T16:10:25+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "CorScale targets 2029 launch date for 140MW data center campus outside London, UK",
-      "summary": "Company to start groundworks next month",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/corscale-targets-2029-launch-date-for-140mw-data-center-campus-outside-london-uk/",
-      "age": "17h ago",
-      "date_iso": "2026-06-05T15:59:56+00:00"
     },
     {
       "category": "infra",
@@ -62,7 +71,7 @@
       "summary": "Seattle to pass one-year AI data center moratorium next week — will use window to study community impact of AI buildouts Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObUJmc2E0SmY3ajZqeDMyTVhsN1NEMHd5d3hDWmlkdG5xN3B3UmV1SmVBSFVNSUloRk80MWxfclYtbG04bXg3NzVTcEZlWXhjeDJILTUybDhZYnNzVmRFOWQ4NDlFVXU1RWVFYW1EN3RkbkZyYWFUVGZhYm92bWMxME1nOFJCSFVscVpEcUNHMUFGQTU3cXN1LXN0Z2lYVEJPd0x4Y3RRa0xRd1VyTDlzLTFXTzBDMmd0eWVQQ2VaanpiMnY2cWFVOVdWSUpDcGRmU21sV1JDU0VZV3J1SVVMdDNNTU9jbm5QQ0xKOGFOTFp0SERRekdrMU5pd0YyUFVibFdBY0hKM3g3ekdZQTV4blNjcw?oc=5",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-05T15:29:37+00:00"
     },
     {
@@ -71,17 +80,8 @@
       "summary": "Industry coalition urges Trump administration to take urgent action as AI data centers' extreme memory consumption threatens other industries — AI-driven memory chip shortage could raise prices in automotive, medical, telecommunications sectors Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPT1AyUUhpYkdnWXJTVkRoNzByX2tqbmhWdTZsTmlnWndiVTItdWs1WEs0MWg2aFB4YmxNTWVGT3BOaFZZZ1JwWUFtT2NIbHVGSW1KZHpvLVRTUkhTRVFsZXpHX2dLVlVXeDRTN0xyVnRoMVg2UU0tNHljc2tUUVA1WFBYcW15MVVsTmdtU2htSG0xbWM3bDhGOUFZNHZ3cnc3dHkwaGZVNjJudHRZd0lzRFAxNldLQmVjRGZHb21wLWNXdzhwb1B3QjFIMjl6aUdSTWdENEY2TmwwUm9DN19jUV9wU0YzSnFtekVQNzROckFwN3RTMFhNNHJ5alFIcXptbndFMnNTUVdlUk0zTTZhOGJ6RFdTMjVhbG9GcENWZW04b05xTjNKNW94eWZuUzVjbUtjMVRFZzE5OG84bGhsenNTRmlUaFljRU5JcG16OWNPSVFxMGNuSmZvcDFyQ2tSZ29fMHZDclRSLWhxbzNUQ0pHbjVHMFNGWmVUMVpLbmF1Qk5RbHA3Sm1nM0xKUkNiTVBYMjZNX1VjVldFTWM0STd1N0xZTk1YMnlFMmJxX2g4SlRn?oc=5",
-      "age": "20h ago",
-      "date_iso": "2026-06-05T12:20:01+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Indiana mayor secretly recorded saying AI data center protestors only live in 'sh***y' houses — office issues statement of clarification over controversial comments",
-      "summary": "Indiana mayor secretly recorded saying AI data center protestors only live in 'sh***y' houses — office issues statement of clarification over controversial comments Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOWm1mZlVfdHRTellPTThvTDN1T2JxYmYxVUQzOGJWYnU0VlZ4V2h1bEtDV0pSMTBWTEFuM1dydW5BZWY4SjFxRzl6bnhnaU1ab0lrT3dlZHd3TEtsaUFqMnBoU2tRRWhUWDNISndpZEhDcmx3Nm9WaWVScmpIaUdkdlBGbmw2dk5tOTJHdUExcThWR0lYZXZJb3M4YVZGeVYzUDd2U2lIaFZ2TDAxcUx3RTRHSGZQLXk1Z0xaZ0ZvV1Y4NVFtVVNodEhZSUp2Y0c0aXNTbm82eEo2OVRWN1p2a0JMT2VmYnRlYl9qQ0tycm9JeU5KNTJuQjBqTnZZWjUwRWhkMlJFTGNiME8xb01sZ3Y5Y24wa3p1cUh1S19BUW9XTFdWV3RBRg?oc=5",
       "age": "1d ago",
-      "date_iso": "2026-06-05T09:00:00+00:00"
+      "date_iso": "2026-06-05T12:20:01+00:00"
     }
   ]
 }
