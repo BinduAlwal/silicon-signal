@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-06-10T10:49:11.055984+00:00",
+  "generated_at": "2026-06-11T11:17:56.780252+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Designing for disaster: why one data center is never enough",
-      "summary": "Changing the disaster recovery conversation",
+      "title": "Green Horizon targets 36MW data center in Stavanger, Norway",
+      "summary": "As Fossefall secures permission to expand in Fyresdal",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/designing-for-disaster-why-one-data-center-is-never-enough/",
+      "link": "https://www.datacenterdynamics.com/en/news/green-horizon-targets-36mw-data-center-in-stavanger-norway/",
       "age": "1h ago",
-      "date_iso": "2026-06-10T09:28:30+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Architecting AI at scale: from training clusters to inference-driven infrastructure",
-      "summary": "Architecting scalable AI networks and fiber infrastructure for the shift from training clusters to inference-driven workloads",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/architecting-ai-at-scale-from-training-clusters-to-inference-driven-infrastructure/",
-      "age": "1h ago",
-      "date_iso": "2026-06-10T08:54:00+00:00"
+      "date_iso": "2026-06-11T09:21:54+00:00"
     },
     {
       "category": "infra",
-      "title": "Head of North Pekin, Illinois, says that former AMC theater will not be turned into data center",
-      "summary": "Village President dismisses rumors that a data center is being proposed",
+      "title": "DCD>Studio: How grid-interactive power is shaping data center energy strategies, with Steph Veigel, Eaton",
+      "summary": "Emma Strutton speaks with Steph Veigel of Eaton on the evolving role of data centers in the energy transition, exploring grid interactivity, energy resilience, and strategies to support renewable integration.",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/head-of-north-pekin-illinois-says-that-former-amc-theater-will-not-be-turned-into-data-center/",
-      "age": "2h ago",
-      "date_iso": "2026-06-10T08:30:32+00:00"
+      "link": "https://www.datacenterdynamics.com/en/videos/dcdstudio-how-grid-interactive-power-is-shaping-data-center-energy-strategies-with-steph-veigel-eaton/",
+      "age": "1h ago",
+      "date_iso": "2026-06-11T09:20:25+00:00"
     },
     {
       "category": "infra",
-      "title": "Google Cloud suffers network disruptions after fire at third-party data center in India",
-      "summary": "Fire saw emergency power shutdown at the facility",
+      "title": "Malaysia's Tanco signs MoU with China Mobile International for potential 50MW data center in Port Dickson",
+      "summary": "The pair have two years to sign a definitive agreement",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/google-cloud-suffers-network-disruptions-after-fire-at-third-party-data-center-in-india/",
+      "link": "https://www.datacenterdynamics.com/en/news/malaysias-tanco-signs-mou-with-china-mobile-international-for-potential-50mw-data-center-in-port-dickson/",
       "age": "2h ago",
-      "date_iso": "2026-06-10T07:50:00+00:00"
+      "date_iso": "2026-06-11T09:17:17+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "UK Treasury still deciding whether to show up to £1.7B ERP program it agreed to fund",
+      "summary": "Move from Oracle put back until December following delays to Workday rollout",
+      "source": "The Register",
+      "link": "https://www.theregister.com/saas/2026/06/11/uk-treasury-still-deciding-whether-to-show-up-to-17b-erp-program-it-agreed-to-fund/5253410",
+      "age": "2h ago",
+      "date_iso": "2026-06-11T08:30:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Broadcom value drops by more than $440 billion as it posts disappointing forward outlook",
-      "summary": "Broadcom value drops by more than $440 billion as it posts disappointing forward outlook TechRadar",
+      "title": "Arista Networks joins the 1.6T race with AI-centric switch platform",
+      "summary": "7060XE7 line taps Broadcom’s Tomahawk 6 while AMD enlisted for use in scale-out AI fabric designs",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/arista-networks-joins-the-16t-race-with-ai-centric-switch-platform/",
+      "age": "3h ago",
+      "date_iso": "2026-06-11T07:50:27+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Australia’s Monash University launches supercomputer at CDC data center",
+      "summary": "Nvidia system launches in CDC's Brooklyn facility outside Melbourne",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/monash-uni-maveric-cdc-supercomputer/",
+      "age": "4h ago",
+      "date_iso": "2026-06-11T07:09:11+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia's market cap dropped by almost $330 billion in 24 hours - here's why",
+      "summary": "Nvidia's market cap dropped by almost $330 billion in 24 hours - here's why TechRadar",
       "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVVUxbGI2YzloS1luWndQVks4OWtBQlJuMGdCUTFhU0RRT0ZPcUJHdWdwMzFVcW40RmdiRzZ0dmFpRlRLYmlBaDctQl9HWGN4LU12RldadjVRcDYzWEx1dWQ0OWx5cGtHQUJ1QVAxZlRIYm1CS3Fld1hHRUdDeHBSSXViUUp5MmRRS3BINUxIS3QxMVpJTjl6MzdfZ0xlT3Vyck1jQlB1QVJIS3ZwS1lpeE1pRjFTazVUVVI3QkJ1YTl0Vzg1YkRKQWswdXp3OTR2QmlkY1dEdjUyYk1oajlsNmdQcGEzSzYzUDdLQm1YZHRZZlBIZFBJQXRvaUt5U2c?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-06-09T11:05:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWm1GdTl3ZWFSYkwtRTdIOXVqQXJDWWxscmxGeEwyNVQ2ang1YlVLamJjVzNDX1dnZUtTc1ZUczJSM051Y1ZVSzBteFIwZGFkeThmeXFWWmVGQkpjZU9XSVNjeVBBZVl3YVk1RkQ5X0RSZW5zcktpQ1hUY1JHeFRQbnh4alFfVlpndFNfeHV5TTFaVFUxWHdqbjBKVGM1S2pyd040dW1IT19iTEt6UXc2b01zanp2OXUwbkVQZDh1TzJLWVAwR3p0MVNRbThKTFh3ekxIeVZDMVlXazJUb3BuaVFzb3ZaQUozOF8za3dyLUw1OUpIcEtEaHl1UjJ4X0h1ZkhmVlRYWEVXY2NVVHktcE93?oc=5",
+      "age": "11h ago",
+      "date_iso": "2026-06-11T00:06:05+00:00"
     },
     {
       "category": "infra",
-      "title": "Nashville Zoo pushes back on 1.6-acre data center build near animal habitats — Zoo says it planned to use lot for education and conservation center",
-      "summary": "Nashville Zoo pushes back on 1.6-acre data center build near animal habitats — Zoo says it planned to use lot for education and conservation center Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQc0xPZV9BUXNkOXB3ZlpWOFVldjk4Q015cFlaZU5BZy1ySjRwYWpCcV9hMnNWemJyQWttODVXLTNldy1LMEpmam9Jbk9KZ1NnZ1FJZ0tNNnZXY1VDQklMeW9Fa3owRjZlMG1pcThfVTV1Y3lQQks2U3pyQjBYdEE5SGI5UEM3WlBaUC02ZDNqdFdIbVhUS29LN3VkMjRpUUtrWnIzdGU4ck5fUDctckRfT1c0NTdpNmJ2Ty0wNXpnekNfZ3A2ZGZfX3NseWltMDgxelhmV0I0dzYxd3p6dkRaQXJtWWFmRDNsQU9pMndyQTB1ajJ4ajV6SGUwZDNSUXlGYnNVcHpjdHV1SnR1aFVjOHdjTm56dzF0NzBR?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-06-09T10:00:00+00:00"
+      "title": "Chinese agents caught rebuilding botnets and stirring the pot on AI datacenter debate",
+      "summary": "PRC eyes are watching you",
+      "source": "The Register",
+      "link": "https://www.theregister.com/security/2026/06/11/china-linked-operators-revive-botnet-stir-ai-datacenter-debate/5253873",
+      "age": "11h ago",
+      "date_iso": "2026-06-11T00:00:45+00:00"
     },
     {
       "category": "gpu",
-      "title": "Bulging Ryzen 9 7950X3D Puts AMD's Warranty Policy In The Spotlight",
-      "summary": "Bulging Ryzen 9 7950X3D Puts AMD's Warranty Policy In The Spotlight HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90TEhIVGNFYnF2RGJCZUZlS00zY3I0dExDdUR1d2JETUxfc0JINVBiQnlGVWJtRk52NTl6dnFDUE5wM0diTEc2WkFaWE1nOVV4NkNnRjBRSm9SOUg3eG5YM1d0RWp4ZHVmNEhFV2FJbGFUd3UtaG5RaW1n?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-06-08T18:45:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Farmer donates land for a park, city sells it for data center development — $10 gift became $10M for city government, with $30M tax expected over next decade",
-      "summary": "Farmer donates land for a park, city sells it for data center development — $10 gift became $10M for city government, with $30M tax expected over next decade Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPVDVLNE05V3ZyaU5rZGdmSk80anVFcl9QNk5PWWZBeU5zNnNWOERTcGxzU2c2WGx6dmg2bmd5ZURISWliM0RqaUh2NEx6YWJsbUxjeTRoNWxEUFNOeFRkNWxDVVVZX2dJdFhmdFByR0xVWEY0S3E4LTVYbzFnX09kOFdMaE0zRUpBYVN1S2VLRGl2alFtT05vZnJFYmNOU0I0UGVQc0FQQjBsTS05QnJtZmhVNHlHN3ZVNW9ZRVdBUjJzbVcxelZpZGhJSDdrV3cyYy1ndmx4VTNlb2NncnhUTWFENWpDR0UwaGV0UURXbTlfSGRSMVBZTHFVb1EtYnRNMUcyR21hMmdzWTlwRHpUSjh0WDNWZ2RRZTMwb1JJUzhPSkctcjhkX2Nn?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-06-08T16:24:05+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Demand for data center CPUs has surged, and AI agents are responsible – why the CPU to GPU ratio is more important than ever for hyperscalers",
-      "summary": "Demand for data center CPUs has surged, and AI agents are responsible – why the CPU to GPU ratio is more important than ever for hyperscalers Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPb2pRQTMxb2gteDZfZlBmc3JoQmxTRXVDaV9qeVpyMFNDb3NzOS1ROC1TckdrREc4SzhNMTNVWkZLcWpXYzFmam1oRTRwenRfdVBLeUx1WUhYQlRGRVNBQ3F5TWtfRzUxRUFfUTVfYm5KU291VG1tWklWZ0hDTXA5UTR0bTRKekVTQ0dYdGFGVnF1SXV5Y2FxNFFXbWFicm9jcXVSM3Rad0FTaGYxMVNzNjB6SFFtUHZMVlBMWGhReGR6SkdjQ2tiNF9XYXJoZDRTc1NNVDNKMk5vc2s3WDFEc0RoOWpvWEMtdUpyLTVEblU5eXRaZWwyTVFxNWRnYkJvRVI4VDFLNmdVNENhbUx0ckxZWWg?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-06-08T15:15:55+00:00"
+      "title": "Memory and personalization make AI more likely to tell you what you want to hear",
+      "summary": "A little knowledge is a dangerous thing, particularly for enterprise applications",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850",
+      "age": "12h ago",
+      "date_iso": "2026-06-10T23:17:26+00:00"
     }
   ]
 }
