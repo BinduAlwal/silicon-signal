@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-06-11T11:17:56.780252+00:00",
+  "generated_at": "2026-06-12T10:57:03.334043+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Green Horizon targets 36MW data center in Stavanger, Norway",
-      "summary": "As Fossefall secures permission to expand in Fyresdal",
+      "title": "Anthropic signs \"more than a dozen\" letters of intent for data center leases - report",
+      "summary": "Company pursuing control of its own data centers",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/green-horizon-targets-36mw-data-center-in-stavanger-norway/",
+      "link": "https://www.datacenterdynamics.com/en/news/anthropic-signs-more-than-a-dozen-letters-of-intent-for-data-center-leases-report/",
+      "age": "just now",
+      "date_iso": "2026-06-12T10:26:36+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "DCD>Talks: Scaling sustainably in the age of AI with Stefan Nilsson, Conapto",
+      "summary": "Stefan Nilsson, CCO at Conapto, joins DCD’s James Raddings to discuss sustainable digital infrastructure, Sweden’s evolving data center market, and meeting the demands of next generation AI workloads.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcdtalks-scaling-sustainably-in-the-age-of-ai-with-stefan-nilsson-conapto/",
       "age": "1h ago",
-      "date_iso": "2026-06-11T09:21:54+00:00"
+      "date_iso": "2026-06-12T09:54:09+00:00"
     },
     {
       "category": "infra",
-      "title": "DCD>Studio: How grid-interactive power is shaping data center energy strategies, with Steph Veigel, Eaton",
-      "summary": "Emma Strutton speaks with Steph Veigel of Eaton on the evolving role of data centers in the energy transition, exploring grid interactivity, energy resilience, and strategies to support renewable integration.",
+      "title": "DC Blox’s proposed 24-acre data center near Nashville Zoo could be blocked by moratorium",
+      "summary": "Petition against proposal has garnered more than 386,000 signatures at time of writing",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcdstudio-how-grid-interactive-power-is-shaping-data-center-energy-strategies-with-steph-veigel-eaton/",
+      "link": "https://www.datacenterdynamics.com/en/news/dc-bloxs-proposed-24-acre-data-center-near-nashville-zoo-could-be-blocked-by-moratorium/",
       "age": "1h ago",
-      "date_iso": "2026-06-11T09:20:25+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Malaysia's Tanco signs MoU with China Mobile International for potential 50MW data center in Port Dickson",
-      "summary": "The pair have two years to sign a definitive agreement",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/malaysias-tanco-signs-mou-with-china-mobile-international-for-potential-50mw-data-center-in-port-dickson/",
-      "age": "2h ago",
-      "date_iso": "2026-06-11T09:17:17+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "UK Treasury still deciding whether to show up to £1.7B ERP program it agreed to fund",
-      "summary": "Move from Oracle put back until December following delays to Workday rollout",
-      "source": "The Register",
-      "link": "https://www.theregister.com/saas/2026/06/11/uk-treasury-still-deciding-whether-to-show-up-to-17b-erp-program-it-agreed-to-fund/5253410",
-      "age": "2h ago",
-      "date_iso": "2026-06-11T08:30:00+00:00"
+      "date_iso": "2026-06-12T09:52:18+00:00"
     },
     {
       "category": "gpu",
-      "title": "Arista Networks joins the 1.6T race with AI-centric switch platform",
-      "summary": "7060XE7 line taps Broadcom’s Tomahawk 6 while AMD enlisted for use in scale-out AI fabric designs",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/arista-networks-joins-the-16t-race-with-ai-centric-switch-platform/",
+      "title": "Delos Data offers AI chip startups a fast track to rack scale",
+      "summary": "Half the trouble of building an Nvidia NVL or AMD Helios competitor is just getting the networking out of the box",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/06/12/delos-data-offers-ai-chip-startups-a-fast-track-to-rack-scale/5254600",
       "age": "3h ago",
-      "date_iso": "2026-06-11T07:50:27+00:00"
+      "date_iso": "2026-06-12T07:30:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Australia’s Monash University launches supercomputer at CDC data center",
-      "summary": "Nvidia system launches in CDC's Brooklyn facility outside Melbourne",
+      "title": "Sponsored: The Atlantic pivot: The case for the UK as Europe’s strategic AI gateway",
+      "summary": "Leading data center providers joining a pan-Nordic industrial alliance, alongside plans for a new Iceland-UK subsea link, underscore the growing importance of the UK-Nordic corridor as AI infrastructure expands",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/monash-uni-maveric-cdc-supercomputer/",
-      "age": "4h ago",
-      "date_iso": "2026-06-11T07:09:11+00:00"
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-atlantic-pivot-the-case-for-the-uk-as-europes-strategic-ai-gateway/",
+      "age": "3h ago",
+      "date_iso": "2026-06-12T07:00:00+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Nvidia's market cap dropped by almost $330 billion in 24 hours - here's why",
-      "summary": "Nvidia's market cap dropped by almost $330 billion in 24 hours - here's why TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWm1GdTl3ZWFSYkwtRTdIOXVqQXJDWWxscmxGeEwyNVQ2ang1YlVLamJjVzNDX1dnZUtTc1ZUczJSM051Y1ZVSzBteFIwZGFkeThmeXFWWmVGQkpjZU9XSVNjeVBBZVl3YVk1RkQ5X0RSZW5zcktpQ1hUY1JHeFRQbnh4alFfVlpndFNfeHV5TTFaVFUxWHdqbjBKVGM1S2pyd040dW1IT19iTEt6UXc2b01zanp2OXUwbkVQZDh1TzJLWVAwR3p0MVNRbThKTFh3ekxIeVZDMVlXazJUb3BuaVFzb3ZaQUozOF8za3dyLUw1OUpIcEtEaHl1UjJ4X0h1ZkhmVlRYWEVXY2NVVHktcE93?oc=5",
-      "age": "11h ago",
-      "date_iso": "2026-06-11T00:06:05+00:00"
+      "category": "cpu",
+      "title": "An Interview with Intel's Kira Boyko: Xeon 6+'s Product Director",
+      "summary": "Hello you fine Internet folks, today we have an interview with Kira Boyko, the Product Director of Intel Xeon 6+.",
+      "source": "ChipsAndCheese",
+      "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+      "age": "5h ago",
+      "date_iso": "2026-06-12T05:13:37+00:00"
     },
     {
       "category": "infra",
-      "title": "Chinese agents caught rebuilding botnets and stirring the pot on AI datacenter debate",
-      "summary": "PRC eyes are watching you",
+      "title": "ShinyHunters hacked 100+ orgs by exploiting an Oracle PeopleSoft 0-day",
+      "summary": "University of Nottingham is first of many, Shiny tells The Reg",
       "source": "The Register",
-      "link": "https://www.theregister.com/security/2026/06/11/china-linked-operators-revive-botnet-stir-ai-datacenter-debate/5253873",
-      "age": "11h ago",
-      "date_iso": "2026-06-11T00:00:45+00:00"
+      "link": "https://www.theregister.com/cyber-crime/2026/06/11/shinyhunters-claims-oracle-peoplesoft-0-day-hit-100-orgs/5254443",
+      "age": "15h ago",
+      "date_iso": "2026-06-11T19:01:16+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Memory and personalization make AI more likely to tell you what you want to hear",
-      "summary": "A little knowledge is a dangerous thing, particularly for enterprise applications",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/11/memory-and-personalization-make-ai-more-likely-to-tell-you-what-you-want-to-hear/5253850",
-      "age": "12h ago",
-      "date_iso": "2026-06-10T23:17:26+00:00"
+      "category": "infra",
+      "title": "OpenAI bans China-linked ChatGPT accounts that amplified US data center electricity price backlash — used AI-generated cartoons to stoke fears over U.S. data center energy costs",
+      "summary": "OpenAI bans China-linked ChatGPT accounts that amplified US data center electricity price backlash — used AI-generated cartoons to stoke fears over U.S. data center energy costs Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbXdxc1hwdXdXMjJRSU5Ca0dYYk1Ia0ptZkc2ZldnXzFQZXcydWVJaEliX1kxOTlkaG1GcU14ZGJnZXVoaXpRY0Y0ems4T0RIYi1sTng5dWZMaGQtVlhiX3JZMi1SYXVMcEt5bnQwZmkwRVNhQXA4ZGo1bUJUMVRLcEZuV3RvalFnV1dBRGgtNHZ5N096ckwyaTBfQ1V6UTNVVmliX2c3UE55OE9CMmN5aUxGM1ZHSzJ6LWdMdldHdkRzQWNhOERzNXpJOHFlX3dWdDV3MzFQWmhsUkpybmI2SldaRm9fRkhMa0FuOE1WU0dXdTRseDVjMg?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-06-11T18:48:34+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "GPU Cloud Standout Nebius On TD Synnex Deal, Nvidia And New Partner Program In 2026",
+      "summary": "GPU Cloud Standout Nebius On TD Synnex Deal, Nvidia And New Partner Program In 2026 crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjN5TGtLX0VrbUswQ0oyVm16VkxrTFYxRU1MYVdvdzRrZU1kUl8wY2VQbDBGQnVCWkhWSl9pS196WkY4aXFJMlc2eDh6X0tmWXFLb3J3bWd0dEZPMk0xNEFsOE1udjQ1cU9YZUNFMXpWVnFxRk94TmpkNTY2YXI2Vkd3NEhEbWZieEtEdTdvSTBORFg3TUhzZXl3MG1zaVFzZlliZzBNc1ZyemVHTWEzaDlCT1hvdw?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-06-11T18:40:00+00:00"
     }
   ]
 }
