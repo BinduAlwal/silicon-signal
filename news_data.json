@@ -1,51 +1,60 @@
 {
-  "generated_at": "2026-06-12T10:57:03.334043+00:00",
+  "generated_at": "2026-06-13T09:51:42.743341+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Anthropic signs \"more than a dozen\" letters of intent for data center leases - report",
-      "summary": "Company pursuing control of its own data centers",
+      "title": "Sponsored: Rethinking data center cooling for AI: The rise of direct-to-chip liquid cooling",
+      "summary": "As the demand for AI and HPC infrastructure continues to grow, the move from air cooling to liquid cooling will become increasingly important for cooling AI workloads",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/anthropic-signs-more-than-a-dozen-letters-of-intent-for-data-center-leases-report/",
-      "age": "just now",
-      "date_iso": "2026-06-12T10:26:36+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "DCD>Talks: Scaling sustainably in the age of AI with Stefan Nilsson, Conapto",
-      "summary": "Stefan Nilsson, CCO at Conapto, joins DCD’s James Raddings to discuss sustainable digital infrastructure, Sweden’s evolving data center market, and meeting the demands of next generation AI workloads.",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcdtalks-scaling-sustainably-in-the-age-of-ai-with-stefan-nilsson-conapto/",
-      "age": "1h ago",
-      "date_iso": "2026-06-12T09:54:09+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "DC Blox’s proposed 24-acre data center near Nashville Zoo could be blocked by moratorium",
-      "summary": "Petition against proposal has garnered more than 386,000 signatures at time of writing",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/dc-bloxs-proposed-24-acre-data-center-near-nashville-zoo-could-be-blocked-by-moratorium/",
-      "age": "1h ago",
-      "date_iso": "2026-06-12T09:52:18+00:00"
+      "link": "https://www.datacenterdynamics.com/en/opinions/rethinking-data-center-cooling-for-ai-the-rise-of-direct-to-chip-liquid-cooling/",
+      "age": "2h ago",
+      "date_iso": "2026-06-13T07:00:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Delos Data offers AI chip startups a fast track to rack scale",
-      "summary": "Half the trouble of building an Nvidia NVL or AMD Helios competitor is just getting the networking out of the box",
+      "title": "SK Hynix to boost memory production 3x ... you can wait another 8 years, right?",
+      "summary": "We're moving as fast as we can, says SK Group chair",
       "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/06/12/delos-data-offers-ai-chip-startups-a-fast-track-to-rack-scale/5254600",
-      "age": "3h ago",
-      "date_iso": "2026-06-12T07:30:00+00:00"
+      "link": "https://www.theregister.com/systems/2026/06/12/sk-hynix-to-triple-wafer-capacity-by-2034/5255151",
+      "age": "12h ago",
+      "date_iso": "2026-06-12T21:05:22+00:00"
     },
     {
       "category": "infra",
-      "title": "Sponsored: The Atlantic pivot: The case for the UK as Europe’s strategic AI gateway",
-      "summary": "Leading data center providers joining a pan-Nordic industrial alliance, alongside plans for a new Iceland-UK subsea link, underscore the growing importance of the UK-Nordic corridor as AI infrastructure expands",
+      "title": "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure",
+      "summary": "GitHub caught off guard by customers actually using the AI being evangelized",
+      "source": "The Register",
+      "link": "https://www.theregister.com/software/2026/06/12/github-outages-persist-as-ai-coding-drives-traffic-surge/5255125",
+      "age": "13h ago",
+      "date_iso": "2026-06-12T20:12:17+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Amazon data centers used 2.5bn gallons of water in 2025",
+      "summary": "AWS shares the small number, as anti-data center protests focus on water usage",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-atlantic-pivot-the-case-for-the-uk-as-europes-strategic-ai-gateway/",
-      "age": "3h ago",
-      "date_iso": "2026-06-12T07:00:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/amazon-data-centers-used-25bn-gallons-of-water-in-2025/",
+      "age": "16h ago",
+      "date_iso": "2026-06-12T17:40:30+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sentinel DC backs off paper mill data center project in Maine",
+      "summary": "Company drops plans, even after state-wide moratorium was vetoed by the governor",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/sentinel-dc-backs-off-paper-mill-data-center-project-in-maine/",
+      "age": "16h ago",
+      "date_iso": "2026-06-12T17:00:29+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Private equity firm acquires Croatia’s ‘Fort-Knox’ data center",
+      "summary": "The 4MW facility is located at the intersection of three redundant optical crossroads",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/private-equity-firm-acquires-croatias-fort-knox-data-center/",
+      "age": "17h ago",
+      "date_iso": "2026-06-12T16:30:00+00:00"
     },
     {
       "category": "cpu",
@@ -53,17 +62,8 @@
       "summary": "Hello you fine Internet folks, today we have an interview with Kira Boyko, the Product Director of Intel Xeon 6+.",
       "source": "ChipsAndCheese",
       "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-      "age": "5h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-12T05:13:37+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "ShinyHunters hacked 100+ orgs by exploiting an Oracle PeopleSoft 0-day",
-      "summary": "University of Nottingham is first of many, Shiny tells The Reg",
-      "source": "The Register",
-      "link": "https://www.theregister.com/cyber-crime/2026/06/11/shinyhunters-claims-oracle-peoplesoft-0-day-hit-100-orgs/5254443",
-      "age": "15h ago",
-      "date_iso": "2026-06-11T19:01:16+00:00"
     },
     {
       "category": "infra",
@@ -71,16 +71,16 @@
       "summary": "OpenAI bans China-linked ChatGPT accounts that amplified US data center electricity price backlash — used AI-generated cartoons to stoke fears over U.S. data center energy costs Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbXdxc1hwdXdXMjJRSU5Ca0dYYk1Ia0ptZkc2ZldnXzFQZXcydWVJaEliX1kxOTlkaG1GcU14ZGJnZXVoaXpRY0Y0ems4T0RIYi1sTng5dWZMaGQtVlhiX3JZMi1SYXVMcEt5bnQwZmkwRVNhQXA4ZGo1bUJUMVRLcEZuV3RvalFnV1dBRGgtNHZ5N096ckwyaTBfQ1V6UTNVVmliX2c3UE55OE9CMmN5aUxGM1ZHSzJ6LWdMdldHdkRzQWNhOERzNXpJOHFlX3dWdDV3MzFQWmhsUkpybmI2SldaRm9fRkhMa0FuOE1WU0dXdTRseDVjMg?oc=5",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-11T18:48:34+00:00"
     },
     {
       "category": "infra",
-      "title": "GPU Cloud Standout Nebius On TD Synnex Deal, Nvidia And New Partner Program In 2026",
-      "summary": "GPU Cloud Standout Nebius On TD Synnex Deal, Nvidia And New Partner Program In 2026 crn.com",
+      "title": "▸ GPU Cloud Standout Nebius On TD Synnex Deal, Nvidia And New Partner Program In 2026",
+      "summary": "▸ GPU Cloud Standout Nebius On TD Synnex Deal, Nvidia And New Partner Program In 2026 crn.com",
       "source": "CRN",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjN5TGtLX0VrbUswQ0oyVm16VkxrTFYxRU1MYVdvdzRrZU1kUl8wY2VQbDBGQnVCWkhWSl9pS196WkY4aXFJMlc2eDh6X0tmWXFLb3J3bWd0dEZPMk0xNEFsOE1udjQ1cU9YZUNFMXpWVnFxRk94TmpkNTY2YXI2Vkd3NEhEbWZieEtEdTdvSTBORFg3TUhzZXl3MG1zaVFzZlliZzBNc1ZyemVHTWEzaDlCT1hvdw?oc=5",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-11T18:40:00+00:00"
     }
   ]
