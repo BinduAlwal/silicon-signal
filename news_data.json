@@ -1,59 +1,77 @@
 {
-  "generated_at": "2026-06-17T11:28:54.194912+00:00",
+  "generated_at": "2026-06-18T11:05:05.543272+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Mayor of London pledges \"coordinated action\" to deal with data center demand in London",
-      "summary": "Will hold a roundtable on the grid connection queue and announced new 'green' policy in summer",
+      "title": "Polarnode sells data center development site in Pori, Finland",
+      "summary": "Developer sells shovel-ready site to unnamed operator",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/mayor-of-london-pledges-coordinated-action-to-deal-with-data-center-demand-in-london/",
+      "link": "https://www.datacenterdynamics.com/en/news/polarnode-sells-data-center-development-site-in-pori-finland/",
       "age": "just now",
-      "date_iso": "2026-06-17T11:13:08+00:00"
+      "date_iso": "2026-06-18T10:05:48+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Rackspace to deploy 30MW of AMD AI chips in its data centers",
-      "summary": "Aims to support enterprise customers in regulated industries",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/rackspace-to-deploy-30mw-of-amd-ai-chips-in-its-data-centers/",
-      "age": "just now",
-      "date_iso": "2026-06-17T10:47:48+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Sharon AI signs 72MW six-year AI infrastructure agreement with Nvidia",
-      "summary": "Taps Vast Data for 600PB AI OS deployment",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/sharon-ai-signs-72mw-six-year-ai-infrastructure-agreement-with-nvidia/",
+      "category": "infra",
+      "title": "Oracle support timelines for Fusion Middleware tighter than expected",
+      "summary": "Big Red drops ominous mention of 'Market Driven Support' beyond 2027 - but there's good news for AIX users",
+      "source": "The Register",
+      "link": "https://www.theregister.com/software/2026/06/18/oracle-support-timelines-for-fusion-middleware-tighter-than-expected/5257698",
       "age": "1h ago",
-      "date_iso": "2026-06-17T10:27:15+00:00"
+      "date_iso": "2026-06-18T09:15:00+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Tesco is sprinting to quit VMware and Broadcom despite rapid migration risks",
-      "summary": "Supermarket giant has turned to third-party support as court sets date to hear licensing dispute",
-      "source": "The Register",
-      "link": "https://www.theregister.com/virtualization/2026/06/17/tesco-is-sprinting-to-quit-vmware-and-broadcom-despite-rapid-migration-risks/5256133",
-      "age": "3h ago",
-      "date_iso": "2026-06-17T07:30:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD's Mext buy shows how AI could solve the RAM shortage it created",
-      "summary": "Running low on memory, can't afford more? The House of Zen's latest acquisition puts an AI spin on flash-based memory expansion",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/06/16/amds-mext-buy-shows-how-ai-could-solve-the-ram-shortage-it-created/5257352",
-      "age": "13h ago",
-      "date_iso": "2026-06-16T22:09:32+00:00"
+      "category": "infra",
+      "title": "XTX Markets taps YIT to build third Finnish data center",
+      "summary": "Company working on third building in two years",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/xtx-markets-taps-yit-to-build-third-finnish-data-center/",
+      "age": "2h ago",
+      "date_iso": "2026-06-18T08:30:31+00:00"
     },
     {
       "category": "cpu",
-      "title": "HPE’s Big Nvidia Vera CPU Bet: What You Need To Know",
-      "summary": "HPE’s Big Nvidia Vera CPU Bet: What You Need To Know crn.com",
+      "title": "81920 Cores Per Rack with AMD EPYC Venice at HPE Discover 2026",
+      "summary": "81920 Cores Per Rack with AMD EPYC Venice at HPE Discover 2026 ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXpVZXJ2S3VrM2NBZEFYQmdEZDZETkFwYTdVUWI1STViUTVGaERYLU5BalEzNEtJc0VETlZPaF96VEVjQ0ZCODU2bHFaVGIzQnhvaVVzQ25ib3hVdXhFU2M0dklHMkMxMDJOTlY5dWVKbTh3WTZFRm9oYnlVODlPNWhzMkxXdzJFWkpSaFl5RkNoSnZWR2lB?oc=5",
+      "age": "9h ago",
+      "date_iso": "2026-06-18T01:48:19+00:00"
+    },
+    {
+      "category": "policy",
+      "title": "US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling — European and Canadian leaders alarm allies over sudden export bans",
+      "summary": "US pulls the 'kill-switch' on Anthropic's Fable 5 AI models, sending global allies scrambling — European and Canadian leaders alarm allies over sudden export bans Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQMEoxb3BnNThrUTBNZk1nbF9DNUYtYTFyZjZLbU1DX1IzY2trSno1bVgtNVpSZFY2S1JXVzBfSnRqOW1tYXgwbVBnVUJVYzBqVElHZFFwUFhxOUNPaUI5Y2pXYkhPTVgxSzJoY09BUUtTWmllWE02U0h3TzhNb1JXVXQzRV9BNjg0dU0zSWxNUXp1bEt3M01TQi1RUldGME1uZjF2WkpScWJ3MGlQbUVuaUIzekZUU0JkWWdFNU1FZVd0amlnXy1La1VJbGhBNlhkM3BVcnVGRDR5ZWtOdUNEdzhmY0lHZk9xbDMtSzVpaWRyY3lfY1RzdkhTRUJwNl90NmJBS3Z2aXI0QVhUREFTR3RtNlppZGlJWkhjY3ppMnkzVm9FSG1YNFRQZ19WXzN4NU1HZzVHWG9UM1hjYWFBUE92VTBiQQ?oc=5",
+      "age": "17h ago",
+      "date_iso": "2026-06-17T17:36:41+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "▸ As Neocloud GPU Demand Surges, Partners Are Winning AI Deals And Making Profit",
+      "summary": "▸ As Neocloud GPU Demand Surges, Partners Are Winning AI Deals And Making Profit crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQm02SEFHeVdHd1VWLTFSZ2tjZW1NVTlRZW51bHdVaXJlVXo0dnI4eVhZNzhjVkhBbDBvTHVUZ2V5NldCaV9uZDBvTEhWcVNTNW1QNUtQYVhDckxoYVZyVzVObUs4ZVJwZlZRTnRlUzZVOGhJMFMtNDVQMUw1LTJQWVJHc0dRUy0ybEQ5eGwwcFVhOHQ4OTVnbVVKNl9MVnNWUjF5RWd3Qm5IM3EtbExn?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-06-17T13:40:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "A massive Chinese AI infrastructure push may lock Nvidia and AMD out",
+      "summary": "A massive Chinese AI infrastructure push may lock Nvidia and AMD out TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOamw3OEE5b0h4RXo4enJmbDBzaVZYZURqTHNxZ2k2d2JtRUdFU1hHR3FCdWRLSmtvaWx0UzZsYVZyNFMxdEpCaHBibHJlZ3lfZnNub1NFbk05VVFaX0xtbTM0ZVlobWQwYzZQVUtnbDF6WWMxX3NDUHZrUm1XOWYxMTZvTmdfZHAzdEtiUXNjLTRybTE4V1ZxeWtjckdHeDEzSW9iMTVCOHF5QlpNemExNFItbUdfdktIYWZ1bkFkUWo5aWRtR2RSdi01Y01fQmVZcFFHNGh5VXE5RW14VnpZRkY0eXIzc1lGTE5BNEVtcmpkNWhMbzVOUEN3QXhOczJWOUxhSmVPN3E?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-06-17T00:11:07+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "▸ HPE’s Big Nvidia Vera CPU Bet: What You Need To Know",
+      "summary": "▸ HPE’s Big Nvidia Vera CPU Bet: What You Need To Know crn.com",
       "source": "CRN",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckc3RlZnRFRtMFBvRHVYeUNYZ2RuUUJ0UWhYX3ZFaG90LURWamY0VHQyWGsyRzVMZGQyNUVNT2RwbDExaHVCSHQwczN3QVdQQ05DZGIwclg1TWdJblFheWd6OWoyYVhzVU54eHBlbTJkLVRKSlFxU2lvLThMdF85c2FHcXpld2pDc0JrRGtzakNaR0JNdllNcVZwTzJDLWNyZG1WbXdqaw?oc=5",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-16T16:30:00+00:00"
     },
     {
@@ -62,26 +80,8 @@
       "summary": "SMI's PCIe 6.0 SSD controller for consumer SSDs coming next year, but severe NAND shortages will get even worse in 2027 as AI data centers swallow supply — An interview with Silicon Motion's SVP Nelson Duann Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNeWViNUZLZTBYRVY1UVVqWkZjY0JaMFNtdUZOaW9SNXA0YnQtTHFMX19NNnhnbGJFTy11VEVMd0VZSjhmbU8tb3BiVFRpZzdWOExyeGxPUnVpa2JTcXBnU0hQOGlBYW9wY1pySXp6al9jQ0liQmdmSEllZ3BxRTBLQ0JpazdNdFk1Y1lTUWFJcmNGZWdkd1ctVl9EczViRWtRWjZsTFJXWUdLTXNqbW1CRUNxTVV5SWFrUVlMUVh2WHZmQ2Rna2VMblQ1dGtKc3pIQlIzVC0tMXJ1ckd3ODZRdklCY2NzcmhKekdRenhTS2taUG0zbkJwR21RTGtPN2VHSkVsRnNKaWR2QUNsdExSTl9CZEVyRnBOcmlwdVNKRGo4ZGQycFp3VWNfaHJsTnhOSnczOS0ybkxfVmZuLV9vUkplS1N1QUdwcXM2U0J5WlFZS3hrby0yRlNrbnYwN0lCZmtKMkZQWkkzdw?oc=5",
-      "age": "21h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-16T13:30:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample — Company's cancelled AI processor features 32GB of HBM2E",
-      "summary": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample — Company's cancelled AI processor features 32GB of HBM2E Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdmVhaUthVHJZYnh3TXg3RHg1TjJDUENCUHZkZTZtVndtWWFrWS1PS2ZicjVaaTFSVzFYcjRuQXFZZjZERW1QODU4cTVnandPZkFURG9lNnF6SzI5cXNfN3l5RWxfQjdYZDB2YzI2akItVHdocGU0ZGtCU3pIZVpVYUJNNEt1SHlOR0Jna3dQNUxZdUtScThJZ1NaTUgwQVFTcTFiOU42SmlOTjhza1BBM1FnV0dpTFpwQ19WRkVVREFlSXVDU2NZTlgwVmxZOGZJRDNpUmhXdGp0cEF6c3BKdFRhd3VYS0FxU29RYmh1WlhUdHZzVldZbkNMSlkyWDRKNmZtREcxZ0JKU3JxOV9GQVYtRml0MGNIeGR1UUhOZVJWVzA?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-06-16T10:30:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Project Jupiter AI data center build raises concerns about water usage in rural New Mexico desert — Oracle calls water usage 'negligible' for 11 million gallon one-time fill",
-      "summary": "Project Jupiter AI data center build raises concerns about water usage in rural New Mexico desert — Oracle calls water usage 'negligible' for 11 million gallon one-time fill Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNYllrdlM0R2R1N3JreHR2SkFCODliTThIWU5JalJIcmpZV0hmUkV0amg1TXRNTjZhMVU2WHVYVHp2cUNCa0N0QWp0RVdDS3lQQmJYVTRUeVVuX0J0VXo3MlBnRGRKVmhfN0I2Q0RPZE1zVkdsOG8tQllJcUNaUkk2VzZoY0Q1anhaUmlsUXg0OTNIbVZnTDRjUjQ0a0tnWUFkYVdfdklJOVFXd2I4MFVTeDRGT3R1elRCVjh3bC15OVNNVHpQRWRNaDdMOENNZnNTTDhfeVphZC1QeTFXZmxVcWwyMHk3X3h2Ty1BejlOR2h0WUNZMF9wcFFqWllvU2FlWWpRT0RpQnpZRDVFZnRBT1BFTElwX0xCR2dLVkh1NTJBTWMySHBNOXZJS2I1cXp5aWNuMHgxcGVuc0tNbld6dTNpSQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-06-16T10:00:00+00:00"
     }
   ]
 }
