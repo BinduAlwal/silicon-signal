@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-06-22T12:43:41.735449+00:00",
+  "generated_at": "2026-06-23T10:29:05.798204+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "gpu",
-      "title": "Mantle DC launches GPUaaS with 144 Blackwell GPUs",
-      "summary": "Company has established its foundation cluster in just five months",
+      "title": "Nvidia backs AI networking switch silicon startup Upscale in $190m raise",
+      "summary": "Upscale founding reaches $2 billion following Series A-1 extension",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/mantle-dc-launches-gpuaas-with-144-blackwell-gpus/",
-      "age": "1h ago",
-      "date_iso": "2026-06-22T11:20:27+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Tesla files trademark for modular data center offering",
-      "summary": "Company looks to protect Megapod name ahead of potential product launch",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/tesla-files-trademark-for-modular-data-center-offering/",
-      "age": "2h ago",
-      "date_iso": "2026-06-22T10:30:09+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "American Tower files to develop 4MW Edge data center outside Tampa, Florida",
-      "summary": "Company looks to build at cell tower site",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/american-tower-files-to-develop-4mw-edge-data-center-outside-tampa-florida/",
-      "age": "2h ago",
-      "date_iso": "2026-06-22T10:22:36+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "IFC loans Indian data center firm Sify $71m",
-      "summary": "Companies looking to secure $300 million from others",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ifc-loans-indian-data-center-firm-sify-71m/",
-      "age": "2h ago",
-      "date_iso": "2026-06-22T10:19:48+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-backs-ai-networking-switch-silicon-startup-upscale-in-190m-raise/",
+      "age": "just now",
+      "date_iso": "2026-06-23T10:03:07+00:00"
     },
     {
       "category": "gpu",
-      "title": "Lessons from the VMwars – nothing virtual about the Broadcom vs Tesco slugfest",
-      "summary": "Never get involved in a land war in Asia. Also, don't pick a contract fight with a monster of the art",
+      "title": "Brits still reckon Big Tech isn't paying enough tax",
+      "summary": "Poll finds two-thirds support squeeze on Silicon Valley despite US pressure",
       "source": "The Register",
-      "link": "https://www.theregister.com/virtualization/2026/06/22/lessons-from-the-vmwars-nothing-virtual-about-the-broadcom-vs-tesco-slugfest/5259005",
-      "age": "4h ago",
-      "date_iso": "2026-06-22T08:30:00+00:00"
+      "link": "https://www.theregister.com/personal-tech/2026/06/23/brits-still-reckon-big-tech-isnt-paying-enough-tax/5259410",
+      "age": "just now",
+      "date_iso": "2026-06-23T10:00:00+00:00"
+    },
+    {
+      "category": "edge",
+      "title": "Thor Equities files lawsuit against Ohio's Urbana after data center moratorium disrupts project",
+      "summary": "Company was set to build a $1 billion data center near the city",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/thor-equities-files-lawsuit-against-ohios-urbana-after-data-center-moratorium-disrupts-project/",
+      "age": "just now",
+      "date_iso": "2026-06-23T09:58:56+00:00"
     },
     {
       "category": "infra",
-      "title": "China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX — Beijing's forced chip and satellite alliance announced a week before Musk’s AI1 reveal",
-      "summary": "China unifies tech sector to build grid-free orbiting satellite AI data centers, challenging Elon Musk's SpaceX — Beijing's forced chip and satellite alliance announced a week before Musk’s AI1 reveal Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPaURpRzRfaGFUM283LTk2dDdtVmtmUUI0b1B2TGV0Tmd5QUt6WFBtRTMxR2xNNTA0UENIaGNuYy1mRlVGRkhNWmZHMzFBYTRxck55akR1Vm1yRkhlTHBVSVNWTGZTbXdHUXlObDJnaUFRcEJFYW45RVlvOUZ5V1RTRXMyc21FVlBydjctWHB4akNSQW01T1VWM1lFSEdaT1Y0N1Rfb0hHQ2lrRkFsWFVUbzJaWmMxdHpSaFMzWDBwVkExWWhaUE1SU1V6S1VsZDBFQ3QxbUg1TVRkS1BnR1lZTEJnVDZEWmFXMExBdmxBVzY2dzhsTW5CUGZuV3dELWdYVklFYmJhMVkzZ3NvTDNhX3ZlSG9kZGo2WEZxY3YxVTBUcmYwZDZabWJZZkszaE03Z09hMlJNSDdQekV0MmxLakZyRjhLNm5nbWNGRU9TTkkyNUNpdlVneWI2d1Uwb2o1dlJMWmRIQlpEdw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-06-20T14:53:42+00:00"
+      "title": "DCD>Talks: Meeting AI demand with flexible power infrastructure with Joaquin Aguerre, PowerSecure",
+      "summary": "James Raddings speaks with Joaquin Aguirre of PowerSecure about how AI is reshaping data center power requirements, driving new approaches to resilience, energy storage, and power availability.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcdtalks-meeting-ai-demand-with-flexible-power-infrastructure-with-joaquin-aguerre-powersecure/",
+      "age": "just now",
+      "date_iso": "2026-06-23T09:46:16+00:00"
     },
     {
-      "category": "cpu",
-      "title": "Intel and AMD's new ACE CPU extensions bring an efficient AI-oriented instruction set to x86 — a new design makes matrix multiplication more power- and density-efficient",
-      "summary": "Intel and AMD's new ACE CPU extensions bring an efficient AI-oriented instruction set to x86 — a new design makes matrix multiplication more power- and density-efficient Tom's Hardware",
+      "category": "infra",
+      "title": "Arm servers capture over 45% of data center market revenue — GPU clusters and high-end AI infrastructure fuel a tectonic shift away from x86",
+      "summary": "Arm servers capture over 45% of data center market revenue — GPU clusters and high-end AI infrastructure fuel a tectonic shift away from x86 Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQdHpEamZ2OThvRURzLWNfRmsyMURWckRiSHNkMXdZRzNodVQ5LS1HR05OQTNNX0x1b0FGWnJEeU4tQmxpbzVxWXdiM1IxVzJFcnZvWlVoWFNYUk04Rm55SGFuNzlNOFQzUnVCcm9PeC1DLXVDYmREdjBHNUViVFM2cXQwWWZ4TzdMeHZqcERMT3JxQXMzbWpNMTBtUXVfeGVBV0dJVE1TMGdDaTJ3UGNKRHdhSnNKWmdCYllqN2w2UnlIZlc0U0I5UjEwcW5uWGhxYktKcDB1UGNPek9la09udFQweUpOMjJuTENFTHFjaEpUNHNveXViV1hmY0R3c05uTVNaNWZQbUhrQTZUS0FCeFZhbGdtTGVhRkQ2amJBX3dnZkEyZWVFamEtajF4Vkc5bmx0SURSbTU?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-06-20T12:00:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQUxKZk1rbkFxWE42Y1A2eTBGWF8wN1pqM21kOHdNM3JLUk03al9VRG9IcWRKSGR4TTJTTGJxNGJkUF9iUnJNRkpxZXNtU2I2VFFjS1k5MnRLaFpOWGxTRTc0THQwemctdmFNVDItY1hOZ3g1ZTJFeURUdkFvc1o0RE05eTVGX0JoVy1sS3c3N0dHTENPc3hRb2R6VmR6SUVJZE5kM2taUWY4enlib3JjZElNM21zNUREWlJiQVBwSEJLRHJ0eUwzMjRPTlN3UWlaRnhCb0Rab0NMdGZaTlN6RUh3WFBoUFd2aTJEVU5STjhIcG4xOWUzVWdFaEluN3EwUlJiUGllYWxCVnk3SWtuY1hGNHhyY3Nlamln?oc=5",
+      "age": "13h ago",
+      "date_iso": "2026-06-22T20:34:17+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure — mass exodus continues due to Broadcom's aggressive subscription model",
-      "summary": "Tesco UK supermarket chain removes 40,000 servers from VMware infrastructure — mass exodus continues due to Broadcom's aggressive subscription model Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOdEdFb1hlTllyT1Q5S3oxSW1lc1dOX3I3ME9mcURDeEpXSnpEMGpESTE3TjIxWXlqckU4d1d0NFRuRVRrR0lmSGxXTnlzdkdNcjMxQVRsUjhsZGM4cVF3SUJDeVNZY0NPV1pMeGpQOUhnYXJtb09SdmJ6TjRWaGNEdlZQQXB6Y0tNUy05TXQ0ZGQ2dGdOQ3JVMGdBTXhBUkVrZi11ODlLVTIzY3Fka0xKTFNiaFYwcUNJcjNxM28teXUyU3NYNVJuRlNWWjdubWhrNEJWWGpJcmFSelVVRi1SNVduRGRGMlZ5Wl9GSmhQY3huM0hGbXNxNFpOMlgzM0dkZE1vRnZrT290cC1uYzVUMlZfT1k0OFNGVnB3?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-06-19T10:00:00+00:00"
+      "category": "infra",
+      "title": "Texas lassoes massive Microsoft datacenter - and 20 years of gas turbine emissions",
+      "summary": "The air turns brown when bit barns come to town … deep in the heart of Texas",
+      "source": "The Register",
+      "link": "https://www.theregister.com/on-prem/2026/06/22/texas-lassoes-massive-microsoft-datacenter-and-20-years-of-gas-turbine-emissions/5259764",
+      "age": "13h ago",
+      "date_iso": "2026-06-22T20:31:10+00:00"
     },
     {
-      "category": "policy",
-      "title": "US energy regulator to order grid operators to expedite AI data center applications — says projects should bring their own power or cut usage during high demand",
-      "summary": "US energy regulator to order grid operators to expedite AI data center applications — says projects should bring their own power or cut usage during high demand Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOd2t3enV4SG1iREx0X2lkaEtaNWNRT29DelBuSFNXNURUVGFTUXRyMTFIWlBEVzJZQTlpVFV5TkJKUHdROHhmQ244TVZ2VGlIeFNmQmRJcVVIQ0ctc3YzdVJaV0NkS0k2a19Jal9xamxUcmZ1a1ZyTzduSFZJSk9oSzlXX1pjYkpqbmgxaGlMRXJWTmxxczN6Y2IyU3d3SVNDbXpTS1lwdGVXR1NXTVFOY0h3OVhQTWF1V2hJN2hUUmRaZmFydDdZYkRQOHlYSmo0NC1qX3BVTFBHQjdpUjhRTGcwUHZzOURJSmRnMnE4aWJ3RXdGT0hrRTR3Yi1QREg2N1RfcGd3SjQyLWNKQkMzQ1RIc2UzajZLTGhwSFZPelV1SGJSeHlCQXY4MjBaRzJOSWFMUHhXUi1RUQ?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-06-19T09:45:00+00:00"
+      "category": "infra",
+      "title": "Microsoft plans 2GW data center campus in Pecos, Texas",
+      "summary": "Chevron signed on for energy supply deal",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-plans-2gw-data-center-campus-in-pecos-texas/",
+      "age": "17h ago",
+      "date_iso": "2026-06-22T16:34:06+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Gigawatt-scale data center campus proposed in Kansas",
+      "summary": "Flint Hills Digital Campus proposed near Emporia, few details available",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-data-center-campus-proposed-in-kansas/",
+      "age": "18h ago",
+      "date_iso": "2026-06-22T16:21:07+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "PLDT files to establish and float data center REIT in Philippines",
+      "summary": "Vitro REIT seeded with eight facilities totaling 24MW, aims to raise $396m",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/pldt-files-to-establish-and-float-data-center-reit-in-philippines/",
+      "age": "18h ago",
+      "date_iso": "2026-06-22T16:20:28+00:00"
     }
   ]
 }
