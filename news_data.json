@@ -1,24 +1,69 @@
 {
-  "generated_at": "2026-06-25T10:11:50.533796+00:00",
+  "generated_at": "2026-06-26T10:15:06.937957+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "AWS pledges further $13bn investment in AI and cloud infrastructure in India",
-      "summary": "Builds on 2025 commitments",
+      "title": "Ada Infrastructure breaks ground on data center campus in São Paulo, Brazil",
+      "summary": "Announcement marks the company's entry into the Latin American market",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/aws-pledges-further-13bn-investment-in-ai-and-cloud-infrastructure-in-india/",
+      "link": "https://www.datacenterdynamics.com/en/news/ada-infrastructure-breaks-ground-on-data-center-campus-in-s%C3%A3o-paulo-brazil/",
       "age": "just now",
-      "date_iso": "2026-06-25T10:08:22+00:00"
+      "date_iso": "2026-06-26T10:08:25+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Microsoft claims water positivity across data center operations",
+      "summary": "Did not disclose water consumption levels",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-claims-water-positivity-across-data-center-operations/",
+      "age": "just now",
+      "date_iso": "2026-06-26T09:36:25+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sponsored: The new data center playbook: Diversifying power strategy to unlock growth",
+      "summary": "Managing the power bottleneck by redefining it as a strategic lever for growth",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/the-new-data-center-playbook-diversifying-power-strategy-to-unlock-growth/",
+      "age": "1h ago",
+      "date_iso": "2026-06-26T09:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Gorilla Technology secures $2.5bn GPUaaS contract in Indonesia",
+      "summary": "Will see capacity deployed at NeutraDC Batam data center in Indonesia",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/gorilla-technology-secures-25bn-gpuaas-contract-in-indonesia/",
+      "age": "17h ago",
+      "date_iso": "2026-06-25T16:30:27+00:00"
     },
     {
       "category": "gpu",
-      "title": "IBM stacks up a sub-nanometer chip future",
-      "summary": "Big Blue shows off process node it claims can scale down to 1 Angstrom",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/06/25/ibm-stacks-up-a-sub-nanometer-chip-future/5261555",
-      "age": "just now",
-      "date_iso": "2026-06-25T10:03:00+00:00"
+      "title": "IBM details major chip breakthrough with new sub-1nm ‘nanostack’ 3D architecture",
+      "summary": "Company claims technology provides up to 50 percent more performance or 70 percent greater energy efficiency",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ibm-details-major-chip-breakthrough-with-new-sub-1nm-nanostack-3d-architecture/",
+      "age": "17h ago",
+      "date_iso": "2026-06-25T16:15:14+00:00"
+    },
+    {
+      "category": "policy",
+      "title": "Qualcomm plans China-specific data center chips — new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds",
+      "summary": "Qualcomm plans China-specific data center chips — new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVN6OFE1bWlhcHFDNHdrYmE4RTFKTXctaGxoTUx0TWtHdDBOSHhpYjh0Rl9FNXlCMHB5dWJ2TEU5SDhRTkxaWldKNTB4Ml9VeTZ5ZkhpWDhfTjJmcjNUcFVWdmdhYTlXVHEzeDdOU1dtMVV4YXRnNVFrTC1NZGNmOWlTeEN0dXlpVjJCQTVYbmVqOVNCZlliMHAxbmhiakttMlJydzBDbUFXdDRoUUc3bzY2REJWQW8za2xLVEttRQ?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-06-25T12:45:22+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerators — touts 6x higher bandwidth-per-watt compared to HBM, 200x capacity compared to on-chip SRAM",
+      "summary": "Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerators — touts 6x higher bandwidth-per-watt compared to HBM, 200x capacity compared to on-chip SRAM Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPYnY5RWVaSGtxZm10R0ZqS3diUFFfeVZtNVl3aXV2SWhJMzhpWmFxNU5RU3VRdW82YWV2Y2NwbmxDRElhVllrT3dNeDhIRk0wc1NibVY3dl9ORmE3SEpqRF9fSFNSZFNIeDFzZHlXVnRFdzE4SThuVnBmejBKQzlKRU5yT1VSN1pOZERSOE9JcklxSHpXR2Q4XzJBSzZ0b0V5N0NZNU9QWTE3SkRnb25hc2pGV0IyN255YzdOcThJZmlnUk5kclViR1dXX193WWhoank5R2RWQ3kxSVYtcnQxYmxtY3lIdDl1aURIM1RPZzZyTGNYZFkxVXN4YkE5Wmd2S0hEOFJoeEJadDQxQmswbXlKdHdKc2NlaEZoTnhSQ2VQRTJTbkVYaWdIY3NuNlBtckRyX3oyYm9qMlV3ck56VGI2SHpzdEhJT1F1VEpLcWgzRkxz?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-06-25T10:00:00+00:00"
     },
     {
       "category": "gpu",
@@ -26,62 +71,17 @@
       "summary": "IBM Unveils New Chip Technology That Breaks The 1 Nanometer Barrier crn.com",
       "source": "CRN",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzd2MjV0MlE3dUJFRTlrT0VycTVJLXFDdHZmQTNoTHFjY1ZxbVY1YnduWEs1Z2dETjFtUnZJVWpLQ0NCSlhoc0RPbVdzM1dmWHlCRFk1aGs5d09BR3oxVmlFMk8yTjFnaVd3bGhURzdhTmd6Rk9CYmgzMVhDNG1LcFB6MHVyclZGV2FhWldXMlVlZk9PRnoweVVPZ29CTEVYdWpMQlBVRk9YWjFZMjB1WEFHYzA0bWhZSkNyeQ?oc=5",
-      "age": "just now",
+      "age": "1d ago",
       "date_iso": "2026-06-25T10:00:00+00:00"
     },
     {
-      "category": "cpu",
-      "title": "The CPU's growing role in agentic AI infrastructure",
-      "summary": "PARTNER CONTENT: As agentic AI systems scale across cloud and datacenter environments, CPUs remain the control plane coordinating performance and efficiency.",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/06/25/the-cpus-growing-role-in-agentic-ai-infrastructure/5261720",
-      "age": "2h ago",
-      "date_iso": "2026-06-25T08:00:00+00:00"
-    },
-    {
       "category": "gpu",
-      "title": "Ericsson to streamline path to autonomous networks for operators",
-      "summary": "OSS/BSS Business Value Pathways promises AI-driven route to network autonomy",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ericsson-to-streamline-path-to-autonomous-networks-for-operators/",
-      "age": "3h ago",
-      "date_iso": "2026-06-25T07:00:33+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Sponsored: From air to liquid: Why the transition zone matters",
-      "summary": "While industry conversation is heavily focused on direct-to-chip liquid cooling, today’s reality is that most data centers are still operating with air-cooled environments, making airflow management the critical intersection",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/from-air-to-liquid-why-the-transition-zone-matters/",
-      "age": "3h ago",
-      "date_iso": "2026-06-25T07:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Micron locks in historically high memory prices for five years",
-      "summary": "Big buyers agree to deals that will deliver historically enormous margins and profits",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
-      "age": "8h ago",
-      "date_iso": "2026-06-25T02:07:15+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Proposed data center in Guernsey County, Ohio, could go ahead despite local government opposition",
-      "summary": "Project proposed by Smart Energy Partners still in extremely early stages",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/proposed-data-center-in-guernsey-county-ohio-could-go-ahead-despite-local-government-opposition/",
-      "age": "9h ago",
-      "date_iso": "2026-06-25T00:52:02+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Subsidiary of Malaysian state development agency to develop 65MW data center with domestic operator",
-      "summary": "Will allegedly deploy immersion cooling",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/subsidiary-of-malaysian-state-development-agency-to-develop-65mw-data-center-with-domestic-operator/",
-      "age": "10h ago",
-      "date_iso": "2026-06-25T00:00:27+00:00"
+      "title": "DRAM shortage chaos pushes DDR4 sky high, dragging brands back to DDR2",
+      "summary": "DRAM shortage chaos pushes DDR4 sky high, dragging brands back to DDR2 TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0IwMmMySVdlQ1BEUGpNRjdDRzdKQmRJMS1iT2dNSFk4UlNWM1lyRHdGeDRZMVFDanNmdXNuOHUtV29reXZaWmsxX3U4X3ZUSXhaaW9UZG9SY0p0OUx3Njc1V21jSWhyZk5ZbDQzSENIOUl6ckpsOVNOX2tVbVlTZndpSl80THVWaUNOcVVpUUlJNDVJeFBxXzlQNjNlLU1VY2hFWV9RTEw5OXZxY2RkNnpwVlJZWlIya2JUaGtn?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-06-25T00:20:00+00:00"
     }
   ]
 }
