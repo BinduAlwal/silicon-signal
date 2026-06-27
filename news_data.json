@@ -1,51 +1,78 @@
 {
-  "generated_at": "2026-06-26T10:15:06.937957+00:00",
+  "generated_at": "2026-06-27T09:23:40.980174+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Ada Infrastructure breaks ground on data center campus in São Paulo, Brazil",
-      "summary": "Announcement marks the company's entry into the Latin American market",
+      "title": "Edged tops out data center in Council Bluffs, Iowa",
+      "summary": "Second building due to be topped out in September",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ada-infrastructure-breaks-ground-on-data-center-campus-in-s%C3%A3o-paulo-brazil/",
-      "age": "just now",
-      "date_iso": "2026-06-26T10:08:25+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/edged-tops-out-data-center-in-council-bluffs-iowa/",
+      "age": "16h ago",
+      "date_iso": "2026-06-26T16:38:33+00:00"
     },
     {
       "category": "infra",
-      "title": "Microsoft claims water positivity across data center operations",
-      "summary": "Did not disclose water consumption levels",
+      "title": "FCC concludes AWS-3 spectrum, raises $3.5bn",
+      "summary": "Will be used to fund \"rip and replace\" of Chinese telecoms kit",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/microsoft-claims-water-positivity-across-data-center-operations/",
-      "age": "just now",
-      "date_iso": "2026-06-26T09:36:25+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Sponsored: The new data center playbook: Diversifying power strategy to unlock growth",
-      "summary": "Managing the power bottleneck by redefining it as a strategic lever for growth",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/the-new-data-center-playbook-diversifying-power-strategy-to-unlock-growth/",
-      "age": "1h ago",
-      "date_iso": "2026-06-26T09:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Gorilla Technology secures $2.5bn GPUaaS contract in Indonesia",
-      "summary": "Will see capacity deployed at NeutraDC Batam data center in Indonesia",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/gorilla-technology-secures-25bn-gpuaas-contract-in-indonesia/",
+      "link": "https://www.datacenterdynamics.com/en/news/fcc-concludes-aws-3-spectrum-raises-35bn/",
       "age": "17h ago",
-      "date_iso": "2026-06-25T16:30:27+00:00"
+      "date_iso": "2026-06-26T16:00:31+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Dogecoin cryptominer Z Squared acquires site in Arkansas for AI/HPC data center development",
+      "summary": "Company aims to develop 150MW immersion-cooled campus featuring behind-the-meter natural gas",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/dogecoin-cryptominer-z-squared-acquires-site-in-arkansas-for-aihpc-data-center-development/",
+      "age": "17h ago",
+      "date_iso": "2026-06-26T15:31:13+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Unnamed data center developer eyeing former Crystal Geyser bottling site in Mount Shasta, California",
+      "summary": "No formal application has been submitted yet",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/unnamed-data-center-developer-eyeing-former-crystal-geyser-bottling-site-in-mount-shasta-california/",
+      "age": "18h ago",
+      "date_iso": "2026-06-26T15:20:33+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "NorthVault launches, plans data center campus in Ontario, Canada",
+      "summary": "Site reportedly has 4.4MW available now, company targeting 120MW",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/northvault-launches-plans-data-center-campus-in-ontario-canada/",
+      "age": "18h ago",
+      "date_iso": "2026-06-26T15:11:37+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Galaxy Digital eyes second Texas data center site, buys land outside Waco",
+      "summary": "Company buys land in McGregor, targets 500-acre campus",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/galaxy-digital-eyes-second-texas-data-center-site-buys-land-outside-waco/",
+      "age": "18h ago",
+      "date_iso": "2026-06-26T15:09:48+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Three-year data center moratorium passed in town of East Fishkill, New York State, blocking planned campus",
+      "summary": "Effectively blocks 1 million sq ft data center proposal",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/three-year-data-center-moratorium-passed-in-town-of-east-fishkill-new-york-state-blocking-planned-campus/",
+      "age": "18h ago",
+      "date_iso": "2026-06-26T15:00:29+00:00"
     },
     {
       "category": "gpu",
-      "title": "IBM details major chip breakthrough with new sub-1nm ‘nanostack’ 3D architecture",
-      "summary": "Company claims technology provides up to 50 percent more performance or 70 percent greater energy efficiency",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ibm-details-major-chip-breakthrough-with-new-sub-1nm-nanostack-3d-architecture/",
-      "age": "17h ago",
-      "date_iso": "2026-06-25T16:15:14+00:00"
+      "title": "Solidigm VP talks PCIe 6.0 SSDs, next-gen floating gate NAND, liquid cooled storage and more — Avi Shetty, VP of AI, Solutions & Market Enablement discusses the future of enterprise storage tech",
+      "summary": "Solidigm VP talks PCIe 6.0 SSDs, next-gen floating gate NAND, liquid cooled storage and more — Avi Shetty, VP of AI, Solutions & Market Enablement discusses the future of enterprise storage tech Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPUWY2WlhNQU1MaElfbW5iX0ZTY051TGZlTDFFWkY5RV9TQWM3eV85dUo3Qm1RaTEwRTVsZzNVNmRfb3VWeHRGY04ydmVVRnJJWnM0ZTU4TEsyeXJ0Q1ppU09oMC1lT0JZSUp0QU5kaXRWU2FrVUlWOE1wVTVtWEJmV3U5LWM0SkdjYUxOZHJTenFHOHB4QzB0MjhfZGpGcjNKWVFUbEc1d21lZzlaRVJzN2lqdGFYRTFYYVEwcWtVTHZ1ajcwelE2QnJVVDM3cmllN0ZkR1J3VjJ0S0N2VzNLX0E0NS1xSzlfWXpSdkxKRzdLRFh6VlhvSGU0ZTJ0T2RWZ25UWGt5SUZKQnd6aGxBTVhvM1JtcUU5a2xnazlHdk1SUDFPUFMycS1XN01RYVVlSnRRMko2cGxHdzFOa0JucVNDSjVEVk5WeXE2RFdLTXU1VWxUMlZmNm13?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-06-26T13:25:48+00:00"
     },
     {
       "category": "policy",
@@ -53,35 +80,8 @@
       "summary": "Qualcomm plans China-specific data center chips — new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVN6OFE1bWlhcHFDNHdrYmE4RTFKTXctaGxoTUx0TWtHdDBOSHhpYjh0Rl9FNXlCMHB5dWJ2TEU5SDhRTkxaWldKNTB4Ml9VeTZ5ZkhpWDhfTjJmcjNUcFVWdmdhYTlXVHEzeDdOU1dtMVV4YXRnNVFrTC1NZGNmOWlTeEN0dXlpVjJCQTVYbmVqOVNCZlliMHAxbmhiakttMlJydzBDbUFXdDRoUUc3bzY2REJWQW8za2xLVEttRQ?oc=5",
-      "age": "21h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-25T12:45:22+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerators — touts 6x higher bandwidth-per-watt compared to HBM, 200x capacity compared to on-chip SRAM",
-      "summary": "Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerators — touts 6x higher bandwidth-per-watt compared to HBM, 200x capacity compared to on-chip SRAM Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPYnY5RWVaSGtxZm10R0ZqS3diUFFfeVZtNVl3aXV2SWhJMzhpWmFxNU5RU3VRdW82YWV2Y2NwbmxDRElhVllrT3dNeDhIRk0wc1NibVY3dl9ORmE3SEpqRF9fSFNSZFNIeDFzZHlXVnRFdzE4SThuVnBmejBKQzlKRU5yT1VSN1pOZERSOE9JcklxSHpXR2Q4XzJBSzZ0b0V5N0NZNU9QWTE3SkRnb25hc2pGV0IyN255YzdOcThJZmlnUk5kclViR1dXX193WWhoank5R2RWQ3kxSVYtcnQxYmxtY3lIdDl1aURIM1RPZzZyTGNYZFkxVXN4YkE5Wmd2S0hEOFJoeEJadDQxQmswbXlKdHdKc2NlaEZoTnhSQ2VQRTJTbkVYaWdIY3NuNlBtckRyX3oyYm9qMlV3ck56VGI2SHpzdEhJT1F1VEpLcWgzRkxz?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-06-25T10:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "IBM Unveils New Chip Technology That Breaks The 1 Nanometer Barrier",
-      "summary": "IBM Unveils New Chip Technology That Breaks The 1 Nanometer Barrier crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZzd2MjV0MlE3dUJFRTlrT0VycTVJLXFDdHZmQTNoTHFjY1ZxbVY1YnduWEs1Z2dETjFtUnZJVWpLQ0NCSlhoc0RPbVdzM1dmWHlCRFk1aGs5d09BR3oxVmlFMk8yTjFnaVd3bGhURzdhTmd6Rk9CYmgzMVhDNG1LcFB6MHVyclZGV2FhWldXMlVlZk9PRnoweVVPZ29CTEVYdWpMQlBVRk9YWjFZMjB1WEFHYzA0bWhZSkNyeQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-06-25T10:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "DRAM shortage chaos pushes DDR4 sky high, dragging brands back to DDR2",
-      "summary": "DRAM shortage chaos pushes DDR4 sky high, dragging brands back to DDR2 TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0IwMmMySVdlQ1BEUGpNRjdDRzdKQmRJMS1iT2dNSFk4UlNWM1lyRHdGeDRZMVFDanNmdXNuOHUtV29reXZaWmsxX3U4X3ZUSXhaaW9UZG9SY0p0OUx3Njc1V21jSWhyZk5ZbDQzSENIOUl6ckpsOVNOX2tVbVlTZndpSl80THVWaUNOcVVpUUlJNDVJeFBxXzlQNjNlLU1VY2hFWV9RTEw5OXZxY2RkNnpwVlJZWlIya2JUaGtn?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-06-25T00:20:00+00:00"
     }
   ]
 }
