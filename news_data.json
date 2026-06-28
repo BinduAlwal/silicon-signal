@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T09:23:40.980174+00:00",
+  "generated_at": "2026-06-28T09:54:05.641487+00:00",
   "item_count": 9,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "Second building due to be topped out in September",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/edged-tops-out-data-center-in-council-bluffs-iowa/",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-26T16:38:33+00:00"
     },
     {
@@ -17,7 +17,7 @@
       "summary": "Will be used to fund \"rip and replace\" of Chinese telecoms kit",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/fcc-concludes-aws-3-spectrum-raises-35bn/",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-26T16:00:31+00:00"
     },
     {
@@ -26,7 +26,7 @@
       "summary": "Company aims to develop 150MW immersion-cooled campus featuring behind-the-meter natural gas",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/dogecoin-cryptominer-z-squared-acquires-site-in-arkansas-for-aihpc-data-center-development/",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-26T15:31:13+00:00"
     },
     {
@@ -35,7 +35,7 @@
       "summary": "No formal application has been submitted yet",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/unnamed-data-center-developer-eyeing-former-crystal-geyser-bottling-site-in-mount-shasta-california/",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-26T15:20:33+00:00"
     },
     {
@@ -44,7 +44,7 @@
       "summary": "Site reportedly has 4.4MW available now, company targeting 120MW",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/northvault-launches-plans-data-center-campus-in-ontario-canada/",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-26T15:11:37+00:00"
     },
     {
@@ -53,7 +53,7 @@
       "summary": "Company buys land in McGregor, targets 500-acre campus",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/galaxy-digital-eyes-second-texas-data-center-site-buys-land-outside-waco/",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-26T15:09:48+00:00"
     },
     {
@@ -62,8 +62,17 @@
       "summary": "Effectively blocks 1 million sq ft data center proposal",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/three-year-data-center-moratorium-passed-in-town-of-east-fishkill-new-york-state-blocking-planned-campus/",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-06-26T15:00:29+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Oracle promises to open up MySQL governance, but the community wants guarantees",
+      "summary": "Open source advocates remain concerned over lack of binding commitments",
+      "source": "The Register",
+      "link": "https://www.theregister.com/databases/2026/06/26/oracle-promises-to-open-up-mysql-governance-but-the-community-wants-guarantees/5263106",
+      "age": "1d ago",
+      "date_iso": "2026-06-26T14:42:00+00:00"
     },
     {
       "category": "gpu",
@@ -71,17 +80,8 @@
       "summary": "Solidigm VP talks PCIe 6.0 SSDs, next-gen floating gate NAND, liquid cooled storage and more — Avi Shetty, VP of AI, Solutions & Market Enablement discusses the future of enterprise storage tech Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPUWY2WlhNQU1MaElfbW5iX0ZTY051TGZlTDFFWkY5RV9TQWM3eV85dUo3Qm1RaTEwRTVsZzNVNmRfb3VWeHRGY04ydmVVRnJJWnM0ZTU4TEsyeXJ0Q1ppU09oMC1lT0JZSUp0QU5kaXRWU2FrVUlWOE1wVTVtWEJmV3U5LWM0SkdjYUxOZHJTenFHOHB4QzB0MjhfZGpGcjNKWVFUbEc1d21lZzlaRVJzN2lqdGFYRTFYYVEwcWtVTHZ1ajcwelE2QnJVVDM3cmllN0ZkR1J3VjJ0S0N2VzNLX0E0NS1xSzlfWXpSdkxKRzdLRFh6VlhvSGU0ZTJ0T2RWZ25UWGt5SUZKQnd6aGxBTVhvM1JtcUU5a2xnazlHdk1SUDFPUFMycS1XN01RYVVlSnRRMko2cGxHdzFOa0JucVNDSjVEVk5WeXE2RFdLTXU1VWxUMlZmNm13?oc=5",
-      "age": "19h ago",
-      "date_iso": "2026-06-26T13:25:48+00:00"
-    },
-    {
-      "category": "policy",
-      "title": "Qualcomm plans China-specific data center chips — new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds",
-      "summary": "Qualcomm plans China-specific data center chips — new Dragonfly lineup will include nerfed AI accelerators that comply with export thresholds Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVN6OFE1bWlhcHFDNHdrYmE4RTFKTXctaGxoTUx0TWtHdDBOSHhpYjh0Rl9FNXlCMHB5dWJ2TEU5SDhRTkxaWldKNTB4Ml9VeTZ5ZkhpWDhfTjJmcjNUcFVWdmdhYTlXVHEzeDdOU1dtMVV4YXRnNVFrTC1NZGNmOWlTeEN0dXlpVjJCQTVYbmVqOVNCZlliMHAxbmhiakttMlJydzBDbUFXdDRoUUc3bzY2REJWQW8za2xLVEttRQ?oc=5",
       "age": "1d ago",
-      "date_iso": "2026-06-25T12:45:22+00:00"
+      "date_iso": "2026-06-26T13:25:48+00:00"
     }
   ]
 }
