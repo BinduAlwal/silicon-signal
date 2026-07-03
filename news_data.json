@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-07-02T09:53:03.510308+00:00",
+  "generated_at": "2026-07-03T09:49:58.983234+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Power availability the defining constraint in EMEA data center development - report",
-      "summary": "Grid infrastructure is curbing the transition from planned capacity to operational capacity",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/power-availability-the-defining-constraint-in-emea-data-center-development-report/",
-      "age": "1h ago",
-      "date_iso": "2026-07-02T08:30:31+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Bulk buys land in Arendal, Norway, for data center development",
-      "summary": "Buys land previously earmarked for recycling facility",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/bulk-buys-land-in-arendal-norway-for-data-center-development/",
-      "age": "1h ago",
-      "date_iso": "2026-07-02T08:00:36+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Microsoft UK's Thames Valley Park campus could be redeveloped as a gas-powered data center",
-      "summary": "Reading site set to head to public consultation",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/microsoft-uks-thames-valley-park-campus-could-be-redeveloped-as-a-gas-powered-data-center/",
-      "age": "2h ago",
-      "date_iso": "2026-07-02T07:30:27+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "DXN sells Tasmanian data center, wins CLS contract in American Samoa",
-      "summary": "Company retains Darwin data center",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/dxn-sells-tasmanian-data-center-wins-cls-contract-in-american-samoa/",
-      "age": "2h ago",
-      "date_iso": "2026-07-02T07:11:06+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore",
-      "summary": "Alleged illicit GPU movements lead to seizure of $42 million house",
+      "title": "EU appears to find datacenter emissions easier to offset than lobbyists",
+      "summary": "Report says proposed rewrite gives operators more freedom to shop around for a greener grade",
       "source": "The Register",
-      "link": "https://www.theregister.com/legal/2026/07/02/trouble-keeps-finding-supermicro-as-strange-server-shipments-attract-police-attention-in-taiwan-and-singapore/5265520",
-      "age": "3h ago",
-      "date_iso": "2026-07-02T06:02:32+00:00"
+      "link": "https://www.theregister.com/on-prem/2026/07/03/eu-appears-to-find-datacenter-emissions-easier-to-offset-than-lobbyists/5265814",
+      "age": "just now",
+      "date_iso": "2026-07-03T09:15:00+00:00"
     },
     {
-      "category": "edge",
-      "title": "New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch",
-      "summary": "They're 90 percent human in some ways, can provide daily companionship psychological support",
+      "category": "infra",
+      "title": "DCD Talks: Closing the data center talent gap with Audrey Escalante, Digital Realty",
+      "summary": "Audrey Escalante, Global Head of Operations for L&D at Digital Realty, speaks with Darren McGrath about addressing the data center skills gap and the New Hire Accelerate Pathways program.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-talks-closing-the-data-center-talent-gap-with-audrey-escalante-digital-realty/",
+      "age": "1h ago",
+      "date_iso": "2026-07-03T08:48:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sponsored: Indonesia's next strategic AI and data center gateway",
+      "summary": "NeutraDC Nxera on why Batam is packed with potential – plus what it’ll take to secure long-term growth",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/indonesias-next-strategic-ai-and-data-center-gateway/",
+      "age": "2h ago",
+      "date_iso": "2026-07-03T07:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it",
+      "summary": "Workers who use OG crowdsourcing platform say AWS is closing accounts",
       "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/02/new-humanoid-robots-from-china-look-like-creepy-pop-star-action-figures-complete-with-slightly-dodgy-lip-synch/5265490",
+      "link": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/5266274",
       "age": "7h ago",
-      "date_iso": "2026-07-02T02:35:26+00:00"
+      "date_iso": "2026-07-03T02:22:36+00:00"
     },
     {
       "category": "gpu",
-      "title": "Nvidia RTX 5090 GPUs are so expensive that Intel's Arc Pro B70 is now a genuine bargain for AI — 128GB 4-card configuration costs less than $3800",
-      "summary": "Nvidia RTX 5090 GPUs are so expensive that Intel's Arc Pro B70 is now a genuine bargain for AI — 128GB 4-card configuration costs less than $3800 TechRadar",
+      "title": "Samsung is plotting to replace your M.2 SSD with a storage chip smaller than a fingernail",
+      "summary": "Samsung is plotting to replace your M.2 SSD with a storage chip smaller than a fingernail TechRadar",
       "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd1d6anJ3cUhiRHV2NU5RX1ZSTE9nakNSejd1dk8wWEdxQUczZWZIaHFfaGVWblZicFowTWZsNldxWEh5dlVMUWZwN2wtbF9hZ1VnNExhMF9UZVU4aE41YmZLem1GSEJfeFA1eWllOEdzcm5pemE4SHdqcjBzZWE4N291dTdzbGk3ZnBxcnY3OHVDX1RJQ3dLSERmQURuSXRZQkEtZ3pKaExZWlFuaHdpYVZRLXE2Q1ZhMnlOUlpqdDVQUE1TZ0h5aTAxRkY5YzR6UzgxbFd6dzhMcmJIV3RiblktRFpJcXBsMnA1dUFzNDBnVXBuOWFYS2VTenVFbGxFVjNQeA?oc=5",
-      "age": "9h ago",
-      "date_iso": "2026-07-02T00:06:45+00:00"
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSU9wMk9ENlpJbDNyTlBqU2N4UmZ0SUtBRldPcm9FRWlIelBhZ1pyOVlHUS1qR01nNU13R0VGbG9DTUJsekdzNXVla09Ub0N6b2haZG5fVDQwV3gwYklDdzQ2ZzNzR3BiMnhjbWNlazhYRXFTem5jTGJjcFlkMk9zWEt6SWw0eEdWYlJjcm9vTGhreWtpNUptazVuejE1MTZjcE9NR2tkdTVELWg2SGI2OUt6bl80aUNoaHpOVmQzeXVvQjItSmstd2I1VDZvc2JFMjIyanlEbW9QUUlFUXhkX0dQb2NDRXp0NnQxcWtWYmhxOXB3R2ptcjJFajdBYlpqU3VXZ0xXNEtqbWFOX0E?oc=5",
+      "age": "12h ago",
+      "date_iso": "2026-07-02T21:05:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Qolab raises $54.2m to support development of superconducting quantum computing",
+      "summary": "While China’s SpinQ raises $147m, announces establishment of superconducting quantum chip facility in Shenzhen",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/qolab-raises-542m-to-support-development-of-superconducting-quantum-computing/",
+      "age": "17h ago",
+      "date_iso": "2026-07-02T16:20:30+00:00"
     },
     {
       "category": "infra",
-      "title": "Oracle outlines all the ways it could lose the farm it bet on AI",
-      "summary": "Risk factors galore",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/01/oracle-outlines-all-the-ways-it-could-lose-the-farm-it-bet-on-ai/5265438",
-      "age": "11h ago",
-      "date_iso": "2026-07-01T22:23:52+00:00"
+      "title": "SoftBank establishes SB Neo to operate US neocloud business",
+      "summary": "Will be established this month and jointly owned by SoftBank companies",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/softbank-establishes-sb-neo-to-operate-us-neocloud-business/",
+      "age": "17h ago",
+      "date_iso": "2026-07-02T16:20:29+00:00"
     },
     {
-      "category": "gpu",
-      "title": "EvoChip Targets Lower-Cost, GPU-Free AI Inference With Its AltiCore Software",
-      "summary": "EvoChip Targets Lower-Cost, GPU-Free AI Inference With Its AltiCore Software crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV25pRlcxRFJJLWxubF9td2pCd2xEcTVxOVYyTFZuSWo2aFBmT29ORFN1Y2x3VERobUNhcDdHSVBoQWtUeEVqWWNWZ2hlZVVHUl9uMjdiLVhPc1JpTHQwRjZGNGZuZndFejBqMkR3cFZHRzRiSnQ4WEdwWlA3SThqN1F4ei02WnQxRWt3eThfV1llSWoybzdUdkFmMERIaFlRMFIzb29zcWFpcEJm?oc=5",
-      "age": "14h ago",
-      "date_iso": "2026-07-01T19:05:00+00:00"
+      "category": "infra",
+      "title": "Meta reportedly plans to rent out its AI compute, sending AI stocks tumbling — 'Meta Compute' would put company in direct competition with AWS",
+      "summary": "Meta reportedly plans to rent out its AI compute, sending AI stocks tumbling — 'Meta Compute' would put company in direct competition with AWS Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzM1RnVwa2xPYnA3WmJQaUVUY0NPakVVNXZERV9ZWExnbUlScXdHTmxxeDBrTFVuNHl0QkoyS2NPUVg1b2hLSG5tUUFsRXMxVHlKY2p0RFRPcVNMYkZwTWxkVmtvZGpuTFduMTdnMXJHQzRvT1F1Y1k2SUZvNWRIaC1VM3hUUnB1ek1EQ0ZlTGNsNmZ2QlE?oc=5",
+      "age": "20h ago",
+      "date_iso": "2026-07-02T13:01:25+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Startup activates nuclear microreactor live on stage to power an Nvidia RTX Spark desktop PC — firm working with Nvidia to build a 30MW closed loop AI factory that doesn’t use local water",
+      "summary": "Startup activates nuclear microreactor live on stage to power an Nvidia RTX Spark desktop PC — firm working with Nvidia to build a 30MW closed loop AI factory that doesn’t use local water Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQVkpfR0RTZVdHcjk1MThDNWJBeDBkMUR5WjZWTnJ3U09lWkxSYjdHaExoSHdSVjJZNTVCaWFJc0ZUYkd2eFBlU05UY0ZGdWx5YnI4NWFBMldTVzVyVDhGV3R3TmFORFNqeEF0ZVI0Tk9oX3ZaTE1HS29CZUFVRFlFVkRpc3ZBakZEbjR0elB6WkNnbkE0a08zWl9tMmRkRFFpeGNRNTBJTk1ad3VSVUF1TW9RdVFHbTdQZDJ2X3VOdVU3S2FXOWlIdmtXT3ZzQVBmRm1OZFctZ1BaV2duU0JnVVRzU2wyVWtDdkw2R3JaQ2tSZ0ktMjJlc3VFLVZhaldXN2VoRDI5N0RKNjhtbDczSmJVY1JuWUxWMDFfS0ZraWtxeFBCdGdtbllySFZqV3ZwbDIyZzBjc2JCN242Rmo4X1k4UzV2bWxFSXBMUkI2akdzSC1rTHNKY25tWlA?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-07-02T11:58:58+00:00"
     }
   ]
 }
