@@ -1,15 +1,60 @@
 {
-  "generated_at": "2026-07-05T09:34:56.571436+00:00",
+  "generated_at": "2026-07-06T11:22:45.469284+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "gpu",
-      "title": "Silicon Motion Shows Off Enterprise SM8008 and SM8388 SSD Controllers at Computex 2026",
-      "summary": "Silicon Motion Shows Off Enterprise SM8008 and SM8388 SSD Controllers at Computex 2026 ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXlJSW1qQk9nSno5cDJNb1lDWHRIb3pNd2w5NXFMWTVBdTVZblFSSVgyVFo4Y01EdHFHaWVHck1ZN2NUeDNqZThwS210MFRsTExEZGdxM3F0dWE5RDF5SzZDR2RBeXlXelRWa2Ffc05oWDBMSjFhTE12NHdtelA2ejUzQmxmRVVPcDF5djBqSVBRaHlTSEpvUExkdldCemNzT201cWs3M0tmZEhVVkVPV0lB?oc=5",
+      "category": "infra",
+      "title": "Amazon's data center arm expands land lease by four acres in Mumbai, India",
+      "summary": "Leases land with a 17-year commitment",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/amazons-data-center-arm-expands-land-lease-by-four-acres-in-mumbai-india/",
+      "age": "just now",
+      "date_iso": "2026-07-06T10:34:03+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "DCD News: June review",
+      "summary": "DCD's Emma Strutton, Seb Moss, and Ben Wodecki break down June's key tech news, including groundbreaking AI chip developments, in-house hardware shifts, and AWS's innovative data center architecture.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-news-june-review/",
+      "age": "1h ago",
+      "date_iso": "2026-07-06T10:04:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Canada's Beacon details plans for data center campus in Alabama",
+      "summary": "Company planning two-building campus with no diesel generators",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/canadas-beacon-details-plans-for-data-center-campus-in-alabama/",
+      "age": "1h ago",
+      "date_iso": "2026-07-06T09:43:08+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sponsored: Selecting the right battery for the job",
+      "summary": "CSB’s Eric Hill shares what it takes to leverage the right battery technology for data center resilience",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/selecting-the-right-battery-for-the-job/",
+      "age": "4h ago",
+      "date_iso": "2026-07-06T07:00:00+00:00"
+    },
+    {
+      "category": "edge",
+      "title": "Noetra powers Japan's ambitious march toward a robot workforce",
+      "summary": "Noetra powers Japan's ambitious march toward a robot workforce TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNGJmZEEydzJIbkVybVdsT1hTV2w4VGNxZDR2RWlBMC1jQXhsWkVSeENLeEh2eGliWUVlcDJQTXgzM2ZFT0l0eUdQclQ3SnluOVU4dFZkRlNMaFZBbXlXTnJFYXgyYXN2TjAwNUpycWVzSUJaanpSUHgwYUc2Ym1JYlJSTjgxSkJfdmJJY3Zpb1Z0SW96ejFrWUxWVlFObkYtM2FGXzl5Uk5EdWtEU1lPUVpKOVlEQy03MWN1Z1QtR0h3MjRLOUxReHhRVVVYZnBhQk1ON3JhdkpQcG83M2k4NFlQTWswMXBReElyNmwyc2NRaHQ1MHB3?oc=5",
       "age": "16h ago",
-      "date_iso": "2026-07-04T17:00:39+00:00"
+      "date_iso": "2026-07-05T19:05:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "The 20 percent problem: why data center sites fail before they’re built",
+      "summary": "Why the industry must continue to look beyond the grid",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-20-percent-problem-why-data-center-sites-fail-before-theyre-built/",
+      "age": "1d ago",
+      "date_iso": "2026-07-05T10:00:30+00:00"
     },
     {
       "category": "infra",
@@ -17,71 +62,26 @@
       "summary": "Meta data center water discharges suspended after contaminating the city's reclamation water supply with bacterium — system offline for months for cleaning, closed-loop cooling system purge spread rare metal-resistant bacteria in Cheyenne’s water system…",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMHIxYkZWOEttNDNkaDYyRm9oUENGZDd1R2JDWlRpOXpucHlHNnJvMTR0MmVfYmxDd3dZd2NMRkI1VFp6aHdWYXVvQXBNUlZWem5zeDVSUUxWMzV1SURsa2dpZkZOZzBFZzNDNF9QZDRyV2VWQWxLRTlWTUpBeFYwQXp2NWdlT1JSWDdkTnltRVVWdWFkQjFDajlnUmRpVmpIR1dGQlB0ZE1TYlhrNEpZUVJKTklvODM1UlQxUzFVcHg1NHNUbjdsS0djd0VITzBBMkhGNnpfZ185M2UwYlZRSFhkZ3UtOGtxSmprektpQmVaQ2pTNUhRT0h0ZkNZajNjX1MxN2lvSTBGX3YtNnlpLXZLTQ?oc=5",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-07-04T14:02:22+00:00"
     },
     {
-      "category": "infra",
-      "title": "300MW data center campus proposed in Kent, UK",
-      "summary": "Renewables firm Clearstone looks to build campus near Dartford",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/300mw-data-center-campus-proposed-in-kent-uk/",
-      "age": "1d ago",
-      "date_iso": "2026-07-03T15:47:43+00:00"
+      "category": "gpu",
+      "title": "Apple Defends Scraping YouTube Videos For AI Training In Copyright Case",
+      "summary": "Apple Defends Scraping YouTube Videos For AI Training In Copyright Case HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9USzNYLWNSdWY1UWxNdWlWakhCYXVCYVdCSXZVRVZHVndycnBqbjlTUDRwaUl2NG5valRkN2JMOGJXRFdfRFk3b3hxeVoxdmFuUXdzZHpaRzF2VHhrR05JQlI0Y185aTFNWi1tNUpNV2dPT3dkTjZOWQ?oc=5",
+      "age": "2d ago",
+      "date_iso": "2026-07-03T15:15:00+00:00"
     },
     {
-      "category": "infra",
-      "title": "Equinix-occupied data center in Manchester, UK, sold to a new landlord - report",
-      "summary": "Former Telecity site changes hands",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/equinix-occupied-data-center-in-manchester-uk-sold-to-a-new-landlord-report/",
-      "age": "1d ago",
-      "date_iso": "2026-07-03T15:39:56+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "CPP Investments to pump $1.75 billion into EQT and EdgeConneX's AI data center build-out",
-      "summary": "EdgeConneX claims 10GW development pipeline",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/cpp-investments-to-pump-175-billion-into-eqt-and-edgeconnexs-ai-data-center-build-out/",
-      "age": "1d ago",
-      "date_iso": "2026-07-03T15:38:31+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AWS injects AT&T into Interconnect connection cadre",
-      "summary": "The integration ties AT&T’s network into AWS Interconnect service",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/aws-injects-att-into-interconnect-connection-cadre/",
-      "age": "1d ago",
-      "date_iso": "2026-07-03T15:38:19+00:00"
-    },
-    {
-      "category": "policy",
-      "title": "New Jersey lawmakers pass bill to establish large load data center tariff",
-      "summary": "Will now head to the governor for final approval",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/new-jersey-lawmakers-pass-bill-to-establish-large-load-data-center-tariff/",
-      "age": "1d ago",
-      "date_iso": "2026-07-03T15:38:15+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "National Grid Ventures invests $1.75bn in Joulent for construction of gas plant powering 2GW Microsoft data center in Texas",
-      "summary": "Joulent is a portfolio company of Engine No. 1",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/national-grid-ventures-invests-175bn-in-joulent-for-35-stake-to-develop-large-load-power-solutions-national-grid-ventures-ngv-the-commercial-arm-of-national-grid-has-agreed-to-invest-175-billion-for-a-35-stake-in-us-power-infrastructure-develope/",
-      "age": "1d ago",
-      "date_iso": "2026-07-03T15:30:28+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Nebius signs 18MW lease with Merlin Properties at Spain data center - report",
-      "summary": "First entry in Spain market",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/nebius-signs-18mw-lease-with-merlin-properties-at-spain-data-center-report/",
-      "age": "1d ago",
-      "date_iso": "2026-07-03T15:20:30+00:00"
+      "category": "cpu",
+      "title": "Intel confirms price hikes on select consumer and server CPUs citing supply costs and demand — select Xeon processors now over $1,000 more expensive",
+      "summary": "Intel confirms price hikes on select consumer and server CPUs citing supply costs and demand — select Xeon processors now over $1,000 more expensive Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMVBSZlQ5TU5sSS1tZWl3SDctSmF3dXdDWjRLLTlQYjVfRnJ0Rm92ZHVvNk5oUWk4b2lvSlVQNGZMdy1oRVNpRW1iV0Q2akRIWlpGemZqbXQzdmJLeTYxNDNxSnJKVGo4VjdBeElmdVdTTkd3R0JXVnJSbktvQkI4M0pLYy0tMXlJSUxkMkhVa2t6XzVlTFllbVkwbWNqZk9ia2VyWE5MV0VnZ0tVVms4SXd6SERmN0czbHpZRGRVeHpNbFBBMGJzZHpMWlFobzgyNExYS0g2cnlvM1JXdXRrMVJZaU8wYWhERGJrUUNoSklZS2lYd3EwT0YxamRCai1rRVNWQlU3X0pYSzR2b0RpNlNXdldETEYwb2R4SW5zQTNUUQ?oc=5",
+      "age": "2d ago",
+      "date_iso": "2026-07-03T14:45:33+00:00"
     }
   ]
 }
