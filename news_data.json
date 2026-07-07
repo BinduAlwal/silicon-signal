@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-07-06T11:22:45.469284+00:00",
+  "generated_at": "2026-07-07T10:19:19.490467+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Amazon's data center arm expands land lease by four acres in Mumbai, India",
-      "summary": "Leases land with a 17-year commitment",
+      "title": "French city of Pau plans 1MW data center to boost digital sovereignty",
+      "summary": "€3m facility will have up to 1MW capacity",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/amazons-data-center-arm-expands-land-lease-by-four-acres-in-mumbai-india/",
+      "link": "https://www.datacenterdynamics.com/en/news/french-city-of-pau-plans-1mw-data-center-to-boost-digital-sovereignty/",
       "age": "just now",
-      "date_iso": "2026-07-06T10:34:03+00:00"
+      "date_iso": "2026-07-07T09:56:09+00:00"
     },
     {
-      "category": "infra",
-      "title": "DCD News: June review",
-      "summary": "DCD's Emma Strutton, Seb Moss, and Ben Wodecki break down June's key tech news, including groundbreaking AI chip developments, in-house hardware shifts, and AWS's innovative data center architecture.",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcd-news-june-review/",
-      "age": "1h ago",
-      "date_iso": "2026-07-06T10:04:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Canada's Beacon details plans for data center campus in Alabama",
-      "summary": "Company planning two-building campus with no diesel generators",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/canadas-beacon-details-plans-for-data-center-campus-in-alabama/",
-      "age": "1h ago",
-      "date_iso": "2026-07-06T09:43:08+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Sponsored: Selecting the right battery for the job",
-      "summary": "CSB’s Eric Hill shares what it takes to leverage the right battery technology for data center resilience",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/selecting-the-right-battery-for-the-job/",
-      "age": "4h ago",
-      "date_iso": "2026-07-06T07:00:00+00:00"
-    },
-    {
-      "category": "edge",
-      "title": "Noetra powers Japan's ambitious march toward a robot workforce",
-      "summary": "Noetra powers Japan's ambitious march toward a robot workforce TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNGJmZEEydzJIbkVybVdsT1hTV2w4VGNxZDR2RWlBMC1jQXhsWkVSeENLeEh2eGliWUVlcDJQTXgzM2ZFT0l0eUdQclQ3SnluOVU4dFZkRlNMaFZBbXlXTnJFYXgyYXN2TjAwNUpycWVzSUJaanpSUHgwYUc2Ym1JYlJSTjgxSkJfdmJJY3Zpb1Z0SW96ejFrWUxWVlFObkYtM2FGXzl5Uk5EdWtEU1lPUVpKOVlEQy03MWN1Z1QtR0h3MjRLOUxReHhRVVVYZnBhQk1ON3JhdkpQcG83M2k4NFlQTWswMXBReElyNmwyc2NRaHQ1MHB3?oc=5",
-      "age": "16h ago",
-      "date_iso": "2026-07-05T19:05:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "The 20 percent problem: why data center sites fail before they’re built",
-      "summary": "Why the industry must continue to look beyond the grid",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-20-percent-problem-why-data-center-sites-fail-before-theyre-built/",
-      "age": "1d ago",
-      "date_iso": "2026-07-05T10:00:30+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Meta data center water discharges suspended after contaminating the city's reclamation water supply with bacterium — system offline for months for cleaning, closed-loop cooling system purge spread rare metal-resistant bacteria in Cheyenne’s water system",
-      "summary": "Meta data center water discharges suspended after contaminating the city's reclamation water supply with bacterium — system offline for months for cleaning, closed-loop cooling system purge spread rare metal-resistant bacteria in Cheyenne’s water system…",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMHIxYkZWOEttNDNkaDYyRm9oUENGZDd1R2JDWlRpOXpucHlHNnJvMTR0MmVfYmxDd3dZd2NMRkI1VFp6aHdWYXVvQXBNUlZWem5zeDVSUUxWMzV1SURsa2dpZkZOZzBFZzNDNF9QZDRyV2VWQWxLRTlWTUpBeFYwQXp2NWdlT1JSWDdkTnltRVVWdWFkQjFDajlnUmRpVmpIR1dGQlB0ZE1TYlhrNEpZUVJKTklvODM1UlQxUzFVcHg1NHNUbjdsS0djd0VITzBBMkhGNnpfZ185M2UwYlZRSFhkZ3UtOGtxSmprektpQmVaQ2pTNUhRT0h0ZkNZajNjX1MxN2lvSTBGX3YtNnlpLXZLTQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-07-04T14:02:22+00:00"
+      "category": "policy",
+      "title": "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
+      "summary": "Committee says Anthropic's brief US export ban shows UK can't even trust its allies to keep the AI lights on",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/mps-tell-brit-government-sort-out-your-tech-sovereignty-or-get-left-out-in-the-cold/5267076",
+      "age": "just now",
+      "date_iso": "2026-07-07T09:43:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Apple Defends Scraping YouTube Videos For AI Training In Copyright Case",
-      "summary": "Apple Defends Scraping YouTube Videos For AI Training In Copyright Case HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9USzNYLWNSdWY1UWxNdWlWakhCYXVCYVdCSXZVRVZHVndycnBqbjlTUDRwaUl2NG5valRkN2JMOGJXRFdfRFk3b3hxeVoxdmFuUXdzZHpaRzF2VHhrR05JQlI0Y185aTFNWi1tNUpNV2dPT3dkTjZOWQ?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-07-03T15:15:00+00:00"
+      "title": "Broadcom and Apple extend custom silicon pact to 2031",
+      "summary": "Probably an extension of long-running iThing innards arrangement, not a new custom AI accelerator deal",
+      "source": "The Register",
+      "link": "https://www.theregister.com/personal-tech/2026/07/07/broadcom-and-apple-extend-custom-silicon-pact-to-2031/5267491",
+      "age": "2h ago",
+      "date_iso": "2026-07-07T07:19:27+00:00"
     },
     {
-      "category": "cpu",
-      "title": "Intel confirms price hikes on select consumer and server CPUs citing supply costs and demand — select Xeon processors now over $1,000 more expensive",
-      "summary": "Intel confirms price hikes on select consumer and server CPUs citing supply costs and demand — select Xeon processors now over $1,000 more expensive Tom's Hardware",
+      "category": "edge",
+      "title": "Samsung’s profits jump 19x in a year and you don’t need AI to figure out why",
+      "summary": "Share price down sharply, apparently amid fears the bubble is getting bigger",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/07/07/samsungs-profits-jump-19x-in-a-year-and-you-dont-need-ai-to-figure-out-why/5267467",
+      "age": "4h ago",
+      "date_iso": "2026-07-07T05:39:13+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "‘A very, very unpleasant surprise’: Meta forced to halt data center water discharges after polluting city's water reclamation system with resistant bacterium — shutdown and cleaning of two water reclamation plants expected to last months",
+      "summary": "‘A very, very unpleasant surprise’: Meta forced to halt data center water discharges after polluting city's water reclamation system with resistant bacterium — shutdown and cleaning of two water reclamation plants expected to last months TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUHJOMXBHTFpQdzM2dDU4Mk4ta25sdEN2empVaVBDczM0Sjh6RlNTVlZNWmtnS2Z6XzdSYU80Tno5YjdmMFdLdVZRVWIxaTZxdHhURlQwOG1nNGEzZTZSLW9hZjJfbXJVanBydVNxT080SUw4Zm1FWUpnT1lhMXVBdW1uci1fcy1JLUJDWWZWSjktbXZfMWprNS1WbzJLMnZPdndnU3QzUzZWSmNYMWtsTHh6QUpKdi1LNTVQRmMtQXROVFBFeFV5TWZNX0pHdVE1b1I3SkwzcFRfa0p4Q3R3ZmxVS2RsQU0tR2J2Q2dOa0xaXzh1RllyMWozZmVSaXZFS1I4WVZZMEhlOVFkdWh5VDVtV3JrVE10RkVPSWdLSWNkUkRUMmJya0RTZXVEdzlNVWZzZ25LQlNzV1Q4MHJnUVhNbkp4XzdtQXlMSV9HT2NXc0phYXlUNG5zTEhaOC0zeVVTR25pMV8ybW93MWtHVlk4aFhNNzA?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-07-06T17:20:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Trends & Outlooks series sponsorship guide",
+      "summary": "Lead the conversation for the year ahead in the data center sector November 30 - December 14, 2026",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/dcd-downloads/trends-outlooks-series-sponsorship-guide/",
+      "age": "18h ago",
+      "date_iso": "2026-07-06T16:12:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Ryzen AI Halo Review: AMD's DGX Spark And Mac Mini Challenger Tested",
+      "summary": "Ryzen AI Halo Review: AMD's DGX Spark And Mac Mini Challenger Tested HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PZ1B3ZmcydW9xNDlMaEFUdUxWYlJoWjhrWnQ5MTJfN05ZSGxrdkRMOGN2Sl9LcHJYNWJOZURXWWh6ZFhrTEtUSVZFaXAtTThZRUlZcE1mNDFLQ1lQaTkxVHBJcUUtNzhzdWdBcURySDNvdFE?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-07-06T15:45:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "AMD Ryzen AI Halo Developer System Review AMD Goes for Local AI",
+      "summary": "AMD Ryzen AI Halo Developer System Review AMD Goes for Local AI ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0hqeHdWS2w3X2ZaNkZHbXFxREp6anNUM205V2tiMnFzdl9aRktoeUotZkxwYV9uM0RwRy1heDhib0llZUI4Tm5uWHZvbzJyXzlFb3N5dDh1a0g3by1lRUZhUlpodm5PbkJNNU9iWl8yN25xX2JsQk1oZ0dRWjVjaDIzZTFjQU85My0zRFdHT1hWZlRnMDJwWA?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-07-06T15:00:20+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Wisconsin residents file class-action lawsuit against Microsoft's 'world's most powerful AI data center' due to data center noise — plaintiffs also mention construction noise and extreme light pollution from $7.3 billion facility",
+      "summary": "Wisconsin residents file class-action lawsuit against Microsoft's 'world's most powerful AI data center' due to data center noise — plaintiffs also mention construction noise and extreme light pollution from $7.3 billion facility Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMVBSZlQ5TU5sSS1tZWl3SDctSmF3dXdDWjRLLTlQYjVfRnJ0Rm92ZHVvNk5oUWk4b2lvSlVQNGZMdy1oRVNpRW1iV0Q2akRIWlpGemZqbXQzdmJLeTYxNDNxSnJKVGo4VjdBeElmdVdTTkd3R0JXVnJSbktvQkI4M0pLYy0tMXlJSUxkMkhVa2t6XzVlTFllbVkwbWNqZk9ia2VyWE5MV0VnZ0tVVms4SXd6SERmN0czbHpZRGRVeHpNbFBBMGJzZHpMWlFobzgyNExYS0g2cnlvM1JXdXRrMVJZaU8wYWhERGJrUUNoSklZS2lYd3EwT0YxamRCai1rRVNWQlU3X0pYSzR2b0RpNlNXdldETEYwb2R4SW5zQTNUUQ?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-07-03T14:45:33+00:00"
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOa1JsYU5fS1lkaVlpcVlCVjg1cEo3LVhtQXppajhBVlJJVDhycnIzVEVxYm1GOTVlX1RLVFhmVmZsSHVfYVZ6WTZXUHZiUHRmV29mN3JkVmVhV240UVV1dDBWM1AwZVFlM29ZaFJrOVZ4YlpkaWhRTUFERHBicXQ5WWpXdXQ0TTJGZzJiemJvYW9tbnFkYnI1RHJucGJva0htR3ZfQzJqb3p6TlFDRzdraG92NlhCTG82S1ZSQnVzOTcxRENoZXRYbWI1UlQ1elIwdjRtRVllUHlmcjk5N2FoYWE5QlNvVXdOZFM2WHk1LWRDYmZWcThhNmdSQzA5ci1UazhkOU91UUpwcUl6YkRoTDRMOFctMEJtdXRLNXI5UTFIVXpHN294WFJ0Smp3QUNZTUpWeEJsaDVpeThKUUZnSkdYQjFEbGhGXzlkZE5MOFZJajdoQndpRVlDby1ldEl2OF9uc25iS2QzUThWTmVfbVhtN3c4VzdjMDcyeDU5RmV2bWtfT1ZZWjBXMW9LWHVTREQ0?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-07-06T11:00:00+00:00"
     }
   ]
 }
