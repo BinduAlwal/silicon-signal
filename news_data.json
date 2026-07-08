@@ -1,42 +1,69 @@
 {
-  "generated_at": "2026-07-07T10:19:19.490467+00:00",
+  "generated_at": "2026-07-08T09:21:20.026232+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "French city of Pau plans 1MW data center to boost digital sovereignty",
-      "summary": "€3m facility will have up to 1MW capacity",
+      "title": "DCD Studio: Market expansion and regulations with Luca Beltramino, EdgeConneX/Italian Data Association",
+      "summary": "Georgia Butler speaks with Luca Beltramino of EdgeConneX and the Italian Data Center Association, exploring Italy's expanding data center market, IDA's role in industry growth, and key investment opportunities.",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/french-city-of-pau-plans-1mw-data-center-to-boost-digital-sovereignty/",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-market-expansion-and-regulations-with-luca-beltramino-edgeconnexitalian-data-association/",
       "age": "just now",
-      "date_iso": "2026-07-07T09:56:09+00:00"
-    },
-    {
-      "category": "policy",
-      "title": "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
-      "summary": "Committee says Anthropic's brief US export ban shows UK can't even trust its allies to keep the AI lights on",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/07/mps-tell-brit-government-sort-out-your-tech-sovereignty-or-get-left-out-in-the-cold/5267076",
-      "age": "just now",
-      "date_iso": "2026-07-07T09:43:00+00:00"
+      "date_iso": "2026-07-08T08:50:02+00:00"
     },
     {
       "category": "gpu",
-      "title": "Broadcom and Apple extend custom silicon pact to 2031",
-      "summary": "Probably an extension of long-running iThing innards arrangement, not a new custom AI accelerator deal",
+      "title": "AI is becoming a bargain hunter's market, with a few luxury models on top",
+      "summary": "Inference is become a commodity except for frontier models",
       "source": "The Register",
-      "link": "https://www.theregister.com/personal-tech/2026/07/07/broadcom-and-apple-extend-custom-silicon-pact-to-2031/5267491",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/ai-is-becoming-a-bargain-hunters-market-with-a-few-luxury-models-on-top/5268050",
       "age": "2h ago",
-      "date_iso": "2026-07-07T07:19:27+00:00"
+      "date_iso": "2026-07-08T06:30:00+00:00"
     },
     {
-      "category": "edge",
-      "title": "Samsung’s profits jump 19x in a year and you don’t need AI to figure out why",
-      "summary": "Share price down sharply, apparently amid fears the bubble is getting bigger",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/07/07/samsungs-profits-jump-19x-in-a-year-and-you-dont-need-ai-to-figure-out-why/5267467",
-      "age": "4h ago",
-      "date_iso": "2026-07-07T05:39:13+00:00"
+      "category": "infra",
+      "title": "Former cryptominer Sato inks preliminary agreement to develop AI data center in Bhutan",
+      "summary": "Bitcoin meets Buddhism",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/former-cryptominer-sato-inks-preliminary-agreement-to-develop-ai-data-center-in-bhutan/",
+      "age": "15h ago",
+      "date_iso": "2026-07-07T18:00:23+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand",
+      "summary": "South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2tzYmxLc3BLQTNZUF9DakZrZWJjVGVjd0dhejFnWXU2NWN1UGl4QU1uYTEtdkdRbDBFcXNaWjRKUWkyZ1hXb1pqWTZSOUlHcC1oVzdfaGVaUVRaZlZJQnRydUxFa1FXdFp0X3FoSFo0S09DbmY2d0Y3VDdNLTIxUEhBcGx2ZUlmc3hWaV9jN3RfUXBZU21NcnFPc21KQXFYbWJVanh4Z2laRzJjVVY3cThVaDNjVzg?oc=5",
+      "age": "15h ago",
+      "date_iso": "2026-07-07T17:27:41+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Metropolitan Stock Exchange of India selects NTT Data's data center in Mumbai for trading platform",
+      "summary": "Will lease 6.4MW of capacity at campus",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/metropolitan-stock-exchange-of-india-selects-ntt-datas-data-center-in-mumbai-for-trading-platform/",
+      "age": "16h ago",
+      "date_iso": "2026-07-07T16:28:53+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "DCD Studio: Building a Norwegian data center startup, with Giorgio Sbriglia, TeraKraft",
+      "summary": "Seb Moss speaks with Giorgio Sbriglia of TeraKraft, discussing the trials and benefits of setting up a Norwegian data center.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-building-a-norwegian-data-center-startup-with-giorgio-sbriglia-terakraft/",
+      "age": "17h ago",
+      "date_iso": "2026-07-07T16:16:26+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Data center opened inside the UAE’s 'Innovation City’",
+      "summary": "Powers sovereign cloud",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/data-center-opened-inside-the-uaes-innovation-city/",
+      "age": "17h ago",
+      "date_iso": "2026-07-07T16:14:12+00:00"
     },
     {
       "category": "infra",
@@ -44,17 +71,8 @@
       "summary": "‘A very, very unpleasant surprise’: Meta forced to halt data center water discharges after polluting city's water reclamation system with resistant bacterium — shutdown and cleaning of two water reclamation plants expected to last months TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUHJOMXBHTFpQdzM2dDU4Mk4ta25sdEN2empVaVBDczM0Sjh6RlNTVlZNWmtnS2Z6XzdSYU80Tno5YjdmMFdLdVZRVWIxaTZxdHhURlQwOG1nNGEzZTZSLW9hZjJfbXJVanBydVNxT080SUw4Zm1FWUpnT1lhMXVBdW1uci1fcy1JLUJDWWZWSjktbXZfMWprNS1WbzJLMnZPdndnU3QzUzZWSmNYMWtsTHh6QUpKdi1LNTVQRmMtQXROVFBFeFV5TWZNX0pHdVE1b1I3SkwzcFRfa0p4Q3R3ZmxVS2RsQU0tR2J2Q2dOa0xaXzh1RllyMWozZmVSaXZFS1I4WVZZMEhlOVFkdWh5VDVtV3JrVE10RkVPSWdLSWNkUkRUMmJya0RTZXVEdzlNVWZzZ25LQlNzV1Q4MHJnUVhNbkp4XzdtQXlMSV9HT2NXc0phYXlUNG5zTEhaOC0zeVVTR25pMV8ybW93MWtHVlk4aFhNNzA?oc=5",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-07-06T17:20:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Trends & Outlooks series sponsorship guide",
-      "summary": "Lead the conversation for the year ahead in the data center sector November 30 - December 14, 2026",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/dcd-downloads/trends-outlooks-series-sponsorship-guide/",
-      "age": "18h ago",
-      "date_iso": "2026-07-06T16:12:00+00:00"
     },
     {
       "category": "gpu",
@@ -62,26 +80,8 @@
       "summary": "Ryzen AI Halo Review: AMD's DGX Spark And Mac Mini Challenger Tested HotHardware",
       "source": "HotHardware",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PZ1B3ZmcydW9xNDlMaEFUdUxWYlJoWjhrWnQ5MTJfN05ZSGxrdkRMOGN2Sl9LcHJYNWJOZURXWWh6ZFhrTEtUSVZFaXAtTThZRUlZcE1mNDFLQ1lQaTkxVHBJcUUtNzhzdWdBcURySDNvdFE?oc=5",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-07-06T15:45:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD Ryzen AI Halo Developer System Review AMD Goes for Local AI",
-      "summary": "AMD Ryzen AI Halo Developer System Review AMD Goes for Local AI ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0hqeHdWS2w3X2ZaNkZHbXFxREp6anNUM205V2tiMnFzdl9aRktoeUotZkxwYV9uM0RwRy1heDhib0llZUI4Tm5uWHZvbzJyXzlFb3N5dDh1a0g3by1lRUZhUlpodm5PbkJNNU9iWl8yN25xX2JsQk1oZ0dRWjVjaDIzZTFjQU85My0zRFdHT1hWZlRnMDJwWA?oc=5",
-      "age": "19h ago",
-      "date_iso": "2026-07-06T15:00:20+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Wisconsin residents file class-action lawsuit against Microsoft's 'world's most powerful AI data center' due to data center noise — plaintiffs also mention construction noise and extreme light pollution from $7.3 billion facility",
-      "summary": "Wisconsin residents file class-action lawsuit against Microsoft's 'world's most powerful AI data center' due to data center noise — plaintiffs also mention construction noise and extreme light pollution from $7.3 billion facility Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOa1JsYU5fS1lkaVlpcVlCVjg1cEo3LVhtQXppajhBVlJJVDhycnIzVEVxYm1GOTVlX1RLVFhmVmZsSHVfYVZ6WTZXUHZiUHRmV29mN3JkVmVhV240UVV1dDBWM1AwZVFlM29ZaFJrOVZ4YlpkaWhRTUFERHBicXQ5WWpXdXQ0TTJGZzJiemJvYW9tbnFkYnI1RHJucGJva0htR3ZfQzJqb3p6TlFDRzdraG92NlhCTG82S1ZSQnVzOTcxRENoZXRYbWI1UlQ1elIwdjRtRVllUHlmcjk5N2FoYWE5QlNvVXdOZFM2WHk1LWRDYmZWcThhNmdSQzA5ci1UazhkOU91UUpwcUl6YkRoTDRMOFctMEJtdXRLNXI5UTFIVXpHN294WFJ0Smp3QUNZTUpWeEJsaDVpeThKUUZnSkdYQjFEbGhGXzlkZE5MOFZJajdoQndpRVlDby1ldEl2OF9uc25iS2QzUThWTmVfbVhtN3c4VzdjMDcyeDU5RmV2bWtfT1ZZWjBXMW9LWHVTREQ0?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-07-06T11:00:00+00:00"
     }
   ]
 }
