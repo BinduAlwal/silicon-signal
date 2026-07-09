@@ -1,69 +1,69 @@
 {
-  "generated_at": "2026-07-08T09:21:20.026232+00:00",
+  "generated_at": "2026-07-09T10:18:41.889368+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "DCD Studio: Market expansion and regulations with Luca Beltramino, EdgeConneX/Italian Data Association",
-      "summary": "Georgia Butler speaks with Luca Beltramino of EdgeConneX and the Italian Data Center Association, exploring Italy's expanding data center market, IDA's role in industry growth, and key investment opportunities.",
+      "title": "Universal liquid cooling: the next data center standard",
+      "summary": "How two-phase liquid cooling supports next-generation AI infrastructure",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-market-expansion-and-regulations-with-luca-beltramino-edgeconnexitalian-data-association/",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/universal-liquid-cooling-the-next-data-center-standard/",
       "age": "just now",
-      "date_iso": "2026-07-08T08:50:02+00:00"
+      "date_iso": "2026-07-09T10:10:39+00:00"
+    },
+    {
+      "category": "edge",
+      "title": "DigitalOcean signs \"multiple\" nine-figure customer agreements for inference and cloud services",
+      "summary": "Expects its RPO to increase 10x YoY",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/digitalocean-signs-multiple-nine-figure-customer-agreements-for-inference-and-cloud-services/",
+      "age": "just now",
+      "date_iso": "2026-07-09T09:30:31+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "322-acre data center could be built in White County, Indiana",
+      "summary": "But project appears to be in very early stages",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/322-acre-data-center-could-be-built-in-white-county-indiana/",
+      "age": "just now",
+      "date_iso": "2026-07-09T09:29:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "20MW data center eyed in Parsons, Kansas",
+      "summary": "HyperDataGrid looks to develop high-density facility",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/20mw-data-center-eyed-in-parsons-kansas/",
+      "age": "1h ago",
+      "date_iso": "2026-07-09T09:00:37+00:00"
     },
     {
       "category": "gpu",
-      "title": "AI is becoming a bargain hunter's market, with a few luxury models on top",
-      "summary": "Inference is become a commodity except for frontier models",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/08/ai-is-becoming-a-bargain-hunters-market-with-a-few-luxury-models-on-top/5268050",
-      "age": "2h ago",
-      "date_iso": "2026-07-08T06:30:00+00:00"
+      "title": "Can't afford a high-powered graphics card? This DIY engineer made his own GPU out of 8,192 RISC-V chips",
+      "summary": "Can't afford a high-powered graphics card? This DIY engineer made his own GPU out of 8,192 RISC-V chips TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOellOVXdxVEE3bnB5clV4VjV4ME8wN0gtT3ZTNm1malRwbWs4WjJLbHMzU2RLUll2ZTNVMGFuS0tzTkE2Z2pnVXZacDVnRzhKNmVpMGdiNEVBQWIyZjcyZkZyLUllZEJPNDJHNDYyM0RXVEtkYVM3Y2l1YTk4c3dfcVpzWlZDSUZod1dkQVd2VnJwRF8yVHFKemhTZUtnRjY2R3F0NDFDSE01aE5ORjRmWTVtZDVhOVJ5TUhhR001bDk2N2p3WFgtOWhmRQ?oc=5",
+      "age": "11h ago",
+      "date_iso": "2026-07-08T22:40:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Former cryptominer Sato inks preliminary agreement to develop AI data center in Bhutan",
-      "summary": "Bitcoin meets Buddhism",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/former-cryptominer-sato-inks-preliminary-agreement-to-develop-ai-data-center-in-bhutan/",
-      "age": "15h ago",
-      "date_iso": "2026-07-07T18:00:23+00:00"
+      "title": "The 'world's most powerful AI data center' hit with massive class-action lawsuit",
+      "summary": "The 'world's most powerful AI data center' hit with massive class-action lawsuit TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdUdGRVBOd05RTHBDYlBPVEVGQ2Q0WEdpNzNoQ1NuNE1XRU9pRndfcTJSZExJNnlHUEEzTjJvMWJFUXYyQks4TVV5MlhzbHVZUkhmdU5rU1BiM1dCZlRod2NIdVRPYXN0WGlRUHB5ZmlseDFyMVZET3dObWp1MlJSY2lxQVg4eGtfUnhmMmJPZEdhenBkYlFfREE5R2JDanAxaXRrRU9sX1ltbGNEMlFQblJDWGRDTlNneVVITVp6T3NFeDRfMjdsaWI2bWtmSnZGTlR3UldDTVY4SjlmWjhSN1hFMHQyd1pHVlVhTm9kMzNMOEtjQTdyeWNVYWE0ckxRRG9GdEp0LS14QVNlbkhFZnJRRmRkUjYwZnBDOVJsQV9YNFgwTy1mLWExV0pGUHp4UktZLQ?oc=5",
+      "age": "13h ago",
+      "date_iso": "2026-07-08T20:20:00+00:00"
     },
     {
       "category": "infra",
-      "title": "South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand",
-      "summary": "South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand Tom's Hardware",
+      "title": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% — Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share",
+      "summary": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% — Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2tzYmxLc3BLQTNZUF9DakZrZWJjVGVjd0dhejFnWXU2NWN1UGl4QU1uYTEtdkdRbDBFcXNaWjRKUWkyZ1hXb1pqWTZSOUlHcC1oVzdfaGVaUVRaZlZJQnRydUxFa1FXdFp0X3FoSFo0S09DbmY2d0Y3VDdNLTIxUEhBcGx2ZUlmc3hWaV9jN3RfUXBZU21NcnFPc21KQXFYbWJVanh4Z2laRzJjVVY3cThVaDNjVzg?oc=5",
-      "age": "15h ago",
-      "date_iso": "2026-07-07T17:27:41+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Metropolitan Stock Exchange of India selects NTT Data's data center in Mumbai for trading platform",
-      "summary": "Will lease 6.4MW of capacity at campus",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/metropolitan-stock-exchange-of-india-selects-ntt-datas-data-center-in-mumbai-for-trading-platform/",
-      "age": "16h ago",
-      "date_iso": "2026-07-07T16:28:53+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "DCD Studio: Building a Norwegian data center startup, with Giorgio Sbriglia, TeraKraft",
-      "summary": "Seb Moss speaks with Giorgio Sbriglia of TeraKraft, discussing the trials and benefits of setting up a Norwegian data center.",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-building-a-norwegian-data-center-startup-with-giorgio-sbriglia-terakraft/",
-      "age": "17h ago",
-      "date_iso": "2026-07-07T16:16:26+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Data center opened inside the UAE’s 'Innovation City’",
-      "summary": "Powers sovereign cloud",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/data-center-opened-inside-the-uaes-innovation-city/",
-      "age": "17h ago",
-      "date_iso": "2026-07-07T16:14:12+00:00"
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNX2RhRmZmTjRlemJ4Z1pfd1ZHNUFZelFVWW04YjEtOW5uVHlxZ1JDRlhrTjZONDFVS1pEWm5YMU5mTzY2cFhJWEYzWkhzMVJqaVVFbDNpMnFuY3JBMFk3LVFNMHVMa2xTTGFfZ1VEeGp0QTQ2bURJa0wtMUJqb01Nd203c1VEamVxYzZGMXdtVTZPWXRIZU9mZDNMdG1lS09LSEVSc1JZcnZTT2ZjeXRhb2N4UmI0b1E1VjM0UkZoZHVmaGtOSzVaTDVKWFJqdXYwYlB3d1pUUkpiaVBRNlRBM1pNOUxhUFVFMkVzNTFjb3lTN1R5S2FtS0NQUm5STTFRdy1wRTNRWHBKTTNadDBNUDh4RDV1MnBCNlh3MlhtQlZwanQ2X3J2bDhSM0pyQW9EdzBZSWJ0TWxFU29lOVVETUR2Wm5vUzFmZVEyMlVTQkgzcmxhekRiZGp5cnpnS3B3OHl4Tl9nZTRCeDR0UE00cjNlWVpDaDUzWHYtQTFnRXQ5NGo3STB0d1QtMm54Y0E1Q1E?oc=5",
+      "age": "20h ago",
+      "date_iso": "2026-07-08T13:56:27+00:00"
     },
     {
       "category": "infra",
@@ -71,7 +71,7 @@
       "summary": "‘A very, very unpleasant surprise’: Meta forced to halt data center water discharges after polluting city's water reclamation system with resistant bacterium — shutdown and cleaning of two water reclamation plants expected to last months TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUHJOMXBHTFpQdzM2dDU4Mk4ta25sdEN2empVaVBDczM0Sjh6RlNTVlZNWmtnS2Z6XzdSYU80Tno5YjdmMFdLdVZRVWIxaTZxdHhURlQwOG1nNGEzZTZSLW9hZjJfbXJVanBydVNxT080SUw4Zm1FWUpnT1lhMXVBdW1uci1fcy1JLUJDWWZWSjktbXZfMWprNS1WbzJLMnZPdndnU3QzUzZWSmNYMWtsTHh6QUpKdi1LNTVQRmMtQXROVFBFeFV5TWZNX0pHdVE1b1I3SkwzcFRfa0p4Q3R3ZmxVS2RsQU0tR2J2Q2dOa0xaXzh1RllyMWozZmVSaXZFS1I4WVZZMEhlOVFkdWh5VDVtV3JrVE10RkVPSWdLSWNkUkRUMmJya0RTZXVEdzlNVWZzZ25LQlNzV1Q4MHJnUVhNbkp4XzdtQXlMSV9HT2NXc0phYXlUNG5zTEhaOC0zeVVTR25pMV8ybW93MWtHVlk4aFhNNzA?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-07-06T17:20:00+00:00"
     },
     {
@@ -80,7 +80,7 @@
       "summary": "Ryzen AI Halo Review: AMD's DGX Spark And Mac Mini Challenger Tested HotHardware",
       "source": "HotHardware",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PZ1B3ZmcydW9xNDlMaEFUdUxWYlJoWjhrWnQ5MTJfN05ZSGxrdkRMOGN2Sl9LcHJYNWJOZURXWWh6ZFhrTEtUSVZFaXAtTThZRUlZcE1mNDFLQ1lQaTkxVHBJcUUtNzhzdWdBcURySDNvdFE?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-07-06T15:45:00+00:00"
     }
   ]
