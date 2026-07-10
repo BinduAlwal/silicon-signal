@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-07-09T10:18:41.889368+00:00",
+  "generated_at": "2026-07-10T10:15:04.403940+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Universal liquid cooling: the next data center standard",
-      "summary": "How two-phase liquid cooling supports next-generation AI infrastructure",
+      "title": "DCD Talks: Data center coatings for speed and reliability with Jacob Allard, Sherwin Williams",
+      "summary": "Sherwin Williams’ Jacob Allard talks to DCD’s Emma Strutton about coatings for data centers, and how they can enhance safety, reliability and speed-to-market.",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/universal-liquid-cooling-the-next-data-center-standard/",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-talks-data-center-coatings-for-speed-and-reliability-with-jacob-allard-sherwin-williams/",
       "age": "just now",
-      "date_iso": "2026-07-09T10:10:39+00:00"
-    },
-    {
-      "category": "edge",
-      "title": "DigitalOcean signs \"multiple\" nine-figure customer agreements for inference and cloud services",
-      "summary": "Expects its RPO to increase 10x YoY",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/digitalocean-signs-multiple-nine-figure-customer-agreements-for-inference-and-cloud-services/",
-      "age": "just now",
-      "date_iso": "2026-07-09T09:30:31+00:00"
+      "date_iso": "2026-07-10T09:43:25+00:00"
     },
     {
       "category": "infra",
-      "title": "322-acre data center could be built in White County, Indiana",
-      "summary": "But project appears to be in very early stages",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/322-acre-data-center-could-be-built-in-white-county-indiana/",
-      "age": "just now",
-      "date_iso": "2026-07-09T09:29:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "20MW data center eyed in Parsons, Kansas",
-      "summary": "HyperDataGrid looks to develop high-density facility",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/20mw-data-center-eyed-in-parsons-kansas/",
-      "age": "1h ago",
-      "date_iso": "2026-07-09T09:00:37+00:00"
+      "title": "Datacenter MacGyver saved the biggest football match of the year",
+      "summary": "Police wanted to call off a grudge game until tech support electrified fevered fans",
+      "source": "The Register",
+      "link": "https://www.theregister.com/on-prem/2026/07/10/datacenter-macgyver-saved-the-biggest-football-match-of-the-year/5268920",
+      "age": "3h ago",
+      "date_iso": "2026-07-10T06:30:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Can't afford a high-powered graphics card? This DIY engineer made his own GPU out of 8,192 RISC-V chips",
-      "summary": "Can't afford a high-powered graphics card? This DIY engineer made his own GPU out of 8,192 RISC-V chips TechRadar",
+      "title": "Apple silicon leader explains why a Mac Mini could be the surprising AI choice",
+      "summary": "Apple silicon leader explains why a Mac Mini could be the surprising AI choice TechRadar",
       "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOellOVXdxVEE3bnB5clV4VjV4ME8wN0gtT3ZTNm1malRwbWs4WjJLbHMzU2RLUll2ZTNVMGFuS0tzTkE2Z2pnVXZacDVnRzhKNmVpMGdiNEVBQWIyZjcyZkZyLUllZEJPNDJHNDYyM0RXVEtkYVM3Y2l1YTk4c3dfcVpzWlZDSUZod1dkQVd2VnJwRF8yVHFKemhTZUtnRjY2R3F0NDFDSE01aE5ORjRmWTVtZDVhOVJ5TUhhR001bDk2N2p3WFgtOWhmRQ?oc=5",
-      "age": "11h ago",
-      "date_iso": "2026-07-08T22:40:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPS0wyOWZnSXVTMzRPWVZEaGhEU3pnV2M4eWprZUdCVXc4TEdGMXNtSEM3MEh1SUJpdkZJLWpGUVhadlBfQkx6eXNLa3ZHWkEta2g4NThIQ1gzakZyUHdFMTR2R2JiMFQtUjRnSC05dU15cGEtY3pHSHdpNFFWbm1PNENod2tDZ19yeWQ1S1VCb2s3amFDX1UwbDkwYUhaQXRKazZmblI2Q3l2N1FPLTNmM19kT0daWTZSRW9lM1B1aks0akZlSVVyNXBUdFdsaUtyOVlYWHhhMXZJX1JRZThiT2x6eWFZa0NtOUp6eE9jME9fUk9mYnV0ODRmMUJtTXdSbVdXUGozSS1VZmlpYW15dURoQlBJdXh2MkRtcTFrOGFvUkRiOWNkUg?oc=5",
+      "age": "14h ago",
+      "date_iso": "2026-07-09T19:25:00+00:00"
     },
     {
       "category": "infra",
-      "title": "The 'world's most powerful AI data center' hit with massive class-action lawsuit",
-      "summary": "The 'world's most powerful AI data center' hit with massive class-action lawsuit TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdUdGRVBOd05RTHBDYlBPVEVGQ2Q0WEdpNzNoQ1NuNE1XRU9pRndfcTJSZExJNnlHUEEzTjJvMWJFUXYyQks4TVV5MlhzbHVZUkhmdU5rU1BiM1dCZlRod2NIdVRPYXN0WGlRUHB5ZmlseDFyMVZET3dObWp1MlJSY2lxQVg4eGtfUnhmMmJPZEdhenBkYlFfREE5R2JDanAxaXRrRU9sX1ltbGNEMlFQblJDWGRDTlNneVVITVp6T3NFeDRfMjdsaWI2bWtmSnZGTlR3UldDTVY4SjlmWjhSN1hFMHQyd1pHVlVhTm9kMzNMOEtjQTdyeWNVYWE0ckxRRG9GdEp0LS14QVNlbkhFZnJRRmRkUjYwZnBDOVJsQV9YNFgwTy1mLWExV0pGUHp4UktZLQ?oc=5",
-      "age": "13h ago",
-      "date_iso": "2026-07-08T20:20:00+00:00"
+      "title": "Prologis files to build 99MW data center in San Jose, California",
+      "summary": "Site previously earmarked for industrial warehouse",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/prologis-files-to-build-99mw-data-center-in-san-jose-california/",
+      "age": "19h ago",
+      "date_iso": "2026-07-09T15:00:38+00:00"
     },
     {
       "category": "infra",
-      "title": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% — Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share",
-      "summary": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% — Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNX2RhRmZmTjRlemJ4Z1pfd1ZHNUFZelFVWW04YjEtOW5uVHlxZ1JDRlhrTjZONDFVS1pEWm5YMU5mTzY2cFhJWEYzWkhzMVJqaVVFbDNpMnFuY3JBMFk3LVFNMHVMa2xTTGFfZ1VEeGp0QTQ2bURJa0wtMUJqb01Nd203c1VEamVxYzZGMXdtVTZPWXRIZU9mZDNMdG1lS09LSEVSc1JZcnZTT2ZjeXRhb2N4UmI0b1E1VjM0UkZoZHVmaGtOSzVaTDVKWFJqdXYwYlB3d1pUUkpiaVBRNlRBM1pNOUxhUFVFMkVzNTFjb3lTN1R5S2FtS0NQUm5STTFRdy1wRTNRWHBKTTNadDBNUDh4RDV1MnBCNlh3MlhtQlZwanQ2X3J2bDhSM0pyQW9EdzBZSWJ0TWxFU29lOVVETUR2Wm5vUzFmZVEyMlVTQkgzcmxhekRiZGp5cnpnS3B3OHl4Tl9nZTRCeDR0UE00cjNlWVpDaDUzWHYtQTFnRXQ5NGo3STB0d1QtMm54Y0E1Q1E?oc=5",
+      "title": "Application for 250MW data center in Ontario interconnect queue, local authority says no application received",
+      "summary": "Details murky",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/application-for-250mw-data-center-in-ontario-interconnect-queue-local-authority-says-no-application-received/",
+      "age": "19h ago",
+      "date_iso": "2026-07-09T15:00:36+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "DeepInfra deploys AI inference cloud in Toronto, Canada, data center",
+      "summary": "Marks the company's first data center outside the US",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/deepinfra-deploys-ai-inference-cloud-in-toronto-canada-data-center/",
+      "age": "19h ago",
+      "date_iso": "2026-07-09T14:30:27+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Plans for Milwaukee, Wisconsin, data center in former Walmart building shelved amid strong local opposition",
+      "summary": "The “computing research facility” would have been attached to a larger self-storage facility",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-for-milwaukee-wisconsin-data-center-in-former-walmart-building-shelved-amid-strong-local-opposition/",
       "age": "20h ago",
-      "date_iso": "2026-07-08T13:56:27+00:00"
+      "date_iso": "2026-07-09T14:00:36+00:00"
     },
     {
       "category": "infra",
-      "title": "‘A very, very unpleasant surprise’: Meta forced to halt data center water discharges after polluting city's water reclamation system with resistant bacterium — shutdown and cleaning of two water reclamation plants expected to last months",
-      "summary": "‘A very, very unpleasant surprise’: Meta forced to halt data center water discharges after polluting city's water reclamation system with resistant bacterium — shutdown and cleaning of two water reclamation plants expected to last months TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUHJOMXBHTFpQdzM2dDU4Mk4ta25sdEN2empVaVBDczM0Sjh6RlNTVlZNWmtnS2Z6XzdSYU80Tno5YjdmMFdLdVZRVWIxaTZxdHhURlQwOG1nNGEzZTZSLW9hZjJfbXJVanBydVNxT080SUw4Zm1FWUpnT1lhMXVBdW1uci1fcy1JLUJDWWZWSjktbXZfMWprNS1WbzJLMnZPdndnU3QzUzZWSmNYMWtsTHh6QUpKdi1LNTVQRmMtQXROVFBFeFV5TWZNX0pHdVE1b1I3SkwzcFRfa0p4Q3R3ZmxVS2RsQU0tR2J2Q2dOa0xaXzh1RllyMWozZmVSaXZFS1I4WVZZMEhlOVFkdWh5VDVtV3JrVE10RkVPSWdLSWNkUkRUMmJya0RTZXVEdzlNVWZzZ25LQlNzV1Q4MHJnUVhNbkp4XzdtQXlMSV9HT2NXc0phYXlUNG5zTEhaOC0zeVVTR25pMV8ybW93MWtHVlk4aFhNNzA?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-07-06T17:20:00+00:00"
+      "title": "Officials in Elk River, Minnesota, deny data center application, consider moratorium",
+      "summary": "City council denies Swervo/Irongate DC application to repurpose warehouse",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/officials-in-elk-river-minnesota-deny-data-center-application-consider-moratorium/",
+      "age": "20h ago",
+      "date_iso": "2026-07-09T14:00:35+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Ryzen AI Halo Review: AMD's DGX Spark And Mac Mini Challenger Tested",
-      "summary": "Ryzen AI Halo Review: AMD's DGX Spark And Mac Mini Challenger Tested HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PZ1B3ZmcydW9xNDlMaEFUdUxWYlJoWjhrWnQ5MTJfN05ZSGxrdkRMOGN2Sl9LcHJYNWJOZURXWWh6ZFhrTEtUSVZFaXAtTThZRUlZcE1mNDFLQ1lQaTkxVHBJcUUtNzhzdWdBcURySDNvdFE?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-07-06T15:45:00+00:00"
+      "category": "infra",
+      "title": "AI servers will consume more power than all conventional data center hardware combined by 2027 — global data center electricity consumption set to grow by 26% this year, Gartner forecasts",
+      "summary": "AI servers will consume more power than all conventional data center hardware combined by 2027 — global data center electricity consumption set to grow by 26% this year, Gartner forecasts Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdDFQXzZBNGk4V0FKVHgyalUtUmd5MDh4X2R2VmpVY1gxbThjd3phSUhPczh1bUNSVzNEQVpLQ0ZGVDNiOWIwRWZobWJKZkdLQ1dlZEtGellFY3l3cEEtV1hBYTZFa1FPTHZnV25aUXFNYTh1UHowZS1iMFZwZ2t3Ym02dGN6RVRLU2wxVjMwbm5RRGFpQUlDdjgyZWdaXzRzSkZBbUlaX0xHa3dvQkJSbTVzNWRXcElYdXdtLU05ZERLTzVHMnA0MGZ4TVpuWWNyOTU2d2RoYml1TWdFbTdBS293RnBfaFVDc1g3S3hvaWVZbk81VzNPNC1n?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-07-09T10:25:00+00:00"
     }
   ]
 }
