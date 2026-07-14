@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-07-13T10:16:22.981202+00:00",
+  "generated_at": "2026-07-14T08:59:54.784023+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "infra",
-      "title": "Lenovo denies using banned Chinese SSDs where they're not allowed",
-      "summary": "PLUS: Canadian/Bhutanese datacenter for India; China re-uses a rocket; Australia signals AI intervention; And more!",
+      "category": "gpu",
+      "title": "Ministers arm under-16s social media ban with least surprising study of the year",
+      "summary": "Boffins confirm: taking away teens' phone makes them act like humans again",
       "source": "The Register",
-      "link": "https://www.theregister.com/personal-tech/2026/07/13/lenovo-denies-using-banned-chinese-ssds-where-theyre-not-allowed/5270212",
-      "age": "9h ago",
-      "date_iso": "2026-07-13T01:14:31+00:00"
+      "link": "https://www.theregister.com/personal-tech/2026/07/14/ministers-arm-under-16s-social-media-ban-with-least-surprising-study-of-the-year/5270924",
+      "age": "just now",
+      "date_iso": "2026-07-14T08:30:00+00:00"
     },
     {
       "category": "infra",
-      "title": "The electrical infrastructure gap: What AI data center density demands from every project team",
-      "summary": "Getting the basics right",
+      "title": "India’s tech services giant HCL is getting into the AI datacenter business",
+      "summary": "Starting small with $37m and maybe 50MW but reckons full-stack service plan can succeed",
+      "source": "The Register",
+      "link": "https://www.theregister.com/off-prem/2026/07/14/indias-tech-services-giant-hcl-is-getting-into-the-ai-datacenter-business/5270827",
+      "age": "6h ago",
+      "date_iso": "2026-07-14T02:18:45+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Is x86 ready to ACE it?",
+      "summary": "CPU designs must evolve to keep up with changing workloads.",
+      "source": "ChipsAndCheese",
+      "link": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
+      "age": "7h ago",
+      "date_iso": "2026-07-14T01:23:37+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Gobi X: Creating more energy for AI, not taking it from society",
+      "summary": "PARTNER CONTENT: How Envision is reversing the datacenter playbook by making computing chase abundant desert power, not the other way around",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/gobi-x-creating-more-energy-for-ai-not-taking-it-from-society/5270590",
+      "age": "7h ago",
+      "date_iso": "2026-07-14T01:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "575-acre data center could be built near Calgary, Canada",
+      "summary": "But more approvals still needed",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-electrical-infrastructure-gap-what-ai-data-center-density-demands-from-every-project-team/",
-      "age": "19h ago",
-      "date_iso": "2026-07-12T14:30:26+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/575-acre-data-center-could-be-built-near-calgary-canada/",
+      "age": "15h ago",
+      "date_iso": "2026-07-13T17:00:31+00:00"
     },
     {
       "category": "infra",
-      "title": "OpenAI's Sam Altman accuses Musk of selling public market investors \"on short-term space data centers\"",
-      "summary": "Generative AI business unlikely to make use of proposed SpaceX Orbital Data Center System",
+      "title": "County officials deny application for 2,000-acre data center campus in Virginia",
+      "summary": "Dulles South gets cold shoulder weeks after QTS drops PW Gateway application",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/openais-sam-altman-accuses-musk-of-selling-public-market-investors-on-short-term-space-data-centers/",
-      "age": "1d ago",
-      "date_iso": "2026-07-11T20:21:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/county-officials-deny-application-for-2000-acre-data-center-campus-in-virginia/",
+      "age": "16h ago",
+      "date_iso": "2026-07-13T16:10:27+00:00"
     },
     {
-      "category": "infra",
-      "title": "Meeza completes data center expansion project for major hyperscaler",
-      "summary": "Claims to have delivered nine months ahead of schedule",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/meeza-completes-data-center-expansion-project-for-major-hyperscaler/",
-      "age": "2d ago",
-      "date_iso": "2026-07-10T15:08:56+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Apple silicon leader explains why a Mac Mini could be the surprising AI choice",
-      "summary": "Apple silicon leader explains why a Mac Mini could be the surprising AI choice TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPS0wyOWZnSXVTMzRPWVZEaGhEU3pnV2M4eWprZUdCVXc4TEdGMXNtSEM3MEh1SUJpdkZJLWpGUVhadlBfQkx6eXNLa3ZHWkEta2g4NThIQ1gzakZyUHdFMTR2R2JiMFQtUjRnSC05dU15cGEtY3pHSHdpNFFWbm1PNENod2tDZ19yeWQ1S1VCb2s3amFDX1UwbDkwYUhaQXRKazZmblI2Q3l2N1FPLTNmM19kT0daWTZSRW9lM1B1aks0akZlSVVyNXBUdFdsaUtyOVlYWHhhMXZJX1JRZThiT2x6eWFZa0NtOUp6eE9jME9fUk9mYnV0ODRmMUJtTXdSbVdXUGozSS1VZmlpYW15dURoQlBJdXh2MkRtcTFrOGFvUkRiOWNkUg?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-07-09T19:25:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Memory Prices Are Tanking PC Shipments, But There's A Surprise Silver Lining",
-      "summary": "Memory Prices Are Tanking PC Shipments, But There's A Surprise Silver Lining HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcGZJNHMxdHNmOV9rQ3Y3RE1PY1A1RlBsR09ESjhBWmVTWEJIY0czUkZnb25HN1BNQXBMMnlrS0dKOUt1akoyQTRLRnJGVWdyUUZ1UEt4cHlIMlFQUnhHNFdvQWdURjdfY29LWlJYYWhZN0cwTlZiWDFqLTlDOHZtVFJmWExaWk9qSFY4?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-07-09T15:27:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "The 'world's most powerful AI data center' hit with massive class-action lawsuit",
-      "summary": "The 'world's most powerful AI data center' hit with massive class-action lawsuit TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdUdGRVBOd05RTHBDYlBPVEVGQ2Q0WEdpNzNoQ1NuNE1XRU9pRndfcTJSZExJNnlHUEEzTjJvMWJFUXYyQks4TVV5MlhzbHVZUkhmdU5rU1BiM1dCZlRod2NIdVRPYXN0WGlRUHB5ZmlseDFyMVZET3dObWp1MlJSY2lxQVg4eGtfUnhmMmJPZEdhenBkYlFfREE5R2JDanAxaXRrRU9sX1ltbGNEMlFQblJDWGRDTlNneVVITVp6T3NFeDRfMjdsaWI2bWtmSnZGTlR3UldDTVY4SjlmWjhSN1hFMHQyd1pHVlVhTm9kMzNMOEtjQTdyeWNVYWE0ckxRRG9GdEp0LS14QVNlbkhFZnJRRmRkUjYwZnBDOVJsQV9YNFgwTy1mLWExV0pGUHp4UktZLQ?oc=5",
-      "age": "4d ago",
-      "date_iso": "2026-07-08T20:20:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit",
-      "summary": "Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit Tom's Hardware",
+      "category": "cpu",
+      "title": "Intel's new space-grade Starfire chip is a Panther Lake SoC that puts an 18A CPU into orbit — chip designed for the US government leverages Intel 3 for the GPU",
+      "summary": "Intel's new space-grade Starfire chip is a Panther Lake SoC that puts an 18A CPU into orbit — chip designed for the US government leverages Intel 3 for the GPU Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmNBdm5GSXhxUGxEckY0dzRuMkhNTWRSUkpzV3REWEhvemJPN09vNVRHMU95Y0p0Vk9LS1NDWmlaWHBUNVpGME93YmowRnNSTVdINEdCN0RoaUtlOWt2c0l4Ujg3SS0zMDYwT1RmXzBVNUJyVlRBUnlsY2J6ekdhMjBXR1RQdDd5UjRQV3BkYjhLVXZaTEVQQXFzTGhVZzNFR25obVBNTHhCRVNzQnRRelk1Z3kyWW03SEQ3OA?oc=5",
-      "age": "5d ago",
-      "date_iso": "2026-07-07T10:53:32+00:00"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1pZYWFSczRBSTRCczUwYmpXbnhqSnhoYU1WUDZBRWwwZDUwdHJjbElUMnlsRXV4VzlkX3dZTkY3UmZ6UXM1VDVJYXctdGJ6azFjMkRwZFBIeUh5bk14NjZNNWdtNGowRWZ3bVdteWpKdjFhbEZ4SWN4X19Yd0NEZTZzN3BkS2hDMEVDUVAtZVFlR2tJVVRFZ216Y1BTckJZ?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-07-13T16:09:33+00:00"
     },
     {
       "category": "infra",
-      "title": "‘A very, very unpleasant surprise’: Meta forced to halt data center water discharges after polluting city's water reclamation system with resistant bacterium — shutdown and cleaning of two water reclamation plants expected to last months",
-      "summary": "‘A very, very unpleasant surprise’: Meta forced to halt data center water discharges after polluting city's water reclamation system with resistant bacterium — shutdown and cleaning of two water reclamation plants expected to last months TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUHJOMXBHTFpQdzM2dDU4Mk4ta25sdEN2empVaVBDczM0Sjh6RlNTVlZNWmtnS2Z6XzdSYU80Tno5YjdmMFdLdVZRVWIxaTZxdHhURlQwOG1nNGEzZTZSLW9hZjJfbXJVanBydVNxT080SUw4Zm1FWUpnT1lhMXVBdW1uci1fcy1JLUJDWWZWSjktbXZfMWprNS1WbzJLMnZPdndnU3QzUzZWSmNYMWtsTHh6QUpKdi1LNTVQRmMtQXROVFBFeFV5TWZNX0pHdVE1b1I3SkwzcFRfa0p4Q3R3ZmxVS2RsQU0tR2J2Q2dOa0xaXzh1RllyMWozZmVSaXZFS1I4WVZZMEhlOVFkdWh5VDVtV3JrVE10RkVPSWdLSWNkUkRUMmJya0RTZXVEdzlNVWZzZ25LQlNzV1Q4MHJnUVhNbkp4XzdtQXlMSV9HT2NXc0phYXlUNG5zTEhaOC0zeVVTR25pMV8ybW93MWtHVlk4aFhNNzA?oc=5",
-      "age": "6d ago",
-      "date_iso": "2026-07-06T17:20:00+00:00"
+      "title": "TA Realty buys data center-zoned land in Sterling, Virginia",
+      "summary": "Real estate firm buys 10-acre site for $6.1 million per acre",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ta-realty-buys-data-center-zoned-land-in-sterling-virginia/",
+      "age": "16h ago",
+      "date_iso": "2026-07-13T16:00:15+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "White House plans new pledge to shield ratepayers from data center related bill hikes - report",
+      "summary": "Follows the Ratepayer Protection Pledge, signed earlier this year",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/white-house-plans-new-pledge-to-shield-ratepayers-from-data-center-related-bill-hikes-report/",
+      "age": "17h ago",
+      "date_iso": "2026-07-13T15:40:23+00:00"
     }
   ]
 }
