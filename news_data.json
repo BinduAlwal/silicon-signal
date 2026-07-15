@@ -1,24 +1,78 @@
 {
-  "generated_at": "2026-07-14T08:59:54.784023+00:00",
+  "generated_at": "2026-07-15T09:04:45.240103+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "gpu",
-      "title": "Ministers arm under-16s social media ban with least surprising study of the year",
-      "summary": "Boffins confirm: taking away teens' phone makes them act like humans again",
-      "source": "The Register",
-      "link": "https://www.theregister.com/personal-tech/2026/07/14/ministers-arm-under-16s-social-media-ban-with-least-surprising-study-of-the-year/5270924",
-      "age": "just now",
-      "date_iso": "2026-07-14T08:30:00+00:00"
+      "title": "Intel May Ditch TSMC For Its Own Foundry To Build Nova Lake Chips",
+      "summary": "Intel May Ditch TSMC For Its Own Foundry To Build Nova Lake Chips HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpWWtESERZWno0TU42UkJEZ2x3dENuaXB6UE5vOGhROU9lZnZYTTdWdVNITWc0NnpETlNoYlpZZWNEWWUxbC1MOHRQTVNlMkV3azd1U2diTmVsc3M2N05KYUpVbmhzSG1kT05jNGJ3?oc=5",
+      "age": "14h ago",
+      "date_iso": "2026-07-14T18:55:00+00:00"
     },
     {
       "category": "infra",
-      "title": "India’s tech services giant HCL is getting into the AI datacenter business",
-      "summary": "Starting small with $37m and maybe 50MW but reckons full-stack service plan can succeed",
-      "source": "The Register",
-      "link": "https://www.theregister.com/off-prem/2026/07/14/indias-tech-services-giant-hcl-is-getting-into-the-ai-datacenter-business/5270827",
-      "age": "6h ago",
-      "date_iso": "2026-07-14T02:18:45+00:00"
+      "title": "Can data centers keep pace with AI?",
+      "summary": "A global data center outlook",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/can-data-centers-keep-pace-with-ai/",
+      "age": "16h ago",
+      "date_iso": "2026-07-14T16:36:01+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Valfortec plans €300m data center campus in Alicante, Spain",
+      "summary": "The facility is expected to reach a capacity of approximately 60MW",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/valfortec-plans-300m-data-center-campus-in-alicante-spain/",
+      "age": "16h ago",
+      "date_iso": "2026-07-14T16:30:25+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Krolmap plans 150MW data center campus in Aragón, Spain",
+      "summary": "Based on its projected capacity, the initiative ranks among the largest developments announced to date in the region",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/krolmap-plans-a-150-mw-data-center-campus-in-aragon/",
+      "age": "16h ago",
+      "date_iso": "2026-07-14T16:14:58+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "The neocloud approach to sustainability",
+      "summary": "Can the neocloud companies bring sustainability back into fashion?",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/analysis/the-neocloud-approach-to-sustainability/",
+      "age": "17h ago",
+      "date_iso": "2026-07-14T16:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Elon Musk’s Colossus 2 data center installed 59 natural gas turbines without permission, report claims — thousands of tons of pollutants reportedly impact black communities in Mississippi already suffering from elevated lung disease rates",
+      "summary": "Elon Musk’s Colossus 2 data center installed 59 natural gas turbines without permission, report claims — thousands of tons of pollutants reportedly impact black communities in Mississippi already suffering from elevated lung disease rates Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOc2hGWDgxNkZDalhHYnlvZGltUjktZ1hRNDZKU3JkelFqdnNTZUNiMkhGLXNLbUhwaExEVEJhOUNCVm05cGJodTBoUUVXZE4yZkkxUGlJWU1xeTl4em83V3JRNU1XTlBJdVMyYzJYM2I2MFN6d0hETHVpV0JETVFVX0UyaWcwd0ZjRTFWSVV4dC10RVJ6Wmpja1B6MkRLaVR4aHdVc1BrcVhuaGR3c0g1YUNWRGFwOXltckRVMkp2U19ETXAwTkxBWUtuNl9uTExRQmx1T1FjTktPbDZKbGhRYVdham5TX2xGTW1lX3pydEtSaVY2VUMxYmZ5SWNlaURqbDZ3OFlPSVdwajN5X3l1UmhRaG1YcFIzYUFkb21IVmltZzZOZVZTeTlac0h3SmxPOENXdGp4NjI0WlRfUFN5c3JBVmM1Tk1xV2t2SW5KQVFTZFRWR0o1UzAxdWF2R2ZHdVBGTlNfcGV5Xzd2OWt0N200SjZOTlkxeWFvVVJZemxnbHJfNi1RUVhIZGJxTVZRZGV2X25BeU5QbF9jamhF?oc=5",
+      "age": "17h ago",
+      "date_iso": "2026-07-14T15:55:29+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "China claims chip exports nearly doubled to $177 billion in the first half of 2026 as memory prices surged — 96% year-on-year increase inflated by hikes",
+      "summary": "China claims chip exports nearly doubled to $177 billion in the first half of 2026 as memory prices surged — 96% year-on-year increase inflated by hikes Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEtreDdqMWEwWE9NWXRSakZiWXRkalRzVnRFS0lqeU1RdU5Mc2pCREhJR19UMFkzUDBSQ0VxOXZzQXlqYUIwNnFtcEh0b01yeV9wLWRMckVwVW53S0VDcUdiVzFnSWtCTG9oRUJ1TjR2U1NZcEdiay1Xc05SSGlGVlpWTnNnU3pCTHZBVTdoSXRWelJYaWtaLXh2WE1ySW95MGxRLUppb01ITy1MNng0SFB4VkV4N1NhSnpzMzMtQU5RQQ?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-07-14T14:52:27+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "New York enacts one-year data center ban on projects larger than 50 megawatts — first US state to implement moratorium; will also pursue repealing tax exemptions",
+      "summary": "New York enacts one-year data center ban on projects larger than 50 megawatts — first US state to implement moratorium; will also pursue repealing tax exemptions Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQaG5qemJOX21fVkw1YTBfUFIzWDRfOTdoRWJEazZaay1TQWJvUUhrUXl0OWFSMERLc2dXWmNOaVJ2SF91WVR1eTZpYWpZQzI0S2hSVUxmN1hrV08wSlF2VDVuc255RlV5dnJTZUF3SEE5OTkxU005N1k3T2dtWE5CSEdUUi1pR3liSFlmczRNTDdMVUhRQjhrTFlWOWtVSy1YNjJaN2dSWHptZTl4SVBRckozQlM0bkkwYnF0dG9yZ201QWpmeGNVX2NFRWtncWdhUTVWSjV3Y3NjQm1OZll4VGpJWWh3YmZjeVNCRENNSGZaa2tzV0xsbU53endzTmszcUhTV3lLVWNZeHF0VmRxUzdvdzVPZ2NaNWdULTdDRFI3dGlicFpPdjgtZWwtZmtkZ1FuUHVUUGM0Zw?oc=5",
+      "age": "20h ago",
+      "date_iso": "2026-07-14T12:17:43+00:00"
     },
     {
       "category": "cpu",
@@ -26,62 +80,8 @@
       "summary": "CPU designs must evolve to keep up with changing workloads.",
       "source": "ChipsAndCheese",
       "link": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-      "age": "7h ago",
+      "age": "1d ago",
       "date_iso": "2026-07-14T01:23:37+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Gobi X: Creating more energy for AI, not taking it from society",
-      "summary": "PARTNER CONTENT: How Envision is reversing the datacenter playbook by making computing chase abundant desert power, not the other way around",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/14/gobi-x-creating-more-energy-for-ai-not-taking-it-from-society/5270590",
-      "age": "7h ago",
-      "date_iso": "2026-07-14T01:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "575-acre data center could be built near Calgary, Canada",
-      "summary": "But more approvals still needed",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/575-acre-data-center-could-be-built-near-calgary-canada/",
-      "age": "15h ago",
-      "date_iso": "2026-07-13T17:00:31+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "County officials deny application for 2,000-acre data center campus in Virginia",
-      "summary": "Dulles South gets cold shoulder weeks after QTS drops PW Gateway application",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/county-officials-deny-application-for-2000-acre-data-center-campus-in-virginia/",
-      "age": "16h ago",
-      "date_iso": "2026-07-13T16:10:27+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Intel's new space-grade Starfire chip is a Panther Lake SoC that puts an 18A CPU into orbit — chip designed for the US government leverages Intel 3 for the GPU",
-      "summary": "Intel's new space-grade Starfire chip is a Panther Lake SoC that puts an 18A CPU into orbit — chip designed for the US government leverages Intel 3 for the GPU Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1pZYWFSczRBSTRCczUwYmpXbnhqSnhoYU1WUDZBRWwwZDUwdHJjbElUMnlsRXV4VzlkX3dZTkY3UmZ6UXM1VDVJYXctdGJ6azFjMkRwZFBIeUh5bk14NjZNNWdtNGowRWZ3bVdteWpKdjFhbEZ4SWN4X19Yd0NEZTZzN3BkS2hDMEVDUVAtZVFlR2tJVVRFZ216Y1BTckJZ?oc=5",
-      "age": "16h ago",
-      "date_iso": "2026-07-13T16:09:33+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "TA Realty buys data center-zoned land in Sterling, Virginia",
-      "summary": "Real estate firm buys 10-acre site for $6.1 million per acre",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ta-realty-buys-data-center-zoned-land-in-sterling-virginia/",
-      "age": "16h ago",
-      "date_iso": "2026-07-13T16:00:15+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "White House plans new pledge to shield ratepayers from data center related bill hikes - report",
-      "summary": "Follows the Ratepayer Protection Pledge, signed earlier this year",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/white-house-plans-new-pledge-to-shield-ratepayers-from-data-center-related-bill-hikes-report/",
-      "age": "17h ago",
-      "date_iso": "2026-07-13T15:40:23+00:00"
     }
   ]
 }
