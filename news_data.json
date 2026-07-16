@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-07-15T09:04:45.240103+00:00",
+  "generated_at": "2026-07-16T09:08:30.256520+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "DCD Studio: Cooling the future - Selecting the right thermal strategy with Jerry Toth, Boyd Thermal",
+      "summary": "Emma Strutton speaks with Jerry Toth about how liquid cooling is transforming data center infrastructure to support higher rack densities, greater efficiency, and sustainable AI growth.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-cooling-the-future-selecting-the-right-thermal-strategy-with-jerry-toth-eaton/",
+      "age": "just now",
+      "date_iso": "2026-07-16T08:49:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher",
+      "summary": "Why to do it, and what to watch out for",
+      "source": "The Register",
+      "link": "https://www.theregister.com/software/2026/07/16/how-to-teach-an-old-intel-mac-new-tricks-with-opencore-legacy-patcher/5271880",
+      "age": "just now",
+      "date_iso": "2026-07-16T08:30:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Foundation stone laid for AWS data center development in Telangana, India",
+      "summary": "Project in Bharat Future City commences",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/foundation-stone-laid-for-aws-data-center-development-in-telangana-india/",
+      "age": "just now",
+      "date_iso": "2026-07-16T08:29:42+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "STT GDC inaugurates 6MW enterprise data center in Jaipur, India",
+      "summary": "Offers 95,300 sq ft of total built up area",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/stt-gdc-inaugurates-6mw-enterprise-data-center-in-jaipur-india/",
+      "age": "7h ago",
+      "date_iso": "2026-07-16T02:00:24+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "The 10 Coolest Semiconductor Startups Of 2026 (So Far)",
+      "summary": "The 10 Coolest Semiconductor Startups Of 2026 (So Far) crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVpTX2hFYTVWdzhmNUNJVllNd2dWSFA0U3A4LWUtM1pkSTFERy1TTTZkaFItbmZtOEROV2pGc3Jhc2Y0ZF90SEJTX3dPaTl2dGJhd1N6Yzd1RS1ibFF4aHhCQ3RNeGEtQnBocWRMY2p1WFdYYzJKVnFhX2NKRDlqWFFra1I5QksyRTVVWnVjZlZRdlBfOEZV?oc=5",
+      "age": "15h ago",
+      "date_iso": "2026-07-15T17:40:00+00:00"
+    },
+    {
+      "category": "policy",
+      "title": "US gov’t eases AI chip export controls on UAE following country’s support in Iran war",
+      "summary": "UAE-based companies will now have unrestricted access to purchase advanced AI chips from the US",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/us-govt-eases-ai-chip-export-controls-on-uae-following-countrys-support-in-iran-war/",
+      "age": "16h ago",
+      "date_iso": "2026-07-15T17:00:28+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Intel's big $5 billion bet on Ireland aims to right the wrongs of the cancelled Magdeburg, Germany complex — Fab 34's proven pipeline and Intel 3 node should help the company meet insatiable HPC demand",
+      "summary": "Intel's big $5 billion bet on Ireland aims to right the wrongs of the cancelled Magdeburg, Germany complex — Fab 34's proven pipeline and Intel 3 node should help the company meet insatiable HPC demand Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUGpxV3U4dUhpMThfUmxRUnNiZDhsU3l4ZS1rWjctcE5ucnNFUW1VZXFBWnFhdnhRWHIxNGkzVzhQT0d1Ny1rTC1nZ3pBSzRqTHFWWkE1TDctTG9LMTFrTFo1SlFpZ0gxTXZTMXBVR29IQTdMWVd5M0MyOHczbnNXQWlMZ050WWxnU1BsMDE1dnJGSUM5QzNvc015RDktcV9wT2FoTmV0aFoySnc4aFRpRDl4SWdlWUdWcG9vdUl1SU4zOW9mMEFQZEpmUEluVndEMGZuX3VwOA?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-07-15T11:20:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "US gov't allows Chinese telecom giant ZTE to purchase Nvidia H200 AI chips — firm joins Alibaba, Tencent, and ByteDance in access to Hopper tech",
+      "summary": "US gov't allows Chinese telecom giant ZTE to purchase Nvidia H200 AI chips — firm joins Alibaba, Tencent, and ByteDance in access to Hopper tech Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPWWo5aWJYaUdPZEtFeGtieDcxTm9yTk9JWEhNejQ4YVNmaDdBcHhCUHlxNDBOVTQ3MkYzbjFGZ3ZpZjVObHJzcklJQ3o3dlQycDF6VjFOUlB6aVg3ZF9obDhDX3RSOXU3Z1BWU1NCeFc4MFZRLUN6cDIzU2Vodm13V0JtUWRCeXc1M0dyNEdCbzlzSFBWTTRCd3R3dDlMSWlFR05RTnhreHhfWWx1SUJoeTNFVEtJSUpLTjZRQjZQLWZibUoyZHNfcDN2WmU4U1dpdVhScDMxaGxrTlVMNkxxdEtHYVNjZFhsSUdyWTVUbXdXYXVlY3VLUmkyQWFOY1J1R0ZhQzU1Rlk2Nk44am9TVFN3WF9SeG8wakc5cXNTYlg3ZmxTOERQb1NJNDFfTXM?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-07-14T19:46:26+00:00"
+    },
     {
       "category": "gpu",
       "title": "Intel May Ditch TSMC For Its Own Foundry To Build Nova Lake Chips",
       "summary": "Intel May Ditch TSMC For Its Own Foundry To Build Nova Lake Chips HotHardware",
       "source": "HotHardware",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpWWtESERZWno0TU42UkJEZ2x3dENuaXB6UE5vOGhROU9lZnZYTTdWdVNITWc0NnpETlNoYlpZZWNEWWUxbC1MOHRQTVNlMkV3azd1U2diTmVsc3M2N05KYUpVbmhzSG1kT05jNGJ3?oc=5",
-      "age": "14h ago",
-      "date_iso": "2026-07-14T18:55:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Can data centers keep pace with AI?",
-      "summary": "A global data center outlook",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/can-data-centers-keep-pace-with-ai/",
-      "age": "16h ago",
-      "date_iso": "2026-07-14T16:36:01+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Valfortec plans €300m data center campus in Alicante, Spain",
-      "summary": "The facility is expected to reach a capacity of approximately 60MW",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/valfortec-plans-300m-data-center-campus-in-alicante-spain/",
-      "age": "16h ago",
-      "date_iso": "2026-07-14T16:30:25+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Krolmap plans 150MW data center campus in Aragón, Spain",
-      "summary": "Based on its projected capacity, the initiative ranks among the largest developments announced to date in the region",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/krolmap-plans-a-150-mw-data-center-campus-in-aragon/",
-      "age": "16h ago",
-      "date_iso": "2026-07-14T16:14:58+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "The neocloud approach to sustainability",
-      "summary": "Can the neocloud companies bring sustainability back into fashion?",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/analysis/the-neocloud-approach-to-sustainability/",
-      "age": "17h ago",
-      "date_iso": "2026-07-14T16:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Elon Musk’s Colossus 2 data center installed 59 natural gas turbines without permission, report claims — thousands of tons of pollutants reportedly impact black communities in Mississippi already suffering from elevated lung disease rates",
-      "summary": "Elon Musk’s Colossus 2 data center installed 59 natural gas turbines without permission, report claims — thousands of tons of pollutants reportedly impact black communities in Mississippi already suffering from elevated lung disease rates Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOc2hGWDgxNkZDalhHYnlvZGltUjktZ1hRNDZKU3JkelFqdnNTZUNiMkhGLXNLbUhwaExEVEJhOUNCVm05cGJodTBoUUVXZE4yZkkxUGlJWU1xeTl4em83V3JRNU1XTlBJdVMyYzJYM2I2MFN6d0hETHVpV0JETVFVX0UyaWcwd0ZjRTFWSVV4dC10RVJ6Wmpja1B6MkRLaVR4aHdVc1BrcVhuaGR3c0g1YUNWRGFwOXltckRVMkp2U19ETXAwTkxBWUtuNl9uTExRQmx1T1FjTktPbDZKbGhRYVdham5TX2xGTW1lX3pydEtSaVY2VUMxYmZ5SWNlaURqbDZ3OFlPSVdwajN5X3l1UmhRaG1YcFIzYUFkb21IVmltZzZOZVZTeTlac0h3SmxPOENXdGp4NjI0WlRfUFN5c3JBVmM1Tk1xV2t2SW5KQVFTZFRWR0o1UzAxdWF2R2ZHdVBGTlNfcGV5Xzd2OWt0N200SjZOTlkxeWFvVVJZemxnbHJfNi1RUVhIZGJxTVZRZGV2X25BeU5QbF9jamhF?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-07-14T15:55:29+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "China claims chip exports nearly doubled to $177 billion in the first half of 2026 as memory prices surged — 96% year-on-year increase inflated by hikes",
-      "summary": "China claims chip exports nearly doubled to $177 billion in the first half of 2026 as memory prices surged — 96% year-on-year increase inflated by hikes Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEtreDdqMWEwWE9NWXRSakZiWXRkalRzVnRFS0lqeU1RdU5Mc2pCREhJR19UMFkzUDBSQ0VxOXZzQXlqYUIwNnFtcEh0b01yeV9wLWRMckVwVW53S0VDcUdiVzFnSWtCTG9oRUJ1TjR2U1NZcEdiay1Xc05SSGlGVlpWTnNnU3pCTHZBVTdoSXRWelJYaWtaLXh2WE1ySW95MGxRLUppb01ITy1MNng0SFB4VkV4N1NhSnpzMzMtQU5RQQ?oc=5",
-      "age": "18h ago",
-      "date_iso": "2026-07-14T14:52:27+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "New York enacts one-year data center ban on projects larger than 50 megawatts — first US state to implement moratorium; will also pursue repealing tax exemptions",
-      "summary": "New York enacts one-year data center ban on projects larger than 50 megawatts — first US state to implement moratorium; will also pursue repealing tax exemptions Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQaG5qemJOX21fVkw1YTBfUFIzWDRfOTdoRWJEazZaay1TQWJvUUhrUXl0OWFSMERLc2dXWmNOaVJ2SF91WVR1eTZpYWpZQzI0S2hSVUxmN1hrV08wSlF2VDVuc255RlV5dnJTZUF3SEE5OTkxU005N1k3T2dtWE5CSEdUUi1pR3liSFlmczRNTDdMVUhRQjhrTFlWOWtVSy1YNjJaN2dSWHptZTl4SVBRckozQlM0bkkwYnF0dG9yZ201QWpmeGNVX2NFRWtncWdhUTVWSjV3Y3NjQm1OZll4VGpJWWh3YmZjeVNCRENNSGZaa2tzV0xsbU53endzTmszcUhTV3lLVWNZeHF0VmRxUzdvdzVPZ2NaNWdULTdDRFI3dGlicFpPdjgtZWwtZmtkZ1FuUHVUUGM0Zw?oc=5",
-      "age": "20h ago",
-      "date_iso": "2026-07-14T12:17:43+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Is x86 ready to ACE it?",
-      "summary": "CPU designs must evolve to keep up with changing workloads.",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
       "age": "1d ago",
-      "date_iso": "2026-07-14T01:23:37+00:00"
+      "date_iso": "2026-07-14T18:55:00+00:00"
     }
   ]
 }
