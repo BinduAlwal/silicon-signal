@@ -1,42 +1,69 @@
 {
-  "generated_at": "2026-07-16T09:08:30.256520+00:00",
+  "generated_at": "2026-07-17T09:03:32.216899+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "DCD Studio: Cooling the future - Selecting the right thermal strategy with Jerry Toth, Boyd Thermal",
-      "summary": "Emma Strutton speaks with Jerry Toth about how liquid cooling is transforming data center infrastructure to support higher rack densities, greater efficiency, and sustainable AI growth.",
+      "title": "UK oil and gas firm plots 200MW gas powered offshore data center in North Sea",
+      "summary": "Plan at very early stages",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-cooling-the-future-selecting-the-right-thermal-strategy-with-jerry-toth-eaton/",
+      "link": "https://www.datacenterdynamics.com/en/news/uk-oil-and-gas-firm-plots-200mw-gas-powered-offshore-data-center-in-north-sea/",
       "age": "just now",
-      "date_iso": "2026-07-16T08:49:00+00:00"
+      "date_iso": "2026-07-17T08:59:17+00:00"
     },
     {
       "category": "gpu",
-      "title": "How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher",
-      "summary": "Why to do it, and what to watch out for",
+      "title": "Chinese memory ban would cut off RAMpocalypse relief",
+      "summary": "Two US lawmakers push tighter curbs on chipmakers from the Middle Kingdom",
       "source": "The Register",
-      "link": "https://www.theregister.com/software/2026/07/16/how-to-teach-an-old-intel-mac-new-tricks-with-opencore-legacy-patcher/5271880",
-      "age": "just now",
-      "date_iso": "2026-07-16T08:30:00+00:00"
+      "link": "https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993",
+      "age": "9h ago",
+      "date_iso": "2026-07-16T23:15:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Foundation stone laid for AWS data center development in Telangana, India",
-      "summary": "Project in Bharat Future City commences",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/foundation-stone-laid-for-aws-data-center-development-in-telangana-india/",
-      "age": "just now",
-      "date_iso": "2026-07-16T08:29:42+00:00"
+      "title": "Amsterdam activists throw acid at Microsoft datacenter project",
+      "summary": "Extinction Rebellion claims responsibility for chemical-filled balloon attack targeting concrete and steel",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/amsterdam-activists-throw-acid-at-microsoft-datacenter-project/5273943",
+      "age": "11h ago",
+      "date_iso": "2026-07-16T21:04:35+00:00"
     },
     {
       "category": "infra",
-      "title": "STT GDC inaugurates 6MW enterprise data center in Jaipur, India",
-      "summary": "Offers 95,300 sq ft of total built up area",
+      "title": "Managing Complexity: A Scalable Solution for Global Data Centers",
+      "summary": "Master data center compliance at global scale",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/stt-gdc-inaugurates-6mw-enterprise-data-center-in-jaipur-india/",
-      "age": "7h ago",
-      "date_iso": "2026-07-16T02:00:24+00:00"
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/managing-complexity-a-scalable-solution-for-global-data-centers/",
+      "age": "16h ago",
+      "date_iso": "2026-07-16T16:49:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "The vertically integrated neocloud",
+      "summary": "Iren’s journey from crypto to gigawatt-scale AI",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/analysis/the-vertically-integrated-neocloud/",
+      "age": "17h ago",
+      "date_iso": "2026-07-16T16:00:23+00:00"
+    },
+    {
+      "category": "policy",
+      "title": "E-commerce platform Polibeli explores AI data center pivot",
+      "summary": "Signs MoU's for data center projects in Thailand and Indonesia",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/e-commerce-platform-polibeli-explores-ai-data-center-pivot/",
+      "age": "18h ago",
+      "date_iso": "2026-07-16T14:40:26+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Trump hits back at New York's data center ban, says rule should change 'immediately'",
+      "summary": "Trump hits back at New York's data center ban, says rule should change 'immediately' TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVNHRWVsQlF2SkFOYUhXSG1vNV9yTElmOFpQdVluVUdjblFSY2tCZ1hyenB5TTdZRzhyd0pwLWJlTUpUSndNZGRSVnFseEdCNGxycVcwUElFLWxaeVA4ZTU3TWRnd2ZnVzRJUHBkLTRqbG05bWNVa3ZfTGhJQlpNZUljY3A2cVNhMVpQaXctQnVFY2NBaWxPSndKU0liVEJ6aHNfeE5fT0lUbmVsamlJ?oc=5",
+      "age": "20h ago",
+      "date_iso": "2026-07-16T12:05:00+00:00"
     },
     {
       "category": "gpu",
@@ -44,44 +71,17 @@
       "summary": "The 10 Coolest Semiconductor Startups Of 2026 (So Far) crn.com",
       "source": "CRN",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVpTX2hFYTVWdzhmNUNJVllNd2dWSFA0U3A4LWUtM1pkSTFERy1TTTZkaFItbmZtOEROV2pGc3Jhc2Y0ZF90SEJTX3dPaTl2dGJhd1N6Yzd1RS1ibFF4aHhCQ3RNeGEtQnBocWRMY2p1WFdYYzJKVnFhX2NKRDlqWFFra1I5QksyRTVVWnVjZlZRdlBfOEZV?oc=5",
-      "age": "15h ago",
+      "age": "1d ago",
       "date_iso": "2026-07-15T17:40:00+00:00"
     },
     {
-      "category": "policy",
-      "title": "US gov’t eases AI chip export controls on UAE following country’s support in Iran war",
-      "summary": "UAE-based companies will now have unrestricted access to purchase advanced AI chips from the US",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/us-govt-eases-ai-chip-export-controls-on-uae-following-countrys-support-in-iran-war/",
-      "age": "16h ago",
-      "date_iso": "2026-07-15T17:00:28+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Intel's big $5 billion bet on Ireland aims to right the wrongs of the cancelled Magdeburg, Germany complex — Fab 34's proven pipeline and Intel 3 node should help the company meet insatiable HPC demand",
-      "summary": "Intel's big $5 billion bet on Ireland aims to right the wrongs of the cancelled Magdeburg, Germany complex — Fab 34's proven pipeline and Intel 3 node should help the company meet insatiable HPC demand Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUGpxV3U4dUhpMThfUmxRUnNiZDhsU3l4ZS1rWjctcE5ucnNFUW1VZXFBWnFhdnhRWHIxNGkzVzhQT0d1Ny1rTC1nZ3pBSzRqTHFWWkE1TDctTG9LMTFrTFo1SlFpZ0gxTXZTMXBVR29IQTdMWVd5M0MyOHczbnNXQWlMZ050WWxnU1BsMDE1dnJGSUM5QzNvc015RDktcV9wT2FoTmV0aFoySnc4aFRpRDl4SWdlWUdWcG9vdUl1SU4zOW9mMEFQZEpmUEluVndEMGZuX3VwOA?oc=5",
-      "age": "21h ago",
-      "date_iso": "2026-07-15T11:20:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "US gov't allows Chinese telecom giant ZTE to purchase Nvidia H200 AI chips — firm joins Alibaba, Tencent, and ByteDance in access to Hopper tech",
-      "summary": "US gov't allows Chinese telecom giant ZTE to purchase Nvidia H200 AI chips — firm joins Alibaba, Tencent, and ByteDance in access to Hopper tech Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPWWo5aWJYaUdPZEtFeGtieDcxTm9yTk9JWEhNejQ4YVNmaDdBcHhCUHlxNDBOVTQ3MkYzbjFGZ3ZpZjVObHJzcklJQ3o3dlQycDF6VjFOUlB6aVg3ZF9obDhDX3RSOXU3Z1BWU1NCeFc4MFZRLUN6cDIzU2Vodm13V0JtUWRCeXc1M0dyNEdCbzlzSFBWTTRCd3R3dDlMSWlFR05RTnhreHhfWWx1SUJoeTNFVEtJSUpLTjZRQjZQLWZibUoyZHNfcDN2WmU4U1dpdVhScDMxaGxrTlVMNkxxdEtHYVNjZFhsSUdyWTVUbXdXYXVlY3VLUmkyQWFOY1J1R0ZhQzU1Rlk2Nk44am9TVFN3WF9SeG8wakc5cXNTYlg3ZmxTOERQb1NJNDFfTXM?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-07-14T19:46:26+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Intel May Ditch TSMC For Its Own Foundry To Build Nova Lake Chips",
-      "summary": "Intel May Ditch TSMC For Its Own Foundry To Build Nova Lake Chips HotHardware",
+      "category": "cpu",
+      "title": "Intel Makes Chipmaking History With High-NA EUV Panther Lake Production",
+      "summary": "Intel Makes Chipmaking History With High-NA EUV Panther Lake Production HotHardware",
       "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpWWtESERZWno0TU42UkJEZ2x3dENuaXB6UE5vOGhROU9lZnZYTTdWdVNITWc0NnpETlNoYlpZZWNEWWUxbC1MOHRQTVNlMkV3azd1U2diTmVsc3M2N05KYUpVbmhzSG1kT05jNGJ3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhY2g5ai01NFJQUmF5cXBJSU8xeEVRMDZTRlIzYXJEUU9yOWlyYVhCWXZEb3VBaFJ0M1JTT01rOFpkaFNpS20wNnVYMUNfOVo1WDBLRThjWE50NEoxZlBldkwzUWhxdkVEdXZBVm1pWmo?oc=5",
       "age": "1d ago",
-      "date_iso": "2026-07-14T18:55:00+00:00"
+      "date_iso": "2026-07-15T15:58:00+00:00"
     }
   ]
 }
