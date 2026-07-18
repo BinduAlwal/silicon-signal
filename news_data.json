@@ -1,60 +1,78 @@
 {
-  "generated_at": "2026-07-17T09:03:32.216899+00:00",
+  "generated_at": "2026-07-18T08:43:30.650054+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "UK oil and gas firm plots 200MW gas powered offshore data center in North Sea",
-      "summary": "Plan at very early stages",
+      "title": "Billing software error sends billion-dollar AWS estimates",
+      "summary": "Amazon asks users not to panic as it works to fix the bug",
+      "source": "The Register",
+      "link": "https://www.theregister.com/off-prem/2026/07/17/billing-software-error-sends-billion-dollar-aws-estimates/5274521",
+      "age": "16h ago",
+      "date_iso": "2026-07-17T16:37:39+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Coalition of environmental action groups petition FCC to halt orbital data center applications",
+      "summary": "Earthjustice set to take the issue to court if applications keep getting granted",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/uk-oil-and-gas-firm-plots-200mw-gas-powered-offshore-data-center-in-north-sea/",
-      "age": "just now",
-      "date_iso": "2026-07-17T08:59:17+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/coalition-of-environmental-action-groups-petition-fcc-to-halt-orbital-data-center-applications/",
+      "age": "17h ago",
+      "date_iso": "2026-07-17T15:20:31+00:00"
+    },
+    {
+      "category": "edge",
+      "title": "Duos Edge AI to provide 10MW of capacity for five years to “investment-grade hyperscaler”",
+      "summary": "Agreement worth $111m",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/duos-edge-ai-to-provide-10mw-of-capacity-for-five-years-to-investment-grade-hyperscaler/",
+      "age": "17h ago",
+      "date_iso": "2026-07-17T15:00:40+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Stack Infrastructure data center in Hesse, Germany, canceled",
+      "summary": "Investor has withdrawn from the project in Babenhausen",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/data-center-project-in-hesse-germany-canceled/",
+      "age": "18h ago",
+      "date_iso": "2026-07-17T14:11:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Elisa identifies data center revenue opportunity, amid Finland's data center boom",
+      "summary": "The company sees long-term revenue opportunities in connecting data centers with fiber",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/elisa-identifies-data-center-revenue-opportunity-amid-finlands-data-center-boom/",
+      "age": "18h ago",
+      "date_iso": "2026-07-17T14:00:41+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "AMD Ryzen 7 7700X3D is exclusive to Newegg in North America — $329 CPU won't be available at other vendors until at least Q4",
+      "summary": "AMD Ryzen 7 7700X3D is exclusive to Newegg in North America — $329 CPU won't be available at other vendors until at least Q4 Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPelRXdExRNnBEdlZIazgxek9qUi1VVlYybWhLaFJXaWVLTXVja2xVOGZiNXlCQzIwYmhFLWh6bUo3NUcxc2IzUml6aTZEQk5oWGdMUTZrOFN5TnpQNDVReVRMSlFCR0N6SnZQZERKUmc0VGR4REszY0JuSER3RVBiMER0TTd3cVVCSmdpRmd0T3ZwS2ljSHZqTTdEZ2VWZEh5NHhmLWFudy1UMWRpSHJMbmxOTHo3YXhGN0NFM2p0X2RiVi02aF9zTHQ0bDR0TkRzZlFVbWg3dmdqMWZyN3gycmlRZ0k1ZVVVZGdTMHJXNHNnMi1abGxfNUhMaV9jV0tu?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-07-16T16:47:21+00:00"
     },
     {
       "category": "gpu",
-      "title": "Chinese memory ban would cut off RAMpocalypse relief",
-      "summary": "Two US lawmakers push tighter curbs on chipmakers from the Middle Kingdom",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/07/17/chinese-memory-ban-would-cut-off-rampocalypse-relief/5273993",
-      "age": "9h ago",
-      "date_iso": "2026-07-16T23:15:00+00:00"
+      "title": "Nvidia and Japan unveil world's first national AI infrastructure — Noetra consortium to build a 140MW Rubin AI factory with 27,500 GPUs",
+      "summary": "Nvidia and Japan unveil world's first national AI infrastructure — Noetra consortium to build a 140MW Rubin AI factory with 27,500 GPUs Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSk1Ld3Q1WUxiaWJESklyd0FyTDkzWVdYQTBCQThDZzVNRlA0ZXYyeE9ualQyX1dSMWp3aVRwOHhiSEdvZkp6SFNGb2lRY1MzQU1hT0VHOGMwZENGU3BNRzFnZG5KMTVJdGc4LTQtWWVLTzJNUHlHVHVMQW9jcXBxdzVteXJrbUFrdmkxSU5uRFUycUpkS29ZQXZUNEhQZTJ3NDh4SlR3RjE1UDIwQS14dWtFVExLb0xEeEVacWlHSzlZXzZEa2pIQzRwQQ?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-07-16T13:43:58+00:00"
     },
     {
-      "category": "infra",
-      "title": "Amsterdam activists throw acid at Microsoft datacenter project",
-      "summary": "Extinction Rebellion claims responsibility for chemical-filled balloon attack targeting concrete and steel",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/16/amsterdam-activists-throw-acid-at-microsoft-datacenter-project/5273943",
-      "age": "11h ago",
-      "date_iso": "2026-07-16T21:04:35+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Managing Complexity: A Scalable Solution for Global Data Centers",
-      "summary": "Master data center compliance at global scale",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/managing-complexity-a-scalable-solution-for-global-data-centers/",
-      "age": "16h ago",
-      "date_iso": "2026-07-16T16:49:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "The vertically integrated neocloud",
-      "summary": "Iren’s journey from crypto to gigawatt-scale AI",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/analysis/the-vertically-integrated-neocloud/",
-      "age": "17h ago",
-      "date_iso": "2026-07-16T16:00:23+00:00"
-    },
-    {
-      "category": "policy",
-      "title": "E-commerce platform Polibeli explores AI data center pivot",
-      "summary": "Signs MoU's for data center projects in Thailand and Indonesia",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/e-commerce-platform-polibeli-explores-ai-data-center-pivot/",
-      "age": "18h ago",
-      "date_iso": "2026-07-16T14:40:26+00:00"
+      "category": "gpu",
+      "title": "AMD Ryzen 7 7700X3D Review: 3D V-Cache Gaming Performance For Less",
+      "summary": "AMD Ryzen 7 7700X3D Review: 3D V-Cache Gaming Performance For Less HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83cTBkeWVXLW9MQmV6SGFzUUpMcS0xVEdlR2ZtVlYxWUNlTTNyUTRhUHlhak9adTVLNy05bnF5VkM4bFJCMVhfYXF1V2U5bXEwREl1X3NwUWxOQzMwUDB1OWh4LWN6UGt2bFRfSG1aekMtYTU1Qk40dg?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-07-16T13:00:00+00:00"
     },
     {
       "category": "infra",
@@ -62,26 +80,8 @@
       "summary": "Trump hits back at New York's data center ban, says rule should change 'immediately' TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVNHRWVsQlF2SkFOYUhXSG1vNV9yTElmOFpQdVluVUdjblFSY2tCZ1hyenB5TTdZRzhyd0pwLWJlTUpUSndNZGRSVnFseEdCNGxycVcwUElFLWxaeVA4ZTU3TWRnd2ZnVzRJUHBkLTRqbG05bWNVa3ZfTGhJQlpNZUljY3A2cVNhMVpQaXctQnVFY2NBaWxPSndKU0liVEJ6aHNfeE5fT0lUbmVsamlJ?oc=5",
-      "age": "20h ago",
+      "age": "1d ago",
       "date_iso": "2026-07-16T12:05:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "The 10 Coolest Semiconductor Startups Of 2026 (So Far)",
-      "summary": "The 10 Coolest Semiconductor Startups Of 2026 (So Far) crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVpTX2hFYTVWdzhmNUNJVllNd2dWSFA0U3A4LWUtM1pkSTFERy1TTTZkaFItbmZtOEROV2pGc3Jhc2Y0ZF90SEJTX3dPaTl2dGJhd1N6Yzd1RS1ibFF4aHhCQ3RNeGEtQnBocWRMY2p1WFdYYzJKVnFhX2NKRDlqWFFra1I5QksyRTVVWnVjZlZRdlBfOEZV?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-07-15T17:40:00+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Intel Makes Chipmaking History With High-NA EUV Panther Lake Production",
-      "summary": "Intel Makes Chipmaking History With High-NA EUV Panther Lake Production HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhY2g5ai01NFJQUmF5cXBJSU8xeEVRMDZTRlIzYXJEUU9yOWlyYVhCWXZEb3VBaFJ0M1JTT01rOFpkaFNpS20wNnVYMUNfOVo1WDBLRThjWE50NEoxZlBldkwzUWhxdkVEdXZBVm1pWmo?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-07-15T15:58:00+00:00"
     }
   ]
 }
