@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-07-22T09:22:16.951085+00:00",
+  "generated_at": "2026-07-23T09:19:30.211873+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "China's Z.ai partially operating 1GW data center using Chinese-made chips - report",
-      "summary": "But source says data center is fully complete",
+      "title": "Plan for data center at Nvidia site in San Jose faces appeal",
+      "summary": "GPU giant is the property's current leaseholder",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/chinas-zai-partially-operating-1gw-data-center-using-chinese-made-chips-report/",
-      "age": "10h ago",
-      "date_iso": "2026-07-21T23:00:34+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/plan-for-data-center-at-nvidia-site-in-san-jose-faces-appeal/",
+      "age": "just now",
+      "date_iso": "2026-07-23T08:49:48+00:00"
     },
     {
       "category": "infra",
-      "title": "Ground broken on 300MW data center in Pohang, South Korea",
-      "summary": "First phase to offer 40MW",
+      "title": "DCD Studio: Advanced monitoring and predictability at scale with Hiren Lad, Eaton",
+      "summary": "Emma Strutton speaks with Hiren Lad of Eaton on AI-enabled digital data center management, real-time monitoring, and integrated solutions that improve visibility, predictability, and operational efficiency.",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ground-broken-on-300mw-data-center-in-pohang-south-korea/",
-      "age": "11h ago",
-      "date_iso": "2026-07-21T22:00:34+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Intel Confirms Data Center Group Layoffs Ahead Of Q2 Results",
-      "summary": "Intel Confirms Data Center Group Layoffs Ahead Of Q2 Results crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakZrVkZyN0VScnhmZDVrV05BcnRJZ1EzYzVNZEo2SHB4anRCdmN0V1dmT1QwRUkzcEhCVXJqVDRGcHNWZUFkcDRYYkRTS19pQlo3ZGZsV3czLWZXa2FhSlZ0bjlQNEx4ZXFHeDRYamdnZUhEX1AydzNzSEVZOGR0UXN4YnVTNlJJSjlFc1FpWWYwbEVrVlUyNQ?oc=5",
-      "age": "14h ago",
-      "date_iso": "2026-07-21T18:53:03+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Prysmian signs $6.29bn optical data center connectivity deal with Molex",
-      "summary": "The agreement is for up to ten years",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/prysmian-signs-629bn-optical-data-center-connectivity-deal-with-molex/",
-      "age": "17h ago",
-      "date_iso": "2026-07-21T16:20:32+00:00"
-    },
-    {
-      "category": "policy",
-      "title": "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims — restrictions would also cover advanced AI models, training data, and overseas acquisitions",
-      "summary": "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims — restrictions would also cover advanced AI models, training data, and overseas acquisitions Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOdUw4cW56a1pyMmo2SjZmZkdUZmxIeGJiT3lDVTFYUzVWczV0dTZGdTlNcTlTVFlhcjdpVW85dVpXQ0ZpT0FBQTNvcDRpRkJrNFNfMjdHa05wLWVkaHFKcXN1d1VVYU82SXBONXZCclR6VHEyQXQzb1BGVmx4Ylp0VGVjOE5kdGVBSTBXOUdlRXNBcGk3YVNicHNBNEVZakRtSDlmdHB6dnJNWHh6aXA5VWNMZ0RFak55c3lyYjFxTzBFRlc1ellkaXBBSHltUVU0OFdsNWtLQ2VCbldpekhPZlQ3SDdKSW5zN3U3YURwa0pkazVNQXdqazlDNS0zdWhFM0htaVRQM05nMlU0WEkzNXhzOEJ6RklKMmFwMTJpeWUwYXJrWEVkTjFDQ0dNeDFYZXJhbExlU3hGZnZYUmZHWGNOQ2N4S1MzV0NWTWRYOWR5ajVReFZpWldaX3ZxajlVd2xoN2ZGNG1GRGVLWlRvTjExVFMzRjZLQWNrREoyb29wOVk?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-07-21T16:04:43+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Amazon data center in Bahrain struck and destroyed by Iranian cruise missiles, state media claims — attacks launched against AWS site in response to alleged US strikes on an under-construction nuclear plant",
-      "summary": "Amazon data center in Bahrain struck and destroyed by Iranian cruise missiles, state media claims — attacks launched against AWS site in response to alleged US strikes on an under-construction nuclear plant Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPSUxZWEI1QkJqVFp4YTNsRUJkWWhWTjJfYlBTREx2RlNqOWhfT0dCTlBzZ3QzZjVNWklEN29IeTBSVmFHQWRVX2tfdU5WX1cxTlV5RVYtazBtX2NyVEtYQ1VRQ0ppV1JkNkpxX1d0aU5JeXB2WTJUalBqTUl0ZVlaVGtXLS1FN1Z6VFlfTzRrLWNiN3JIWmhYMnJiVF9nQUhvelo0OTcwRG5IMmpwaTJxRjVweDkwS3ZGSWhvTnNrRVQwbVB4TkE5Q1JCS0k5a1VrZm1OdzhFdlBkQ0VSenlMdEt1enJOdnFvUElRS0tycDZtTl9jUF93cjd1eHF1RUZqZXNNY0hwME1UWDdJNWRrQUtub2R3S2xEOUhXekdiVHNjbkVBQktRbkFuYktuS1BrLWpuem9ZdmlVc0t6UWNyVE5qU0Q3VG5ZczJXdVEtUGluVms2RHo3OUl4LVVEOHp2ZUZPZUJTbW1HN2U0R1huV2o4Vzcwdw?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-07-21T15:47:29+00:00"
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-advanced-monitoring-and-predictability-at-scale-with-hiren-lad-eaton/",
+      "age": "just now",
+      "date_iso": "2026-07-23T08:29:29+00:00"
     },
     {
       "category": "cpu",
-      "title": "NVIDIA Vera CPU Performance Claims And Olympus Core Architecture Revealed",
-      "summary": "NVIDIA Vera CPU Performance Claims And Olympus Core Architecture Revealed HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORFlBMnpqZWFzd1NnR1MzTUNsazVZUHJTTWpxdFBHTWFUcWhQZ2FPTGhDaTU1aVFSLVNVMTNiMkF6Vy1TYmxtRUhDbW5mNDUxTTgtYjNicXpsOUtFaTA0ZVNDQXlsZnhWSWNqYzhyek9UdXJUT2xTU1NfN09ZenlyMUljLWVfVGJ5WXZzU0lkdw?oc=5",
-      "age": "18h ago",
-      "date_iso": "2026-07-21T15:02:00+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Diving Deeper on NVIDIA's Vera CPU: New Architectural Details and SPEC CPU 2026 Benchmarks",
-      "summary": "Diving Deeper on NVIDIA's Vera CPU: New Architectural Details and SPEC CPU 2026 Benchmarks ServeTheHome",
+      "title": "Normalizing NVIDIA Vera Benchmarks to AMD EPYC Turin A Framework",
+      "summary": "Normalizing NVIDIA Vera Benchmarks to AMD EPYC Turin A Framework ServeTheHome",
       "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcE9oNmQ4VmxpQzZURVdScVBIZVNrT19MUGpaWFU5eEQ2dHJ6dUNqdVNvRGxtcHowdDA2Y0Y3dVR0TmNDXy1tM19zdUZBV0RPTXNPSWwta2x6ck5jVnRXcXVBWThwSmstdU95UG9XVFVzSTJTMk41eE44OWdsU2trcGJFRVEzTmlpbnotRWVjbl82aFQxZVVISUx1UFBuZW5EYllKOG56LUQ5VVJRUmh3MGtkS29VUl9DdGc?oc=5",
-      "age": "18h ago",
-      "date_iso": "2026-07-21T15:00:01+00:00"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGMxMlBWeXVUcEpUNWFTQ2J3RGNmYVlBVnZCZ19aaThURkxNZ3h4YVhxNHBGbFlvaFF6dTBmTDdROGtGaHNpSUZua1l2MlBWMVZIRUkyLWlHLXIwOEdZdUFiaUZoZzZGOHFHNmdnYml5bFB4THByMURrWnN4SWMtWUE4bnVEbklBN2U1aFJELTJKRkNhMzhGYWxB?oc=5",
+      "age": "8h ago",
+      "date_iso": "2026-07-23T01:08:05+00:00"
     },
     {
-      "category": "cpu",
-      "title": "Nvidia deep dives Vera CPU for AI data centers — SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more",
-      "summary": "Nvidia deep dives Vera CPU for AI data centers — SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more Tom's Hardware",
+      "category": "infra",
+      "title": "Google increases 2026 capex to $195-205bn as it accelerates AI data center buildout",
+      "summary": "Record Google Cloud revenue, but investors are uneasy about growing capex commitments",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/google-increases-2026-capex-195-205bn-as-it-accelerates-ai-data-center-buildout/",
+      "age": "11h ago",
+      "date_iso": "2026-07-22T22:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "SpaceXAI considers large-scale data center in Texas - report",
+      "summary": "Despite orbital ambitions, has sights set on gigawatt campus",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/spacexai-considers-large-scale-data-center-in-texas-report/",
+      "age": "11h ago",
+      "date_iso": "2026-07-22T21:33:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Jensen Huang argues American companies should be allowed to use Chinese AI models — Nvidia CEO says backdoors connected to China are misconceptions",
+      "summary": "Jensen Huang argues American companies should be allowed to use Chinese AI models — Nvidia CEO says backdoors connected to China are misconceptions Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2NJT1hpaUFiLXFrRzdrZnBCVWpPSGNsZUEwYUpjQ01ZRi1IamgxRkhkc2FVa3lHZTlSSTBzNEY0VFFjWU4tZ0Mwek5naG9TQXozWXRiOHZtQnFJLTRDck50MUFsb0s4aTd6VHFfUkJzVUNoZ2VndWpQQnFUNDY4dFpnVmFsbG1NUjNuN2FmYVg5RktfSmRfQ2I3UHBJYjNkaFFSdnFjLWJPNEhUcHRuUXpiVkFvQjctakFLSXJYWmNTQnJtYlZadmp6UWx0TUFBRFFZMGY0clliNUNLQ3c3cg?oc=5",
-      "age": "18h ago",
-      "date_iso": "2026-07-21T15:00:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZ29VelJDN3FYSmZtWnpoSFV4MnkyYlRMb09QWGF5UFJXYzZ1REduNkk5akx0aXlZZjJpWEJiOE1Tam93ZDJ4eDRiSTM5OUF1eG93X015bmtjY1BwdTBfUlh2dURIaWdRQTl4VzRtcEJxVVl6aTNBd0hEWUxsdkNUYXlwdHNLVWJ6cjhtbE5kSUxiQjdIWEJEcjF0ZXU0ZDl3VGUwLWhwMXgyLWFjRzRrQnFRYWFlZmZwUmtDSmd4OFgzOGpaZUNmVEtWMk1ZQV9XVDlraERKa19KaklnZGVibDVYX0tTY2F5blJkc05uTGdBRDdqVzNZeGNJMGZPcGxZRk12eHBkTHlaTkRMVGt1S25STlNjUXZZclYzVDJoenNUOW5BYk84WS1SODVFSDV5czgtbldvYw?oc=5",
+      "age": "15h ago",
+      "date_iso": "2026-07-22T17:55:46+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sponsored: Polish Data Center Association, DCD Academy and Warsaw University of Technology launch Data Center Training Scholarship",
+      "summary": "Supporting Poland’s digital ambitions",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/product-news/polish-data-center-association-dcd-academy-and-warsaw-university-of-technology-launch-data-center-training-scholarship/",
+      "age": "16h ago",
+      "date_iso": "2026-07-22T17:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AI tech companies have ‘hidden debt’ worth around $1.65 trillion, report claims — amount is 122% of debt reflected on the balance sheets of Alphabet, Amazon, Meta, Microsoft, and Oracle",
+      "summary": "AI tech companies have ‘hidden debt’ worth around $1.65 trillion, report claims — amount is 122% of debt reflected on the balance sheets of Alphabet, Amazon, Meta, Microsoft, and Oracle Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNR3RLSTMzZ210NGtoUkVHS2pvLUhBUDFjbWQ4a0cycVRzMDBEVzIwN2pFTy0zbUM5b1UyTjhESnAxTUxlWTN3WllXUlNtcmpkSFJFRGFySUliSl9UVEUzMmcwQ0REdVEwUVpsVDlldmFQcTAxNWlkVWFHVUVIXzlIMnRsMFZaZnBFRzItN0NQNEZpRnBUMlNTVWc3X29RaE5waGhrcmJFX1FRTUxTZEVTdGtCd0J4SV9vejVRckJ2b09PS0JWSXdxNF81SFRFcUhfYVBOandCVEpGSnFnd2VTcFRQTTk5Qlk3SVhBdVh3bmNoUTRnbTA4X0RHVGZhdmd0T2lKR0xrX1RIRHBRejFEZ2RNLVZNR3c5bjVFTWRYanNFYzhzS29ZZmlaeWZRWE9USF9uNXAxUXBwWDUteHJDa1JlbENkRFBsN21oYXdLV1lUMjhzS0tUMA?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-07-22T13:23:33+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Leaving Apple, Intel, and Nvidia in the dust? Huawei could join Samsung as the only tech firms producing its own CPUs, SSDs, and DRAM",
+      "summary": "Leaving Apple, Intel, and Nvidia in the dust? Huawei could join Samsung as the only tech firms producing its own CPUs, SSDs, and DRAM TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbDltZ0d6NFZvT1hPMDhjMjVqRm95TExDQ2x0NjU2WVVKMURKZl9Ga0JhTmlTb3puTElyZWVKMmllLTJkQnV6M1NjR3M1ZUc0N0xnNFhkZ2IyOWpXYUVNQWw3U183UHZjY1pqaHZOYnNTNlFvcUNCS1Y2X2lPVXI1SUxpSTFPNXYydW5nNE9fdDJvdG9ieFZidUk0ek1TdnZMOXlmWDhaUGttX3N4ZnNRdGZ5TldQU19ZNFRLcHFXQTFPTGpIVU5waUFaLUpsbWg0RXJtSE1mRHAxVDJlYXBzcUFMRko4SDRfY2J2X0VFOA?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-07-21T22:30:00+00:00"
     }
   ]
 }
