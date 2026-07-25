@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-07-24T09:14:48.240006+00:00",
+  "generated_at": "2026-07-25T08:54:49.062513+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Google meets the neighbors and gets both barrels over its new UK datacenter",
-      "summary": "The Reg was there as locals aired grievances over poor communication, noise, and light pollution at Waltham Cross facility",
-      "source": "The Register",
-      "link": "https://www.theregister.com/on-prem/2026/07/24/google-meets-the-neighbors-and-gets-both-barrels-over-its-new-uk-datacenter/5277188",
-      "age": "just now",
-      "date_iso": "2026-07-24T08:30:00+00:00"
+      "title": "Sponsored: AI’s impact on data center infrastructure – is this the dawn of “the flux capacitor”?",
+      "summary": "Who knew Doc Brown and Marty McFly would be helping us build AI data centers?",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/ais-impact-on-data-center-infrastructure-is-this-the-dawn-of-the-flux-capacitor/",
+      "age": "17h ago",
+      "date_iso": "2026-07-24T15:00:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "South Korean memory giants Samsung and SK Hynix are set to announce massive deals with leading U.S. tech firms, report claims — Korean president arrives in Silicon Valley for meetings and high-profile AI summit",
+      "summary": "South Korean memory giants Samsung and SK Hynix are set to announce massive deals with leading U.S. tech firms, report claims — Korean president arrives in Silicon Valley for meetings and high-profile AI summit Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQcXFtMXlVcUVxM2dzR0F2NUMzdzcwbkk4QlZZdDllaTNZRU4xTnpqTkJCSWlFMlp0cjl4aE5Ub1pQQW5vUE5DYVJaN2g4eTNqN1dFcXVsalA2SzFOUzFud04wcEVGOWF2WXNEdXRSVm42WTU4YVZlby1UeEZDdVI2ZkVjbFNBV0pweHR3RkdOdnZfX2xzWlV1UG43NTZGdW9nYXBYR0hheEdwTFFXM2VnWi1nYnlPdGpOb0pmaDJkT1lja2tHanFDYXQ0dWFDd3lnZmlDUTFsWFcySGthRVdTWkNOZDVPNUs4TElra2dQSEphT3N5bWI4NlVYOXc3U3g4UTVwVHFVbHBzbEJCWlJTVll1MU1pcnlKYTFMaGlxSmJEV0FpS1FkSHAxMnJnWUxRVDNNMnk4RjF2Sm5pMUFlTHN5a2VESFFSVEUtdU1pLWRvRjBYTHh2bTVKRWRLRHlOYjU1Ylhvd3VyNWx3TUQyTVo5aXJlbE9hY0VWYUU0em5nVzR6eS1pNQ?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-07-24T14:43:04+00:00"
     },
     {
       "category": "infra",
-      "title": "Hydrogen fuel cells for data center power",
-      "summary": "Explore how hydrogen fuel cells can provide zero-emission backup power while helping unlock new data center capacity and resilience",
+      "title": "Parks S/A to invest R$500m in 5MW data center in Cachoeirinha, Brazil",
+      "summary": "Project to total 5MW in the Porto Alegre Metropolitan Region",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/hydrogen-fuel-cells-for-data-center-power/",
-      "age": "1h ago",
-      "date_iso": "2026-07-24T08:08:30+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Intel knows it needs to ‘leapfrog’ ARM and AMD, says CEO Lip-Bu Tan",
-      "summary": "Chipzilla changes PC biz name to reflect belief edge and robots could be as valuable one day",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/07/24/intel-knows-it-needs-to-leapfrog-arm-and-amd-says-ceo-lip-bu-tan/5277968",
-      "age": "3h ago",
-      "date_iso": "2026-07-24T05:17:54+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/parks-sa-to-invest-r500-million-in-a-new-tier-iii-data-center-in-cachoeirinha-rio-grande-do-sul/",
+      "age": "18h ago",
+      "date_iso": "2026-07-24T14:35:35+00:00"
     },
     {
       "category": "infra",
-      "title": "Microsoft fiber foul-up cut off Azure California for almost five hours",
-      "summary": "Maintenance mistake caused immediate issues and took out 27 services",
-      "source": "The Register",
-      "link": "https://www.theregister.com/off-prem/2026/07/24/microsoft-fiber-foul-up-cut-off-azure-california-for-almost-five-hours/5277945",
-      "age": "7h ago",
-      "date_iso": "2026-07-24T01:24:36+00:00"
+      "title": "Eurus Energy & Toyota break ground on wind-powered data center in Hokkaido, Japan",
+      "summary": "Soya Green Data Center 1 is Japan’s first data center to be directly connected to wind power",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/eurus-energy-toyota-break-ground-on-wind-powered-data-center-in-hokkaido-japan/",
+      "age": "18h ago",
+      "date_iso": "2026-07-24T14:19:07+00:00"
     },
     {
       "category": "gpu",
-      "title": "AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics",
-      "summary": "AMD Advancing AI 2026: Top News On AI Chips, CPUs, Robotics crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR2FKeTFZZXdCSzBSbldlemFKOS16ZWVDOWJMY2hIQi1hcFdfRnZuaTdZY0E5cXgteFItbTZZMjVIdDUycnlaMl9WZ1pOd3B5WE9oWjBoRkM2NGVOd25VRWhRbUhia3EzMlE3RHoxZkF2VGlMajZxYkxHd0JSWHN3ZVdpOXJZUi1SRGJDekhCRlZYVkU?oc=5",
-      "age": "10h ago",
-      "date_iso": "2026-07-23T22:32:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD and Cerebras join forces against Nvidia’s Groq LPUs",
-      "summary": "The enemy of my enemy is my friend",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/07/23/amd-and-cerebras-join-forces-against-nvidias-groq-lpus/5277817",
-      "age": "11h ago",
-      "date_iso": "2026-07-23T21:33:45+00:00"
-    },
-    {
-      "category": "policy",
-      "title": "OpenAI won't let some customers export their chats, but this tool will",
-      "summary": "ChatGPT Business and Enterprise users lack the standard chat export option, so third-party utilities like scrapemychats fill the gap",
-      "source": "The Register · AI/ML",
-      "link": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-wont-let-some-customers-export-their-chats-but-this-tool-will/5277795",
-      "age": "12h ago",
-      "date_iso": "2026-07-23T20:48:39+00:00"
+      "title": "AI chip startup Etched closes $300m funding round, doubles its valuation to $10.3bn",
+      "summary": "Latest round saw participation from SK Hynix, Andreessen Horowitz, Jane Street, and Diffusion",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-etched-closes-300m-funding-round-doubles-its-valuation-to-103bn/",
+      "age": "18h ago",
+      "date_iso": "2026-07-24T14:01:32+00:00"
     },
     {
       "category": "infra",
-      "title": "Microsoft Azure outage at West US region causes intermittent connectivity failures",
-      "summary": "Systems expected to recover as issue is rolled back",
+      "title": "Developer eyes 930-acre data center in Ransom Township, Pennsylvania",
+      "summary": "Bought a 530-acre parcel earlier this week",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/microsoft-azure-outage-at-west-us-region-causes-intermittent-connectivity-failures/",
-      "age": "14h ago",
-      "date_iso": "2026-07-23T19:04:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/developer-eyes-930-acre-data-center-in-ransom-township-pennsylvania/",
+      "age": "18h ago",
+      "date_iso": "2026-07-24T13:59:59+00:00"
     },
     {
-      "category": "gpu",
-      "title": "AMD and Schneider Electric launch reference standards for Helios AI rack",
-      "summary": "Will help developers incorporate rack into AI data centers",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/amd-and-schneider-electric-launch-reference-standards-for-helios-ai-rack/",
-      "age": "14h ago",
-      "date_iso": "2026-07-23T19:00:00+00:00"
+      "category": "infra",
+      "title": "President Trump expands AI data center ‘ratepayer protection pledge’ to include state governors and utility companies — White House claims this will make electricity more affordable",
+      "summary": "President Trump expands AI data center ‘ratepayer protection pledge’ to include state governors and utility companies — White House claims this will make electricity more affordable Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPNzRZSVFDdVcxYkZST1gxX1JwWDlxVXRIdmdudDZfT3RtRU1IRWZLYW54a3M1ODFuSEFoRHZ5YzZoUmc4bjNpWWdZZ28ybUtXdnlJbU5OVmY5OE5lQUYyemFCeWFUY3pmOWJGRmNvV3pEcW95em5XYno3akVDQnJta0hES0FNWW9aaDFqMXU1SmgxSmJoa01QTkV3TWlITlp6VGNERWxsUlp1UFM1Q2pqUUZlaDlWNndRT29BVDRONEp6NlQ3MUZUTzV4TzhkeGduN0pRSGFTWi1iYlF4Z1l0R2Y1X1hXRW1adXV2R3lDOUNQQ1JoS2E5ZHQwSTVRbTFqRUZxVTBjaEZ4TDZKTGZYU2ZMQmJkSXBtQnZhQW95d094MzZvS1ozWUdLWFRQMFpHZGNmb25tam1wMjFRSVQwaDBFZGNCczQ4REpv?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-07-24T11:42:41+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "AMD reveals CPU architecture roadmap through 2028, following Zen 6 'Venice' launch — Zen 7 'Florence' to debut in 2028 alongside diversified product family, confirms Zen 8 'Ravenna' in development",
+      "summary": "AMD reveals CPU architecture roadmap through 2028, following Zen 6 'Venice' launch — Zen 7 'Florence' to debut in 2028 alongside diversified product family, confirms Zen 8 'Ravenna' in development Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPM1lQUlBnRTRqSHZIRkw4bERkdnlDa3VCQ3Bsckk5RXZ1dHpHSGRHVWg3QkhUc19nOWEzZGYxZFNuSnhGc0lRbXlZMVZzVncxT0NYYnBVTlN5VUdnU0lZV005SFl1UWd6QkkxaXhmSHQ3alI4Nl9GendHVlQybUU1eHlIVGNDRXNuOXB0TWJnMXk5Vy1WVC1tOER2NXQzRW9uNldIMmRsdkl0dWpuYklUMnc2Uml1Z2Z1OXhkVWNUX21yWmRWZm95ZFV6UFk1MDQ3RnNyMnhfUk1uWVJGNmgxdE92SVR1bVRReVIzQ0RRRjVtVEsyNF9uTGFHZTEzQXJocFBEUDNQN3ZmRzFFQjZON29iZ3Q0TDhva3BMVkZCTVVNQWxTbWFvRFctbkxLbjZzVWk4N1lZN1VQUHFLVGZDQXpnNS1FeVFDLTY5OGNHQmtpQ1JI?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-07-24T09:27:05+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Nvidia's latest trick for cooling its data center hardware is... hot water? 'Hot liquid cooling' is warmer than a hot tub, but apparently does the job pretty well",
+      "summary": "Nvidia's latest trick for cooling its data center hardware is... hot water? 'Hot liquid cooling' is warmer than a hot tub, but apparently does the job pretty well TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZi1PTjN4M0dNUVNkM3hKVlRmdEdDSVFZS1Bnc1JzYnRhaHFrdHFaNUhERWMxTmdxemRCYWdKWTlOcWl3NWpHOTZaenJCV1RDX2pKam41MVVqYm4wQXZ4UTFHS2c2VzdpZm5YblUtbDc1enFFd2hnTjlRdlhhRUZOX3kzdklPbks5RUswNUtKVG9mX2Q2Vm1zc05uVlBRM3RmRXpQb2tZNElhVXpyaVdRN05DU1VVdkxaY2M4MzlWcUk5VU9GRGxxRGdwVkNaVTdWYURZRmpwWGZfRTZMb25QZWZWS1R2Y1hVQUdfUUhBOE5JWF9EaG14cEtwNFBmWGUtS1dQLU95bExZN2Y4bEw0Yjl3?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-07-23T23:30:00+00:00"
     }
   ]
 }
