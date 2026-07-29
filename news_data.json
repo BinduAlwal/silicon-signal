@@ -1,42 +1,78 @@
 {
-  "generated_at": "2026-07-28T09:30:47.832098+00:00",
+  "generated_at": "2026-07-29T09:32:43.044950+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "Microsoft buys more land in Middenmeer, Netherlands, for potential data center development",
+      "summary": "Another 37.5-hectare plot added to portfolio",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-buys-more-land-in-middenmeer-netherlands-for-potential-data-center-development/",
+      "age": "1h ago",
+      "date_iso": "2026-07-29T08:04:27+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Meta and BlackRock team up for data center in El Paso, Texas",
+      "summary": "Will offer 1GW of compute capacity",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/meta-and-blackrock-team-up-for-data-center-in-el-paso-texas/",
+      "age": "1h ago",
+      "date_iso": "2026-07-29T07:57:30+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "European modular data center company Cyanis AI raises €250,000 in pre-seed financing",
+      "summary": "Planning initial deployment of 10MW",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/european-modular-data-center-company-cyanis-ai-raises-250000-in-pre-seed-financing/",
+      "age": "17h ago",
+      "date_iso": "2026-07-28T16:29:53+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Flexential acquires 110 acres outside Dallas, Texas, for 108MW data center campus",
+      "summary": "Company buys land in Talty, targets three-building campus",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/flexential-acquires-110-acres-outside-dallas-texas-for-108mw-data-center-campus/",
+      "age": "17h ago",
+      "date_iso": "2026-07-28T16:26:03+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia to invest $5bn in Safe Superintelligence, Sutskever firm to substantially increase GPU compute",
+      "summary": "Ilya's AI lab had been using Google TPUs",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-to-invest-5bn-in-safe-superintelligence-sutskever-firm-to-substantially-increase-gpu-compute/",
+      "age": "17h ago",
+      "date_iso": "2026-07-28T16:03:19+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Google goes cash flow negative for the first time as AI data center buildout increases capex to a staggering $44.9 billion in a single quarter — CFO warns that capex will increase in 2027 as company banks big on TPUs",
+      "summary": "Google goes cash flow negative for the first time as AI data center buildout increases capex to a staggering $44.9 billion in a single quarter — CFO warns that capex will increase in 2027 as company banks big on TPUs Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYkNWVjNqSzlaYnhITFdQNE5EX0d4Tk9NLThjWjZ2amx2THN2M2ZDS0xINDJUQnl0V0o2OUs2RnNVVzFTSWRnMXZCWWpMN1lvdkVkc0JkYVc3dG42c1FRX2tFMUJhYkE2R3pNRF9WVVRYdDlWdEpoUVhUblFUaU5FTEx4Ri1rOENXakFfR21vU1VwYVZvYXhneTRiUzRFa3U2bkpyNUtkYmNQX1VWVkZ0aWRRZXh2dU1WLTNQUHBveWJRVmpWWDBvX1ZJWGw1NEticUV2dWYtckEzTGRFQV9yNDVyNzdIZjdJWld3Q2dPcmo?oc=5",
+      "age": "22h ago",
+      "date_iso": "2026-07-28T11:12:23+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "AI companies are reportedly shredding millions of books after using them to train AI models — tech giants outsource to middlemen to secretly buy up books for training material",
+      "summary": "AI companies are reportedly shredding millions of books after using them to train AI models — tech giants outsource to middlemen to secretly buy up books for training material Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNVDFGMFFkdG5FQjdRdXhDblE4OHo4Q1FzUnBzVzRLVGR1MHEtVW9LNWYtUnJqUzF5WlBTdWJLMVBva01UZTJqa2NlbHZzSkIyOGtUSER5SnZIdV9lXzlROG1Id0tYbDRiNDd6MzMzUkZyZm51LVh2cmZwa25mNjJmMkkyWHcwLVlQQmRKRk52SEdrWm9tY2NPOEl0NG82SU9pZTFPeDZwTHpvYktyMXR4QnJuR0lROFlXVjhMVHFvSzBOSURHaVlhTmQ1ckV6RXRGRmc0cDRmbjhVS0JOTkw1UHlZYWtYUmp3MDJjZUo1RTJsME9UR1BKamk3cjJYak41Qm9uOURxYm1YY2d6bmhjR2RtamNQM1hqU2FuaDJhX1NUT1ptdkxPUnppLTZPU3ZibWdUaXdnRlFUX29POGhXcDln?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-07-28T10:30:00+00:00"
+    },
     {
       "category": "gpu",
       "title": "AMD Advancing AI 2026: Talking CDNA5 with AMD’s Alan Smith",
       "summary": "Hello you fine Internet folks,",
       "source": "ChipsAndCheese",
       "link": "https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5",
-      "age": "13h ago",
+      "age": "1d ago",
       "date_iso": "2026-07-27T19:43:53+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach",
-      "summary": "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPbi1KeUFoOGVsWS0wT29pY2xSTUxlb1FBRjVtZUhnS0NGNnVEVVVDdURuc0NIWGNqQTJSaWthNkZ3SmNYLXJHM1dnUUJNcmxaYzNxQmMwVWZ5RE5ibnYySDhBMy1lV0x4dURYXzJIcVhxLTh6UVVEVG9MS05DVktBM0FoeGtoWlp5RzVkYjdJam4tZ1AyREFZVG9QbDFCTmx1UHc2VXU1Vk1YMVJCaDN2aU53dG53MWp5c1RPbjlrd2Z4OFZ6RmRsTUwtTUphaTZ2cFFCMjItWS1ZSnAwUWtTTlZ6aUNoVmN1WnEyeW9iTy1QdHkxZFY0VWJNZG5PbUlTVWZaVnZJS2VVSnpkZG85Q01PMEF0LWxSdldsdlNtUDJOeFU3dUFNS1BCRQ?oc=5",
-      "age": "14h ago",
-      "date_iso": "2026-07-27T19:03:47+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Nebius details plans for 1.2GW data center campus in Pennsylvania",
-      "summary": "AI cloud firm aims to build in Schuylkill County’s Highridge Business Park",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/nebius-details-plans-for-12gw-data-center-campus-in-pennsylvania/",
-      "age": "17h ago",
-      "date_iso": "2026-07-27T16:20:56+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "CoreWeave to lease capacity from EdgeConneX at data center campus in Cedar Creek, Texas",
-      "summary": "Bastrop County campus will feature four data centers",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/coreweave-to-lease-capacity-from-edgeconnex-at-data-center-campus-in-cedar-creek-texas/",
-      "age": "17h ago",
-      "date_iso": "2026-07-27T15:48:32+00:00"
     },
     {
       "category": "gpu",
@@ -44,44 +80,8 @@
       "summary": "Nvidia weighs $250 billion guarantee so OpenAI can lease SoftBank's 10-gigawatt Ohio campus, report claims — Nvidia also said to be discussing $350 billion deal to finance chips for the site Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSDJYSGhZek1WTXZzSTNPQVo1eXJvQmZZbEZfd2tJbjJ5Y0h6OTFpTERpWExkOVFMSkktdE51bFVYYm1qSm9YbExISVFkV1lndkllcTk4eXZTUDdSbGVnSlpuaUI0MTlkcW1wY3VKUnlQZ2FFWXhRZUNFZ004Q3czNVRkVEoyYTZBV0xNM2pOMXBoQUlZVWwxbHFEYVFXWEstd2ZOWWxJeW1JU0ljOFVldk9ORFJHcy1Qd3JiWHlJZi00eDUyUmNsSEE5WkhfbEl6ZG1EdHU5aHBrQXFoVkE?oc=5",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-07-27T13:34:28+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "'It sounds like someone set up a vacuum, like in your living room': Michigan residents sue AI data center emitting noise 24/7 — company fined for industrial noise ordinance violations, offers to buy homes from residents",
-      "summary": "'It sounds like someone set up a vacuum, like in your living room': Michigan residents sue AI data center emitting noise 24/7 — company fined for industrial noise ordinance violations, offers to buy homes from residents Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQVlZtTnRtclpzbDdnWjdXNFMwNTJxLUwyblVkLWp4X3JRQVVjX2NDalcxa3VfWW10cmhqc1FtNmdweFh6M0duNDBvR2lPUWltZ0YzOUxxeUxwYVQ0N0dMbUtxeEE2U01Pd0JSUjA2QXdzLVNMZ185c05SRDlCb0dNNGQxejNrclB6eExjTW9URHk4T1VhNm9ESmhXbVhzRHczLTRPd0ZBSU5WcTNBLWU1UTk3Rm85OVBOYzRKNzNyTVhUTjl2TVZHZm9EdmJwZml3MEdpR3NuYzVZZWN0eHNXaU9mMFlPSEpiVkRNeTBTQXF4UTRGYkJwWi00NlViNnFrX1FlRlNWRURLVHVfajY1WXIwd1Bjcmt3c285bWs1elpJUXNzaXZHeTFrb2JQMEE4Zy1tMVczYlUxbTFsNXRTVlVTYlh5eFYzR0M3MVdHMlhYOGlQbjZQNWFYem9zZURhdTlGaWR3RHo3dkdKdndUMTJQUkdvdnJBMVN6b1ZJOE9Idw?oc=5",
-      "age": "21h ago",
-      "date_iso": "2026-07-27T12:02:21+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "California's largest AI data center project suing for access to 287 million gallons of Colorado River water, 0.03% of Imperial Valley’s supply — plaintiffs claim project equivalent to 160-acre farm amidst concern about jobs and reallocation of farmland",
-      "summary": "California's largest AI data center project suing for access to 287 million gallons of Colorado River water, 0.03% of Imperial Valley’s supply — plaintiffs claim project equivalent to 160-acre farm amidst concern about jobs and reallocation of farmland…",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQRFlQOTBrVVg3YUFUUGt6WTVXcV8xRUZiRVRrNlgzMl81Z2FqSmlydWFFTVk5bjlVSjBqWHNHNkd2aThtc3ktdUZDQnhqY1RzcG9fZi0zQ0Fjbl82RGdUVUdTZVNQSXN5TmhNaW5FbG1vWFlJNnZGUnVwaEp5eHNraEJ5N0tpYm5udUtOaFBvVVVGQlZCNlBnb09TSl82d0dLTFhSSVpIUXZHSWQ5aVpBSFh0TmROR0E2WW9jTVRrWk1PMkZ6VVdvZTljUVdwb09vUGRCQ285dlFXU3RSYmpNTWtOZ0RYQlVOTWF0U09WeUdBd3JBZVRpNm4zSkNxQjBpOTlnSm9fOTRtN1dtUnFlZWlRQUFPVXc1VXVOeVBaT3RtZ19EZllqc2Z6OEpaQWk3WEtEZnVyM2d3NjFqTWd3dnVaMFE3d3A5ajB5ZnBWeWZsejdWRHotM2tmSVlCT28tb19RV3k1V2dHVmxkNmpZWVU0MEQyZ2stbUdDQTFYM0hSRzEtR2FCVDVtS3h4d2dRSzY2N1VRaGZmeDdLVS1aWlU2QzZEekZfbWdTbHY0NTh5Tl9LZ1g0dktQRFludw?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-07-27T09:56:17+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "'The government has all but forgotten that most data centres require water to cool their systems': Industry trade board warns UK government over data center thirst for resources",
-      "summary": "'The government has all but forgotten that most data centres require water to cool their systems': Industry trade board warns UK government over data center thirst for resources TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQU3JPT3I1amNwLV9iMHI3QVU0QWZJS3dmZ3RhOElxMDFOSDlaS2FjdUpaTjVVTFBWdHFBSFdWd190R2xnZGFycVVsdkxCaWotTUhGaDNWcHNlbTZkbFRzWHdTeGgxQzJBZW82TE9PcnFJRG9RTUh0dEdMN01LNXBBcDFQNF84WmUyWjV1cVJXTVpNNUZGc0FYTkNqVUZqX2dhNWJQb3gwZ191VkJzMURfelNjV3VXZzJQTTQ1RDJicHJoR3YyLU1XX25ya19sUkY1VmdkN0MwRTlhNzFiR0FxZWdpN3BrREczUjRkanRjTFFnZC1tTUJ1OGhSeGJXdEFFTGE5V0JQdnhmTExYWFVwckprQWZzU0E4eV9pMVdfdUdsTlpReVAtc0FfQVc?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-07-25T06:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list",
-      "summary": "Nvidia and 24 other companies sign open-weights letter as Washington weighs Chinese AI model ban — OpenAI, Anthropic, and Google absent from the list Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTW54UjY0dzZndlJBcHUtNHVpUnd4em1TWFlha0hCMzhyV1dFNVo4YUdsdUFLZUlmNnU5X09pTlY3cVhKck1pMGs1eDhZOEtmbTR2Q3EwNV9OZlVGaC1LR2xpZC1XenJjUWpuY1RrLUJWdVFkM3BxSWdOc1JjMTZ0UTUxSEhFdWVQYUc5bnpqYllZbkptb2hQUTFrYm5nWFNmelI2Q1pnQlhtWjBpaHRqMXpaaXNvbVYzYjdVb1Jld21OT2ZSOEhQcVlOZWo0RWxDRnVBRjBMaURiR2IydzhTY0lZYWpUdHRpeFdkeGI5Qk5Zb1BMQlE?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-07-24T18:31:48+00:00"
     }
   ]
 }
