@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-07-29T09:32:43.044950+00:00",
+  "generated_at": "2026-07-30T09:25:10.615981+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "infra",
-      "title": "Microsoft buys more land in Middenmeer, Netherlands, for potential data center development",
-      "summary": "Another 37.5-hectare plot added to portfolio",
+      "category": "gpu",
+      "title": "Vultr adds AMD Instinct MI455X GPUs to its cloud platform",
+      "summary": "Two companies recently partnered with the University of Cambridge for a global environmental monitoring project",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/microsoft-buys-more-land-in-middenmeer-netherlands-for-potential-data-center-development/",
+      "link": "https://www.datacenterdynamics.com/en/news/vultr-adds-amd-instinct-mi455x-gpus-to-its-cloud-platform/",
       "age": "1h ago",
-      "date_iso": "2026-07-29T08:04:27+00:00"
+      "date_iso": "2026-07-30T08:00:30+00:00"
+    },
+    {
+      "category": "policy",
+      "title": "GlobalFoundries awarded $300m by US gov’t for silicon photonics R&D",
+      "summary": "Agreement has seen Department of Commerce take a one percent stake in the chipmaker",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/globalfoundries-awarded-300m-by-us-govt-for-silicon-photonics-rd/",
+      "age": "2h ago",
+      "date_iso": "2026-07-30T07:00:35+00:00"
     },
     {
       "category": "infra",
-      "title": "Meta and BlackRock team up for data center in El Paso, Texas",
-      "summary": "Will offer 1GW of compute capacity",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/meta-and-blackrock-team-up-for-data-center-in-el-paso-texas/",
-      "age": "1h ago",
-      "date_iso": "2026-07-29T07:57:30+00:00"
+      "title": "Qualcomm won’t be a big datacenter player anytime soon",
+      "summary": "But AI has come along just in time to cover being dumped by Apple",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/07/30/qualcomm-wont-be-a-big-datacenter-player-anytime-soon/5280839",
+      "age": "6h ago",
+      "date_iso": "2026-07-30T02:43:56+00:00"
     },
     {
       "category": "infra",
-      "title": "European modular data center company Cyanis AI raises €250,000 in pre-seed financing",
-      "summary": "Planning initial deployment of 10MW",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/european-modular-data-center-company-cyanis-ai-raises-250000-in-pre-seed-financing/",
-      "age": "17h ago",
-      "date_iso": "2026-07-28T16:29:53+00:00"
+      "title": "Cisco 'retires' its Azure Local offering rather than catch up to Microsoft’s changed hardware requirements",
+      "summary": "Redmond now allows only locked-down rigs with joint software and hardware support for its on-prem hyperconverged cloud and Switchzilla won't go there",
+      "source": "The Register",
+      "link": "https://www.theregister.com/on-prem/2026/07/30/cisco-retires-its-azure-local-offering-rather-than-catch-up-to-microsofts-changed-hardware-requirements/5280823",
+      "age": "8h ago",
+      "date_iso": "2026-07-30T01:09:58+00:00"
     },
     {
       "category": "infra",
-      "title": "Flexential acquires 110 acres outside Dallas, Texas, for 108MW data center campus",
-      "summary": "Company buys land in Talty, targets three-building campus",
+      "title": "Rowan files for second building at data center campus in Temple, Texas",
+      "summary": "500,000 sq ft building due live next year",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/flexential-acquires-110-acres-outside-dallas-texas-for-108mw-data-center-campus/",
-      "age": "17h ago",
-      "date_iso": "2026-07-28T16:26:03+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Nvidia to invest $5bn in Safe Superintelligence, Sutskever firm to substantially increase GPU compute",
-      "summary": "Ilya's AI lab had been using Google TPUs",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-to-invest-5bn-in-safe-superintelligence-sutskever-firm-to-substantially-increase-gpu-compute/",
-      "age": "17h ago",
-      "date_iso": "2026-07-28T16:03:19+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/rowan-files-for-second-building-at-data-center-campus-in-temple-texas/",
+      "age": "18h ago",
+      "date_iso": "2026-07-29T15:00:31+00:00"
     },
     {
       "category": "infra",
-      "title": "Google goes cash flow negative for the first time as AI data center buildout increases capex to a staggering $44.9 billion in a single quarter — CFO warns that capex will increase in 2027 as company banks big on TPUs",
-      "summary": "Google goes cash flow negative for the first time as AI data center buildout increases capex to a staggering $44.9 billion in a single quarter — CFO warns that capex will increase in 2027 as company banks big on TPUs Tom's Hardware",
+      "title": "Prioritizing data center uptime with optimal cooling strategies",
+      "summary": "As data center capacity expands and computing densities increase, thermal management is becoming one of the industry’s most critical challenges",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/prioritizing-data-center-uptime-with-optimal-cooling-strategies/",
+      "age": "18h ago",
+      "date_iso": "2026-07-29T15:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Teacher arrested for clapping in support of opposition at an AI data center meeting — gigawatt-scale project gets approved anyway despite community resistance",
+      "summary": "Teacher arrested for clapping in support of opposition at an AI data center meeting — gigawatt-scale project gets approved anyway despite community resistance Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYkNWVjNqSzlaYnhITFdQNE5EX0d4Tk9NLThjWjZ2amx2THN2M2ZDS0xINDJUQnl0V0o2OUs2RnNVVzFTSWRnMXZCWWpMN1lvdkVkc0JkYVc3dG42c1FRX2tFMUJhYkE2R3pNRF9WVVRYdDlWdEpoUVhUblFUaU5FTEx4Ri1rOENXakFfR21vU1VwYVZvYXhneTRiUzRFa3U2bkpyNUtkYmNQX1VWVkZ0aWRRZXh2dU1WLTNQUHBveWJRVmpWWDBvX1ZJWGw1NEticUV2dWYtckEzTGRFQV9yNDVyNzdIZjdJWld3Q2dPcmo?oc=5",
-      "age": "22h ago",
-      "date_iso": "2026-07-28T11:12:23+00:00"
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOSWpqRnBLdmItUm5FZ1FVbmUzcDBfcWdBQ3F2YWJMNE9OeW55a2M2RTNtWlhfR0xLSE96RlgyTFJpR2lBTTVZYlZTWXZEZTMzWUZsOHE2eE95OWFzNFFMbWVnVGw0WGluUUFkVjlzR3dTUjczZDhUdDc4ZEpTUDlYRFB0aTllazAtUGtYQkY4NUJMeDZCSVdwdFZJaHBJN3RDVEF1UU5nUEo1eGhYYWt2OEZzUHp6WUtNTmd3MV9Ba2JCZ0NfbXpRc2pVaWREcnYtZVRjY2hDN2REWmRZWmxFN2lfelMyZHF3cTF5WjhPa3NYWGtZZm5QVnRWTVJHdzB0RW1qTHNWd3dqYThqZ0t4ZFhNbGg4VmpxOXRCNVU2R2prNG1lc1Z0d2V2Q3JKSmJZVWdTd011WQ?oc=5",
+      "age": "20h ago",
+      "date_iso": "2026-07-29T13:06:16+00:00"
     },
     {
       "category": "gpu",
-      "title": "AI companies are reportedly shredding millions of books after using them to train AI models — tech giants outsource to middlemen to secretly buy up books for training material",
-      "summary": "AI companies are reportedly shredding millions of books after using them to train AI models — tech giants outsource to middlemen to secretly buy up books for training material Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNVDFGMFFkdG5FQjdRdXhDblE4OHo4Q1FzUnBzVzRLVGR1MHEtVW9LNWYtUnJqUzF5WlBTdWJLMVBva01UZTJqa2NlbHZzSkIyOGtUSER5SnZIdV9lXzlROG1Id0tYbDRiNDd6MzMzUkZyZm51LVh2cmZwa25mNjJmMkkyWHcwLVlQQmRKRk52SEdrWm9tY2NPOEl0NG82SU9pZTFPeDZwTHpvYktyMXR4QnJuR0lROFlXVjhMVHFvSzBOSURHaVlhTmQ1ckV6RXRGRmc0cDRmbjhVS0JOTkw1UHlZYWtYUmp3MDJjZUo1RTJsME9UR1BKamk3cjJYak41Qm9uOURxYm1YY2d6bmhjR2RtamNQM1hqU2FuaDJhX1NUT1ptdkxPUnppLTZPU3ZibWdUaXdnRlFUX29POGhXcDln?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-07-28T10:30:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD Advancing AI 2026: Talking CDNA5 with AMD’s Alan Smith",
-      "summary": "Hello you fine Internet folks,",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5",
+      "title": "Nvidia paid $20 billion for SRAM decode - AMD just partnered for it instead",
+      "summary": "Nvidia paid $20 billion for SRAM decode - AMD just partnered for it instead TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR08wUjUyS3FtMldjTHRBSnZsejNoVTd2UmJ0VTBMT1NDbE1yZ0hVdWplSGczaHpiUFIwaDhGckJ4Y3lfUWNhRUUyNVZKRlRJVFpJQ2hkc3dzMlRUcFIxS0Jlc3ppdjFpUVlMOWZsQWVMWWNLUEg4bVRxUWRqdjYwdmVROHo0aG5KVl9kUzgyeWc2eUxRMjE1d3JwcWpScVdIZFByMnY4Umk?oc=5",
       "age": "1d ago",
-      "date_iso": "2026-07-27T19:43:53+00:00"
+      "date_iso": "2026-07-29T00:35:00+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Nvidia weighs $250 billion guarantee so OpenAI can lease SoftBank's 10-gigawatt Ohio campus, report claims — Nvidia also said to be discussing $350 billion deal to finance chips for the site",
-      "summary": "Nvidia weighs $250 billion guarantee so OpenAI can lease SoftBank's 10-gigawatt Ohio campus, report claims — Nvidia also said to be discussing $350 billion deal to finance chips for the site Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSDJYSGhZek1WTXZzSTNPQVo1eXJvQmZZbEZfd2tJbjJ5Y0h6OTFpTERpWExkOVFMSkktdE51bFVYYm1qSm9YbExISVFkV1lndkllcTk4eXZTUDdSbGVnSlpuaUI0MTlkcW1wY3VKUnlQZ2FFWXhRZUNFZ004Q3czNVRkVEoyYTZBV0xNM2pOMXBoQUlZVWwxbHFEYVFXWEstd2ZOWWxJeW1JU0ljOFVldk9ORFJHcy1Qd3JiWHlJZi00eDUyUmNsSEE5WkhfbEl6ZG1EdHU5aHBrQXFoVkE?oc=5",
+      "category": "infra",
+      "title": "A 330 MW data center wanted to buy a farm, switch off the irrigation, and drink the difference — California's most powerful irrigation district said no, so it sued",
+      "summary": "A 330 MW data center wanted to buy a farm, switch off the irrigation, and drink the difference — California's most powerful irrigation district said no, so it sued TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPSWJaSHFGWHVmbW1uM2FRSXFwWEgtYjlUODVHX3h3SFNMaTE5U1Z4QVhOWUVIQjVVTm91aW4zS1kyckFIWE1RUjZWeV9tUGZjMy1tcXUxcWFVc2xxZ0dRV0tHUmtnT1FSWHU5eXNqUG9RTklFR0lCSDN1WFBySHp0dDRyeGZpR0tfQm1GUVFGTENLRFA5MDNMMVJKMndHSENlU1MtWkNMUFdDd1p0a01ibHVBMmNQRWNBWm41dGFaN3pIeU1OT3NZUUg0c1BWclhZV2t2NDAyZWlPUUpoRmMzdVJGMm13clFRVTVnOEt3dHpfcGV1ODk5WmpLRWZfSE42dm1RV3p2NVJGNGk0VC1BS1F6ZktpQQ?oc=5",
       "age": "1d ago",
-      "date_iso": "2026-07-27T13:34:28+00:00"
+      "date_iso": "2026-07-28T23:30:00+00:00"
     }
   ]
 }
