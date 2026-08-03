@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-02T09:04:46.140210+00:00",
+  "generated_at": "2026-08-03T10:32:59.652662+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "edge",
-      "title": "Big tech spends more than $1 trillion on AI infrastructure — additional $745 billion expected to be added to the figure in 2026 alone",
-      "summary": "Big tech spends more than $1 trillion on AI infrastructure — additional $745 billion expected to be added to the figure in 2026 alone Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNF9PZEY3aS1XNmdmSzdFSEM4ZkhyNkpsOWNqdGpZenBmRVlWNm5RVl9vdHRqeWJuWFZ3X2dRRGwwLXNpcXh0YUtzZ1k0LWhVaXhQVXJ1bjlwLXNZcGJYeXk0TUdjOFFGM1JSSlp1NWsyYXdJWldkZUMtLW4zVjhVNk9RQ0FKamY4TkpWeFhJSy1hY1BEQ2VTUFhXem5rWVhub0swNUJfTmx3WG5pSXczXzlleWtEeGdKWHByMUFFMEh3MGxpZTAzUDdiUzZSSXUtMUdYcVEtY2FBVWVZOHZXXy12cWxhb1prUnUxWVpGWWZLODZzc3M0VFc5N2tia2hBLVJxN2JrV0RrT05oTExFdm54ZThsZw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-07-31T16:30:34+00:00"
+      "category": "infra",
+      "title": "Oregon governor blocks data center development, stops land sale",
+      "summary": "Governor Tina Kotek stops land sale in Salem to Verrus",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/oregon-governor-blocks-data-center-development-stops-land-sale/",
+      "age": "just now",
+      "date_iso": "2026-08-03T10:30:28+00:00"
     },
     {
       "category": "infra",
-      "title": "AWS reports fastest growth since 2021, Amazon annual capex to hit $220bn on AI memory costs",
-      "summary": "Cloud sales boom as company ramps up data center buildout",
+      "title": "Substrate AI establishes data center REIT to accelerate investments in AI infrastructure",
+      "summary": "New unit to hold Substrate's real estate assets, including planned data center in Toledo",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/aws-reports-fastest-growth-since-2021-amazon-annual-capex-to-hit-220bn-on-ai-memory-costs/",
-      "age": "1d ago",
-      "date_iso": "2026-07-31T15:43:46+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Insight CTO On VMware By Broadcom ‘Chaos,’ ‘Pain’ And ‘Confusion,’ Even As VMware Technology Has ‘Never Been Better’",
-      "summary": "Insight CTO On VMware By Broadcom ‘Chaos,’ ‘Pain’ And ‘Confusion,’ Even As VMware Technology Has ‘Never Been Better’ crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbDY0WGt4OG1ubk93SHRmbmRFODRTMFZoODhSdXFxTHdvTUF5Q3dHYWYyRTJPUWtBUTFrTzVIN21wQlNyVXVvVUpXYS1Wd0p2QVdUZ21raFJ4b2dPOExWM1RvdENhbjdCVXZvcnVoU2lFemIzdnNtMTkyOEk3TXJfbTh1U3J3ejN1ZHBYb3MxaldjUEtyYy1IOW9GUmY1RGdvaXA4TWg0NWFEZjQyUzZWWi1Ya2l6VENOOU1MbUE4N0JNT3YtcFB4dUVSLWpfWUp5X0QzUXdEVTk3MVRGbjhkSXA2NDFFUQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-07-31T15:00:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/substrate-ai-establishes-data-center-reit-to-accelerate-investments-in-ai-infrastructure/",
+      "age": "just now",
+      "date_iso": "2026-08-03T10:30:26+00:00"
     },
     {
       "category": "infra",
-      "title": "Why ‘next wave’ data center markets are at the heart of Europe's fight for data sovereignty",
-      "summary": "And why an over-reliance on FLAPD is not good for Europe's data center future",
+      "title": "Japan's NTT, Tokyu Land, Sakura Internet form consortium to turn Ishikari into major data center hub",
+      "summary": "Companies aim to utilize Ishikari renewable energy for new data centers",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/why-next-wave-data-center-markets-are-at-the-heart-of-europes-fight-for-data-sovereignty/",
-      "age": "1d ago",
-      "date_iso": "2026-07-31T14:00:35+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/japans-ntt-tokyu-land-sakura-internet-form-consortium-to-turn-ishikari-into-major-data-center-hub/",
+      "age": "just now",
+      "date_iso": "2026-08-03T10:26:03+00:00"
     },
     {
       "category": "infra",
-      "title": "Musk confirms fourth SpaceXAI data center in Memphis, company starts removing 'illegal' gas turbines",
-      "summary": "Macrohard gets Minihard",
+      "title": "Jet.AI acquires 26% stake in Alberta-based behind-the-meter data center developer StratGrid",
+      "summary": "StratGrid has two data centers currently in development in the Canadian province",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/musk-confirms-fourth-spacexai-data-center-in-memphis-company-starts-removing-illegal-gas-turbines/",
-      "age": "1d ago",
-      "date_iso": "2026-07-31T13:42:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/jetai-acquires-26-stake-in-alberta-based-behind-the-meter-data-center-developer-stratgrid/",
+      "age": "just now",
+      "date_iso": "2026-08-03T10:18:17+00:00"
     },
     {
       "category": "infra",
-      "title": "Amazon, Duke Energy accused of evading Clean Air Act at under-development data center in Hamlet, North Carolina",
-      "summary": "Generators permitted for one year",
+      "title": "Dominion Energy adds more than 5GW of contracted data center load to its pipeline",
+      "summary": "An 11 percent increase from the end of last year",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/amazon-duke-energy-accused-of-evading-clean-air-act-at-under-development-data-center-in-hamlet-north-carolina/",
-      "age": "1d ago",
-      "date_iso": "2026-07-31T13:35:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/dominion-energy-adds-more-than-5gw-of-contracted-data-center-load-to-its-pipeline/",
+      "age": "just now",
+      "date_iso": "2026-08-03T10:09:38+00:00"
     },
     {
       "category": "infra",
-      "title": "CenterPoint Energy raises investment plan by $1.2bn as data center load pipeline grows",
-      "summary": "Expects to energize up to 8GW of data center load in the Greater Houston area by 2029",
+      "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
+      "summary": "Use it to debug and review, says Big Red, but don't submit its output",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851",
+      "age": "1h ago",
+      "date_iso": "2026-08-03T09:15:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Arm’s Cortex A55",
+      "summary": "Arm’s 5-series cores are meant for tasks where performance barely matters, but power and area efficiency are top priorities.",
+      "source": "ChipsAndCheese",
+      "link": "https://chipsandcheese.com/p/arms-cortex-a55",
+      "age": "12h ago",
+      "date_iso": "2026-08-02T22:02:44+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Palantir debuts 'war' data center in a container, full of Nvidia's B300 AI accelerators and open-weight models",
+      "summary": "Palantir debuts 'war' data center in a container, full of Nvidia's B300 AI accelerators and open-weight models TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDhLREFfYlhtWVdvMzI3MHdCUmIydXBNbFZVZFRjMVJVdUtoNUJvd3BFdGFEN0RUTE5MMTZZb2xyR2U4VmRoMlVHSVhlZHMyd3FHR29qOUkyZm1LeGs5cVAxZ1lfOTQzZXBtVjJKVnhURFRlOVBCNGNPOWhPUjZDMFZydHdJZHgyM3lkNVpucm1ScXljNkZsVWFnMUd0c3czUEFqU2Rta1RYS3RRSDJNUzNKQ0xyV0xubDFjTE56cFY5TzRDZ0lpaVNPLTQ5WVpITFE?oc=5",
+      "age": "15h ago",
+      "date_iso": "2026-08-02T19:30:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Meta boosts AI data center capex, forecasts $130-145bn spend",
+      "summary": "Shares drop as spending increases, and free cash flow falls",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/centerpoint-energy-raises-investment-plan-by-12bn-as-data-center-load-pipeline-grows/",
-      "age": "1d ago",
-      "date_iso": "2026-07-31T13:33:54+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Lumentum CEO warns of impending bottleneck on critical material used for silicon photonics — fab and material shortfall already lags 30% below customer needs as co-packaged optics demand skyrockets",
-      "summary": "Lumentum CEO warns of impending bottleneck on critical material used for silicon photonics — fab and material shortfall already lags 30% below customer needs as co-packaged optics demand skyrockets Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM2F6bFJqU2hEcUU2aEJQR3VjMjlnOHJ2RU1mT2VneExSc211bFV4Sy03aFExRHlid3g2WkZCSHhhNV9QTDRxNVVrOE9la2R6cVk1cVVhM2NTbkNPdWhQYzNQUEdmajVwUk83TEhSTTAzTzI3ZHNvTHdMdzFHemdKWnBvaGxUek1PRUtPRHVWT3pwODVQd1ZWYkJMU2hOSWpOd0hYbWQteFpYN1ZnZ1pNX0xKcmFzVDRPN1ZPam56OTlsS0tvZXlEVnp0TVh1dXJp?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-07-31T12:45:27+00:00"
-    },
-    {
-      "category": "edge",
-      "title": "AMD's Physical AI Plans Come Into Focus as Company Launches Ryzen Embedded AI X100",
-      "summary": "AMD's Physical AI Plans Come Into Focus as Company Launches Ryzen Embedded AI X100 ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOalpGZnkyRkh5ZWwwNWVraUpEaDFUSnl3UVVfSzdpZm51YjhWVVNGVWd2NXBzMzlpNmNodzIxbEF0YzdrVmNqemkydUJHRVRrd3VRdTBldDFQSk5pUTFpSHpiQ3B6UVNwUEhaX1BfZGtjYUp1bWprOGdKelNXbmR2X05LN1V3bnl2SWFEN0tTanYwbmQydlBJOWVxMFBkNWhKcGU2aEFlTUxvbUlSQ0ZNNg?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-07-30T22:00:54+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/meta-boosts-ai-data-center-capex-forecasts-130-145bn-spend/",
+      "age": "17h ago",
+      "date_iso": "2026-08-02T16:45:00+00:00"
     }
   ]
 }
