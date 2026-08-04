@@ -1,60 +1,69 @@
 {
-  "generated_at": "2026-08-03T10:32:59.652662+00:00",
+  "generated_at": "2026-08-04T09:34:09.592393+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Oregon governor blocks data center development, stops land sale",
-      "summary": "Governor Tina Kotek stops land sale in Salem to Verrus",
+      "title": "Empromptu launches AI software to reduce GPU power spikes",
+      "summary": "Dubbed Grid Guard",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/oregon-governor-blocks-data-center-development-stops-land-sale/",
+      "link": "https://www.datacenterdynamics.com/en/news/empromptu-launches-ai-software-to-reduce-gpu-power-spikes/",
       "age": "just now",
-      "date_iso": "2026-08-03T10:30:28+00:00"
+      "date_iso": "2026-08-04T09:20:02+00:00"
     },
     {
       "category": "infra",
-      "title": "Substrate AI establishes data center REIT to accelerate investments in AI infrastructure",
-      "summary": "New unit to hold Substrate's real estate assets, including planned data center in Toledo",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/substrate-ai-establishes-data-center-reit-to-accelerate-investments-in-ai-infrastructure/",
-      "age": "just now",
-      "date_iso": "2026-08-03T10:30:26+00:00"
+      "title": "AMD Helios Architecture Deep Dive: The Power of AMD’s Hardware Combined",
+      "summary": "AMD Helios Architecture Deep Dive: The Power of AMD’s Hardware Combined ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTF4cThMNnJoWDc4aEs0dTh5UDNrSDBuNFdlSndaWFNYWTUzZ0tzdUxwb2FXQm4tOUNwbklob0s3R3RzeFZlMnJwRUFwNmVtZkJfMFg3ekJzWmc2aGNMcE1YLURBWGFfTHA2dlNkV3BJX0FhcjhTUkZUcGZRSUM5LU5oLUNFTmJreVlsUWwxaGxxenB1QWpEUEdR?oc=5",
+      "age": "14h ago",
+      "date_iso": "2026-08-03T19:00:32+00:00"
     },
     {
       "category": "infra",
-      "title": "Japan's NTT, Tokyu Land, Sakura Internet form consortium to turn Ishikari into major data center hub",
-      "summary": "Companies aim to utilize Ishikari renewable energy for new data centers",
+      "title": "Neocloud Kidz AI signs MoU with Limestone Networks for colocation agreement",
+      "summary": "Kidz AI will lease 1.125MW of capacity from Limestone's data center in Dallas, Texas",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/japans-ntt-tokyu-land-sakura-internet-form-consortium-to-turn-ishikari-into-major-data-center-hub/",
-      "age": "just now",
-      "date_iso": "2026-08-03T10:26:03+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/neocloud-kidz-ai-signs-mou-with-limestone-networks-for-colocation-agreement/",
+      "age": "17h ago",
+      "date_iso": "2026-08-03T16:10:29+00:00"
     },
     {
       "category": "infra",
-      "title": "Jet.AI acquires 26% stake in Alberta-based behind-the-meter data center developer StratGrid",
-      "summary": "StratGrid has two data centers currently in development in the Canadian province",
+      "title": "Indigenous IT firm eyes data center campus in Canada’s Northwest Territories",
+      "summary": "KatloTech pitches IceFox campus in Hay River and fiber route south to Alberta",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/jetai-acquires-26-stake-in-alberta-based-behind-the-meter-data-center-developer-stratgrid/",
-      "age": "just now",
-      "date_iso": "2026-08-03T10:18:17+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/indigenous-it-firm-eyes-data-center-campus-in-canadas-northwest-territories/",
+      "age": "17h ago",
+      "date_iso": "2026-08-03T16:00:30+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Drone flyover reveals rapid progress at Elon Musk’s new ATCF chip fab — Texas site prepares for all-in-one logic, memory, and packaging facility",
+      "summary": "Drone flyover reveals rapid progress at Elon Musk’s new ATCF chip fab — Texas site prepares for all-in-one logic, memory, and packaging facility Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNblNMZ2pxbHk4VWJIT0xRT2Z0RGRzbEJWeno0blQ2Qzh2eHRaMENva2pEdXAyS0g4RHkyVDltck9sWU1SaTF5V1JKYjIzOHV2cWIzdHVpbTZjM3h4QVJTQW9IUXEzcXpEZHVzLUYyUmh6SzBFMEVfYzkzYjlUdXhrWU9rdEFrQzFuZi1HZTU3Z1VBQ3ZYdTNtNmhidHZPMEhHWWpZZ0ExbzFvRFYxUDlQZkZPOVhsdkZZdUtETTBDczRRRG1VeWh1eFI2M3hQTjJ3eDRDVVd0azl2M1dNTFFuWmJDSzNTdnpQdVZ5bEtMYzA5UG9aZENMVmMzSDlhQzZDeFJWNV9WcDZYZUVmV2RCQkNoRTltdDZUS0hoNmlR?oc=5",
+      "age": "17h ago",
+      "date_iso": "2026-08-03T15:50:56+00:00"
     },
     {
       "category": "infra",
-      "title": "Dominion Energy adds more than 5GW of contracted data center load to its pipeline",
-      "summary": "An 11 percent increase from the end of last year",
+      "title": "UK government approves controversial 5.2MW Truman Brewery data center proposal",
+      "summary": "A win for the Brewery's owner",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/dominion-energy-adds-more-than-5gw-of-contracted-data-center-load-to-its-pipeline/",
-      "age": "just now",
-      "date_iso": "2026-08-03T10:09:38+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/uk-government-approves-controversial-52mw-truman-brewery-data-center-proposal/",
+      "age": "17h ago",
+      "date_iso": "2026-08-03T15:46:25+00:00"
     },
     {
       "category": "infra",
-      "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
-      "summary": "Use it to debug and review, says Big Red, but don't submit its output",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851",
-      "age": "1h ago",
-      "date_iso": "2026-08-03T09:15:00+00:00"
+      "title": "Yondr Group and Cerberus acquire 40 acres for data center campus in Manassas, Virginia",
+      "summary": "Will develop a 72MW campus on the site",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/yondr-group-and-cerberus-acquire-40-acres-for-data-center-campus-in-manassas-virginia/",
+      "age": "17h ago",
+      "date_iso": "2026-08-03T15:40:30+00:00"
     },
     {
       "category": "infra",
@@ -62,7 +71,7 @@
       "summary": "Arm’s 5-series cores are meant for tasks where performance barely matters, but power and area efficiency are top priorities.",
       "source": "ChipsAndCheese",
       "link": "https://chipsandcheese.com/p/arms-cortex-a55",
-      "age": "12h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-02T22:02:44+00:00"
     },
     {
@@ -71,17 +80,8 @@
       "summary": "Palantir debuts 'war' data center in a container, full of Nvidia's B300 AI accelerators and open-weight models TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDhLREFfYlhtWVdvMzI3MHdCUmIydXBNbFZVZFRjMVJVdUtoNUJvd3BFdGFEN0RUTE5MMTZZb2xyR2U4VmRoMlVHSVhlZHMyd3FHR29qOUkyZm1LeGs5cVAxZ1lfOTQzZXBtVjJKVnhURFRlOVBCNGNPOWhPUjZDMFZydHdJZHgyM3lkNVpucm1ScXljNkZsVWFnMUd0c3czUEFqU2Rta1RYS3RRSDJNUzNKQ0xyV0xubDFjTE56cFY5TzRDZ0lpaVNPLTQ5WVpITFE?oc=5",
-      "age": "15h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-02T19:30:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Meta boosts AI data center capex, forecasts $130-145bn spend",
-      "summary": "Shares drop as spending increases, and free cash flow falls",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/meta-boosts-ai-data-center-capex-forecasts-130-145bn-spend/",
-      "age": "17h ago",
-      "date_iso": "2026-08-02T16:45:00+00:00"
     }
   ]
 }
