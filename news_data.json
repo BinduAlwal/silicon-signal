@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-05T09:30:09.894411+00:00",
+  "generated_at": "2026-08-06T09:34:41.888271+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Cipher eyes 900MW data center site outside San Antonio, Texas",
-      "summary": "Reforming crypto firm brings Black Pearl site online early",
+      "title": "Azure CTO pastes Doom into Paint one frame at a time",
+      "summary": "It computes nothing, renders everything, and even has sound",
+      "source": "The Register",
+      "link": "https://www.theregister.com/offbeat/2026/08/06/azure-cto-pastes-doom-into-paint-one-frame-at-a-time/5283559",
+      "age": "1h ago",
+      "date_iso": "2026-08-06T08:30:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Unnamed developer withdraws data center in Brownsville, Texas",
+      "summary": "But details about project are sparse",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/cipher-eyes-900mw-data-center-site-outside-san-antonio-texas/",
-      "age": "just now",
-      "date_iso": "2026-08-05T08:44:47+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD's results spotlight risks of putting all your AI eggs in too few baskets",
-      "summary": "The House of Zen's new Helios racks, Venice Epycs, may dent Nvidia's dominance — if the bubble doesn't pop first",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/05/amds-results-spotlight-risks-of-putting-all-your-ai-eggs-in-too-few-baskets/5283142",
-      "age": "8h ago",
-      "date_iso": "2026-08-05T00:40:10+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/unnamed-developer-withdraws-data-center-in-brownsville-texas/",
+      "age": "1h ago",
+      "date_iso": "2026-08-06T07:49:07+00:00"
     },
     {
       "category": "infra",
-      "title": "AMD doubles data center revenue year over year, but gaming revenue plunged by 31% — CEO Lisa Su says prices have 'weighed on' consumer demand but is 'optimistic' about client market",
-      "summary": "AMD doubles data center revenue year over year, but gaming revenue plunged by 31% — CEO Lisa Su says prices have 'weighed on' consumer demand but is 'optimistic' about client market Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNdGowOFoyclJSTzFCUTM5YmhBRHZfank1NkNNQWV1dXVzNEFLY3lUTDN1SUQyRFBxMVhJQ09xS3JHOEF4Y0FScVFtSVNDM0Y0S0dGWTl3MDAtcnQ0UGttR2Z5WWJzcV9LTGJ3Q0FkWldjeXA4TWhZUHdPZmtELWlZZE5uczRiMmk1dFRLcldUUi12a2VFNWFGWDMzVmN0T2U1YVRKOElaRWE0QktDNVdkeEhzeE83Y3BlT0lwRjFMSkROVDVaZE85TGFOc2hRbDNsTmZlZTlkU0Z1V3dCNHJlY1FicGh2NVV3b3I5UmM1d1JxaVNWbWlXSUU0VGh2Zll2N1RNdmY4aHI4LWx2QWRFeFRoWWN0Ui1YQ1ozc1JseU1xbW0zbnNvZ1hqSkprYkdOcTNDUlZXZmhTbFdMNGJsNjRyQi1CYzg?oc=5",
-      "age": "11h ago",
-      "date_iso": "2026-08-04T22:03:07+00:00"
+      "title": "Proxmox ports itself to Arm with help from Nvidia and Supermicro",
+      "summary": "VMware competitor aiming for the AI datacenter",
+      "source": "The Register",
+      "link": "https://www.theregister.com/virtualization/2026/08/06/proxmox-ports-itself-to-arm-with-help-from-nvidia-and-supermicro/5283770",
+      "age": "5h ago",
+      "date_iso": "2026-08-06T03:45:29+00:00"
     },
     {
       "category": "gpu",
-      "title": "Next.js 16.3 aims to reduce dreaded FATAL ERROR messages",
-      "summary": "New React framework lowers memory usage by 90%, team claims",
-      "source": "The Register",
-      "link": "https://www.theregister.com/devops/2026/08/04/nextjs-163-aims-to-reduce-dreaded-fatal-error-messages/5283036",
-      "age": "12h ago",
-      "date_iso": "2026-08-04T20:34:39+00:00"
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "summary": "Hello you fine Internet folks,",
+      "source": "ChipsAndCheese",
+      "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "age": "14h ago",
+      "date_iso": "2026-08-05T19:19:22+00:00"
     },
     {
       "category": "infra",
-      "title": "US mulling ban on key Chinese networking tech in data center component crackdown — White House wants to impose restrictions in 2026, China says it will respond if necessary",
-      "summary": "US mulling ban on key Chinese networking tech in data center component crackdown — White House wants to impose restrictions in 2026, China says it will respond if necessary Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOdUJ6VDQ4WkdwZUQzc3FMRm5KX0M2dTJITkgwVzBvYkxiSFVTbE1FdzVVWUNXaVhydGVSbTBySGdQY3JsNFZIQ2xBalEtUnVHWk9kQi0yOFNWNTlfaW9mMHlLM0pLbVdnbFFoczNUOUNQTF9zVWVjV2tnc2RIZ0NsdUtvQTNMZjhUSFZ3Y0l5anBqREQ4a29OVm14aldmeEhNbDFKNllpeXl3R0pJN3hHRUJsM0pyeE41amtrSmQzUnA4U1VmZnFGaElpWWNjLTNZUUNSQ1FQTTl0QTJKVUxIM1BaWHJJVE1LMnN6a0hsdkkzWEhRNFlyQkZvZUg5bWNYYUlTOWowa0cyM3o4ckRscGNRb1FHM3o1ZHktZzhNanloUmZxU1BQRUFvaHoybkxqakZXcTJnMUFTRGRLdzVTRWFsNWx3ZkI0?oc=5",
+      "title": "Fire protection for data centers: A comprehensive approach",
+      "summary": "Unifying strategy and technology for complete data center resilience",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/fire-protection-for-data-centers-a-comprehensive-approach/",
       "age": "16h ago",
-      "date_iso": "2026-08-04T16:54:00+00:00"
+      "date_iso": "2026-08-05T16:36:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Rate of play: How US states are changing the rules around data centers and power",
-      "summary": "Data center growth is outstripping the regulations designed to control it. Lawmakers are fighting",
+      "title": "Asturias government targets data center project in Salas, Spain",
+      "summary": "Site will be operational by 2030, and up to 3,000 people will work on its construction, with an investment of €1.226bn",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/analysis/rate-of-play-how-us-states-are-changing-the-rules-around-data-centers-and-power/",
-      "age": "17h ago",
-      "date_iso": "2026-08-04T16:00:32+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/the-digital-valley-asturias-project-for-a-data-center-in-salas/",
+      "age": "18h ago",
+      "date_iso": "2026-08-05T15:21:13+00:00"
     },
     {
       "category": "infra",
-      "title": "CoreWeave plans to launch 360MW of data center capacity in Indonesia",
-      "summary": "Will be company's first data centers in Asia-Pacific region",
+      "title": "Sponsored: Powering the AI revolution: A grid to chip story",
+      "summary": "Building the infrastructure of tomorrow requires an entirely new approach that moves far away from bespoke, piecemeal solutions",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/coreweave-plans-to-launch-360mw-of-data-center-capacity-in-indonesia/",
-      "age": "17h ago",
-      "date_iso": "2026-08-04T16:00:31+00:00"
+      "link": "https://www.datacenterdynamics.com/en/opinions/powering-the-ai-revolution-a-grid-to-chip-story/",
+      "age": "18h ago",
+      "date_iso": "2026-08-05T15:00:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Three men caught stealing copper wire from data center construction site in Loudoun County, Virginia",
-      "summary": "All charged with grand larceny",
+      "title": "Duke Energy data center pipeline grows by 2.7GW since Q4 2025",
+      "summary": "Now has secured 7.6GW worth of electric service agreements with data center firms",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/three-men-caught-stealing-copper-wire-from-data-center-construction-site-in-loudoun-county-virginia/",
-      "age": "17h ago",
-      "date_iso": "2026-08-04T16:00:29+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/duke-energy-data-center-pipeline-grows-by-27gw-since-q4-2025/",
+      "age": "19h ago",
+      "date_iso": "2026-08-05T14:21:35+00:00"
     },
     {
-      "category": "gpu",
-      "title": "AI lab Moonshot leases 20,000 Nvidia GPUs from Alibaba Cloud - report",
-      "summary": "Makes up a significant proportion of Moonshot's overall compute capacity for Kimi models",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ai-lab-moonshot-leases-20000-nvidia-gpus-from-alibaba-cloud-report/",
-      "age": "17h ago",
-      "date_iso": "2026-08-04T15:58:41+00:00"
+      "category": "cpu",
+      "title": "AMD Q2 Earnings: CEO Su Boosts Outlook As Accelerator, CPU Sales Climb",
+      "summary": "AMD Q2 Earnings: CEO Su Boosts Outlook As Accelerator, CPU Sales Climb crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEhLbXZLS1NjSWVyR2Jyby12aVdmaWVxekJVYkFzYWNXSkdja0cxY0RTaVJ0QkFPMUdDOHdqY1NaYmtaTXR3ZkxKSURkQUdlc0lETGV3aC1wWktxb3BuVndfSGRLNmlNU1lMdHo4b1BTdy03N0V0eVhqYWg3RWpQMU9uS2lON2ZOa3RDZWM1STJJeURwY2dzZEozVjhzUl9wTlpj?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-08-05T14:10:00+00:00"
     }
   ]
 }
