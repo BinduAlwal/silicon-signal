@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-13T08:11:45.935660+00:00",
+  "generated_at": "2026-08-14T08:07:16.392371+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Rent-a-GPU outfit Nebius promises rapid 1 GW powerup plan isn't nebulous",
-      "summary": "And it'll jump through every financial hoop it can to get there",
-      "source": "The Register",
-      "link": "https://www.theregister.com/off-prem/2026/08/12/rent-a-gpu-outfit-nebius-promises-rapid-1-gw-powerup-plan-isnt-nebulous/5287086",
-      "age": "9h ago",
-      "date_iso": "2026-08-12T22:56:39+00:00"
+      "title": "Sponsored: Harder, better, stronger, faster",
+      "summary": "The evolution of rigging engineering for data center construction",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/harder-better-stronger-faster/",
+      "age": "1h ago",
+      "date_iso": "2026-08-14T07:00:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
-      "summary": "Some say the world will end in fire, some say an agentic swarm",
-      "source": "The Register",
-      "link": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
-      "age": "10h ago",
-      "date_iso": "2026-08-12T21:45:16+00:00"
+      "title": "World-first autonomous ‘end-to-end’ AI attack against Taiwan tied to Chinese hackers — and the scariest part is that it was fully open source",
+      "summary": "World-first autonomous ‘end-to-end’ AI attack against Taiwan tied to Chinese hackers — and the scariest part is that it was fully open source TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRnEyeVVXdzZndlpMa2FXWVJoUjR1eS1qc2doZWFSZUlPZmJNTThSZVZGNHlUUjF0czI3RW82S0haUEtxbnNOSmpYRF9vVl9ITFQtdmJrcHplVzdlX3FvWlFadHdkTHI3NHhBakZpeExaU3dfVWlhZmtKQmJFLWxfT0pOZ0owY25BcnUyZFZCRi1ONUtYRG9HcFRIc1ZpYVJvQVBmRTNBTURMdTk3NlhtdHNRZ2VQNm5YSng0ek95dXdRaFdlSU4yTUtMdTlSTk5hSHJhU1lqNXBtN1ZvblpmRVBIQnA0WF9FUGpfSXhGS0pTcEQwRnVJQjVTRFlEcjhoc2FkMGV6SQ?oc=5",
+      "age": "11h ago",
+      "date_iso": "2026-08-13T21:05:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "AMD Instinct MI455X Deep Dive: CDNA 5 Marks The Next Era of Instinct",
-      "summary": "AMD Instinct MI455X Deep Dive: CDNA 5 Marks The Next Era of Instinct ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0QtelJxQkZuaEJub1NZbi0yTnBjc3dFUXRsUWpjUDFlUTNaMVpPMkp2UTZ6MUlZVm9wNGNOTXBWOTREVG9HeHJZNDVHUjNfUUxmWldvMl9wMkVPQWRLbzZRUllHSHB2SzZGanU4MjM5NTRROXdSNkw0N2JXM2o4dFZfSUlSMHg5ZGhNc3J4LUtjajBnNXpXcWhVT21JQQ?oc=5",
+      "title": "Lightmatter launches 19-company strong initiative to standardize silicon photonics-ready infrastructure",
+      "summary": "Company has also published a 300-page whitepaper to support the project",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/lightmatter-launches-19-company-strong-initiative-to-standardize-silicon-photonics-ready-infrastructure/",
+      "age": "12h ago",
+      "date_iso": "2026-08-13T20:00:38+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "RWE nears completion on two data center deals",
+      "summary": "Plans total net investments of €42 billion from 2026 to 2031 to meet skyrocketing demand",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/rwe-nears-completion-on-two-data-center-deals/",
       "age": "15h ago",
-      "date_iso": "2026-08-12T17:00:19+00:00"
+      "date_iso": "2026-08-13T16:50:27+00:00"
     },
     {
       "category": "infra",
-      "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW data center",
-      "summary": "Behring looks to turn vacant site back into live data center",
+      "title": "Crusoe-backed transformer manufacturer Heron Power selects Morgan Hill, California, as site of first large-scale factory",
+      "summary": "Expected to manufacture 10,000 Heron Links every year",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-      "age": "16h ago",
-      "date_iso": "2026-08-12T16:00:31+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/crusoe-backed-transformer-manufacturer-heron-power-selects-morgan-hill-california-as-site-of-first-large-scale-factory/",
+      "age": "15h ago",
+      "date_iso": "2026-08-13T16:30:41+00:00"
     },
     {
       "category": "infra",
-      "title": "AI data center developers begin suing local jurisdictions behind bans and moratoriums — claims range from officials exceeding authority to violations of due process and equal protection laws",
-      "summary": "AI data center developers begin suing local jurisdictions behind bans and moratoriums — claims range from officials exceeding authority to violations of due process and equal protection laws Tom's Hardware",
+      "title": "Nebius to lease data center capacity from Vantage in Newport, Wales",
+      "summary": "AI cloud firm to deploy Nvidia GPUs at CLW1 site",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/nebius-to-lease-data-center-capacity-from-vantage-in-newport-wales/",
+      "age": "15h ago",
+      "date_iso": "2026-08-13T16:20:31+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Nebius expands European presence, announces deployment in Estonia and second data center in Mäntsälä, Finland",
+      "summary": "Announcements made alongside company’s Q2 2026 results",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/nebius-expands-european-presence-announces-deployment-in-estonia-and-second-data-center-in-m%C3%A4nts%C3%A4l%C3%A4-finland/",
+      "age": "16h ago",
+      "date_iso": "2026-08-13T16:07:10+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct — public TV channel sues Iron Mountain data center, which hosts archival materials, to ensure preservation",
+      "summary": "PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct — public TV channel sues Iron Mountain data center, which hosts archival materials, to ensure preservation Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQaWxmRS0teV9aRFNlOWlJMTBFNG9Td1lYQzJNMk01VG9XZUd1amZqbGgxQ1NYMWwycWUtbDFzTmJlVUg5T3Z1WkFydWhOeTlLcGdkZzJkTkhkQ3lmdXU5WEgyc0phZ2dVVl9HWVdOdnM2ODJBaEZ0ZTEwclZsWEVzbUQwODlmVTNhSmNtWUthLVVKODJGc1BsMUxITmxBTUZMNTVqWWcwR2R6UWZMQWhqQWhWWGxBOUlxSDlWTGNvb3JUZGt0Vk45a1g4NTY1akQydW82eHpyTUlBMG1VeFhLbGVMWGNRdmxmZDZYdk9McVBxNWtVZl9vUEVXWGxXcGREUkc1Rm1BSE1uVnVackYzSnFBWHBUQ19UUzBjSzU0d1EzODQ3UXR4QW0xX1hGdzJoUVllZkwxWFJ4NGI3YmtjS3J2U19uY3JwVjBUWURMLVZNTHB5MDJQY0cyY2N3OG1GWXc?oc=5",
-      "age": "16h ago",
-      "date_iso": "2026-08-12T15:46:55+00:00"
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNLXNJM2N1NGZBY19jUW0yUm03Y3J6eDQxbDRxVmdoSzM4RFVnSmg3aksycUtaZDdzX2h2QjNaZmNld0VZZkVFQmpIZ3JVa0lYYzE1Tk80eXdRQ083VDlITkZQcWxYSngzc3RzMTVkSExUODBJa1dLV2dzX1VsVm9LZExNb1lTS3Zta1FyTXVTcWoweEJzeFE0emtaWUlPVWx3Z1pyb21tQlUzczBhcUpCVUhsZGRFRHU0aFNwb0p2d1o4eXR2RUNySlhVeTRESDhWT2Q2ZURLSU0tNHk0RVBzbmNweGQ3ZVZmcU5JaS1WUmJ5Nm93RkJJdjZZTXI2eFRZck9xdjc0UTlFV3ljVFh3UTZiY3hQUnJsUk9pa0R6WEpLakpla2ZxMTVFOS1RTExrRzV0NFpsOFh6LVY5WmFBTnZoMHFmSFNzb1FEMGl4S1NmbTBsUURjeWN0Qk1OUnV1Zmt2dTBR?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-08-13T10:40:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Landmark Dividend acquires data center in Jacksonville, Florida, for $8.1m",
-      "summary": "Leased by telecoms provider T-Mobile",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-      "age": "16h ago",
-      "date_iso": "2026-08-12T15:42:32+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "CoreWeave proves Nvidia's aging AI GPUs from 2020 can generate profit nine years after deployment, signs A100 contracts into 2029 — power constraints and legacy infrastructure keep old GPUs profitable",
-      "summary": "CoreWeave proves Nvidia's aging AI GPUs from 2020 can generate profit nine years after deployment, signs A100 contracts into 2029 — power constraints and legacy infrastructure keep old GPUs profitable Tom's Hardware",
+      "title": "Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through",
+      "summary": "Alabama residents left powerless to stop massive Bitcoin mining data center despite county and town moratoriums — hole in state zoning laws lets facility through Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLWkzUHkwSFJWZzFSTGtjYnlRWlY5TnJoT0tUaVVjMkZUS1pKNk83V0dCVERLdXZMcUlRalNDNk5CMGZJMk9fZWQ1MWlmTkphQ3NJM2JGOWlWOWttQnByeEJpZXVyRHhOZHFZWGNwSXN1U1B0bW53eE4ydzh0cTFoX1diWXpTanBvNTRDWjQ4YWl0X3VVT2R3TC0tOWRpa05hQ01lLWZOcWtLTEJ0UXFPdWFoMXJzN2thcGhVSGFmY3lHQQ?oc=5",
-      "age": "16h ago",
-      "date_iso": "2026-08-12T15:41:47+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Raid by authorities sees illegal migrant workers arrested at under-construction data center site in Rayong, Thailand",
-      "summary": "24 illegal workers arrested at the site in the Ban Chang District",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/raid-by-authorities-sees-illegal-migrant-workers-arrested-at-under-construction-data-center-site-in-rayong-thailand/",
-      "age": "16h ago",
-      "date_iso": "2026-08-12T15:33:49+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "JLL: Data center demand exceeds expectations, doubles year-over-year",
-      "summary": "Absorption hits record 25GW in 1H 2026",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/jll-data-center-demand-exceeds-expectations-doubles-year-over-year/",
-      "age": "17h ago",
-      "date_iso": "2026-08-12T15:00:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOODhxaXNnMzE0S054MXdrZXhPdG94U3BZVmdFazlDV3pxQ3V3NXFsLU1iMm51ZGpPMG9fbF9UMDNWWjVXUmxQRHBIQUlCb21PanM3WTBUTlRmc2RQSWwyMmttX2dpZGM5c3l6LUJlWWhvWTFmeGFSNlUteUhlajZIbktqVG4zcFd4OTdhNUl6eG5lMEdyM0Z4c3N6X0lvc2hTbnhJVi13VWtpdXBkb0J5b085Y2NIa0JaR09VVTBhYXBLa0JwZWxtYnU3RDFxM0FtU3J3T0k1TGwyS2VkMUZOdDJPNzZqUnpGWXBuNzgyc3FTNlhBVzdEVjhZUEJkdlpDcHZnWms2WEZlU1FiSVJFeEg4bkV5Qlp3b1UyakxnbFN2bmxzUXV1aXpJWWdFR0VTTlVGSTNtMkpjR28?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-08-13T10:20:00+00:00"
     }
   ]
 }
