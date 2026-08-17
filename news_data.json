@@ -1,14 +1,59 @@
 {
-  "generated_at": "2026-08-16T07:23:12.314431+00:00",
+  "generated_at": "2026-08-17T07:43:42.783987+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "Sponsored: Bridging the gap: A framework for community-first data center development",
+      "summary": "The rapid expansion of data centers is bringing them out of the shadows and firmly into public view. Building community trust is just as critical as constructing the facilities themselves",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/bridging-the-gap-a-framework-for-community-first-data-center-development/",
+      "age": "just now",
+      "date_iso": "2026-08-17T07:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Dell CEO unveils new 'Dude, you’re getting a Dell (AI server rack)' video — PC maker recycles famous PC ad campaign to tout its new AI data center products",
+      "summary": "Dell CEO unveils new 'Dude, you’re getting a Dell (AI server rack)' video — PC maker recycles famous PC ad campaign to tout its new AI data center products tomshardware.com",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYXlXanlUYVN5MGlJWl82VDhGN0d6bldDZXpMQjJCYUtJWTUwYW1uSVBieUpBZGhGN0VWTFhXX1ZtdUM0MkdfVjVVTjg2MUxFdUVVTERURVNwU19CVlFSNHdrV0ZveGl6clc0ZEJYeExnMXRjQnplNXR1WGRwYjd3YWlYVUo2a3Vxc3lfOURrdVhFS29meTBEVDBEM3J5WVh3MXREeGhsaE8wUmo2VnF5TlA3WnlCV3RMbjQ2QU5BeG1YWGItSlp2S09kNWY2M29BNEloVUVuY0JlOWY1bXRGQjVqN28?oc=5",
+      "age": "17h ago",
+      "date_iso": "2026-08-16T14:31:33+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning",
+      "summary": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning tomshardware.com",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-08-16T12:40:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Intel says it will launch new core with Nova Lake on desktop first, not in data center — VP Robert Hallock hopes enthusiasts ‘do the math’ compared to AMD",
+      "summary": "Intel says it will launch new core with Nova Lake on desktop first, not in data center — VP Robert Hallock hopes enthusiasts ‘do the math’ compared to AMD tomshardware.com",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNTXloWk0xQUxvSDRselc4c1YxMXJ2Q2U1UnNmRVVPUlFxS2tyYUhQSTk2MXRCNTQ0Z2VSZGpBNVZTOXhxaEp2LVM0bkhZTTRPdS03WkU0NVg2UVFlZi01STNMVjY1aGw4NExsQmhrZUlNMEcyV2pWMHZib3BjS19MVjVYbDFlcjNIVE43Y1ZBYzJtTTd4QnlFaHkzSmg4VW1lc2V3ZXZsUWxwWkNCdW1EZVdUbWxfbktHM043aE95alBwQ1pBbkR2RTNVR3FROWZMeG81WV83NGxjWDNfZWZHdnRKc0tLTmkydVppYjFKTEZnOTVTbG96VVE3NGlzUHRqQlNqVEIzS3RIdEhPc3ItakNSQWcybXh6LWxodlBKc3hKMVk?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-08-16T12:10:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Ex-farm bureau chief invites AI data center developers to buy his land —argues blocked $6.3B project will just move to willing neighbors, defies 500-jurisdiction moratorium wave and 70% public opposition",
+      "summary": "Ex-farm bureau chief invites AI data center developers to buy his land —argues blocked $6.3B project will just move to willing neighbors, defies 500-jurisdiction moratorium wave and 70% public opposition tomshardware.com",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlhWWHc5NGxvSkRQMWFvMnlDRHVnMUsyTVUyRzFlMG85aTh5OGF1UGdLM3Y3c1F0MnlQRW8tZ2FobnpMVThkQXlITV9qVVVUN1RfVm5mRkI4aDRuQ2gwLUNuYzhLTWEwMTN2UnFzcFZxRUs3cEh3MDhTSGpYTld3ckxITTV5VFJVbHU5WEh3ZnNCYWxXS3gxMnVWN0ZHZEJoYWJYdTBqMS1WNk81R2dTVGVjdFF4d0JaUVVkdU9xOTVDdlNWdlE?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-08-16T10:30:00+00:00"
+    },
     {
       "category": "infra",
       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of data center development",
       "summary": "The next decade of digital infrastructure will be shaped by how quickly power can reach the right place, at the right time, at an acceptable cost",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-15T15:00:00+00:00"
     },
     {
@@ -17,17 +62,8 @@
       "summary": "Kioxia, SanDisk show off the tiny chip which could go in world's first 1 PB SSD TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnhOM3ppT0J0VWpWOUdhR0lneGQ3ai1FUEU0T2lNQmVVNmIydVpjcmtlNkhKUlpYeThxcXdUUHNOYzdvRHZZRjZScEktYk1qOWExRDlPNnFxdFVOeS1mZmNXX3FiQWR0Q1dBNUFwVVFjcXpNYmtqRXh2dndtTUZDVU53Qlc0aDVWUEd6TFI0aHUtMFlmS284ZHdfZnFRYUd1ODRsbXlGSVZXd2c?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-08-14T20:25:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
-      "summary": "Kyiv wants tighter controls to keep foreign silicon out of Moscow's weapons",
-      "source": "The Register",
-      "link": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
-      "age": "1d ago",
-      "date_iso": "2026-08-14T16:52:51+00:00"
     },
     {
       "category": "infra",
@@ -35,7 +71,7 @@
       "summary": "Residents fear the facility on the border of towns of Piaseczno and Józefosław will spark water shortages",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/data-center-planned-for-suburb-in-warsaw-poland-sparks-protests/",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-08-14T16:00:34+00:00"
     },
     {
@@ -44,44 +80,8 @@
       "summary": "NVIDIA Responds After AI Chip Found Inside Russian Stealth Missile HotHardware",
       "source": "HotHardware",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmlmNExqVktoUzJxTzJ3RVdZVXRyWHBfTS1rX2ZHdm5WaUpBX0tkLVJYUmY1SVdmM0RKcnVVNWFGQUI3SUdYMnJ2NXY4enl6U2JKVVBiMGk3SXZUNUhQR19wa3V0VVhSOGp5V1VDT2RhSkVtSUZrZkJPNVdBWnJUX0puUTBrV0JYdk5tOEF3Mi1xWDBZbzQ4VUdqaw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-08-14T15:42:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Data center spanning up to 50,000 sqm gets approval for construction in west London, the UK",
-      "summary": "Will use 64MW of electricity and provide 48MW of IT load, according to planning documents",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/data-center-spanning-up-to-50000-sqm-gets-approval-for-construction-in-west-london-the-uk/",
-      "age": "1d ago",
-      "date_iso": "2026-08-14T15:04:12+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Data center-related threats made against local authorities in Marshall, Michigan",
-      "summary": "Death threat comes two weeks after city votes to approve one-year moratorium",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/data-center-related-threats-made-against-local-authorities-in-marshall-michigan/",
-      "age": "1d ago",
-      "date_iso": "2026-08-14T15:02:24+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "'We failed you today': Namecheap down for several hours after a data center cooling failure, leaving customers furious",
-      "summary": "'We failed you today': Namecheap down for several hours after a data center cooling failure, leaving customers furious TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3lJR2Q2QWhuaENwZ1JwTEgyb2RwbmNOQVZ2UGFrcVhMU0lzOGdteVpRWThMa0tvNkFGbUJ2XzdHeWpDM09uZW9aRV9vR1l5dllXTHZuTDBITUpBc0xpOUx4ZVNZYlZnZkV4RWthN0JIQXZESVV6OVBURDdKcTRuN1FhN3pEV2NzTE5qMGVkR2daWDMwSUw5SlFfdjZyOE1EdlRZNnZRX0locldVRVZKN2UzUHNQczFpbU55REJDcGFuRWF6VHl6NzBoNzJ5NDZVU0ZHRTBoQVFka3B1?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-08-14T09:05:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct — public TV channel sues Iron Mountain data center, which hosts archival materials, to ensure preservation",
-      "summary": "PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct — public TV channel sues Iron Mountain data center, which hosts archival materials, to ensure preservation Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNLXNJM2N1NGZBY19jUW0yUm03Y3J6eDQxbDRxVmdoSzM4RFVnSmg3aksycUtaZDdzX2h2QjNaZmNld0VZZkVFQmpIZ3JVa0lYYzE1Tk80eXdRQ083VDlITkZQcWxYSngzc3RzMTVkSExUODBJa1dLV2dzX1VsVm9LZExNb1lTS3Zta1FyTXVTcWoweEJzeFE0emtaWUlPVWx3Z1pyb21tQlUzczBhcUpCVUhsZGRFRHU0aFNwb0p2d1o4eXR2RUNySlhVeTRESDhWT2Q2ZURLSU0tNHk0RVBzbmNweGQ3ZVZmcU5JaS1WUmJ5Nm93RkJJdjZZTXI2eFRZck9xdjc0UTlFV3ljVFh3UTZiY3hQUnJsUk9pa0R6WEpLakpla2ZxMTVFOS1RTExrRzV0NFpsOFh6LVY5WmFBTnZoMHFmSFNzb1FEMGl4S1NmbTBsUURjeWN0Qk1OUnV1Zmt2dTBR?oc=5",
       "age": "2d ago",
-      "date_iso": "2026-08-13T10:40:00+00:00"
+      "date_iso": "2026-08-14T15:42:00+00:00"
     }
   ]
 }
