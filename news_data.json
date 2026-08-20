@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-19T07:30:32.866681+00:00",
+  "generated_at": "2026-08-20T07:32:57.246880+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "gpu",
-      "title": "Baidu says Chinese buyers want local AI chips due to ‘supply chain’ issues",
-      "summary": "It seems like Nvidia’s not getting back into the Middle Kingdom anytime soon",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
-      "age": "3h ago",
-      "date_iso": "2026-08-19T04:07:58+00:00"
+      "category": "infra",
+      "title": "Sponsored: Connecting the dots of the thermal stack",
+      "summary": "A complete data center cooling architecture for the AI era",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/connecting-the-dots-of-the-thermal-stack/",
+      "age": "just now",
+      "date_iso": "2026-08-20T07:00:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
-      "summary": "Next-gen systems double per-chip performance while cramming 3x as many into a rack",
+      "title": "IBM says super-chill boxes that connect through 'cryogenic tunnels' will get quantum computers scaling",
+      "summary": "Absolute zero inside is much cooler than Intel inside",
       "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
+      "link": "https://www.theregister.com/systems/2026/08/20/ibm-says-super-chill-boxes-that-connect-through-cryogenic-tunnels-will-get-quantum-computers-scaling/5290067",
+      "age": "2h ago",
+      "date_iso": "2026-08-20T04:57:58+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Microsoft ends one of the last ways to buy VMware without big bundles",
+      "summary": "Broadcom’s VCF-or-nothing licenses are coming to Azure",
+      "source": "The Register",
+      "link": "https://www.theregister.com/virtualization/2026/08/20/microsoft-ends-one-of-the-last-ways-to-buy-vmware-without-big-bundles/5290044",
+      "age": "5h ago",
+      "date_iso": "2026-08-20T02:13:33+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "AMD inches closer to its goal of making AI suck less ... energy",
+      "summary": "House of Zen claims latest systems already 4x more efficient than two years ago",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/08/20/amd-inches-closer-to-its-goal-of-making-ai-suck-less-energy/5289990",
       "age": "7h ago",
-      "date_iso": "2026-08-19T00:00:00+00:00"
+      "date_iso": "2026-08-19T23:42:30+00:00"
     },
     {
       "category": "infra",
-      "title": "Application filed for data center campus near QTS' site in Northumberland, UK",
-      "summary": "UK family office plans campus in Cambois on former GSK manufacturing site",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/application-filed-for-data-center-campus-near-qts-site-in-northumberland-uk/",
-      "age": "15h ago",
-      "date_iso": "2026-08-18T16:30:25+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Globalinx buys land in Virginia Beach to expand CLS campus",
-      "summary": "As Virginia Beach officials look to bring in data center moratorium",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/globalinx-buys-land-in-virginia-beach-to-expand-cls-campus/",
-      "age": "15h ago",
-      "date_iso": "2026-08-18T16:19:36+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "DataVita secures £300m debt facility to expand North Lanarkshire data center campus",
-      "summary": "Funds to fuel expansion of two buildings",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/datavita-secures-300m-debt-facility-to-expand-north-lanarkshire-data-center-campus/",
-      "age": "15h ago",
-      "date_iso": "2026-08-18T15:57:58+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "CBRE: Europe data center market to grow by nearly a quarter in 2026",
-      "summary": "Reaching 13GW of capacity by the end of the year",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/cbre-europe-data-center-market-to-grow-by-nearly-a-quarter-in-2026/",
-      "age": "15h ago",
-      "date_iso": "2026-08-18T15:53:58+00:00"
+      "title": "Alabama town left powerless against massive new Bitcoin mining data center after developer finds loophole in state zoning laws",
+      "summary": "Alabama town left powerless against massive new Bitcoin mining data center after developer finds loophole in state zoning laws TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQN1ktVnlBSUhrZHVQLUpWc2d1bmpBOTlVOENtMzFKR3R3SXE2R2E2WjljbVNndU83TXdrNWtMenQ3X0ptMzhING9xVERUak9pRWJCaFBlR3IzMS1iS0RVS1VRWVVpSXppRWk4Y1ZSN1hFRnk5UHltTTdlaUt0YjVkbGloY0Y1LVBacW4wODV4dFZsejVLalE0UFMxOURYNnktY0lqaW9oazE5dzlPT3Q2azMzSlllN24zN2ZLLV9fTlp6cklITHgwMld0THhRdGJsWVI3TElmUG1INnljSHFiNG9IcV9tWEh5QzgtSA?oc=5",
+      "age": "9h ago",
+      "date_iso": "2026-08-19T22:25:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "AMD claims its 2026 rack-scale AI solution is 4X more energy efficient than its 2024 AI platform — company says it's pacing ahead of 20X efficiency by 2030",
-      "summary": "AMD claims its 2026 rack-scale AI solution is 4X more energy efficient than its 2024 AI platform — company says it's pacing ahead of 20X efficiency by 2030 Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPSWVXZGNOZW9odllpblhQb3Z0eTliVXQ1TGh0RktQeFQ5OEowR3FEb2t0UHZYS0Rfa1U0VDQzV1BrZ3BzdkxzVGRDRWw3U0doV1RMRnJwZ0dBNDBKSVdSYlJsRlpWel9Tak9LZlJhR202TFhpX0UzbzB2SGk5clhES1I3MU40U0RGRmVUMi1PQ194TWhPRkRncDM0bXRLMUpJSmZpSEUyZHNjS1FIX2NieFdKMXd3b2YwQmdsR2Fybko3blh6ajBlalM1aEdrS1pnMW1HRm80U21lMnlxNVZnWGgtNkRCQ0gyOVpKRkI0OEhBRXl6RnNwN3ROTUt0MDZ2SlNYRldwbkthMlZBNDlQbnI2M0V0dXJzY0VWYVF6Rk9PcXJIZWVLdFhDNFY4bXRpQlViYkFIVkJnUlVZOGRVSQ?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-08-18T14:00:00+00:00"
+      "title": "Google pits Marvell against Broadcom as it chases AI crown",
+      "summary": "And Marvell just offered the Chocolate Factory a $12.2B stake to sweeten the deal",
+      "source": "The Register",
+      "link": "https://www.theregister.com/off-prem/2026/08/19/google-pits-marvell-against-broadcom-as-it-chases-ai-crown/5289902",
+      "age": "11h ago",
+      "date_iso": "2026-08-19T19:33:15+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Nvidia Taps 26-Year HPE Sales Veteran Monica Gille To Lead Global Partnerships",
-      "summary": "Nvidia Taps 26-Year HPE Sales Veteran Monica Gille To Lead Global Partnerships crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0pLeWwtekh4eWVUNmdnSlo2LWlvWDR1NFRSSnJKUVhlNGRRbmxuNl9VVjlyM3VDTXk0YXNjdU40N0U0bFJpZ0lNYXJ4LVBFQndiNFd2SHd1Q25TM0FxUlZkenBiZFJkNlVuR2FHSHlWdmRYd21lYVRXTDZGZ05ZS2s3bEtFckNNcTRqQVotUmZnZkVidjlpb1NZODF1dTlydzlzZ3huTzZVUlZrbEJGdi1xcGZLUHptYXB2TXhKMjhUR2tKaG1uckVYYw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-08-17T21:15:00+00:00"
+      "category": "infra",
+      "title": "Plans for potential data center in Modesto, California, spark public outcry",
+      "summary": "NorthPoint rumored to be developer of 45-acre old chemical plant site",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-for-potential-data-center-in-modesto-california-spark-public-outcry/",
+      "age": "15h ago",
+      "date_iso": "2026-08-19T16:30:36+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Intel Nova Lake CPUs To Hit Desktops First With AVX-512 For Heavy-Duty Compute",
-      "summary": "Intel Nova Lake CPUs To Hit Desktops First With AVX-512 For Heavy-Duty Compute HotHardware",
+      "category": "cpu",
+      "title": "Intel Core Ultra 9 4950K Benchmark Leak Shows Massive Nova Lake Gains",
+      "summary": "Intel Core Ultra 9 4950K Benchmark Leak Shows Massive Nova Lake Gains HotHardware",
       "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYjBiX196RFd0REZ2NGUyRzFyaENzOGM2RHVyQTBIR1NHMWN6U0VTOEJZSVNTOW1NQzlFOWxrR2xpWFJCcGF4VzBlWjlaN0JCZFcySnoyNEdFd1VERzV1NXQ5WExmLWQ2ZC0yV01uQktWbDR0a0lpbDlrWDdGclR1TFh3?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-08-17T18:55:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqZGhLVEJDWDVCTENKc0dIc0F2S1VxakZIME1LSHZSQ1ByeEVUN2RDNzVJaHN0WHlVU1RTOHlLWUlhQ2djV3BfVVVXTUhVOFp0bGJRODNBNHh4YUxNbGtrZ3RvSnZFOElIMG0wSW84WGNOekRScWNz?oc=5",
+      "age": "15h ago",
+      "date_iso": "2026-08-19T16:25:00+00:00"
+    },
+    {
+      "category": "edge",
+      "title": "Ukraine says Nvidia Jetson gear found in Russian S-71M missile",
+      "summary": "Calls for stronger sanctions to stop tech reaching Russia",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ukraine-says-nvidia-jetson-gear-found-in-russian-s-71m-missile/",
+      "age": "15h ago",
+      "date_iso": "2026-08-19T16:16:21+00:00"
     }
   ]
 }
