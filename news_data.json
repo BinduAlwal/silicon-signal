@@ -1,14 +1,50 @@
 {
-  "generated_at": "2026-08-22T07:23:50.982363+00:00",
+  "generated_at": "2026-08-23T07:25:42.121363+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "Sponsored: What coolant should you use for data center liquid cooling?",
+      "summary": "Exploring PG25, dielectric fluids, and ASHRAE recommendations",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/what-coolant-should-you-use-for-data-center-liquid-cooling/",
+      "age": "16h ago",
+      "date_iso": "2026-08-22T15:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Ignis and Acciona look to build a data center in Segovia, Spain",
+      "summary": "The joint project also includes the development of a photovoltaic plant",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
+      "age": "17h ago",
+      "date_iso": "2026-08-22T14:00:33+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records",
+      "summary": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOS1pJbGM5TzRnOGszc3htcUVCbnBWOXZmSzBnVXZFVTNZcGhRNVNUdm9sVi1RdllFS3dtSWtCWldJNmhCR1JvbWpxTmVuaGJKRGI3bWRTQndGV2xKNEVBTTlCSDVONTA4dENaYVA0U1lpdlZiSzZDVEo5by0xX21peDdIWFhka19fcFJUZ09pREx5NXpCSlNwWlhZTTQ3SWJYamJEVHJ4dldfUG5FM0lJSXlvS0pWdXBLQVBYNWRlWHI3MHFxR3p5ZVM0dUZJRDRpRUx6TFV5NnlOUVFQVENsRFFFTWpXVlVuYlBEbUF5Q0VqanBjLXJ6cEJRTmhCdWt5LVFJOWpxODlhZzVqc0w2WFUtemhIODlaOG90UkQ5SWtzSEdhb1RqUmsxTHhnNDFpb0NYN19ON3NtaWlydjhrMjRmckV6am5jQkpQU1hKb3NnSFY2QVlGMl95U2dGRHNIeEJNTTRnREhoYXpaX19CNW5TdUhrZm1oV3BDcTc4d2J4M1U?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-08-22T12:30:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Terronova starts work on 300MW data center campus outside São Paulo, Brazil",
+      "summary": "Site could eventually exceed 1GW",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/",
+      "age": "20h ago",
+      "date_iso": "2026-08-22T11:00:30+00:00"
+    },
     {
       "category": "infra",
       "title": "Sponsored: Powering data centers is no longer a simple matter of supply and demand",
       "summary": "Ramboll’s Michael Bergstrom unpacks how unprecedented load growth, changing grid standards, and shifting utility requirements are transforming the data center lifecycle",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/marketwatch/powering-data-centers-is-no-longer-a-simple-matter-of-supply-and-demand/",
-      "age": "just now",
+      "age": "1d ago",
       "date_iso": "2026-08-22T07:00:00+00:00"
     },
     {
@@ -17,7 +53,7 @@
       "summary": "Quarantining leaked credentials is not good enough",
       "source": "The Register",
       "link": "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446",
-      "age": "7h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-21T23:42:41+00:00"
     },
     {
@@ -26,7 +62,7 @@
       "summary": "Nv's new chips need new datacenters, but you can't have bit barns without power",
       "source": "The Register",
       "link": "https://www.theregister.com/systems/2026/08/22/cloverleaf-deal-is-latest-example-of-nvidia-using-its-war-chest-to-patch-cracks-in-the-ai-bubble/5291369",
-      "age": "8h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-21T23:00:18+00:00"
     },
     {
@@ -35,53 +71,17 @@
       "summary": "The project calls for the construction of two data center buildings, each with eight IT rooms",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
-      "age": "14h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-21T16:47:08+00:00"
     },
     {
-      "category": "infra",
-      "title": "Nvidia backs data center powered land company Cloverleaf",
-      "summary": "Will help company bring projects to fruition, based on Nvidia DSX platform",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/",
-      "age": "15h ago",
-      "date_iso": "2026-08-21T16:20:47+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Edge data center for AI workloads proposed in Manchester, UK",
-      "summary": "Two building scheme is part of planned network of Edge sites",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/edge-data-center-for-ai-workloads-proposed-in-manchester-uk/",
-      "age": "15h ago",
-      "date_iso": "2026-08-21T15:47:11+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Rocket Lab has no plans to enter orbital data center market",
-      "summary": "But SpaceX's compute ambitions could give Rocket Lab a launch opening",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/rocket-lab-has-no-plans-to-enter-orbital-data-center-market/",
-      "age": "15h ago",
-      "date_iso": "2026-08-21T15:30:10+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Sponsored: The \"power-first\" era: A new playbook for data center projects",
-      "summary": "How to prioritize power to accelerate your project pipeline",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-power-first-era-a-new-playbook-for-data-center-projects/",
-      "age": "16h ago",
-      "date_iso": "2026-08-21T15:00:00+00:00"
-    },
-    {
       "category": "gpu",
-      "title": "AMD Hits Record x86 Market Share To Cut Into Intel's Chip Lead In Every Segment",
-      "summary": "AMD Hits Record x86 Market Share To Cut Into Intel's Chip Lead In Every Segment HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlpPWjFaaHVGRlVITnlqV01ROUdkLUVRZDcyV2lVTzdWamhWV2dxSGFVTEJ1RjdNRG9TMUQxT2xXTGFMQlFGX2hRblJBMmF3a05uLXNZeVB4VC1UcHhRRkRXZE11dERUY29xTDREQ0hoQzFHZXNwWXZ1R0FZQ1NJVW85bw?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-08-21T14:21:00+00:00"
+      "title": "Bosgame M5 AMD Ryzen AI Max+ 395 128GB AI Desktop Review",
+      "summary": "Bosgame M5 AMD Ryzen AI Max+ 395 128GB AI Desktop Review ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmhnTURmOXRsaFRRdDNwM3l5enpYV1Q2cW1feTh5ZjNRdWFlR2liVkdKaTdqWHJLS3JkbFNfemFLTmZjYXFCMHFoWmdXLXJ4emwyZjJQdmp1S2JSMnVhNi1PM3dMZ0gxQldGV1pOZHNyRExlUkFSVHdhMWpNWGdMWjhjdl9WVUVXVm92d0hB?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-08-21T16:28:15+00:00"
     }
   ]
 }
