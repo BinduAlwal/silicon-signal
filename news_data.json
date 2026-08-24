@@ -1,14 +1,77 @@
 {
-  "generated_at": "2026-08-23T07:25:42.121363+00:00",
+  "generated_at": "2026-08-24T07:50:37.267083+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "gpu",
+      "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+      "summary": "Machine learning workloads have an insatiable appetite for DRAM capacity. Flash memory is cheaper per gigabyte of capacity than DRAM. Could it offer a way out?",
+      "source": "ChipsAndCheese",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+      "age": "8h ago",
+      "date_iso": "2026-08-23T22:51:05+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "d-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026",
+      "summary": "d-Matrix Raptor 3D-DRAM Accelerator for Generative Inference at Hot Chips 2026 ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmtveVVLQjctd3hxczRKSjcwek5ObEJxZmRSSzhKTmp4dkdKWGdiTDUyU0l1TEpLY3MweGtlUFBtUHAzRDBmVzIwLXZtYzNlT2ttb3dxdUphV0tkeXhtMTNiaE5VV1dENTBSTElDY1lxQTRORU8wYi1hX3QtNzJJYXBvZGpVeGw3aDlLSER3NUgycVJsbk9aWWtsWGtQNTBiOXM1Zl81d3ZRRmRf?oc=5",
+      "age": "9h ago",
+      "date_iso": "2026-08-23T22:14:59+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "SK hynix HBM Packaging at Hot Chips 2026",
+      "summary": "SK hynix HBM Packaging at Hot Chips 2026 ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzVG1Ib00xNlY4cktzUWRCTmpSUTRrV1B6UjBKRjQyTTFsSWoydUlzd3REaHFFLTBscW9LUU52cUxfdjNKWC1XOFZGb2E0eUsxTWV3VU5lSWNnT3RoV3lRdE5nR2V3RXY2T1hCaGhTeldyRkhrVjNaUXB3?oc=5",
+      "age": "11h ago",
+      "date_iso": "2026-08-23T20:40:15+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+      "summary": "Machine learning applications demand ever more memory capacity and bandwidth. Samsung responded by fabricating their HBM base dies on a logic node, which opens up more opportunities",
+      "source": "ChipsAndCheese",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
+      "age": "12h ago",
+      "date_iso": "2026-08-23T19:01:23+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Micron Evolving Memory Architectures for AI at Hot Chips 2026",
+      "summary": "Micron Evolving Memory Architectures for AI at Hot Chips 2026 ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0lEMFlNU3F1Q1dJYnd3N0FkWER5ZGxEdHB0S1hvUTVzZUdkbDUybjBNUWxOMVVodzVqS2NwVTNCbWhWVm9Cek9uUkVCem1EZlhKTV9tdXFfS2w5VEI5cmZtRm9mSnFzUzRRZGhpNEs1YlUyMGRoZWRXNnFWNDEtakhSNXpwZXVSUG1JUWlubmdHVFBCYUE?oc=5",
+      "age": "13h ago",
+      "date_iso": "2026-08-23T17:55:32+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Officials nationwide face death threats and gunfire over AI data center projects — More than 500 towns restrict builds as councils shutter public comment",
+      "summary": "Officials nationwide face death threats and gunfire over AI data center projects — More than 500 towns restrict builds as councils shutter public comment Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTF1cjl4UDFOMXBXSXJrbHpHTVRkWjE3cU0zVlR6c0JDZGJsYzhPNHJ1SWdDWFBQdnRyU2N6TWxmS3BjdkJrSE1kaU1iVV8xNmJfcU5kWVh2X3hRMXFpYlowd2RuV2pFaFVPaXVMOEZqRTNib0NhNHZvZEV4VXMyTjJBVlRfeUh3R3FQN3RldDAtTlhidjFYZDNRQzFwNTdMOGNnX1ZsX3JzVDVSOHRSbEFyQ1pPM2pTZWJMdlRZRHBRRC1hc21lbzRTTUhFWkdOTXVPeG12RGI2UQ?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-08-23T13:43:20+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar",
+      "summary": "Nvidia reportedly warns biggest customers of 15% price hikes on AI servers — memory costs continue to soar Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjhGcWg5SlQzNjZqYVFveFZMSUJJMWFHY0lPWmNGaFItRFBQMU9laXBsSzI1M1I1YVk4ZkhEcm9YV0o1emJxVGFVQWtmV1NmQXhrZUVLQ3RTVVhEMTdId3NyZFNJSEstcmdQVWFKMnhUeVRmeFExU2VvZEVCS2RtbENIcU5uY1Z0WTJaZkJmNTh6UF9md0N4LW5QMnZ3RmE2OFdNTUYwVkVaeGw1eHVXR29MYmNOUXkwS0RJTXkycnlUbzhJQV9PTw?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-08-23T13:15:00+00:00"
+    },
     {
       "category": "infra",
       "title": "Sponsored: What coolant should you use for data center liquid cooling?",
       "summary": "Exploring PG25, dielectric fluids, and ASHRAE recommendations",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/opinions/what-coolant-should-you-use-for-data-center-liquid-cooling/",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-22T15:00:00+00:00"
     },
     {
@@ -17,71 +80,8 @@
       "summary": "The joint project also includes the development of a photovoltaic plant",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/ignis-and-acciona-join-forces-to-build-a-data-center-in-segovia/",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-22T14:00:33+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records",
-      "summary": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOS1pJbGM5TzRnOGszc3htcUVCbnBWOXZmSzBnVXZFVTNZcGhRNVNUdm9sVi1RdllFS3dtSWtCWldJNmhCR1JvbWpxTmVuaGJKRGI3bWRTQndGV2xKNEVBTTlCSDVONTA4dENaYVA0U1lpdlZiSzZDVEo5by0xX21peDdIWFhka19fcFJUZ09pREx5NXpCSlNwWlhZTTQ3SWJYamJEVHJ4dldfUG5FM0lJSXlvS0pWdXBLQVBYNWRlWHI3MHFxR3p5ZVM0dUZJRDRpRUx6TFV5NnlOUVFQVENsRFFFTWpXVlVuYlBEbUF5Q0VqanBjLXJ6cEJRTmhCdWt5LVFJOWpxODlhZzVqc0w2WFUtemhIODlaOG90UkQ5SWtzSEdhb1RqUmsxTHhnNDFpb0NYN19ON3NtaWlydjhrMjRmckV6am5jQkpQU1hKb3NnSFY2QVlGMl95U2dGRHNIeEJNTTRnREhoYXpaX19CNW5TdUhrZm1oV3BDcTc4d2J4M1U?oc=5",
-      "age": "18h ago",
-      "date_iso": "2026-08-22T12:30:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Terronova starts work on 300MW data center campus outside São Paulo, Brazil",
-      "summary": "Site could eventually exceed 1GW",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/terranova-boosts-technology-infrastructure-with-the-construction-of-one-of-latin-americas-first-ai-data-centers/",
-      "age": "20h ago",
-      "date_iso": "2026-08-22T11:00:30+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Sponsored: Powering data centers is no longer a simple matter of supply and demand",
-      "summary": "Ramboll’s Michael Bergstrom unpacks how unprecedented load growth, changing grid standards, and shifting utility requirements are transforming the data center lifecycle",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/marketwatch/powering-data-centers-is-no-longer-a-simple-matter-of-supply-and-demand/",
-      "age": "1d ago",
-      "date_iso": "2026-08-22T07:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AWS Security makes an inscrutable choice",
-      "summary": "Quarantining leaked credentials is not good enough",
-      "source": "The Register",
-      "link": "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446",
-      "age": "1d ago",
-      "date_iso": "2026-08-21T23:42:41+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble",
-      "summary": "Nv's new chips need new datacenters, but you can't have bit barns without power",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/08/22/cloverleaf-deal-is-latest-example-of-nvidia-using-its-war-chest-to-patch-cracks-in-the-ai-bubble/5291369",
-      "age": "1d ago",
-      "date_iso": "2026-08-21T23:00:18+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Vapat Enters the data center market with a 160MW project in Valladolid",
-      "summary": "The project calls for the construction of two data center buildings, each with eight IT rooms",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
-      "age": "1d ago",
-      "date_iso": "2026-08-21T16:47:08+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Bosgame M5 AMD Ryzen AI Max+ 395 128GB AI Desktop Review",
-      "summary": "Bosgame M5 AMD Ryzen AI Max+ 395 128GB AI Desktop Review ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmhnTURmOXRsaFRRdDNwM3l5enpYV1Q2cW1feTh5ZjNRdWFlR2liVkdKaTdqWHJLS3JkbFNfemFLTmZjYXFCMHFoWmdXLXJ4emwyZjJQdmp1S2JSMnVhNi1PM3dMZ0gxQldGV1pOZHNyRExlUkFSVHdhMWpNWGdMWjhjdl9WVUVXVm92d0hB?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-08-21T16:28:15+00:00"
     }
   ]
 }
