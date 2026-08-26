@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-25T07:36:14.799903+00:00",
+  "generated_at": "2026-08-26T07:38:07.521651+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "gpu",
-      "title": "Hot Chips 2026: Intel’s Diamond Rapids",
-      "summary": "Hello you fine Internet folks,",
+      "category": "infra",
+      "title": "Sponsored: How AI is reshaping data center power testing and commissioning",
+      "summary": "As AI transforms power architecture, testing and commissioning, operational services are becoming just as important as the electrical equipment itself",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/how-ai-is-reshaping-data-center-power-testing-and-commissioning/",
+      "age": "just now",
+      "date_iso": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Hot Chips 2026: Fujitsu’s Monaka CPU",
+      "summary": "Building on a long history of HPC-focused cores, and looking beyond HPC",
       "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/hot-chips-2026-intels-diamond-rapids",
-      "age": "1h ago",
-      "date_iso": "2026-08-25T06:20:03+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "SpaceX claims it will put a Vera Rubin NVL72 rack-scale system into orbit next year",
-      "summary": "And fly ‘significant scale’ in 2028 – a claim that isn’t entirely bonkers, but needs a solid grain of salt",
-      "source": "The Register",
-      "link": "https://www.theregister.com/off-prem/2026/08/25/spacex-claims-it-will-put-a-vera-rubin-nvl72-rack-scale-system-into-orbit-next-year/5292067",
-      "age": "2h ago",
-      "date_iso": "2026-08-25T05:21:05+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "IBM announces chip that natively executes Arm and Z instructions concurrently",
-      "summary": "Cunning plan to expand the amount of software that runs on mainframes is also an admission ISVs are focusing their energies elsewhere",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/08/25/ibm-announces-chip-that-natively-executes-arm-and-z-instructions-concurrently/5292059",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-fujitsus-monaka-cpu",
       "age": "6h ago",
-      "date_iso": "2026-08-25T01:27:30+00:00"
+      "date_iso": "2026-08-26T01:20:30+00:00"
     },
     {
       "category": "gpu",
-      "title": "NVIDIA Vera Rubin NVL72 Rack at Hot Chips 2026",
-      "summary": "NVIDIA Vera Rubin NVL72 Rack at Hot Chips 2026 ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONENiWTRiTHRydHdtY2RrZUNveUptcFlhSDQ5VWNuUkl4RWhhNEF1TTF2cFZpbl9faDBYTnRVNGZOcWRjYU9ISlFJd2FqXzY1ZDlIYkZ3UmxBMmV0MGdLaEZYeWRBMlNYMVl4eU50ejZhSHJFb2NBSk05c2FuampLeXFR?oc=5",
-      "age": "7h ago",
-      "date_iso": "2026-08-25T00:00:37+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Hot Chips 2026: Intel’s Wildcat Lake",
-      "summary": "All about making things affordable",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/hot-chips-2026-intels-wildcat-lake",
-      "age": "11h ago",
-      "date_iso": "2026-08-24T19:50:30+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Conjure cash with old Macs by linking them to AI inference Borg",
-      "summary": "Darkbloom distributed inference network promises to put underutilized Apple kit to work",
+      "title": "Now Perplexity is trying to get into the local AI action",
+      "summary": "Amid talk of an Nvidia deal, the AI search biz is looking beyond the cloud",
       "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/08/24/conjure-cash-with-old-macs-by-linking-them-to-ai-inference-borg/5292002",
-      "age": "11h ago",
-      "date_iso": "2026-08-24T19:40:22+00:00"
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/26/now-perplexity-is-trying-to-get-into-the-local-ai-action/5292449",
+      "age": "7h ago",
+      "date_iso": "2026-08-25T23:39:23+00:00"
     },
     {
       "category": "cpu",
-      "title": "Intel Diamond Rapids the 2027 Intel Xeon at Hot Chips 2026",
-      "summary": "Intel Diamond Rapids the 2027 Intel Xeon at Hot Chips 2026 ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFpBRWg2dExNR1dxOGpPR3BLYnphZ09oenloQ19HNVJTcXhWVHJjOVZVN1A4SDlKRnA3bVE1TFhqV1pzTUttVE14VWlHdm1WanU5OURTanFXeGJGdXhSNzVfaFFwdl93VkZ4STBVcl83QXZSZ0RjUjVkYkVpUVVxcU1BZE81WHlWMklxaFl3U05sdw?oc=5",
-      "age": "11h ago",
-      "date_iso": "2026-08-24T19:40:19+00:00"
+      "title": "Intel's 256-core Xeon 7 CPUs are a Diamond in the rough",
+      "summary": "Delayed, flawed, yet still beautiful",
+      "source": "The Register",
+      "link": "https://www.theregister.com/hpc/2026/08/25/intel-diamond-rapids-xeon-7-cpu-deep-dive/5292427",
+      "age": "8h ago",
+      "date_iso": "2026-08-25T22:54:37+00:00"
     },
     {
       "category": "gpu",
-      "title": "d-Matrix Claims 20x Bandwidth Density Over NVIDIA Rubin In New Chip",
-      "summary": "d-Matrix Claims 20x Bandwidth Density Over NVIDIA Rubin In New Chip HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EVGtVblB6T1lBTjZ2LU1hZ3VyTTFRUnhLbGxKdEl4YVRwcVpnNlAxVFM4b09aeHZLY0ttMldIYTVLZzFqMjc4U0xXWjdjX0JlSHpXUHlqUDhrOVc0dWNGRkFreDZkczFZNFVjRjVFYnVuU3c?oc=5",
+      "title": "Apple defies memory shortage with new Mac minis",
+      "summary": "The cost of memory makes this an expensive ML meal",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/apple-defies-memory-shortage-with-new-mac-minis/5292406",
       "age": "11h ago",
-      "date_iso": "2026-08-24T19:40:00+00:00"
+      "date_iso": "2026-08-25T20:18:19+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Claude and Cowork now share what they know about you",
+      "summary": "Shared memory is live, with no option to separate it between services, Anthropic tells us; Claude Code stays apart for now",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/08/25/claude-and-cowork-now-share-what-they-know-about-you/5292412",
+      "age": "11h ago",
+      "date_iso": "2026-08-25T19:54:32+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "NVIDIA BlueField-4 DPU at Hot Chips 2026",
+      "summary": "NVIDIA BlueField-4 DPU at Hot Chips 2026 ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSG9ESXhNaGNxYlFDcVM2UE9YTjNFeUNybnJxeXNfbkxpU0VVeHJ3d3ZWalU5MGVTdEEtQUd2Vkc0SktGaUEyWlFKWExvNnVpOC0zcjVOTTl1dTd1dWhKZnY5ODlTQVhUd3ZubzRtLXBuNHVoSEIwZ2w2eUh6YkwtOFFB?oc=5",
+      "age": "12h ago",
+      "date_iso": "2026-08-25T18:48:08+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Banglalink deploys rooftop solar array on data center in Cumilla, Bangladesh",
+      "summary": "Has a capacity of 50kW",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
+      "age": "15h ago",
+      "date_iso": "2026-08-25T16:09:30+00:00"
     },
     {
       "category": "cpu",
-      "title": "Arm’s AGI Data Center CPU at Hot Chips 2026",
-      "summary": "Arm’s AGI Data Center CPU at Hot Chips 2026 ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQUZHQmZYQV9RdDBNSzE3QndVRVh2N1V0Y0s4YV84STN5akM4UU9rT1drVkVDSVJGSGNhVWhzNFVUcUdVVkxMSmxRbEczaVFROGZqRUVIVmpfYmdFVXZaNnctZGJibW9Tb2FXRnVaaU5XMmpyTEFNT1hBZGg?oc=5",
-      "age": "12h ago",
-      "date_iso": "2026-08-24T19:00:24+00:00"
+      "title": "Arm's race: Building the AGI CPU",
+      "summary": "Britain's chip design champion is making its own silicon for AI data centers",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
+      "age": "15h ago",
+      "date_iso": "2026-08-25T16:00:33+00:00"
     }
   ]
 }
