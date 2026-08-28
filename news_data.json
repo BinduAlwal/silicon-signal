@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-08-27T17:59:18.676415+00:00",
+  "generated_at": "2026-08-28T19:09:29.742308+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Schwarz Group commits €5.6bn investment in data center in Mecklenburg-Vorpommern, Germany",
-      "summary": "Data center will be fully powered by renewable energy",
+      "title": "Trump admin considers more semiconductor tariffs, could include data center servers",
+      "summary": "Because it went so well before",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/schwarz-group-commits-56bn-investment-in-data-center-in-mecklenburg-vorpommern-germany/",
-      "age": "just now",
-      "date_iso": "2026-08-27T17:32:30+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Trump administration weighs expanding chip tariffs to laptops, consoles, and servers, report claims — January's data center exemptions may be scrapped",
-      "summary": "Trump administration weighs expanding chip tariffs to laptops, consoles, and servers, report claims — January's data center exemptions may be scrapped Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY21jSHhjNjVjRTVCa2FBa0pWTk10YVdVaDhZQTUzN3d2aXFBRmVRZVI2aDBqQlNpVHpIczhISDVaTDloTzh4ZmV3Um45M0MyenFmUF9qalhQUXZWd2FxcTRMZ1hJZEtpREZLT2g2T3djT2swNVlHQ0ktMHhtd1F2dUU5a1M1bms2cHEwdW1KUDhiSHJrd0gzckhqZy04QlpPZlFiX01xbTN2dVJBSWF6dGpkVUkwU0x5ek56czhFLU1jM0FUWURrV0VDSTE?oc=5",
-      "age": "1h ago",
-      "date_iso": "2026-08-27T16:13:27+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "War and peace in the Middle East",
-      "summary": "How the data center market is faring, and being impacted, by the Iran War",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/analysis/war-and-peace-in-the-middle-east/",
-      "age": "1h ago",
-      "date_iso": "2026-08-27T16:00:46+00:00"
-    },
-    {
-      "category": "edge",
-      "title": "Nvidia expects to sell $20 billion of Vera Rubin systems in Q3 as shipments begin — figure would account for 20% of its data center revenue mix, marks fastest ramp in company history",
-      "summary": "Nvidia expects to sell $20 billion of Vera Rubin systems in Q3 as shipments begin — figure would account for 20% of its data center revenue mix, marks fastest ramp in company history Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPYWY5OTRQTVJxNFdybGdPbDZFVUxDbE1TWVYyQzVBRjRqX3ItbUVHLXEyc05zbWtVakpVNmNBTmx1Y09zT1BRalVuX0RDODVoZHM3N2ZTNEg0OUhaakd5TngwTW9CQk10QVdwUVdXdjlJdGdrY0hUMUVRd1RPelFoNC1kcHl3d1NIZmFnM0E0Z3NsQ0VObnc5NWlBeTVncDA4WTVDUHpBcHZBbVljYnlSa2k4ckgwTUdJOThvZl9wbUwzZU1TT1ozbXlobXlGZ1Q4d1hRbzZXa1o4NEZhbjJQelJnYlRwcmE3cE9KR0hnVVNMejNfNlhMU2pHYzQ2UTk1STI3MTlmNjhXYVNudFhwQnlPNmI2d2lhanFpQ2ZUcllqNFJvUTB6MkdHZ2JHQVJORjJiNGdoSXhTdDQtWE9GQ3l2MGF3UEtYSUFtbS1pRGZLTUk?oc=5",
+      "link": "https://www.datacenterdynamics.com/en/news/trump-admin-considers-more-semiconductor-tariffs-and-possibly-data-center-servers/",
       "age": "2h ago",
-      "date_iso": "2026-08-27T15:33:14+00:00"
+      "date_iso": "2026-08-28T16:25:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Salim Group buys out Keppel’s share of Indonesian data center venture",
-      "summary": "IndoKeppel relaunched as IndoData",
+      "title": "UK Green Party calls for nationwide data center moratorium",
+      "summary": "Only 'local scale data centers for the local community' would be allowed",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/salim-group-buys-out-keppels-share-of-indonesian-data-center-venture/",
-      "age": "2h ago",
-      "date_iso": "2026-08-27T15:29:42+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Sponsored: Designing the white space for flexible fiber requirements",
-      "summary": "The white space at the heart of a data center is where the competing demands of rapidly increasing capacity within a finite space are in the sharpest focus",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/designing-the-white-space-for-flexible-fiber-requirements/",
-      "age": "2h ago",
-      "date_iso": "2026-08-27T15:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Privacy-focused email service Proton goes down after cooling failure in Frankfurt data center",
-      "summary": "CEO admits \"we fucked up\" after slow failover",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/privacy-focused-email-service-proton-goes-down-after-cooling-failure-in-frankfurt-data-center/",
+      "link": "https://www.datacenterdynamics.com/en/news/uk-green-party-calls-for-nationwide-data-center-moratorium/",
       "age": "3h ago",
-      "date_iso": "2026-08-27T14:43:00+00:00"
+      "date_iso": "2026-08-28T16:02:41+00:00"
     },
     {
       "category": "infra",
-      "title": "EPA faces lawsuit over claims it fast-tracked approval of toxic 'data center chemicals' — exposure to photoacid generators used for semiconductor manufacturing could result in ‘sudden death,’ also appear to be long-lasting PFAS",
-      "summary": "EPA faces lawsuit over claims it fast-tracked approval of toxic 'data center chemicals' — exposure to photoacid generators used for semiconductor manufacturing could result in ‘sudden death,’ also appear to be long-lasting PFAS Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOcUhsb0VvMWdRV2dDdjVRbjV5dFpWek5sZ21ZV1IxaDZTY0dpbGpWZ1ZuQm5CUXp3LW8tSklOMlFxb2NkTi1QdDlFNGNHUFRPX0NYVHpZSW1jWDNHWVdZN3ZPNEpkTjFDWk5HU2p3V0c0NmtnQUF6cTRuYy1DUVI0S1ZPVmNmUUVRNG9jT05sdzZCeWwyUkhXNlJlSlV6WnUybHNZSmZic3k1dkh4NUxuOVRJNk9aTHVQV0lWWWJtVFN4R2hYMGVONGdCZHRLQV9ZZHJOQkpRYm5tVnhhUURzNjVITDdQRlJrb3g0aldwbVlfMzlHbHp1Y3JRckxPazg2bGtZakdQNWVCWVRNd29XcTQ4VTFYUnlrYURZNVVkajhWaUtnN2ptemZHaG9Uclc2ZHlMT1VRY0pWY25SaXJlTzlZTHpvRWpCaUFrV3NkaUtWMVZlamJSNW9oTEFseXNLNnlxYmVlX2hyZTJOTVBsMjFuWXhSVHlGR2ZDMnpSNFJzcFdDcm9zU1ROcmtpQTQ?oc=5",
-      "age": "4h ago",
-      "date_iso": "2026-08-27T13:10:57+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "VCI Global announces launch of Galatron AI",
-      "summary": "Company launches prefabricated modular AI data center platform, targeting up to 500MW aggregate AI compute capacity",
+      "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand data center footprint",
+      "summary": "IPO launches today, August 28",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/vci-global-announces-launch-of-galatron-ai/",
+      "link": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+      "age": "3h ago",
+      "date_iso": "2026-08-28T16:00:23+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Green Party wants to slam the brakes on UK datacenter construction until water and energy use are sorted",
+      "summary": "Tree huggers aim to end blanket critical infrastructure status for bit barns and ensure environmental standards are met",
+      "source": "The Register",
+      "link": "https://www.theregister.com/on-prem/2026/08/28/green-party-wants-to-slam-the-brakes-on-uk-datacenter-construction-until-water-and-energy-use-are-sorted/5293338",
+      "age": "3h ago",
+      "date_iso": "2026-08-28T15:29:57+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Impact of SLA exposure on data center financing and valuation",
+      "summary": "How uninsured downtime threatens data center valuations",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/impact-of-sla-exposure-on-data-center-financing-and-valuation/",
+      "age": "4h ago",
+      "date_iso": "2026-08-28T14:12:23+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "X2M sets up dedicated data center subsidiary and signs a deal for data center project",
+      "summary": "As Australian IoT company moves into the data center sphere",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/x2m-sets-up-dedicated-data-center-subsidiary-and-signs-a-deal-for-data-center-project/",
       "age": "5h ago",
-      "date_iso": "2026-08-27T12:58:25+00:00"
+      "date_iso": "2026-08-28T14:00:29+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it",
+      "summary": "Microsoft veteran recalls how a CPU errata, a mythical ICE, and a single sneaky NOP saved Clippy's big debut",
+      "source": "The Register",
+      "link": "https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263",
+      "age": "5h ago",
+      "date_iso": "2026-08-28T13:34:00+00:00"
+    },
+    {
+      "category": "policy",
+      "title": "Datacenters face direct hit from China rare earth curbs, as clock runs out on escalated licensing chokeoff",
+      "summary": "Paused export controls on materials used in key IT components due for review in November",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/08/28/datacenters-face-direct-hit-from-china-rare-earth-curbs-as-clock-runs-out-on-escalated-licensing-chokeoff/5293257",
+      "age": "6h ago",
+      "date_iso": "2026-08-28T13:01:14+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "atNorth signs contract with YIT for additional data center building at campus in Finland",
+      "summary": "Value of the contract given to YIT not disclosed",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/atnorth-signs-contract-with-yit-for-additional-data-center-building-at-campus-in-finland/",
+      "age": "6h ago",
+      "date_iso": "2026-08-28T13:00:35+00:00"
     }
   ]
 }
