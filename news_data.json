@@ -1,15 +1,42 @@
 {
-  "generated_at": "2026-08-29T12:53:36.948446+00:00",
+  "generated_at": "2026-08-30T12:27:22.887163+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "gpu",
+      "title": "Hot Chips 2026: XCENA and Samsung’s Near-Memory Compute CXL Device",
+      "summary": "CXL memory expansion, with a side of compute",
+      "source": "ChipsAndCheese",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+      "age": "5h ago",
+      "date_iso": "2026-08-30T07:25:37+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+      "summary": "A lot of datacenter networks are run by absolute clowns. Not Amazon's",
+      "source": "The Register",
+      "link": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+      "age": "22h ago",
+      "date_iso": "2026-08-29T13:30:00+00:00"
+    },
     {
       "category": "infra",
       "title": "From pressure to proof: Leading through constraint in the data center era",
       "summary": "And the mindset shift the team needed",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
-      "age": "1h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-29T11:00:31+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Microsoft-backed AI data center faces backlash over alleged unpermitted gas turbines and 1.5M-gallon LNG tank — groups' issues with $19.4B facility range from illegal construction to noise pollution",
+      "summary": "Microsoft-backed AI data center faces backlash over alleged unpermitted gas turbines and 1.5M-gallon LNG tank — groups' issues with $19.4B facility range from illegal construction to noise pollution Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQdDUxdElCZEVydWRtUVRSQnFOZXpNQkVaTFVRb3FJZXd4TDdacTg1Ti1qaFNOMlRjTzQ2dkQ1WFlIRWdkVWNsa0pacFVCc1BfMTFHMWJJTUJlUVo0QWhMdjZDV3pKVk43blliSWVTUXRTcUp4R2lCcDRBNVk3ZllfU2ZVRGFDS1g5RHUtY1hwdmdFODR5WWR0cU1vVlh3OGNZaWt6dDVzSVVPeFBzQjhUbHNsLUxOMm9MbWdZNDBWRWRyaE8yYlFaeTQwbmtRYjZtM2xzUmF4aTlhMk5ETVg2LXJDbTRRTHZLZGV6VS1uMVo0R25rN0gzTWh3QklSRzQ2LU43OHN6TEFjdVBWY3doOTluSjVGOWVHVXhYODdjNlZoN3loNGtBU01FdzhYa1hQZmJYQUNldU1fUzQ?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-08-29T11:00:00+00:00"
     },
     {
       "category": "gpu",
@@ -17,7 +44,7 @@
       "summary": "In-memory compute with LPDDR5X",
       "source": "ChipsAndCheese",
       "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "age": "7h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-29T05:36:33+00:00"
     },
     {
@@ -26,7 +53,7 @@
       "summary": "How come that super-smart AI of yours didn't figure this out, frontier labs?",
       "source": "The Register",
       "link": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-28T20:23:23+00:00"
     },
     {
@@ -35,7 +62,7 @@
       "summary": "Cloud industry pros have a bit of fun at Amazon's expense",
       "source": "The Register",
       "link": "https://www.theregister.com/offbeat/2026/08/28/aws-route-53-dns-service-reimaginedas-a-file-system/5293357",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-28T19:46:40+00:00"
     },
     {
@@ -44,7 +71,7 @@
       "summary": "X says it found and took down a Chinese bot farm posting anti-AI data center content to thousands of followers TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZUxjUE9PTWtWRTVUR2d0RWxtMUNmU1ctTnZacE9MT0lLT1h6a3E3b1JVRDhPaTJJa0lKQTdVQzhmV0VET2VVM1JiaUlXeFhpY3dSZXRKNTY3RHcwc1VraTlzT1B4TGY5V2xadThJQ083ZmVVbnl5OHZidm9UdV8zTHUwTlJhMzRPWTI2OFFsVTlCY1VTNmk5UTlwSFZXOGhxaGxkOVdZeFZCVWtYSnNCc1pRWThzUk5BTFZIcHlHaE9uMXdHclJnYzJIYWsyT2hSWGVCUFBOVzhTRU5ZT215SnVDUQ?oc=5",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-28T17:05:00+00:00"
     },
     {
@@ -53,35 +80,8 @@
       "summary": "Because it went so well before",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/trump-admin-considers-more-semiconductor-tariffs-and-possibly-data-center-servers/",
-      "age": "20h ago",
+      "age": "1d ago",
       "date_iso": "2026-08-28T16:25:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "UK Green Party calls for nationwide data center moratorium",
-      "summary": "Only 'local scale data centers for the local community' would be allowed",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/uk-green-party-calls-for-nationwide-data-center-moratorium/",
-      "age": "20h ago",
-      "date_iso": "2026-08-28T16:02:41+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand data center footprint",
-      "summary": "IPO launches today, August 28",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
-      "age": "20h ago",
-      "date_iso": "2026-08-28T16:00:23+00:00"
-    },
-    {
-      "category": "policy",
-      "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
-      "summary": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNV3RGYmw3MU9Ua3ltUW91dXBjSURjWlhYcnIxZ3A0Nkx5cVJJUEZtam1hak8zazhDeS1jRExGYzhvcHVTUmNRT3AzV2JnVjh1R09GdUlRaXgwbElHdHdxRWZ3RUREbDVHSVpYVjZOVXV3SENsWFpqSG9PQ1h0b1dVT19CaEdhbHpDSklSbmRmNC1KeWJ3Z1ZtaFhWekhpY0pBTGFPSGtmbDFqenFNVmF2NThpNm9lMWtDdmU0UHFtcEhFUnRjTmw4U1RvdVFDWVdsNTZmcmljdGlMbHB6bmM4QUJ6OXJ3VlNabU04MmVzMlUtck52ZlhFdF9CTFI0aTVTU0xNQXpKVmlwMVEzdy1pYUhBb2YyZmFBY2NTTHBaR1lfM0RwQ3gwY0NGZHc2TVBTbzFqRXdFaFgtclVpTUE?oc=5",
-      "age": "21h ago",
-      "date_iso": "2026-08-28T15:47:46+00:00"
     }
   ]
 }
