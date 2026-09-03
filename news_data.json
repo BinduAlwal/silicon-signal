@@ -1,15 +1,78 @@
 {
-  "generated_at": "2026-09-02T11:52:49.817563+00:00",
+  "generated_at": "2026-09-03T11:50:46.272018+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "gpu",
-      "title": "Arm in the enterprise is at least three years away, says Broadcom software boss",
-      "summary": "And RISC-V is absolutely nowhere",
-      "source": "The Register",
-      "link": "https://www.theregister.com/virtualization/2026/09/02/arm-in-the-enterprise-is-at-least-three-years-away-says-broadcom-software-boss/5293804",
-      "age": "5h ago",
-      "date_iso": "2026-09-02T06:11:00+00:00"
+      "title": "Sponsored: Every climate plays a different hand",
+      "summary": "A framework for million-dollar decisions, balancing rising chip temperatures with climate reality for efficient thermal management",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/every-climate-plays-a-different-hand/",
+      "age": "just now",
+      "date_iso": "2026-09-03T13:48:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Loudoun County could reverse data center by-right grandfathering exemption",
+      "summary": "Board of supervisors voted to assess legality and impact",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/loudoun-county-could-reverse-by-right-grandfathering-exemption/",
+      "age": "just now",
+      "date_iso": "2026-09-03T11:30:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Ecuador's Telconet opens data center in Guayaquil, targets another in Quito",
+      "summary": "Will be the company's third data center in Ecuador",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/telconet-opens-a-new-data-center-in-guayaquil-and-is-preparing-another-one-in-quito-1/",
+      "age": "1h ago",
+      "date_iso": "2026-09-03T10:43:20+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Ada Infrastructure breaks ground on latest Tokyo data center",
+      "summary": "Company continues expansion in Japan",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ada-infrastructure-breaks-ground-on-latest-tokyo-data-center/",
+      "age": "2h ago",
+      "date_iso": "2026-09-03T08:51:51+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Broadcom Q3 Results: CEO Tan Forecasts Surging AI Infrastructure Buildout",
+      "summary": "Broadcom Q3 Results: CEO Tan Forecasts Surging AI Infrastructure Buildout crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1ZIOUlWd2ZRODVVQ1E4ZDBleWE5WlNzc082Q3A3eVQxRDNhVXVaUHN3UFRmQVhwcXFMTi0xUXFXU3FUWmFiMHg2dEpVVmdwWVFpenUxbGtDZVR3b1AxTFpZekN1MHYyVE5rQ3BjcmV1VnR3aC00OGhka1F6QmRILXRja1dTOVlHYlNTb2N3YWdKNzhWci1nQmFWbnpFQQ?oc=5",
+      "age": "11h ago",
+      "date_iso": "2026-09-03T00:33:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AI data center investment projected to hit $32 trillion by 2050 — infrastructure spending estimated to exceed capital requirements for railways, electrification, or the internet",
+      "summary": "AI data center investment projected to hit $32 trillion by 2050 — infrastructure spending estimated to exceed capital requirements for railways, electrification, or the internet tomshardware.com",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNV1NJODRDdTI0Mm00WE9iUXEtOVRMaGFfRmpJLTdlekNZQWV5TjB5ZGdDTklYbnRyNHJHbHhxTjRUeWE0YVBCS3Y3d3M1TW9XeTh6cFBkaVJwcm9zSFpuNS1LVnlTSW9Bdk9ydFhXeENya092bW9FQkg5MEF5ZWwyaUo2UHlzSmVyT3B0M1psZXZzbEp6am5fWnVUYTZRR0Vwc3VKMWVYdFpseTV3bTdRREVheWg5dTJ3QnZndURCd3cxVlFJV1pWMm5RMXMzZUNzS05PbDl1b0N4NFdERkM4RVBiQUl0SjBpQTFfU0VRdi1hSDJCT3hiSzhTVmNpY21WdXZORUIxaXhDaFl3RGpfSTBkSWNNOFN2NTh2dXF5eURTWXpRU1E5WVdXZ2tMNVBydnRzVDhuYzc4LW85dFdnMUlxaE5UbG0xQVNOYXZsRDA?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-09-02T11:00:26+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Startups want to rent your idle gaming PC for AI tasks — Startups pitch an 'Airbnb for AI inference,' but profitability remains unproven",
+      "summary": "Startups want to rent your idle gaming PC for AI tasks — Startups pitch an 'Airbnb for AI inference,' but profitability remains unproven tomshardware.com",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVRBeTFvVklRT2ZpZ2VURzVXVlBEbV9qUi1pczUtS2FxMGYzbUxNSkJ0b1dMckRQbGpMdEZ2R2s1VnRaZmNELTcyMWVKQW1CTW5JOFh5dFBtNUphMmUyeHc2Q2hYSzF1S1NDX0Q2dm52SjJ6V25MRU1UQTV1ZlVxVVlFekp4dEJVWExweE1JNjBmdkxybUhTMnNhT1NDTGdjZGQ2OWxZc2JPemt6Z1Bud3c2OGNucF9sa1ljMnQ1Q1RVUzA?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-09-02T11:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Oklahoma city tries to charge farmer arrested at data center debate $17,000 for body cam footage of the incident — accused faces trespassing charge for going over allotted speaking time by 30 seconds at a public debate",
+      "summary": "Oklahoma city tries to charge farmer arrested at data center debate $17,000 for body cam footage of the incident — accused faces trespassing charge for going over allotted speaking time by 30 seconds at a public debate tomshardware.com",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOTkFhQVJ2cllCdnIwbzNuMVFOWVJnWDRpUzZscWJIQkJCWUgxSldEX2kyVjV5cU5JS0VDMUZxaE95T1dncXdHTFpvd2Fvc1ZqZjVfbG1lLWthSUQ3WnJ3dU45WUk2a1ZUdWpVcENQa3dySm9IckVqU0ljbEE1SmVHdVhkc21rcG9Hcm1GTHlmVWZGbTBwUExROVBnaEJubDBJazNubllxdzVpQzM0enh5bzduVGxuYURUTEdJb1BheENRUi1iaTBDblV0dFBickFPblZnOHhkdGVDemdOb1lKZ1FNQUlCX3hwVjNyZURKVzJSdlRkNnN5WVNHNTVqRFl3akZfNDJFUnVON29DMUdaNThtcE84U0RNN2ZMZldBcmlZR3ctQ3BUanAzZ2o4eUlJbl93QTF2dWVzR0dqTTdTZkc2NjlrenZHSkdUYzlBMmJLeGh1V0xKM3VmbkNNNXJNdG9YMVFpMlgyREd1TmM4bVMzT1dodmd5RW5iTERMcmR5UkZXcjN3TDNR?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-09-02T10:00:00+00:00"
     },
     {
       "category": "gpu",
@@ -17,71 +80,8 @@
       "summary": "NVIDIA RISC-V for NVIDIA GPUs at Hot Chips 2026 ServeTheHome",
       "source": "ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFB3QUpSMlhlWmdfdlVUdjl2UlJPemFrN1ctTnYtX0hiNHRHUkoxcjFBTnc0RHlfamRxaE44YVhBSnNWQ1VXS2YyangwYlJFa3FLcE1pcDFHMVF5THlic2czZ21CMVYxem95dHFOZnA4V0l5Z2tDWEROaUU3TnJqcTQ5RQ?oc=5",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-01T19:00:56+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "NVIDIA DLSS 5 Launches Thursday With NBA 2K27, Here’s What To Expect",
-      "summary": "NVIDIA DLSS 5 Launches Thursday With NBA 2K27, Here’s What To Expect HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSkd4XzFfajVfSjVmaHJfMi1QZlhzQkJGNTU5bnF4cGZWYXFsa09DMFJZSTZZVV9vVUdvek9LSnY3MTRfajdqS3dnRG9remtZVlBIN01Zdmd5SjVSWlhtWjNlMUxPVWZtaW8wLXpCMHVsVjdRZVFDSTFCU1JWSHlQSA?oc=5",
-      "age": "22h ago",
-      "date_iso": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Trump says communities that reject data centers 'want to end up being backwards and poor' — President claims China 'could not be happier' with AI data center backlash in the US",
-      "summary": "Trump says communities that reject data centers 'want to end up being backwards and poor' — President claims China 'could not be happier' with AI data center backlash in the US Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPMGhQZHFyYUNEX2hYWW0ySkk4MzlRTjRXS2FmRmJTTU0wakI0aWo5dWMyZm01N1NNN2txZFhuOVpxQlZEcF81N2FXaV92WDRtbEVfakROZF9nMUs4SkpiQ2VjSHJwOWl5akI1WDIxQXlCWFFDMWdGWDJScURwU3hvbGl5RFBUcF9ZUmdnbEV1dHFtWGFnaHJoZjh5UzUxaVliSFNxSGY0b3hKa0ZwNzJhQnhzdGU5aVNNWUJxcmg2VWJ1a1hRbjFkeURNZ3VxTEJtdDZOQUM5dmtBZDJ6bzNMRHMxUG9ncW1vVGM4NmxKa1JLamhPUnlBZHlNQm5RQkNhbEpnZEp2SkVkOXYyTl9ZeWsyTk1takMtQnA0c1BGd0hXREMwV2hHOU40YzQxa01TSGVfOVIyYmsza0NCbGpoMkk1cm5LeDY3SUE?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-08-31T17:05:57+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Motorless solid-state cooler uses heat to cool itself; could recycle processor heat into cooling — shape-memory alloy films could turn data center exhaust into refrigeration",
-      "summary": "Motorless solid-state cooler uses heat to cool itself; could recycle processor heat into cooling — shape-memory alloy films could turn data center exhaust into refrigeration Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQa1djbTZtazZaWjJIM0pLY2ZRRUxxS3ZYQnRWSGxHVzVWMmZtcDlUZUMtVTZHN2JzMzZfV2lDaEJwOWprRDhMMEFEaVJfMFhabGkzb1Z1MElPR3V1dEF4czNvM0FJbXJuNTJjb0Z3UGwwZ2w4WTFfR21nVWRGeEN0U3F3ZHNnUnZMNFN2MXhHczIzNTl3S05BeDhXWmlsX1l0UUpZQ1FzR1NkckFxaEp3ekRNYVJmMFR3eFV1SHZXM1U1UERuOW9Qc2FSelZKYzRUSk9kdmVsQ1F3UVVDZVp3SVBtd2Zpbi03eHZabGVoYnRFc3NEU2plY0dRMDBacjBEQVRSTzFaQkpYLXBMQlEtWC1Ya21mYnZITXpOTE9pNGI0WUxYUEFqSEl4RGVTN2tJSnZOUFY1VW1IQjJGRUhyRnNSUU0tWDhpS0xF?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-08-31T15:40:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Amazon and Nvidia are dramatically expanding their AI partnership",
-      "summary": "Amazon and Nvidia are dramatically expanding their AI partnership techradar.com",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlZ0d1piM20wdlB5YVo2dkpMU09EdWt4dG8zS19nMTRETXpONXNGT3ZTSGM0NV8wT3ZLUlE5ZmwwM0NIU1NMaXIzMC1oOWZHTWktZUtjai1uRUJOcVpqeThCU0FyZlZuYmxEdDh5NE5zRXlXTGo0TmphN0VlUnRCUGJxSUQzemFibUZMem8zaEVDSWRCdzQyTWs3bXg0dnc?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-08-30T22:10:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Hot Chips 2026: XCENA and Samsung’s Near-Memory Compute CXL Device",
-      "summary": "CXL memory expansion, with a side of compute",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-      "age": "3d ago",
-      "date_iso": "2026-08-30T07:25:37+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Hot Chips 2026: Samsung’s Processing-in-Memory (PIM)",
-      "summary": "In-memory compute with LPDDR5X",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "age": "4d ago",
-      "date_iso": "2026-08-29T05:36:33+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "X says it found and took down a Chinese bot farm posting anti-AI data center content to thousands of followers",
-      "summary": "X says it found and took down a Chinese bot farm posting anti-AI data center content to thousands of followers techradar.com",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZUxjUE9PTWtWRTVUR2d0RWxtMUNmU1ctTnZacE9MT0lLT1h6a3E3b1JVRDhPaTJJa0lKQTdVQzhmV0VET2VVM1JiaUlXeFhpY3dSZXRKNTY3RHcwc1VraTlzT1B4TGY5V2xadThJQ083ZmVVbnl5OHZidm9UdV8zTHUwTlJhMzRPWTI2OFFsVTlCY1VTNmk5UTlwSFZXOGhxaGxkOVdZeFZCVWtYSnNCc1pRWThzUk5BTFZIcHlHaE9uMXdHclJnYzJIYWsyT2hSWGVCUFBOVzhTRU5ZT215SnVDUQ?oc=5",
-      "age": "4d ago",
-      "date_iso": "2026-08-28T17:05:00+00:00"
     }
   ]
 }
