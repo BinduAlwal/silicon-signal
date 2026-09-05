@@ -1,69 +1,60 @@
 {
-  "generated_at": "2026-09-04T11:54:01.481149+00:00",
+  "generated_at": "2026-09-05T11:03:24.957145+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Telxius to build Edge data center in Cancún, Mexico",
-      "summary": "Facility will serve as the landing point for the Tikal submarine cable, which will connect Puerto Barrios, Guatemala, with Boca Raton, United States",
+      "title": "The role of manufacturing in tomorrow’s data center buildouts",
+      "summary": "Procurement infrastructure that hasn't scaled alongside the investment driving it",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/telxius-strengthens-caribbean-connectivity-with-a-new-edge-data-center-in-cancun/",
-      "age": "just now",
-      "date_iso": "2026-09-04T11:50:31+00:00"
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-role-of-manufacturing-in-tomorrows-data-center-buildouts/",
+      "age": "1h ago",
+      "date_iso": "2026-09-05T10:00:34+00:00"
     },
     {
-      "category": "edge",
-      "title": "Wayve and Uber steal a march on Waymo with paid self-driving London rides",
-      "summary": "15 Mustangs on the city streets, but the Nissan LEAF follow-up could dispense with the safety driver",
+      "category": "gpu",
+      "title": "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
+      "summary": "AI workstation promises to put up to 576 GB of HBM3e and 16 TB/s of memory bandwidth on your desk",
       "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/09/04/wayve-and-uber-steal-a-march-on-waymo-with-paid-self-driving-london-rides/5294451",
-      "age": "1h ago",
-      "date_iso": "2026-09-04T10:45:00+00:00"
+      "link": "https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616",
+      "age": "14h ago",
+      "date_iso": "2026-09-04T20:12:11+00:00"
     },
     {
       "category": "infra",
-      "title": "Data center proposal approved by local council in suburb of Frankfurt, Germany",
-      "summary": "The facility in Gießen will have a connected load of up to 65MW",
+      "title": "T5 spins out construction arm, sells operations biz to Salute",
+      "summary": "T5 Construction now EverOn Data Center Services",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/data-center-proposal-approved-by-local-council-in-suburb-of-frankfurt-germany/",
-      "age": "1h ago",
-      "date_iso": "2026-09-04T10:20:40+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Crusoe signs $13bn deal with Jane Street - report",
-      "summary": "Will run for five years",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/crusoe-signs-13bn-deal-with-jane-street-report/",
-      "age": "1h ago",
-      "date_iso": "2026-09-04T10:03:52+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/t5-spins-out-construction-arm-sells-operations-biz-to-salute/",
+      "age": "18h ago",
+      "date_iso": "2026-09-04T16:40:25+00:00"
     },
     {
       "category": "infra",
-      "title": "Bitdeer buys 200 acres in Milam County, Texas, to expand AI and HPC data center",
-      "summary": "Plans to expand AI and HPC capabilities",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/bitdeer-buys-200-acres-in-milam-county-texas-to-expand-ai-and-hpc-data-center/",
-      "age": "2h ago",
-      "date_iso": "2026-09-04T09:25:08+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "UK military wants lasers to stop drone swarms without running out of ammo",
-      "summary": "Project PANOPTES puts £5M on the table for an autonomous, vehicle-mounted defense",
-      "source": "The Register",
-      "link": "https://www.theregister.com/offbeat/2026/09/04/uk-military-wants-lasers-to-stop-drone-swarms-without-running-out-of-ammo/5294176",
-      "age": "3h ago",
-      "date_iso": "2026-09-04T08:30:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Nvidia acquires Hugging Face for $12.93 billion — company gains control of major AI model distribution platform",
-      "summary": "Nvidia acquires Hugging Face for $12.93 billion — company gains control of major AI model distribution platform Tom's Hardware",
+      "title": "SpaceXAI offers 50% Starlink discount to placate data center's residential neighbors; 2,000 have signed up — goodwill gesture comes amid vociferous community backlash",
+      "summary": "SpaceXAI offers 50% Starlink discount to placate data center's residential neighbors; 2,000 have signed up — goodwill gesture comes amid vociferous community backlash Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaENaamZ6VUxMR01XWjgwaUpvMmJoaU8wS2FaUmVIX2xELTM5QVhmR042RGNwenhPS19LLXlKdlBJLXlabWROYml5SWd5bGN1b3pFdlNEbFI4aG1tMHVDWG9qWGgwUzZPT2lrdEFQd3hwX2xma1dIS1EzQkdvX3JuczJpSFdHYXlOZDFGN2hrS1hBT04yZzNqcVI0VUZsNk5YcjZOb3hGdFRoYkRSNkhOWFpRZy00TGRaS2IteXJobmRJb3JoeDh5UG5EaG13Y2xURjVWenBxbFB4SWU5MWt6QkFrbWVsRUFIWGw3QmVjWEJVSE9XNW03YTVNYmRTZkdfUlNoa29QOWpxQQ?oc=5",
-      "age": "16h ago",
-      "date_iso": "2026-09-03T19:05:37+00:00"
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaG9WbjVac2ZCUVktNVRvS0d6VEFEaVE0OVlHRFd1d2RQbm1qNWxKaXlPZjE3dFpqVk13QldNcTByZC1wbFFXT2Vwa0k5cVVEemhLUWxvT1lhS1VIaWJzQnhWX3NnMFVIWWJOZHB3RTdxUFNwcFhWb1NSZEo5M1VYZF9GblJnRWIyT1B1cWtOUVJBcE1HVTZ2VGV4VjFJV3N0YldXdFlPeXJJb09YY0gyS014QjZNTHlMcmtVX013SzZ6QWZYQkxEOVJ1RUZ5aERyakVTbDc5Vmk2dUNMR3Y3WjZJY2N1eVdQSXdqTEQ2SG5fYUZPRkNkTTNmdXZVaUFPVDFYZHdxaGs0UmVTYjc5eUQxQjNUa0FVeVMzSEc1NUozRE52N2ZjekpmaFc2WlEycUY2SWhHckJRQnROYndQWllkOHZiejZpejN3Wk0tZkNPd2ZuZGFpRWE2eXJLZw?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-09-04T15:44:29+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Denver data center continuously waters its lawn even after city announced drought restrictions, enraging residents — it’s unclear if site is breaking the law or using its own recycled water",
+      "summary": "Denver data center continuously waters its lawn even after city announced drought restrictions, enraging residents — it’s unclear if site is breaking the law or using its own recycled water Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNcFRfVEVrMUlTVGpuYlBIdkhFT3RZUFdHRVhHSHNOOVl5QVBlT01qZkp1Rk84VGMxN3pnZFdkZ1RmNWJCVXFIenp4WmlKSG1oYkt3aDF1WkRqZkVYd3FLTE1fbHlZSXp4alM0blU3clpEZFhjSmd5c3cxeU5ValRXbDU4UFZKeU44UDhTQW5tSC1XWEhfRVJlcEZqUnJiZ2lvOTdneV9tMUxmdVhjOGh6UzBDTHN5Ym85SzJST3FiYUhHLWJrcFVqcGR4cDl4TVExVEQwQWpLbVFCM2FfYlFvSXNqM21aT2E1UWQ5OVFERkhZTXlWcWdqRmJfZFBTdFJaRlpBcHQ3ZXhVUXVxUTlJZEdBRkVHMEN3ME5QS0xPdms5V2E4OFVWZS16eGltd2xmQk5LVTJ2dGticWZtNUd4c0Zja3FrRTg2dFZzV25fLXQ3TjlQN0VrZU53M0RBZw?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-09-04T13:26:18+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "NVIDIA DLSS 5 Neural Rendering Tested: Incredible Photorealism, Performance Explored",
+      "summary": "NVIDIA DLSS 5 Neural Rendering Tested: Incredible Photorealism, Performance Explored HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ENzM0MlhJaGM2b3BHNEszellJZHU2eU9BQkFoaHo4NHlCNXlxRTk2SzVnbmtTWml3WS02NTJILXJibTlYRU55Z2RfejB3ejZ2SThJdkNldFl2MEs5NVBXNF9aWUR2UnhNMmNCaG1HQkx3QXVM?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-09-04T04:10:00+00:00"
     },
     {
       "category": "gpu",
@@ -71,7 +62,7 @@
       "summary": "Nvidia PAIR utility joins every GPU in your home into a cluster for agentic AI tasks Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNMS10VUk0Vl9abERwMlJrclRSb2NkS2V2cVJBUG5FVGJqaWNSazhULTEwMTdVZEdvOHBIWUxYU09YcXZGU0FHQlJUSmVTMGlmYUtZZEhxS3BsOVM2NUVOaS1sSTBrWnFNQXJKZ1FuR3pLNkxaZk50ZHdUYXZiTm5yMmhHWHgxUHpXVnU0aTVOckt2WFdldkF3VUNSVUJiazh3TDNUUWpFM0hWam1HUmVoZ3lKUEd4cGNEOFBCdFRQOGRHMEtlOW94WHYtUlJ2ODhmV0JvSzBtcnRBaTIxZjVQaEd6aHJXeHZoQ2dvdFNsdTQ1ZUFKOWF6SHJjaFpUbWMtNmlfd092SHAyb25SWmpiTEpPZnhwRmZZdm1qbG5GVmZJbmhiblhTMGFIdGdTTGVrSkhaeV9qUktQLUVDUEhV?oc=5",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-03T16:00:00+00:00"
     },
     {
@@ -80,8 +71,17 @@
       "summary": "Almost 70% of voters in Missouri city vote to recall council member who said yes to AI data center tax breaks — councilor said disagreement over an issue shouldn’t be enough to unseat him Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNc05PMWxza2pEaDU5TjlQM1BqamdCN1V6ek9PNDNFaWxqdUs4VmNQZEhRS0F5QzdPVkczWXp4blh3ZEpINDVaZzlSMjA3d0I4R0oxTXR6WHFtX2ZXaktWY29TRDdUSDQ5Y1NlWk5QRVk3dUVHWXI3NnZCd1NHOWtyaDlmamxHRnU4b25Oc0JCbmNiS04zeVVidmd0ZTlLb056dU9vbmh1bjRPcW90ZTlieXdmWjVTN2hkd2FNdEZwaVh4Q0swWXRSSzZYUEowN2swUV9ITFJTVVNlWHc0YWc1NVNuZzJtZm55MVhLSFFVdjhyY1RfYWdJWENEak5hcWY5eElhSk5md0FsSGxhd2EzRWJCNFZjV2lwRkdSNTA1ZkIyX1lxZHVoM3JUcm1aMVM0THRxQmE1NERCX1ItY2NwSnlkdEpLaUc4ZDRTS2VIejl1V2RiMUMzSXNFUQ?oc=5",
-      "age": "21h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-03T14:52:55+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Broadcom Q3 Results: CEO Tan Forecasts Surging AI Infrastructure Buildout",
+      "summary": "Broadcom Q3 Results: CEO Tan Forecasts Surging AI Infrastructure Buildout crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1ZIOUlWd2ZRODVVQ1E4ZDBleWE5WlNzc082Q3A3eVQxRDNhVXVaUHN3UFRmQVhwcXFMTi0xUXFXU3FUWmFiMHg2dEpVVmdwWVFpenUxbGtDZVR3b1AxTFpZekN1MHYyVE5rQ3BjcmV1VnR3aC00OGhka1F6QmRILXRja1dTOVlHYlNTb2N3YWdKNzhWci1nQmFWbnpFQQ?oc=5",
+      "age": "2d ago",
+      "date_iso": "2026-09-03T00:33:00+00:00"
     }
   ]
 }
