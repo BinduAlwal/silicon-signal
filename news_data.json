@@ -1,42 +1,69 @@
 {
-  "generated_at": "2026-09-08T11:54:09.265746+00:00",
+  "generated_at": "2026-09-09T12:03:33.925228+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "SGC Energy partners with Vertiv to deploy PowerNexus at planned AI data center in Gunsan, South Korea",
-      "summary": "Expected to be energized in 2028",
+      "title": "Oregon pauses land sales of state owned property for data center projects through July 1, 2027",
+      "summary": "Governor directs all transactions on state property for data centers be frozen",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/sgc-energy-partners-with-vertiv-to-deploy-powernexus-at-planned-ai-data-center-in-gunsan-south-korea/",
+      "link": "https://www.datacenterdynamics.com/en/news/oregon-pauses-land-sales-of-state-owned-property-for-data-center-projects-through-july-1-2027/",
       "age": "just now",
-      "date_iso": "2026-09-08T11:30:31+00:00"
+      "date_iso": "2026-09-09T11:50:23+00:00"
     },
     {
-      "category": "cpu",
-      "title": "Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform",
-      "summary": "New CPU and GPU designs chase lower latency and richer games within a 1 W power budget",
+      "category": "policy",
+      "title": "Ivory Coast targets launch of first state-owned data center in 2027",
+      "summary": "Will be backed by US Export-Import Bank",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/",
+      "age": "just now",
+      "date_iso": "2026-09-09T11:30:26+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Google and Blackstone JV experiences delays in data center projects - report",
+      "summary": "Project Braid hits some snags but executives say it is making \"strong progress\"",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/google-and-blackstone-jv-experiences-delays-in-data-center-projects-report/",
+      "age": "1h ago",
+      "date_iso": "2026-09-09T10:50:25+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Oracle issues RFP for 2GW of new renewable capacity in New Mexico",
+      "summary": "Announces $1m funding package for carbon capture and storage research",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/oracle-issues-rfp-for-2gw-of-new-renewable-capacity-in-new-mexico/",
+      "age": "1h ago",
+      "date_iso": "2026-09-09T10:20:26+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Playing their part in a sustainable AI era: How businesses can tap into data center power without spiking emissions",
+      "summary": "Why we need to ease the burden on power infrastructure in order to capitalize on the potential of AI expansion",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/playing-their-part-in-a-sustainable-ai-era-how-businesses-can-tap-into-data-center-power-without-spiking-emissions/",
+      "age": "2h ago",
+      "date_iso": "2026-09-09T09:54:32+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Philippines bets AI will lift GDP by 12 percent in seven years – without hurting outsourcing",
+      "summary": "Plans 30x datacenter expansion for less than what big tech spends in a month",
       "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/09/08/arm-pushes-agentic-ai-and-desktop-quality-graphics-in-next-gen-phone-platform/5294867",
-      "age": "3h ago",
-      "date_iso": "2026-09-08T08:35:00+00:00"
+      "link": "https://www.theregister.com/public-sector/2026/09/09/philippines-bets-ai-will-lift-gdp-by-12-percent-in-seven-years-without-hurting-outsourcing/5295178",
+      "age": "6h ago",
+      "date_iso": "2026-09-09T05:25:44+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Huawei proudly shows off an entirely un-American chip",
-      "summary": "Resistance is futile",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900",
-      "age": "9h ago",
-      "date_iso": "2026-09-08T02:22:05+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Arm debuts next-gen semi-custom Neoverse CSS N4 ‘Ranger’ platform — compute subsystem packs up to 128 cores per die on TSMC N3P",
-      "summary": "Arm debuts next-gen semi-custom Neoverse CSS N4 ‘Ranger’ platform — compute subsystem packs up to 128 cores per die on TSMC N3P Tom's Hardware",
+      "category": "infra",
+      "title": "Thailand asks data center operators to suspend 49 buildouts until legal framework is complete — new legislation is supposed to create 'airtight' requirements for large-scale data centers",
+      "summary": "Thailand asks data center operators to suspend 49 buildouts until legal framework is complete — new legislation is supposed to create 'airtight' requirements for large-scale data centers Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdEc2LWFQRzRaY1JjWWc3S2lQQUw0UlRpWXZiR1Z6LVdsQVRvWTMtYzFrbU1BMm9xX0hfaEd4YXhSMDBXNldNNnQySlkwdzdGczUzeDJPbC1pWi1STDAtZFRTN0pDR3Q2b09ORGxrVlRnZ3g1Y196UHFJbVNySTVBYWp3a1NIMjVfOUdlT1UzN0tocFozUXVVQXBKVVZyeHlkTEZEVDZKVlFfWHg0VFpDMmFON1RRSmR2TzJJX3JDRXZac0czV2RCckRDa3l0X25MckstLVVwU3Q5Rlh1NmowVTYzR1dINUpOTjhSa1pqY0hxdjdkWEtORXpWSjdqZTZr?oc=5",
-      "age": "9h ago",
-      "date_iso": "2026-09-08T02:00:26+00:00"
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNZjFOOHBYbjNPT3RlbWNGT215MXViOFoyODR3SHpDd2pVYVVpek1SYU82UzdySnROVjRONjd4X3M0RldXTk1jY1ctbXQ2a0htblo0QmVXRFROZkh0SHlpd0puX3JJR3pBSVFMRDhkYUc5RmJabnhYLUQyNTg5WE5wSVFBdDduYllCeXhZdFM5aFVyVS0zUmFVbFNQTzhtUFVaOGtITDFaYV9EdnEzY1lmUDQ4V0VybmJKTkR6cWRwOER6N1lnbnQwS2VtVWVxRmRWWG9PdGNpYWtJdTlwUUVzRURFZVpVRnpESEZMUzc0a25iM0JmX0VCVGpQT2ZkZ2xGT19MVEN5dUQ4UmpadWcyaEljNGFPaFBMLVNvYVNucTQ1MkNnRkgxa29YUkI3Snp5TkI1MlJ1TjhFRS03WW1JdEVINW9IS05QYlR3QTNyd185MW8?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-09-08T11:00:00+00:00"
     },
     {
       "category": "gpu",
@@ -44,44 +71,17 @@
       "summary": "Editor’s Note (9/8/2026): Arm has reached out to clarify that the maximum IPC increase of the C2-Ultra core over the C1-Ultra core using the parameters shown in the endnotes is 7% along with the memory bandwidth improvement not factoring into the IPC…",
       "source": "ChipsAndCheese",
       "link": "https://chipsandcheese.com/p/arms-c2-ultra-g2-ultra-nx-and-css",
-      "age": "9h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-08T02:00:00+00:00"
     },
     {
-      "category": "infra",
-      "title": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures — facility operated for years under a city stop-work order",
-      "summary": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures — facility operated for years under a city stop-work order Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSG14V0NNdFlOUlVMVHFSVzBENmRiMnVtZGtIb2VxX3lYYU5DeGNLYy1YeGJYN0dGN1JaMU9MVHhnaUtnRlJkSmIyMzZsZkVXU2toTjdaOWU4ZlY3dVd0ODMtRC1UdzdIeEhiVzFIUWhKVnZTVWpVVGo4c1N1S0V1RWpGejNQSXk3SnEwbmR2U0M3ODJmUnpPZ2l3eEhhaUVpUEJfX09ScWhFTldqbVpqR0hGUDZieXdnLURfZ1JtcmZRREtfd1NMY2VuQkJrNnRoQV9xQWpra3VpUklxWHYtb3k2OHg2MTRaZWJhOVhUSXBfY0J0S084Rm9fd2RmMzBVUHFBNnR0b3JURzhiSm5XZGstS0ZlWWxWWW1KdFQ5OGJJRDE3VlRYVkZRZ0puUFpLaWQ0YV9SbU1ONnJSSmhF?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-06T13:44:22+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Nova Lake Leak: When To Expect Intel's 52-Core Monster Gaming CPU",
-      "summary": "Nova Lake Leak: When To Expect Intel's 52-Core Monster Gaming CPU hothardware.com",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QdG5tcWV4Y0Y4YWZoZWI0OXVHUktSc1pDU21vUnJodzNyYlc0UWIwYktPQ2h0U0lTdWpKV2FZVGFNTjBEbXoyNXZSMDJxcXhtbnRRejVxRlBZdUNHN1ZSdTh0c0toejZ6bmZIbGV1ZmpfSVVCM0VheUFXcw?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-09-05T18:20:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Nvidia unveils custom high-bandwidth memory promising higher bandwidth and lower power use - but who will actually get to use it?",
-      "summary": "Nvidia unveils custom high-bandwidth memory promising higher bandwidth and lower power use - but who will actually get to use it? TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQW84R3hqMjFmT1lTaFNMZkQyWTQ5X0NvbTBMaVhWcUs3a0VFa0ZiTmJfbnBXdkctbXJMclZfSklFQ1NxNUpwMFVuUFBtRlViVXh0alBnb0JaMlA0Q3lMbVJrcXpMRVJ5RmI5aHBrbWlTZmhZTjRybGJSZ1p2aWIycGlHeXIydXREMXB1VWRoSGxNQUpZaDEzZzFfWTk3MlFPaGJyN2pvYVZrNzN0LVVmSlZmbzJrMGpubDJqc2NmR1dwUml3YkJEMXQ5anlPTC12d0g5TW9NODliWkpBUzdnd3FyMTl3RnBjWU1pNg?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-09-04T20:15:00+00:00"
-    },
-    {
       "category": "gpu",
-      "title": "Minisforum launches local AI solutions at IFA 2026 — AI Agent NAS N5 and AI Mini Workstation MS-S1 use AMD Ryzen AI Max+ Pro 495 processors designed to run models locally",
-      "summary": "Minisforum launches local AI solutions at IFA 2026 — AI Agent NAS N5 and AI Mini Workstation MS-S1 use AMD Ryzen AI Max+ Pro 495 processors designed to run models locally Tom's Hardware",
+      "title": "Arm debuts next-gen semi-custom Neoverse CSS N4 ‘Falcon' platform — compute subsystem packs up to 128 cores per die on TSMC N3P",
+      "summary": "Arm debuts next-gen semi-custom Neoverse CSS N4 ‘Falcon' platform — compute subsystem packs up to 128 cores per die on TSMC N3P Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQYnNEdnVSLVVFd3B1cndwck1zRjJ5SFR4UFpkdW9oclFOTDIzU3dQclI1RUpMYnpoTGVZcUxIQnRtNC1LakRoMU9VWGwzMXZmWlFTbVBfRTJKR09FVDU0ZWpuM3NxcU0yNGNQdXJ4bUY1TUMzUjVzS0JIUWVoQmF2b3U3VGNNd1FWX0ZFeU03N2MtZkhVYzZlVWdzNmRlc1BkYXBaVnQ2TFltUU1YVDVJTWpvUDlUcjFySXFWVzZ0anNkaGhnaDJMazcwX19NWExRT01tY3d1ejlnYXJRUGNOaG5QOXYzdWYxdVBzVE5Tb1ZUcElEOHVrSFlhWnFwYWFOTWdzeE9TcUtpc0otOXJCamp2UWlybGxJTTRYcjhUdy1FNHhSaGJ4dVp0aGx6ZVFzWmtwUG1RTDVzUQ?oc=5",
-      "age": "3d ago",
-      "date_iso": "2026-09-04T16:15:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdEc2LWFQRzRaY1JjWWc3S2lQQUw0UlRpWXZiR1Z6LVdsQVRvWTMtYzFrbU1BMm9xX0hfaEd4YXhSMDBXNldNNnQySlkwdzdGczUzeDJPbC1pWi1STDAtZFRTN0pDR3Q2b09ORGxrVlRnZ3g1Y196UHFJbVNySTVBYWp3a1NIMjVfOUdlT1UzN0tocFozUXVVQXBKVVZyeHlkTEZEVDZKVlFfWHg0VFpDMmFON1RRSmR2TzJJX3JDRXZac0czV2RCckRDa3l0X25MckstLVVwU3Q5Rlh1NmowVTYzR1dINUpOTjhSa1pqY0hxdjdkWEtORXpWSjdqZTZr?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-09-08T02:00:00+00:00"
     }
   ]
 }
