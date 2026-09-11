@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-10T11:58:09.895855+00:00",
+  "generated_at": "2026-09-11T11:57:13.530547+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Nvidia partners with Aussie companies to bring 2GW online by 2027",
-      "summary": "Chip designer teams up with cloud providers and data center operators in Australia",
+      "title": "Microsoft targets 38GW of data center capacity in 2032 - report",
+      "summary": "Currently operates ~12GW",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-aussie-companies-to-bring-2gw-online-by-2027/",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-targets-38gw-of-data-center-capacity-in-2032-report/",
+      "age": "just now",
+      "date_iso": "2026-09-11T11:28:09+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Oracle delivered 300,000 GPUs in Q1 FY2027",
+      "summary": "Executives also tease \"new agentic AI accelerator\"",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/oracle-delivered-300000-gpus-in-q1-fy2027/",
+      "age": "just now",
+      "date_iso": "2026-09-11T10:58:37+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Amid data center public backlash, Yvette Eden Ruiz joins OpenAI’s Community Engagement team from JPMorgan",
+      "summary": "As data centers become an issue for the midterms, OpenAI looks to change the message",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/amid-data-center-public-backlash-yvette-eden-ruiz-joins-openais-community-engagement-team-from-jpmorgan/",
       "age": "1h ago",
-      "date_iso": "2026-09-10T10:35:04+00:00"
+      "date_iso": "2026-09-11T10:14:07+00:00"
     },
     {
       "category": "infra",
-      "title": "S+B Gruppe to build data center in Bucharest, Romania",
-      "summary": "The 12MW facility has secured planning permission from the municipal authorities",
+      "title": "Australia's NextDC raises AU$1.1bn in convertible notes",
+      "summary": "More funds for data center build-out",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/sb-gruppe-to-build-data-center-in-bucharest-romania/",
-      "age": "1h ago",
-      "date_iso": "2026-09-10T10:30:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Google-Blackstone's TPU neocloud named Crux AI, hires Meta's data center engineering head Alan Duong",
-      "summary": "Plans hiring spree ahead of 2GW/year ramp",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/google-blackstones-tpu-neocloud-named-crux-ai-hires-metas-data-center-engineering-head-alan-duong/",
-      "age": "1h ago",
-      "date_iso": "2026-09-10T10:16:00+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "On Binary Translation and its Consequences",
-      "summary": "The PC market is one of the toughest areas for a CPU designer to compete in.",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+      "link": "https://www.datacenterdynamics.com/en/news/australias-nextdc-raises-au11bn-in-convertible-notes/",
       "age": "2h ago",
-      "date_iso": "2026-09-10T09:46:18+00:00"
+      "date_iso": "2026-09-11T09:53:32+00:00"
     },
     {
       "category": "infra",
-      "title": "UK Prime Minister Andy Burnham rejects calls for national data center moratorium",
-      "summary": "Says AI Growth Zones will benefit communities",
+      "title": "DCD Talks: Powering US data center growth beyond the traditional grid with David Bosco, PROPWR",
+      "summary": "David Bosco, SVP Commercial and Strategy at PROPWR talks to DCD's Zoe Turner about how US data centers are turning to behind-the-meter power as grid constraints intensify",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/uk-prime-minister-andy-burnham-rejects-calls-for-national-data-center-moratorium/",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-talks-powering-us-data-center-growth-beyond-the-traditional-grid-with-david-bosco-propwr/",
       "age": "2h ago",
-      "date_iso": "2026-09-10T09:36:00+00:00"
+      "date_iso": "2026-09-11T09:39:32+00:00"
     },
     {
       "category": "infra",
-      "title": "Renewable energy firm Friesen Elektra explores data center project in Lower Saxony, Germany",
-      "summary": "If approved, the facility in Sande will be built at the firm’s existing hydrogen park in the town",
+      "title": "Nostrum's data center in Badajoz gets the green light for electrical connection",
+      "summary": "The power supply system includes a 400/220 kV substation",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/renewable-energy-firm-friesen-elektra-explores-data-center-project-in-lower-saxony-germany/",
+      "link": "https://www.datacenterdynamics.com/en/news/nostrums-data-center-in-badajoz-gets-the-green-light-for-electrical-connection/",
       "age": "2h ago",
-      "date_iso": "2026-09-10T09:35:18+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Arm Neoverse CSS N4 Launched for Next-Gen CPUs and DPUs",
-      "summary": "Arm Neoverse CSS N4 Launched for Next-Gen CPUs and DPUs ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYi1zQ2kwNEVoT19OSS1TWE4tSnZRdktGVHpPcHVrdEwtcl8tV2E2OWROd2E3UGZZQ2ZRQXRnMTQ4b3JwaC1yQUd5OGVwSlF1S2hTNzdROE5GSUlKbWEwNmdjMWJmRGwxem1vNDVDMGs1dENlZFFVemg0N1JXS3ozcDN4ZlA0bmhaYzRmaGRn?oc=5",
-      "age": "18h ago",
-      "date_iso": "2026-09-09T17:10:12+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Analysis: Does Qualcomm’s AWS Server Chip Deal Signal A Channel Shakeup?",
-      "summary": "Analysis: Does Qualcomm’s AWS Server Chip Deal Signal A Channel Shakeup? crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFMzT1NiNWpCbkVZdVlYN0FULWJLVUNaZVp4N2NxMkFoWkRHdHhnczh2c0JpNGhtSkt1WmtLSmRMVDBoeE16QmlQTkFLU0tSMVVHWEpyaUF5ODlSdHZLM2VacGlWaWUwTXV0dmRxZXk2Y1hmYWxuVkF2N1Eyelk5TWZKTDhmVWx1Tk10ODlXTzNlNEhMZ3N4VmduMTlZMWFXZUFGZWJ1OGNLcVc1VUlyN20tY1FUUkEyaHN4S3RZTEtIa3R2?oc=5",
-      "age": "19h ago",
-      "date_iso": "2026-09-09T16:53:00+00:00"
+      "date_iso": "2026-09-11T09:00:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "OpenAI says its next-generation processors could be made at Samsung — double-sourcing with TSMC hints at massive volume requirements",
-      "summary": "OpenAI says its next-generation processors could be made at Samsung — double-sourcing with TSMC hints at massive volume requirements Tom's Hardware",
+      "title": "Microsoft annoints Rust as a 'Tier 1' internal language",
+      "summary": "Redmond's coders get the tool to help them scrub memory bugs off Windows",
+      "source": "The Register",
+      "link": "https://www.theregister.com/devops/2026/09/11/microsoft-annoints-rust-as-a-tier-1-internal-language/5295732",
+      "age": "5h ago",
+      "date_iso": "2026-09-11T06:26:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
+      "summary": "It’s a better interface, can speed installations, and drives IaaS sales too",
+      "source": "The Register",
+      "link": "https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736",
+      "age": "9h ago",
+      "date_iso": "2026-09-11T02:43:10+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "The ABF substrate data center roadmap — solving the supply crunch and material wall beneath every AI accelerator",
+      "summary": "The ABF substrate data center roadmap — solving the supply crunch and material wall beneath every AI accelerator Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVTFNNG4tc1dDb1pIRDBCc1NLTWZkVFE5b3hxWDVHVVJUdTl5c293dVJSc2dYU2xPSFVZemx3Z3poLVQ1TFV4bVZSQ0d6Uy1QQnR1cHNyeElhUTk4N3hXaFloNmJfU3VtbzBDbnpPMXBwR3dfa0JCd1hUUkdRMjEtMUpFR3NGRmVDTXo2RUpjM3hCTkpwUjREZnhPRmhqX2d0eWVmSHBURm96QlgyYlRlaFBhZGk1aC1HaVdJTzYyb0ZqLU9VaG5zUzRJYkxXUEp1N05vSGZLSEloS2NHZ1FvbmNSRXVUVEIxbjVvRkE3WFcyLWFJekVIMUxEQVBHZ3pNZkMwQXBXS3VzUzE5MlZZOFVFQ0cwdjFCQUFyLTViUzBNZlk?oc=5",
-      "age": "21h ago",
-      "date_iso": "2026-09-09T14:30:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT3dnVEx6cklzYVNIZXFnM3FDb1UwekY2QWlUYXc3ZHlpUGVrM09IbS1HeVpIakZsa3p1ZjMyRkVubnpMYVpMekRnRFNyblFuOXVjRlcyNS05YktKWndyWUk0T3YtWjZLQlg5U0g3U1BzUm1DUS1maXRmcFp2QnBidUtQMndsSmJkUEVqa2JLQXFBSEp6N3lZRFVGSlNGSmpDRUZZTWp4SEN4RGI2SzdHX0VaZDFkRDdacm53aU5scUZoTXZzRTNLYlE4enI5aWRUZWQ2UGVwU1kwYWlzanFaTlNxTnR3NEZzUXBQQks3U1VaaGVycVZFREdFdEFiSzZTLTRldlFreFozM3BUNW9jOU9uMEpITE1w?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-09-10T12:00:00+00:00"
     }
   ]
 }
