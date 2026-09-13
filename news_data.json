@@ -1,33 +1,69 @@
 {
-  "generated_at": "2026-09-12T11:23:31.545123+00:00",
+  "generated_at": "2026-09-13T12:27:18.868482+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "From grid constraint to grid asset: Rethinking the path to data center power",
+      "summary": "Stop asking for permission and start offering solutions",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/from-grid-constraint-to-grid-asset-rethinking-the-path-to-data-center-power/",
+      "age": "1h ago",
+      "date_iso": "2026-09-13T11:00:30+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sponsored: From pilot to production: Direct liquid cooling deployment risks in AI data center cooling",
+      "summary": "Examining the top eight challenges of direct liquid cooling vs air cooling data centers",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/from-pilot-to-production-direct-liquid-cooling-deployment-risks-in-ai-data-center-cooling/",
+      "age": "5h ago",
+      "date_iso": "2026-09-13T07:00:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "d-Matrix Joins the NVIDIA NVLink Fusion Platform",
+      "summary": "d-Matrix Joins the NVIDIA NVLink Fusion Platform ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNllqcWRHV0NHcmxiUkNoajBPWENKNElsTjd0cWc1d3hOMG9UckVsUFJTbUo5ZmpvQUJlUjY4c3dyeTFsV3g1eEw3MW55UlBaSmRoWk5JbjM5aDFvZC11elZ3QUVha083X0JOd3Fxb0hQbTZxOUhodUJpOVdyaXA1MU04UXg?oc=5",
+      "age": "14h ago",
+      "date_iso": "2026-09-12T21:42:59+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Deathray Browser Attack Proves Mac GPU Drivers Are Still Vulnerable",
+      "summary": "Deathray Browser Attack Proves Mac GPU Drivers Are Still Vulnerable hothardware.com",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXFaRjRtMUkxWmpHYm83cmRiUXdKcTN4RGp3QkRHUGNjVTZoT1N6OTE1UHNqcklLaXVxN1BDNEhfUmZrdDZTbVFBRFBDajhmUmdYak4zUFpvMkp4VHp3bjJ6dWx5bTZITk9pVHJZd0tpa050dkxSeFRWX3BZbmlqZHhHRURzRDF5QWt2S0tHaGdmY19FbTM3NnNwYy0?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-09-12T18:16:00+00:00"
+    },
+    {
+      "category": "policy",
+      "title": "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
+      "summary": "Even if regulators did somehow unwind the $20B deal, there's a growing list of alternatives ready to take Groq's place, no merger required",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986",
+      "age": "23h ago",
+      "date_iso": "2026-09-12T13:26:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AI has changed the data center's job description",
+      "summary": "AI rewrites the rules yet again",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/ai-has-changed-the-data-centers-job-description/",
+      "age": "1d ago",
+      "date_iso": "2026-09-12T10:00:00+00:00"
+    },
     {
       "category": "infra",
       "title": "Plans for 120MW data center withdrawn in Lombardy, Italy",
       "summary": "Mayor says municipality never received data needed for the grid connection",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/plans-for-120mw-data-center-withdrawn-in-lombardy-italy/",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-11T16:12:18+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Sponsored: Fluid strategy in the era of high-density computing",
-      "summary": "Material compatibility, contamination control and lifecycle considerations for direct-to-chip liquid cooling",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/fluid-strategy-in-the-era-of-high-density-computing/",
-      "age": "20h ago",
-      "date_iso": "2026-09-11T15:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Higher prices can't crimp server sales as AI drives demand",
-      "summary": "Shipments rise with enterprise and government buyers joining the hyperscaler spending spree",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/09/11/higher-prices-cant-crimp-server-sales-as-ai-drives-demand/5295827",
-      "age": "20h ago",
-      "date_iso": "2026-09-11T14:27:00+00:00"
     },
     {
       "category": "gpu",
@@ -35,53 +71,17 @@
       "summary": "OpenAI says its next-generation processors could be made at Samsung — double-sourcing with TSMC hints at massive volume requirements [Updated] Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVTFNNG4tc1dDb1pIRDBCc1NLTWZkVFE5b3hxWDVHVVJUdTl5c293dVJSc2dYU2xPSFVZemx3Z3poLVQ1TFV4bVZSQ0d6Uy1QQnR1cHNyeElhUTk4N3hXaFloNmJfU3VtbzBDbnpPMXBwR3dfa0JCd1hUUkdRMjEtMUpFR3NGRmVDTXo2RUpjM3hCTkpwUjREZnhPRmhqX2d0eWVmSHBURm96QlgyYlRlaFBhZGk1aC1HaVdJTzYyb0ZqLU9VaG5zUzRJYkxXUEp1N05vSGZLSEloS2NHZ1FvbmNSRXVUVEIxbjVvRkE3WFcyLWFJekVIMUxEQVBHZ3pNZkMwQXBXS3VzUzE5MlZZOFVFQ0cwdjFCQUFyLTViUzBNZlk?oc=5",
-      "age": "22h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-11T13:14:30+00:00"
     },
     {
       "category": "infra",
-      "title": "Orbital partners with Reflex Aerospace for space data center constellation",
-      "summary": "Experienced German developer finds its first US customer, promises it technology exclusively",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/orbital-partners-with-reflex-aerospace-for-space-data-center-constellation/",
-      "age": "22h ago",
-      "date_iso": "2026-09-11T12:45:41+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD Halo Station could push desktop computing into supercomputer territory",
-      "summary": "AMD Halo Station could push desktop computing into supercomputer territory TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRjdtaDB4djRYT1ZBNG10NV80bmZrU2c2MG5WNFZVWWFWT09Wc0k2aDdlOGNpYjRSaVM4Z0NJMUxPZWdxY01EQ3pOaUFnM3ZNVGRfNTZQR09SbFA0cHZ3MDNUYXVJQTRuZ1YxUktoVFhTRTEtazE0NlA4a1RnejVCRGg0SjVyNGpXVENGS2paVGpkcWhlRkxPRzd2dVRBd3JQSElBdGxuZXp1d2ctNVd1Y3JfdFI2RUNHU09heGxFTFZncTV5U3piZmN4OFI0ZDJRa0RkSFBPRGZ3VHh1WXZoa0tKOU0xZ3BMalY4QWR4TjZsNXpDdHJkeVVzbVU5QV9iWXFsWi1LMDJ6QUZMNG04SVlqdnZUbWdiU2FibEdPNVBhaFFBM3A5VHNoNjhtQlBEeFE?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-10T21:15:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "The ABF substrate data center roadmap — solving the supply crunch and material wall beneath every AI accelerator",
-      "summary": "The ABF substrate data center roadmap — solving the supply crunch and material wall beneath every AI accelerator Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT3dnVEx6cklzYVNIZXFnM3FDb1UwekY2QWlUYXc3ZHlpUGVrM09IbS1HeVpIakZsa3p1ZjMyRkVubnpMYVpMekRnRFNyblFuOXVjRlcyNS05YktKWndyWUk0T3YtWjZLQlg5U0g3U1BzUm1DUS1maXRmcFp2QnBidUtQMndsSmJkUEVqa2JLQXFBSEp6N3lZRFVGSlNGSmpDRUZZTWp4SEN4RGI2SzdHX0VaZDFkRDdacm53aU5scUZoTXZzRTNLYlE4enI5aWRUZWQ2UGVwU1kwYWlzanFaTlNxTnR3NEZzUXBQQks3U1VaaGVycVZFREdFdEFiSzZTLTRldlFreFozM3BUNW9jOU9uMEpITE1w?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-10T12:00:00+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "On Binary Translation and its Consequences",
-      "summary": "The PC market is one of the toughest areas for a CPU designer to compete in.",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+      "title": "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
+      "summary": "It’s a better interface, can speed installations, and drives IaaS sales too",
+      "source": "The Register · AI/ML",
+      "link": "https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736",
       "age": "2d ago",
-      "date_iso": "2026-09-10T09:46:18+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Arm Neoverse CSS N4 Launched for Next-Gen CPUs and DPUs",
-      "summary": "Arm Neoverse CSS N4 Launched for Next-Gen CPUs and DPUs ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYi1zQ2kwNEVoT19OSS1TWE4tSnZRdktGVHpPcHVrdEwtcl8tV2E2OWROd2E3UGZZQ2ZRQXRnMTQ4b3JwaC1yQUd5OGVwSlF1S2hTNzdROE5GSUlKbWEwNmdjMWJmRGwxem1vNDVDMGs1dENlZFFVemg0N1JXS3ozcDN4ZlA0bmhaYzRmaGRn?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-09-09T17:10:12+00:00"
+      "date_iso": "2026-09-11T02:43:10+00:00"
     }
   ]
 }
