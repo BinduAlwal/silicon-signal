@@ -1,42 +1,69 @@
 {
-  "generated_at": "2026-09-15T12:21:53.359265+00:00",
+  "generated_at": "2026-09-16T12:19:33.403318+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Canada's Bell to triple capacity at planned Saskatchewan data center campus",
-      "summary": "Site to reach 900MW, with scope for further expansion",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/canadas-bell-to-triple-capacity-at-planned-saskatchewan-data-center-campus/",
+      "title": "AWS says wartime damage means some Middle East cloud resources are gone for good",
+      "summary": "Iranian strikes overwhelmed regional redundancy in Bahrain and left one UAE Availability Zone inaccessible",
+      "source": "The Register",
+      "link": "https://www.theregister.com/off-prem/2026/09/16/aws-says-wartime-damage-means-some-middle-east-cloud-resources-are-gone-for-good/5296830",
       "age": "just now",
-      "date_iso": "2026-09-15T12:00:36+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Politicians in Scotland set to vote on national data center moratorium",
-      "summary": "Would put a pause on projects of 50MW and up",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/politicians-in-scotland-set-to-vote-on-national-data-center-moratorium/",
-      "age": "just now",
-      "date_iso": "2026-09-15T11:40:34+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Why insurers pay attention to data center cooling",
-      "summary": "Why cooling reliability is becoming a critical consideration for data center insurers",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/why-insurers-pay-attention-to-data-center-cooling/",
-      "age": "2h ago",
-      "date_iso": "2026-09-15T10:17:22+00:00"
+      "date_iso": "2026-09-16T12:11:56+00:00"
     },
     {
       "category": "gpu",
-      "title": "How Everpure plans to stop AI from starving without data",
-      "summary": "SPONSORED FEATURE: The vendor's AI solutions are dedicated to increasing GPU utilization and avoiding costly GPUs doing nothing while waiting for data",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-ml/2026/09/15/sponsored-how-everpure-plans-to-stop-ai-from-starving-without-data/5295812",
-      "age": "4h ago",
-      "date_iso": "2026-09-15T08:00:00+00:00"
+      "title": "Axelera AI launches Europa chip, makes hardware available in Dell and Supermicro servers",
+      "summary": "Now shipping in Dell XE5 and Supermicro 111AD servers",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/axelera-ai-launches-europa-chip-makes-hardware-available-in-dell-and-supermicro-servers/",
+      "age": "just now",
+      "date_iso": "2026-09-16T11:53:50+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Serverfarm expands North American data center development fund to $3.89 billion",
+      "summary": "Closes an additional $895 million",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/serverfarm-expands-north-american-data-center-development-fund-to-389-billion/",
+      "age": "1h ago",
+      "date_iso": "2026-09-16T10:51:44+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Microsoft files to build data center campus in Prince William County, Virginia",
+      "summary": "Company looks to develop two buildings outside Gainesville",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-files-to-build-data-center-campus-in-prince-william-county-virginia/",
+      "age": "1h ago",
+      "date_iso": "2026-09-16T10:23:10+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AWS “unable to restore access” to data centers hit by Iran strikes",
+      "summary": "Damage exceeded what availability zone-design designed to withstand",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/aws-unable-to-restore-access-to-data-centers-hit-by-iran-strikes/",
+      "age": "2h ago",
+      "date_iso": "2026-09-16T09:30:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Huawei says its new smartphone chip is entirely free of any US-made components",
+      "summary": "Huawei says its new smartphone chip is entirely free of any US-made components TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0NYcVFqdzNqUmZsZW5HbXZkd2N0WFo4X09pdXh4QjhYd0J0ZDc1Vzh6NEdiSUd3OFFRVnJtX2N2aFhBcFc5QXphaHhRLS11OF9uVjNmX1BTcWNSaFI3eHpGQXFhcmFWc1h6ZFF5ZGp0RnlZUklTOTU3T0JQSF9OUXhMTnNpN1VuUmhfZjlvS0hTTEg5UTZsNng4Z1J2RmJfeGgzakRBS1gzcGg3?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-09-15T20:10:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Astera Labs Releases Leo 2 CXL Memory Controllers and Leo X Controller for Rackscale Fabric-Attached Memory",
+      "summary": "Astera Labs Releases Leo 2 CXL Memory Controllers and Leo X Controller for Rackscale Fabric-Attached Memory ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORU5lek9MSEs3N09qS2pMWk50OEdSd3pwYWlUVzh0SGszUUpaUXRFWmI3Rkd0MWt2VkZ2U1FoRWlxb1U1YXI4V2RVd3JDNXVKME9lXzUza2RuTDR4MUVsYW40Smd2UkJwT1FlX3htUlJvWTZhdldMbW5wdFVxQ1BjaWNlSzhmeXBadmZYWEw5cTYwNnVWRnhDYmc4elRuSDV5a013NmNieWZIaEVOblp0UG0zWnJ6OHF1Q1VDVUdFUmRDbWtZbDBRRm5lclUyT3A3bnY4?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-09-15T17:00:48+00:00"
     },
     {
       "category": "gpu",
@@ -44,8 +71,8 @@
       "summary": "Kioxia is pushing NAND closer to DRAM territory TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMXdWVWU1RFFjV3M1Rm1iRzhQUHNWRzV4Z1lndTJzZnlFWDE3NHJyRlQ2cnZFWlBBLXI3YXRKVVA5eE1taldXQnkwNXZQRm9CZVJEQ3RBWHVLdUlBSWdCUFBNVXZiY0hwbi1VcVY5U0FrT2VjTi1tU3NMWEZpanlhMUVubjk0bzhRdXN5dGFkX1JXNzBxQ2tzOF9kS3FTemU5azlTRi1hbDk0OGRMSlg2dnRqUGVfdzY1V3RfNFNvaGR4TkNFdFJfYWRORXQ1NkdzWF84YXJwYWs5bzlNT3M3OU03LXZpMkM0a0xURVl2TXVVbWt2RHpTN0Z3WXg?oc=5",
-      "age": "11h ago",
-      "date_iso": "2026-09-15T01:16:06+00:00"
+      "age": "1d ago",
+      "date_iso": "2026-09-15T01:15:00+00:00"
     },
     {
       "category": "gpu",
@@ -53,35 +80,8 @@
       "summary": "Cornelis Mounts Scale-Up Challenge To Nvidia, Teases Potential Qualcomm Tie-Up crn.com",
       "source": "CRN",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUtOWGp3X3pjR3V6NUpfenVPLTNBNklqQ3ZYcWJBOTI4WGFtcU4tVG1XVTc1Q1AwcFRrTW1BTm9TVkUyby1GTGNGY2xLRkRmUUVMckx1VGNzbUNqXzlJX1FuNHJmZ0kzQ1lHRk9rNnVLX3laMEs4Wmd6a1N6QU5iWWxZT0tUZHF0VWx0VHdBc0U5UG1uRmRvZmNFcC05LVRDWm5JQmJUX0ZBaWNZTGFLa0pJN2NUWGI5RGI2azMxbUFNZWhJbDRXWGxR?oc=5",
-      "age": "17h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-14T18:37:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Nvidia, Palantir, and others restrict advanced AI model usage over privacy concerns, report claims — 'paranoia' rising over customer intellectual property",
-      "summary": "Nvidia, Palantir, and others restrict advanced AI model usage over privacy concerns, report claims — 'paranoia' rising over customer intellectual property Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOTExpN2RwblRJUHlTbmlmMTJDcmRZUUZLS0Nud1pLMmg0NWY4Mi1waUxjLTVVTF9qZGczVWRjX1hMTVNqU2I3ekZXcmtfcVoxTnZ4SmRxYzc1TDFhSWdGMzI0WFRrVVNvVnQwQUZfNHFXWlIwZnRhcWdBeFViUmU1Tm4wUURQbjg3LVpSS1c4Y1plYUNOUFNteUE2R2NtSHFHajJZWUo3aVhfeUZjUHpyNkxUbTZ0N09LYURuRDF6SWNpR2I1ajRiOGptcHRNYXgxZXJkdi1vQm5MNG15NDlwWDZhQ1BoMHhmOHI4YWNoWG1uOVJIX0FZUFZsVlNLQTVacHg1VEp5UnVmNUZOcHRNcERHRk52SlF6VDhpejJ6MEpobzFpWDRxV2ZUbDJRSTQ2anU3dHJYMDVvZw?oc=5",
-      "age": "20h ago",
-      "date_iso": "2026-09-14T15:58:32+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Russian freelancers use Claude to program autonomous combat drone swarm — AI-enabled target selection and detonation without a human in the loop",
-      "summary": "Russian freelancers use Claude to program autonomous combat drone swarm — AI-enabled target selection and detonation without a human in the loop Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQNGJKYjFoTEo4aGNUSHdDZ1lEWWo2bHZGdGNKZTJ3eTRHWm83OWowaWJHWVROOVVPdzc2SVBQc1Rwd2dydW96bGxJTHp0Z3MyWmRiUDZ1NUlpbjhTdWJoaF91Skh0ajJkZG5fdkw0eGY4UDVja21EU0loUkJabWM5UjlaZEZab1ZJdjJra1pXaERTTUZYd2VSQUpBWDBFNmQ3ZjhIUk93ck82dHFnVHBLWm1PYnlQMzRBY2tiV3hoVnU2elVuUm9VWFh6TW9ySGpSRjhPMEI1djZQcGZmYWItMWo0S3Vad3ZJOWFBY2EtZ0hYNzlYcXg2OTBIdmMwR3poelhpeVB2WVIwZkF4MWxrZEV5VkJXNlI3N1EyN3c1M05Ic0pWbnUzUHNJUzRoQXVBYjFV?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-14T11:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Maryland data center developers offer residents biggest-ever US community benefits package as big tech seeks to quell fears — $110 million deal includes $30 million elementary school, water reclamation system, and more",
-      "summary": "Maryland data center developers offer residents biggest-ever US community benefits package as big tech seeks to quell fears — $110 million deal includes $30 million elementary school, water reclamation system, and more Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNeFNWaVFBbnY5bktDYmpSRUNvM0lvVmxRbnk3czN2WGNGLXpVRFJoRmhzd2d5UVVlVnBnN2RnVzNDQmJQcFNXRHRRZzZGZmZyUkFZc0dCWlR0c3BQa05nVy02X2NwcTJsTGdicTNtSlhLZlZVa0k5QzV0NmdGbFdHRDBKVlVwM2J3Vk5YMmEtbFBfM1kwLTNtbTgzQjQwZ0dka1BtR0dIRnEtWGZEVGNHZUFfT3Y1ODVwMEVtM0hUQnhDUnlIc3duTkNqbmRuYmNiYVE2b01CVXc2eExkX0FDZ1RvSWRLVll2U2NpYVlNWlljOC1SSlJhLU1pS3BKLVZKamxkaGV5VU9Md2VHVmlEMV9oWDdrbUlHTEo4cWNtaFhMSWw4WkJPOTQ5Z3JCa1V3ZmpBUVZhM2JDeGlnZVpmWTdGX2ZBMTBHb0txRXVrbnYtY20tdUxHMFNpYmRXeHNwMTk2eE8xeW9kd0xGTkpkNi1HVU5mTmYxNExtOWl1YUhGZnVTZjZGWHl3?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-14T10:32:00+00:00"
     }
   ]
 }
