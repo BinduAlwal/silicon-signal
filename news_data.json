@@ -1,51 +1,60 @@
 {
-  "generated_at": "2026-09-16T12:19:33.403318+00:00",
+  "generated_at": "2026-09-17T12:19:21.743458+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "AWS says wartime damage means some Middle East cloud resources are gone for good",
-      "summary": "Iranian strikes overwhelmed regional redundancy in Bahrain and left one UAE Availability Zone inaccessible",
-      "source": "The Register",
-      "link": "https://www.theregister.com/off-prem/2026/09/16/aws-says-wartime-damage-means-some-middle-east-cloud-resources-are-gone-for-good/5296830",
+      "title": "Google considers data center development in New Mexico",
+      "summary": "Search giant looking at first facility in the Land of Enchantment",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/google-considers-data-center-development-in-new-mexico/",
       "age": "just now",
-      "date_iso": "2026-09-16T12:11:56+00:00"
+      "date_iso": "2026-09-17T11:57:09+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "NorthC breaks ground on data center in Frankfurt, Germany",
+      "summary": "6MW facility due live in 2028",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/northc-breaks-ground-on-data-center-in-frankfurt-germany/",
+      "age": "just now",
+      "date_iso": "2026-09-17T11:33:30+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Aligned breaks ground on gigawatt-scale data center campus in Pennsylvania",
+      "summary": "Company starts work in Shippingport",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/aligned-breaks-ground-on-gigawatt-scale-data-center-campus-in-pennsylvania/",
+      "age": "just now",
+      "date_iso": "2026-09-17T11:29:25+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Google, Nvidia, and Emerald AI found the AI Energy Management Alliance to support demand response capabilities within the data center sector",
+      "summary": "Joined by a range of launch partners, including Anthropic and RWE",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/google-nvidia-and-emerald-ai-found-the-ai-energy-management-alliance-to-support-demand-response-capabilities-within-the-data-center-sector/",
+      "age": "1h ago",
+      "date_iso": "2026-09-17T10:50:20+00:00"
     },
     {
       "category": "gpu",
-      "title": "Axelera AI launches Europa chip, makes hardware available in Dell and Supermicro servers",
-      "summary": "Now shipping in Dell XE5 and Supermicro 111AD servers",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/axelera-ai-launches-europa-chip-makes-hardware-available-in-dell-and-supermicro-servers/",
-      "age": "just now",
-      "date_iso": "2026-09-16T11:53:50+00:00"
+      "title": "Fujitsu ready to sell its custom ‘Monaka’ Arm chip, maybe to rival server-makers",
+      "summary": "Clouds, the sovereign-sensitive, and the inferencing-interested are also about to get sales calls",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/09/17/fujitsu-ready-to-sell-its-custom-monaka-arm-chip-maybe-to-rival-server-makers/5297025",
+      "age": "5h ago",
+      "date_iso": "2026-09-17T06:20:33+00:00"
     },
     {
       "category": "infra",
-      "title": "Serverfarm expands North American data center development fund to $3.89 billion",
-      "summary": "Closes an additional $895 million",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/serverfarm-expands-north-american-data-center-development-fund-to-389-billion/",
-      "age": "1h ago",
-      "date_iso": "2026-09-16T10:51:44+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Microsoft files to build data center campus in Prince William County, Virginia",
-      "summary": "Company looks to develop two buildings outside Gainesville",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/microsoft-files-to-build-data-center-campus-in-prince-william-county-virginia/",
-      "age": "1h ago",
-      "date_iso": "2026-09-16T10:23:10+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AWS “unable to restore access” to data centers hit by Iran strikes",
-      "summary": "Damage exceeded what availability zone-design designed to withstand",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/aws-unable-to-restore-access-to-data-centers-hit-by-iran-strikes/",
-      "age": "2h ago",
-      "date_iso": "2026-09-16T09:30:00+00:00"
+      "title": "AWS tells clients to quit Middle East data centers six months after Iranian drone strikes — Amazon offers no recovery timeline as UAE mulls underground data centers [Updated]",
+      "summary": "AWS tells clients to quit Middle East data centers six months after Iranian drone strikes — Amazon offers no recovery timeline as UAE mulls underground data centers [Updated] Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRlVpaUxtRE9UbEw4Nm1vSmtZbnJoWlAtQ0U1TmFMMDMxWjBISFRiRnlrMVdYMVl0bEFOdzllaU1JVHBjWlBldDVUdEwyQlBDR3hZSXZCZmpSZ2FiNXJtbVR4cHB3c3lGdFZCczJyU3VBelRrMjdwVWwzSnlKNklqQzAzQlVDc0VKVTgwb3ZXNS1DRlJQZHFwU3gzTzlDQTk4dFNNUEdld1FRdkRleGZuWW8yc2N3UFJhXzRwSC1vYjBJaTB6NUMwSFFSaElTcnduSWswbzlrYXBMRUJ3LWhSUmNyWVJ6ZXpKcG5HeExkWjlLTkQ0aHM3VmFfMGdpLWZockpnTXhqdHM3ejhyUkpHdXZsenU3TWtoX3BrVVlCNUl1SzByMXhMb0JxNmJBalNIZlYwaW04aEl3bDVoMmlMeEljZnEwWnVnRmo3Q05vSzZ2QXU1elFjVnFnSlp3UEFUeUU5RW5TUHRCaVktdm9mRlJ2TUxDSmhf?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-09-16T14:59:57+00:00"
     },
     {
       "category": "gpu",
@@ -53,16 +62,16 @@
       "summary": "Huawei says its new smartphone chip is entirely free of any US-made components TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0NYcVFqdzNqUmZsZW5HbXZkd2N0WFo4X09pdXh4QjhYd0J0ZDc1Vzh6NEdiSUd3OFFRVnJtX2N2aFhBcFc5QXphaHhRLS11OF9uVjNmX1BTcWNSaFI3eHpGQXFhcmFWc1h6ZFF5ZGp0RnlZUklTOTU3T0JQSF9OUXhMTnNpN1VuUmhfZjlvS0hTTEg5UTZsNng4Z1J2RmJfeGgzakRBS1gzcGg3?oc=5",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-15T20:10:00+00:00"
     },
     {
       "category": "gpu",
       "title": "Astera Labs Releases Leo 2 CXL Memory Controllers and Leo X Controller for Rackscale Fabric-Attached Memory",
-      "summary": "Astera Labs Releases Leo 2 CXL Memory Controllers and Leo X Controller for Rackscale Fabric-Attached Memory ServeTheHome",
+      "summary": "Astera Labs Releases Leo 2 CXL Memory Controllers and Leo X Controller for Rackscale Fabric-Attached Memory servethehome.com",
       "source": "ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORU5lek9MSEs3N09qS2pMWk50OEdSd3pwYWlUVzh0SGszUUpaUXRFWmI3Rkd0MWt2VkZ2U1FoRWlxb1U1YXI4V2RVd3JDNXVKME9lXzUza2RuTDR4MUVsYW40Smd2UkJwT1FlX3htUlJvWTZhdldMbW5wdFVxQ1BjaWNlSzhmeXBadmZYWEw5cTYwNnVWRnhDYmc4elRuSDV5a013NmNieWZIaEVOblp0UG0zWnJ6OHF1Q1VDVUdFUmRDbWtZbDBRRm5lclUyT3A3bnY4?oc=5",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-15T17:00:48+00:00"
     },
     {
@@ -71,17 +80,8 @@
       "summary": "Kioxia is pushing NAND closer to DRAM territory TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMXdWVWU1RFFjV3M1Rm1iRzhQUHNWRzV4Z1lndTJzZnlFWDE3NHJyRlQ2cnZFWlBBLXI3YXRKVVA5eE1taldXQnkwNXZQRm9CZVJEQ3RBWHVLdUlBSWdCUFBNVXZiY0hwbi1VcVY5U0FrT2VjTi1tU3NMWEZpanlhMUVubjk0bzhRdXN5dGFkX1JXNzBxQ2tzOF9kS3FTemU5azlTRi1hbDk0OGRMSlg2dnRqUGVfdzY1V3RfNFNvaGR4TkNFdFJfYWRORXQ1NkdzWF84YXJwYWs5bzlNT3M3OU03LXZpMkM0a0xURVl2TXVVbWt2RHpTN0Z3WXg?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-09-15T01:15:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Cornelis Mounts Scale-Up Challenge To Nvidia, Teases Potential Qualcomm Tie-Up",
-      "summary": "Cornelis Mounts Scale-Up Challenge To Nvidia, Teases Potential Qualcomm Tie-Up crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUtOWGp3X3pjR3V6NUpfenVPLTNBNklqQ3ZYcWJBOTI4WGFtcU4tVG1XVTc1Q1AwcFRrTW1BTm9TVkUyby1GTGNGY2xLRkRmUUVMckx1VGNzbUNqXzlJX1FuNHJmZ0kzQ1lHRk9rNnVLX3laMEs4Wmd6a1N6QU5iWWxZT0tUZHF0VWx0VHdBc0U5UG1uRmRvZmNFcC05LVRDWm5JQmJUX0ZBaWNZTGFLa0pJN2NUWGI5RGI2azMxbUFNZWhJbDRXWGxR?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-14T18:37:00+00:00"
     }
   ]
 }
