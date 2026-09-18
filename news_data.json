@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-17T12:19:21.743458+00:00",
+  "generated_at": "2026-09-18T11:59:29.598536+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Google considers data center development in New Mexico",
-      "summary": "Search giant looking at first facility in the Land of Enchantment",
+      "title": "Bitdeer AI to lease 65MW data center in Johor, Malaysia",
+      "summary": "Company to rent second building at Malaysian campus",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/google-considers-data-center-development-in-new-mexico/",
-      "age": "just now",
-      "date_iso": "2026-09-17T11:57:09+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "NorthC breaks ground on data center in Frankfurt, Germany",
-      "summary": "6MW facility due live in 2028",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/northc-breaks-ground-on-data-center-in-frankfurt-germany/",
-      "age": "just now",
-      "date_iso": "2026-09-17T11:33:30+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Aligned breaks ground on gigawatt-scale data center campus in Pennsylvania",
-      "summary": "Company starts work in Shippingport",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/aligned-breaks-ground-on-gigawatt-scale-data-center-campus-in-pennsylvania/",
-      "age": "just now",
-      "date_iso": "2026-09-17T11:29:25+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Google, Nvidia, and Emerald AI found the AI Energy Management Alliance to support demand response capabilities within the data center sector",
-      "summary": "Joined by a range of launch partners, including Anthropic and RWE",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/google-nvidia-and-emerald-ai-found-the-ai-energy-management-alliance-to-support-demand-response-capabilities-within-the-data-center-sector/",
+      "link": "https://www.datacenterdynamics.com/en/news/bitdeer-ai-to-lease-65mw-data-center-in-johor-malaysia/",
       "age": "1h ago",
-      "date_iso": "2026-09-17T10:50:20+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Fujitsu ready to sell its custom ‘Monaka’ Arm chip, maybe to rival server-makers",
-      "summary": "Clouds, the sovereign-sensitive, and the inferencing-interested are also about to get sales calls",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/09/17/fujitsu-ready-to-sell-its-custom-monaka-arm-chip-maybe-to-rival-server-makers/5297025",
-      "age": "5h ago",
-      "date_iso": "2026-09-17T06:20:33+00:00"
+      "date_iso": "2026-09-18T10:46:00+00:00"
     },
     {
       "category": "infra",
-      "title": "AWS tells clients to quit Middle East data centers six months after Iranian drone strikes — Amazon offers no recovery timeline as UAE mulls underground data centers [Updated]",
-      "summary": "AWS tells clients to quit Middle East data centers six months after Iranian drone strikes — Amazon offers no recovery timeline as UAE mulls underground data centers [Updated] Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRlVpaUxtRE9UbEw4Nm1vSmtZbnJoWlAtQ0U1TmFMMDMxWjBISFRiRnlrMVdYMVl0bEFOdzllaU1JVHBjWlBldDVUdEwyQlBDR3hZSXZCZmpSZ2FiNXJtbVR4cHB3c3lGdFZCczJyU3VBelRrMjdwVWwzSnlKNklqQzAzQlVDc0VKVTgwb3ZXNS1DRlJQZHFwU3gzTzlDQTk4dFNNUEdld1FRdkRleGZuWW8yc2N3UFJhXzRwSC1vYjBJaTB6NUMwSFFSaElTcnduSWswbzlrYXBMRUJ3LWhSUmNyWVJ6ZXpKcG5HeExkWjlLTkQ0aHM3VmFfMGdpLWZockpnTXhqdHM3ejhyUkpHdXZsenU3TWtoX3BrVVlCNUl1SzByMXhMb0JxNmJBalNIZlYwaW04aEl3bDVoMmlMeEljZnEwWnVnRmo3Q05vSzZ2QXU1elFjVnFnSlp3UEFUeUU5RW5TUHRCaVktdm9mRlJ2TUxDSmhf?oc=5",
-      "age": "21h ago",
-      "date_iso": "2026-09-16T14:59:57+00:00"
+      "title": "Blockfusion signs CoreWeave as a customer in Niagara Falls, New York",
+      "summary": "CoreWeave signs deal with another reformed cryptominer",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/blockfusion-signs-coreweave-as-a-customer-in-niagara-falls-new-york/",
+      "age": "1h ago",
+      "date_iso": "2026-09-18T10:38:08+00:00"
     },
     {
       "category": "gpu",
-      "title": "Huawei says its new smartphone chip is entirely free of any US-made components",
-      "summary": "Huawei says its new smartphone chip is entirely free of any US-made components TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0NYcVFqdzNqUmZsZW5HbXZkd2N0WFo4X09pdXh4QjhYd0J0ZDc1Vzh6NEdiSUd3OFFRVnJtX2N2aFhBcFc5QXphaHhRLS11OF9uVjNmX1BTcWNSaFI3eHpGQXFhcmFWc1h6ZFF5ZGp0RnlZUklTOTU3T0JQSF9OUXhMTnNpN1VuUmhfZjlvS0hTTEg5UTZsNng4Z1J2RmJfeGgzakRBS1gzcGg3?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-15T20:10:00+00:00"
+      "title": "KPMG tech cuts come with a severance sum some staff call insulting",
+      "summary": "AI, Cyber, SAP and Testing teams caught in latest reshaping of Big Four consultancy's Advisory arm",
+      "source": "The Register",
+      "link": "https://www.theregister.com/channel/2026/09/18/kpmg-tech-cuts-come-with-a-severance-sum-some-staff-call-insulting/5296942",
+      "age": "1h ago",
+      "date_iso": "2026-09-18T10:32:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Crusoe raises $3.9bn for AI data center build-out",
+      "summary": "Nvidia buys in as one of several new investors",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/crusoe-raises-39bn-for-ai-data-center-build-out/",
+      "age": "1h ago",
+      "date_iso": "2026-09-18T10:22:53+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "DCD Talks: What 800 VDC means for data center cooling with Mike Donahue, Schneider Electric Global",
+      "summary": "Mike Donahue of Schneider Electric joins James Raddings to discuss what 800 VDC means for data center cooling and operator considerations as AI workloads continue to drive higher rack densities",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-talks-what-800-vdc-means-for-data-center-cooling-with-mike-donahue-schneider-electric-global/",
+      "age": "2h ago",
+      "date_iso": "2026-09-18T09:41:46+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Asp Data Center secures NOK1.6bn to fund data center project in Stavanger, Norway",
+      "summary": "Company refinances previous agreement",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/asp-data-center-secures-nok16bn-to-fund-data-center-project-in-stavanger-norway/",
+      "age": "2h ago",
+      "date_iso": "2026-09-18T09:36:33+00:00"
     },
     {
       "category": "gpu",
-      "title": "Astera Labs Releases Leo 2 CXL Memory Controllers and Leo X Controller for Rackscale Fabric-Attached Memory",
-      "summary": "Astera Labs Releases Leo 2 CXL Memory Controllers and Leo X Controller for Rackscale Fabric-Attached Memory servethehome.com",
+      "title": "British Army spends £16M on 1,000 pocket-sized eyes in the sky",
+      "summary": "Surveillance and training drone systems will come through three UK suppliers, though some are built overseas",
+      "source": "The Register",
+      "link": "https://www.theregister.com/offbeat/2026/09/18/british-army-spends-16m-on-1000-pocket-sized-eyes-in-the-sky/5297248",
+      "age": "2h ago",
+      "date_iso": "2026-09-18T09:29:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AWS confesses its console causes cloudy confusion for new users",
+      "summary": "Improved signup experience for ‘AI builders’ hides complexity and includes spending cap",
+      "source": "The Register",
+      "link": "https://www.theregister.com/off-prem/2026/09/18/aws-confesses-its-console-causes-cloudy-confusion-for-new-users/5297365",
+      "age": "7h ago",
+      "date_iso": "2026-09-18T04:52:40+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Inside the lab where the Arm AGI CPU is brought to life",
+      "summary": "Inside the lab where the Arm AGI CPU is brought to life ServeTheHome",
       "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORU5lek9MSEs3N09qS2pMWk50OEdSd3pwYWlUVzh0SGszUUpaUXRFWmI3Rkd0MWt2VkZ2U1FoRWlxb1U1YXI4V2RVd3JDNXVKME9lXzUza2RuTDR4MUVsYW40Smd2UkJwT1FlX3htUlJvWTZhdldMbW5wdFVxQ1BjaWNlSzhmeXBadmZYWEw5cTYwNnVWRnhDYmc4elRuSDV5a013NmNieWZIaEVOblp0UG0zWnJ6OHF1Q1VDVUdFUmRDbWtZbDBRRm5lclUyT3A3bnY4?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-15T17:00:48+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Kioxia is pushing NAND closer to DRAM territory",
-      "summary": "Kioxia is pushing NAND closer to DRAM territory TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMXdWVWU1RFFjV3M1Rm1iRzhQUHNWRzV4Z1lndTJzZnlFWDE3NHJyRlQ2cnZFWlBBLXI3YXRKVVA5eE1taldXQnkwNXZQRm9CZVJEQ3RBWHVLdUlBSWdCUFBNVXZiY0hwbi1VcVY5U0FrT2VjTi1tU3NMWEZpanlhMUVubjk0bzhRdXN5dGFkX1JXNzBxQ2tzOF9kS3FTemU5azlTRi1hbDk0OGRMSlg2dnRqUGVfdzY1V3RfNFNvaGR4TkNFdFJfYWRORXQ1NkdzWF84YXJwYWs5bzlNT3M3OU03LXZpMkM0a0xURVl2TXVVbWt2RHpTN0Z3WXg?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-09-15T01:15:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFZDSkhEZ0g4YWUyOXNRUUFQT2czek9DeWtRbjdRNXlYV2NsSjk3QVRyTUpiWjkxZ3RFUldKVVZpb1pJcXdtbk9jZXh4OWpBaHYxb25Bd0NPWHJLWm50SmhmY1h3VlpES2hTajlONjNPY3NPdjFkakNZOE1hMFpRMzVtOTdtdWxCWWUzQzFn?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-09-17T17:00:32+00:00"
     }
   ]
 }
