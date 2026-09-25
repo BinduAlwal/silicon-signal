@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-24T12:26:14.742404+00:00",
+  "generated_at": "2026-09-25T12:25:56.490907+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "cpu",
-      "title": "SiPearl delivers first samples of Rhea1 CPU to Bull for Jupiter exascale supercomputer",
-      "summary": "First order of SiPearl’s Rhea1 processors",
+      "category": "infra",
+      "title": "Project Suncatcher: Google to launch first space data center test in orbit next week",
+      "summary": "TPUs are ready to catch some rays, hyperscaler claims",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/sipearl-delivers-first-samples-of-rhea1-cpu-to-bull-for-jupiter-exascale-supercomputer/",
+      "link": "https://www.datacenterdynamics.com/en/news/project-suncatcher-google-to-launch-first-space-data-center-test-in-orbit-next-week/",
       "age": "just now",
-      "date_iso": "2026-09-24T12:22:54+00:00"
+      "date_iso": "2026-09-25T11:58:28+00:00"
     },
     {
       "category": "infra",
-      "title": "The hidden cost of commodity thinking",
-      "summary": "Choosing the right PG25 for data center cooling",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/the-hidden-cost-of-commodity-thinking/",
-      "age": "1h ago",
-      "date_iso": "2026-09-24T10:33:47+00:00"
-    },
-    {
-      "category": "edge",
-      "title": "Samsung to fuel Korean robot ambitions as exclusive AI network provider",
-      "summary": "AI-RAN, 5G SA partnership with KT and SK Telecom to guarantee Korea's 6G and physical AI foothold in the 2030s",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/samsung-to-fuel-korean-robot-ambitions-as-exclusive-ai-network-provider/",
-      "age": "1h ago",
-      "date_iso": "2026-09-24T10:28:17+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "800 VDC architecture for AI infrastructure",
-      "summary": "What does the shift to 800 VDC mean for AI data center efficiency, resilience, energy storage and power distribution?",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/800-vdc-architecture-for-ai-infrastructure/",
-      "age": "4h ago",
-      "date_iso": "2026-09-24T08:11:27+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Qualcomm Announces Snapdragon X2 Debian and Ubuntu Support in 2026",
-      "summary": "Qualcomm Announces Snapdragon X2 Debian and Ubuntu Support in 2026 ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHprbzNNQVVkZ3AtV1BFY3pTUXRBZVBJLVlQRWxFZjdBdi1LUzRYOHVhMU0zM3ZucWUwZ0ktQXNZdXhYZDU2elZJd0hMVHRMRnZZOHhITlFJX19fdHdyYmY1MUFPbUYxUEk4LTJCQUtuVWFmeHN4eFUzYzFheWJMaGZBSW5ncDhTbkJtQktBUGpsc0dnZFI2amNnRng?oc=5",
-      "age": "10h ago",
-      "date_iso": "2026-09-24T02:24:09+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center",
-      "summary": "China's ByteDance gained access to over 2,000 Nvidia B200 chips through Norway data center tomshardware.com",
+      "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power — overheating limits runs to just 15 minutes, but orbital server will handle tasks for one year",
+      "summary": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power — overheating limits runs to just 15 minutes, but orbital server will handle tasks for one year Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQUElMc0ZnRzhCanRhdUpuT0pTQTdXRDZhaVF6ZEJvNDdUdGhYOGFHZ1lkeEdleEJEV1huVDdlTTdmWGk2Qjdib0hvcUt5Z3l5TElQSkxHNU9KYUpUZVJtZXBwX1NQRXA5ZWhiSlVXQ05XRXVxVWI1eGRVQnBabjNNanN4U2Vzc2tacDVPRlNSZVhPdmtTSkVfMFRmb3R1LVlKR0IzUUNzckdDMUNQbVo1M0pCRU9raGtNR3c0NE90czljbUlHOXNWWjJXRlhQYzhaaXB5N3ZtdDM5LXdxekdWYUUtQWRVakJzdldkQm9WTHUyMkMwVm1FbnZSSmozNjRYdl9rc2RMbFZ4MWNzWDRvMXkzSVdJbmo2eWxleFlMUTFYUXRIazBMOTdBcHNMQ1IyQmNTR21XWHFKTnh4Y2ZSeDlGSzVoU1pSN2huWGZBaTJlZTF5NVNFLXlHN0M3Ui1hTGIyTERR?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-23T12:00:43+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Alibaba unveils Zhenwu V900 AI accelerator, claims it's 'the most powerful AI chip in China' — accelerator supports 500,000 chip supercluster with a 10T-parameter Qwen model on the roadmap",
-      "summary": "Alibaba unveils Zhenwu V900 AI accelerator, claims it's 'the most powerful AI chip in China' — accelerator supports 500,000 chip supercluster with a 10T-parameter Qwen model on the roadmap tomshardware.com",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNZXdKRTNKSWxHZEFza3k0bHV2Tng3RnNuY3pjWmtCZWQwaEF5Si1IblRzRnpoamRwRV9UbmF6NFlTV1AzNXZkOGxBNVFZalQtU3RCZTJqbERuRHEyMlVEdU5SY2V6d0xQRzEtRHZJbmVLZUc1MnlvdVM5VTQxLTJaWWRjTUQwdXJRaHplMkVicHZ4SkZlbzhYcHhLS2Y4WklOam5FcnZMSURnV0Fnc0M2a1p1UTZwa0F2WW5WaklNZXBNSzFIXzZMaU9NeUFvZjdzNldwV0plWTNCcy1SLW9yNHhEREN5R2tra2hreTNXSDF5V3hXcy1EYmNhUDNBSUF2VkpyNTRKbVlGbGh4Wmt2MVJDc2hDOTFBNC1GNlRETmlObjBmSzlmbF9hYmxuZ0NSVjQwRHd2YWhUTXBJZUdjWENrUEZCTVM4UmtBYWlSdXBYaVY0YmMtV2V3ak1TVmpjTmxiR0FJSXM?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-23T12:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Snapdragon 8 Elite Extreme Gen 6 Crushes Benchmarks With Big Gains",
-      "summary": "Snapdragon 8 Elite Extreme Gen 6 Crushes Benchmarks With Big Gains HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjBpWnkzLVd5LWJOcVJqNUItM08wdTRDSjlHX3pfUEtFcXEyc2RtRnAxT2lIYmgySEhUQk9wODdfZUZqOTVrdXE2MkV3STJyWS1LX01FZWhBcWlTelg5MDk0UkE2UU9EX0tEeFFjNHFPd0J3S25nX3JReVU1SkRoQ01mc1g4TVE3VHJJMDVfVlNHTlVoMmQydV9oUQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-23T01:00:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTmRhWnUtR1hVcGh0MFB6TUxic2xQckdjYUREUElSNGgzOW16cWc5MTl5NmV2NXNKd1dPV3Bldzh1VTJGRkZVUEFjaWY3Q1M3MTAyeU52SXZQOWhrUndhYnF5SU1lSHZVMG44OFpqb2plbFRIRWxhcE0xTHo3VFhNTFRMbVBfaGJCMVZ1Rl9BMldMcWVlMEhmeVBtLWxWLVhEWlAtT0pmcmlXSTVkWkdVdXhtZWNYZ3JrVF9Fcnk3T09WR0ZsNGxRdGJmczMxdGtxbTUwNV9KQmV0cEgwMnE4bEJ1WXJ2elI4RldoMTVaWTVpazlxeDVQdGtBMEhKMFVnVDE0UThPN2I3Nkk?oc=5",
+      "age": "2h ago",
+      "date_iso": "2026-09-25T10:00:00+00:00"
     },
     {
       "category": "infra",
-      "title": "NVIDIA Announces DSX Ready Qualification Program for Data Center Power and Cooling Hardware",
-      "summary": "NVIDIA Announces DSX Ready Qualification Program for Data Center Power and Cooling Hardware ServeTheHome",
+      "title": "DOE unveils $1.9bn in funding for 31 grid upgrade projects to speed data center connections",
+      "summary": "Expected to unlock 23GW of additional capacity on the grid",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/doe-unveils-19bn-in-funding-for-31-grid-upgrade-projects-to-speed-data-center-connections/",
+      "age": "2h ago",
+      "date_iso": "2026-09-25T09:35:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Vertiv to acquire data center fluid management firm King Environmental Services",
+      "summary": "Transaction to close before the end of the year",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/vertiv-to-acquire-data-center-fluid-management-firm-king-environmental-services/",
+      "age": "3h ago",
+      "date_iso": "2026-09-25T09:25:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Applied Digital reveals $3.2bn Delta Forge 2 AI data center will be built in Alabama",
+      "summary": "Operations could start by 2028",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/applied-digital-reveals-32bn-delta-forge-2-ai-data-center-will-be-built-in-alabama/",
+      "age": "3h ago",
+      "date_iso": "2026-09-25T09:24:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Solid oxide fuel cells enabling growth in a power-constrained world",
+      "summary": "How solid oxide fuel cells are offering a scalable route to reliable, on-site power as grid constraints reshape data center growth",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/solid-oxide-fuel-cells-enabling-growth-in-a-power-constrained-world/",
+      "age": "5h ago",
+      "date_iso": "2026-09-25T07:25:13+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Durabook launches a workstation laptop with three real screens - Z14I-DX3 is a rugged mobile device featuring a trio of 14-inch full HD displays with an optional Nvidia RTX 5000 Ada GPU for command posts and drone teams",
+      "summary": "Durabook launches a workstation laptop with three real screens - Z14I-DX3 is a rugged mobile device featuring a trio of 14-inch full HD displays with an optional Nvidia RTX 5000 Ada GPU for command posts and drone teams TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOenN3QjNrbDFkalU3OGI4ZkR5UVdhc1VyTnZfRlRKUnpRVWRMQnJ0YkhQQzd3d1VCWDBJN1RtQnp2ZkFjRDZVckM5aHotYWpPN3FQRzF5Wk5TNGZObEJlMkNMNlRadTl5TkN5d0xaQ2plZjhkSHJRZV9fWFlVXzUyX2l4LVNTdVlrYklJc19Wbm1BMXdpX25WNm9DaDNWbXZ2eXhEZnVBbm5vdU9qZnpnN29JNTc1eXdZT044dkV1LUJLZzBSQnVab0dEbkdOUGx2V0E3VFdOa0hXZ1pPMGd2a2ZwRW9EUDQ2V29pUDVHQ0FEdnJhOTdwRF9qYTl0Uk1Ea1lmTGJNdmpqWnliVU96WnlCS3ZGSnJlNVF2ekQ2YjRqcmlqaml6bndJYkJMVEZhX0tuS2l2YURaTVlKMnY3OUJOVXMtY09LZWhfUzNLZ1VKVE9mOW9xeU8wMGFDajdNcnZsMHln?oc=5",
+      "age": "13h ago",
+      "date_iso": "2026-09-24T23:25:00+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "ASRock Rack SORANOD8-2L2T Review A New AMD EPYC 8005 Sorano Motherboard",
+      "summary": "ASRock Rack SORANOD8-2L2T Review A New AMD EPYC 8005 Sorano Motherboard ServeTheHome",
       "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemVDZXQyTF9rdnNVVmZESy11TGxjT2pPUWgyUDhQU0owWHVJaHlsZldvcTdDU2pvYjMzd0FmUnJUQWF1NFVQMTJFdmYwUmlDSnQyZ2RtVk5YX04waG9tdk0tcjhQWDBLTktsY2NiM1ZLYnNKM0swbUhZQS1OZVlaX3dkNDFKZk9fMEQzcllpb2dPZGU2Vl9DUkhXa21vbUVGZEdNLWNrYkNJQkxvUnJCVTJULV9LYi03SkxEWVVR?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-22T15:00:58+00:00"
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNzlQdm80NWlrc0hGRkxudDdLbmpfamt6VHR4OXhJUWhqaGZiTDJhZW5xUkpDVjZfc1JrYVBFeXgzVEZGbmdVMWpwMjBtR3hZeF8xQTNuVDFMbjF4QkhEREFLNDROVy12NEtueUZjRHhCNmUwR09tcUVHZk84VXJiOHJNd28tRTFya0xUc3ZRcHJEaUltcF90amo0R1hoZnlZdDFR?oc=5",
+      "age": "13h ago",
+      "date_iso": "2026-09-24T23:17:57+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia CEO says 'we have to shut the labs down' if AI experiments are unsafe — Jensen cites civil and criminal liability over rogue agents, but says frontier AI lab fears are a 'distraction,' not a call for regulation",
+      "summary": "Nvidia CEO says 'we have to shut the labs down' if AI experiments are unsafe — Jensen cites civil and criminal liability over rogue agents, but says frontier AI lab fears are a 'distraction,' not a call for regulation Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNU9UellReDQwS3RpcFl1clNNQUpXR0JpYkhpbnBfWDZXSFFjRDJzcndMc3I4Qk5EcVpfQWdCTllheG9FdGMxQ2R4NVNDa3h2dzYwNTd6UkFZZF9LcXVJdHk5cnVtTXp3eDktekIxLVZPb0xTU1UzSkdIcFB1cDFRakJJSW5kc0hYLVlXSzhOUlBoNzNyTFdjN1lJM2FkWkh0VVkyMi1xZlJqU0ZYWlM4c05SbFJjcEp1b1p1Ynh0dkQ1M3ZJTzF5MTRMRkFSRWs4clh2ZkdyZ3ViRWdtWXA5Nm42T1BOMk1NOXNaTHVJS1FQU2h2WlZsSzJRMTdsMlotRnl6NUtaN0N6dUtudWxLb1ZmSzd0R2xFU0F3Z1d6c2dwN0lZbmFTMG5tbk9vU3QtMlBTNg?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-09-24T15:24:49+00:00"
     }
   ]
 }
