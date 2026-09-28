@@ -1,33 +1,69 @@
 {
-  "generated_at": "2026-09-27T12:35:43.258746+00:00",
+  "generated_at": "2026-09-28T14:43:41.408107+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Beyond redundancy: Why dynamic stability matters in AI data centers",
-      "summary": "The future of data center resilience",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/beyond-redundancy-why-dynamic-stability-matters-in-ai-data-centers/",
-      "age": "2h ago",
-      "date_iso": "2026-09-27T10:00:31+00:00"
+      "title": "Europe's AI ambitions rest on somebody else's supply chain",
+      "summary": "EU firms capture less than 10% of the bloc's datacenter chips, server assembly, and cloud infrastructure markets",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/09/28/europes-ai-ambitions-rest-on-somebody-elses-supply-chain/5299486",
+      "age": "just now",
+      "date_iso": "2026-09-28T14:16:28+00:00"
     },
     {
       "category": "infra",
-      "title": "Sponsored: Sustainable data center backup power is a strategy, not a battery chemistry",
-      "summary": "Data centers continue to walk the tightrope of meeting burgeoning power demands, while also fulfilling sustainability aims and obligations",
+      "title": "Virtus secures £2.45bn in financing for data center build-out",
+      "summary": "Funds to fuel projects in the UK and mainland Europe",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/sustainable-data-center-backup-power-is-a-strategy-not-a-battery-chemistry/",
-      "age": "21h ago",
-      "date_iso": "2026-09-26T15:00:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/virtus-secures-245bn-in-financing-for-data-center-build-out/",
+      "age": "just now",
+      "date_iso": "2026-09-28T14:14:40+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved — locals push back over noise and 'bribe' concerns",
+      "summary": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved — locals push back over noise and 'bribe' concerns Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxORXUtS0FTYlZNLWIxMHlHbHd2Y2VBNFJpemp6NXBPdmZLZlh0YXFnTUh1WEVsYld0VDdDM0lhc1YxTFctWEtZbnM4SHg3Sy13OUxwOUJGRmhrQ0xvdEE3TnFuLVg1RHZKZFBWN0NZODNKNkNNQkJuM0xGMG9qekxRcnNKa29yRlI5M1MyR1dlMDZwb2dDUzI5UmVWZUtvak1pNHRNS0RCTzhYZS11QVBDVWVNcENjZDBUVHoteVdtYmljNjE5a2xXMlZVUThPam94Y3d2V2I4ZzJzZk5OVk1ZSkJzOFh1eTVaSkZHRjgweXc3SV9xYWtMRnJ4d1UyZTFFdnBkZzl4dDllMWNkRHFocU13UUVmdGVaRk9rRC1hZEtvS1NfcUJpZFFhanJNU2pG?oc=5",
+      "age": "3h ago",
+      "date_iso": "2026-09-28T11:40:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sharon AI to lease capacity from Australia’s GreenSquareDC",
+      "summary": "Former IBM site to become host for Aussie neocloud",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/sharon-ai-to-lease-capacity-from-australias-greensquaredc/",
+      "age": "3h ago",
+      "date_iso": "2026-09-28T11:19:27+00:00"
+    },
+    {
+      "category": "edge",
+      "title": "Quote of the day by legendary computer scientist Geoffrey Hinton: 'If we don't figure out how to make it safe, there's a real possibility it could destroy us' — a stark alarm on the existential risks of AI",
+      "summary": "Quote of the day by legendary computer scientist Geoffrey Hinton: 'If we don't figure out how to make it safe, there's a real possibility it could destroy us' — a stark alarm on the existential risks of AI TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQYlVpWUlpWVNGNTlNZ0hsd2ktTEhIQUo4aDE1SmxVb3VycmNBdFVxcmd5NlgyVS1tMGtheXp1QU1fNTU2NHY1Vm5xYTE1VkJxM3N1M2Y5R0YwQU5fV1pjLU95d3ZjZ0FFVllMR1lvYjlhTnFVdHlTcUVnVmktWm9pbjlmczc3QXpCWEJOSFN0anJISXFWRDJIMUJLSDNMOEhwT0lSa0RUTVhmeDljTWpGZENVWkhNTDhTeUs0NnhjNzZkN2dENTNKUGZlMUhrSWRuVUNnenlPcGNfQUxVaGZZeWNUSEV0eU9palBmODJQUERfT1hmSF9CeVJKQzFDZlVCYngwbnFSbGdUa042NUdBeU80aFFnX1lleWpKZW5sTVkxYlI5WWE2M0QyOW9QVHRtbFF0UEJPME8yRWdXallOR0lhcjVsMVFGWUlR?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-09-27T22:00:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Nvidia patents AI chatbot to streamline PC game optimization — could one day help developers better optimize their games with requests made in plain English",
-      "summary": "Nvidia patents AI chatbot to streamline PC game optimization — could one day help developers better optimize their games with requests made in plain English tomshardware.com",
+      "title": "Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead — crooks duped by 20 tons of ballast sand",
+      "summary": "Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead — crooks duped by 20 tons of ballast sand Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbU9YMldVYS01YnNFc1ZYdG1qVENadVNYVjZUeVRaejlJZjVVM2ZtR2M2XzFjeWRJbU5vY0ZZUGhoYlR2RWFfUHJ2RzVoYzRVZlNnbDJuWVJBcE5jdkJxWUYwUnZ0ZEo0c0xxRVNWbm9yMVlrckZ3a3VHbFRrMHY3T1VxSjJiRXlINGowRGtWbWFhMmttOTZ0MlBBNVdKdVFmaG5jTWgwblRqRVk4VEh6LU42bzNOSVIxNDJ1bVFobWdhckNpT0xhTmtZRGlycG5wLWdmb3ByOXJhb3hNVzhUQlVaVDFNRjFqMk80S3pPN2hmS1VCYkxOb1lXWmZQakhEdkthNDZYaFpoUVJzeGM0dg?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-09-26T13:00:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORkxENWlQSHdFYjB1NWw0NW5hb1RrOUFaSnNwb2IzNFZTd2FZSWd0dmFIWHF0Nkp2M3BBWlpKUXY1blFNQ0tHTlVxcXlKY3daR3hZOTBKVDBMUVVkbk9PYThGdkVEQlZRUlRxN252SzRxM0tXWUxrNFRqRHZpMUVrdHpYZkQ4Z1V4d0NPd295cWRtYVdndTNCVVVicWxnWXc0S0c2UG5DbnIwbXFHd3hUTnVFbFRrekRpS2JtR0JwaXkzMExVTjRQYWxsSWthRG5FRkExTmJHUmZVbUYySnNFcjkydVFYbkZTaTZBRF9pWEJyZVN4ZFFiMFpSU1JkUFpaQXRQMUhDQi1zcVJYQzQtLVd4YkI3ekpET0ZUaFdlZ1hHVGc?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-09-27T14:14:40+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Qualcomm Unveils Snapdragon 8 Elite Gen 6 and Elite Extreme Gen 6: Next Gen Flagship Mobile Chips",
+      "summary": "Qualcomm Unveils Snapdragon 8 Elite Gen 6 and Elite Extreme Gen 6: Next Gen Flagship Mobile Chips ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0tleFE1RG5kSTdWVFdYZkZVWFk4aUNJWERpTllHM0RBVHJoZlI0djNhUUoxSkhkem5xTmVDNXVySFFsWERBYklSaDBCUm9QU1N1RENGaTRRSngtcGdTQ21CRzJXLTB3em5hdnpIS25ZdDVjbVpURmJyc1I0SEtKSzNaYlBnTVBrTFFVa0o1VmdOQ2dTblVzWk1DNDFIMUJKUWVWb2MwVjQ5aFQtS0JxWVphRDVySnhzSmc1Z2NsV3lPS3dV?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-09-26T19:00:12+00:00"
     },
     {
       "category": "gpu",
@@ -35,7 +71,7 @@
       "summary": "Qualcomm Unleashes Linux On Snapdragon X2 With NPU And GPU Support HotHardware",
       "source": "HotHardware",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2VtZFo0TUFrZGRGVm9aeU1fSHVHcWtMTVJ2bXN6aVdpaHh3cjhIcTRsZmZYb2tZWmJFcWQ5RmFfX1RLdFViaHJCMzM1N1RSZ1JWRHBtZFJORUNVcW0yMlhwMmVsT0JYTW1IUThTQWNDUWhOZXhMWExFdDl6N051U0o3akFMNVZWcVhMcFVhVEw0NG9zaHFpMUxrdw?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-09-25T20:35:00+00:00"
     },
     {
@@ -44,44 +80,8 @@
       "summary": "AMD Takes the Lid off of Next-Gen EPYC 9006 Venice As Zen 6 Comes to Servers ServeTheHome",
       "source": "ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWNFb3NCRkhBeU12SDRGLVFBbmk5Szd1SFVMUzhhaDZhcjhMbjhwenI5SXVsekZweWp0eFlPcGVGazR0R1BxZWJXWmtDVTZ3bVFuSlVZWnF1NmdvTDJqU04xQ3UtUzBIOTRyRVlaeEJIbnFLd3JsRTQxeTZvS3haZ3BDZ0VSNVllT1RQR2FFN2U0NzhuWGx2MERHSjlGaFpuczlpei1XMkoxUQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-25T17:00:01+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "New Jersey hits data center with 'record' $1.1m fine after drone exposes 62 unpermitted gas generators",
-      "summary": "New Jersey hits data center with 'record' $1.1m fine after drone exposes 62 unpermitted gas generators TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNjROcVFvRDBuQk5SNDNZYzJkaENaUHZhMUVnTzRqZ3V5XzRzOXo1YUdfSVU1ZkRMcHBKaXVUbDZlRTF5dWdrNmRBRG5aRFFiRG9leEZkSm9kbnFkQVZQWEd5ODJFY01MWWtFWElCYUdPUl9OZ0pPVlhPOG50TE9zX3g2bFYxY2tmQ1Q1UDJtZmNhT1lMbUtfSWhnUEFJeXFQUklidTdjaDh0WDBldTRHMDdqU2M2eTJmWXdicmxKVDJUU1lVakdKZElFdDJrTFVOSGprTG1HanphRG9fU0p0Zl91REw1VnUyUkhfNw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-25T16:05:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Vocus to build 4,000km fiber link between Brisbane and Darwin",
-      "summary": "The route aims to support growing demand from hyperscaler, neocloud, and enterprise customers",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin/",
-      "age": "1d ago",
-      "date_iso": "2026-09-25T16:03:55+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
-      "summary": "Follows publication of IPO prospectus",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ai-cloud-and-data-center-firm-nscale-raises-336bn-ahead-of-its-ipo/",
-      "age": "1d ago",
-      "date_iso": "2026-09-25T15:34:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "New Jersey hits Microsoft-linked AI data center with record fine for 62 unpermitted power generators, issues 45-day shutdown deadline — site tied to $33 billion deal also built illegal 1.5M-gallon fuel tank",
-      "summary": "New Jersey hits Microsoft-linked AI data center with record fine for 62 unpermitted power generators, issues 45-day shutdown deadline — site tied to $33 billion deal also built illegal 1.5M-gallon fuel tank tomshardware.com",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQM2RYNXhvTVNWWTVmLXBrT214OVA1bkg2alpWODRYd0tCbFI4by12d1NlU2JxekJyZ1FQeUswSWhvamE5eW4zS3dPRVNmbXU5MzMzbUtUdElqMENTVGtOTW5vNFdqWTRzTThpNEQteVI1dTRXUWs5N0VGU2hEcHFleFpCVUJ6QkFmcUJRaW9MWWtxdWN1bzhTQXVFZDRzci1NTTg0V2c0NTFydGlPYWNUWHF3R1NQUkNlVE5XRExGVVdQdFUxaG9YWmgtWldOQWs5MGk1UXh6VXBHRjNRRFhKVjJFOHFBbjFmWjNSOTRRN0pIU04yTzc2NlBvbWZPaGZ4ODd3cVZfeTJXZnhUa2dMdm1laWMzNThvNUY0d29NQ1dHU0tEUXRPdjZnTEVpUGYyekFF?oc=5",
       "age": "2d ago",
-      "date_iso": "2026-09-25T11:00:00+00:00"
+      "date_iso": "2026-09-25T17:00:01+00:00"
     }
   ]
 }
