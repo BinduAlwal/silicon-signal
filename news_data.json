@@ -1,42 +1,78 @@
 {
-  "generated_at": "2026-09-28T14:43:41.408107+00:00",
+  "generated_at": "2026-09-29T13:33:46.923051+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Europe's AI ambitions rest on somebody else's supply chain",
-      "summary": "EU firms capture less than 10% of the bloc's datacenter chips, server assembly, and cloud infrastructure markets",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/09/28/europes-ai-ambitions-rest-on-somebody-elses-supply-chain/5299486",
+      "title": "Plans filed for 400MW data center campus outside Melbourne, Australia",
+      "summary": "New player HyperDC plans campus outside Geelong, near existing substation and BESS project",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/",
       "age": "just now",
-      "date_iso": "2026-09-28T14:16:28+00:00"
+      "date_iso": "2026-09-29T12:40:36+00:00"
     },
     {
       "category": "infra",
-      "title": "Virtus secures £2.45bn in financing for data center build-out",
-      "summary": "Funds to fuel projects in the UK and mainland Europe",
+      "title": "Submer launches Corenix to offer modular data center infrastructure",
+      "summary": "New unit to provide custom modules for customers",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/virtus-secures-245bn-in-financing-for-data-center-build-out/",
-      "age": "just now",
-      "date_iso": "2026-09-28T14:14:40+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/submer-launches-corenix-to-offer-modular-data-center-infrastructure/",
+      "age": "1h ago",
+      "date_iso": "2026-09-29T12:30:42+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Plans unveiled for ‘largest’ data center in Italy",
+      "summary": "An unnamed company has already submitted plans",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/plans-unveiled-for-largest-data-center-in-italy/",
+      "age": "2h ago",
+      "date_iso": "2026-09-29T11:25:37+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AI Data Center Developer Promises $10K Checks To Residents, Locals Call It A Bribe",
+      "summary": "AI Data Center Developer Promises $10K Checks To Residents, Locals Call It A Bribe HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOU5KRGtRNUpGX0IyTGN0aEJUQUdEQVRpZVFKRXhvZkJ3LXdxQ0V0cmlEcWpWMWZJQmNxQTc4M1lPQVJsUko1UnVjRjVGdENPd25zajBlclF4elpNRGxPOE02SDdJSVpRRVkyRjlDQW4xdEtaVVRVcFlMV0p0MzZoYlViSWpVbG8xczFUOEs4Zw?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-09-28T18:15:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "OpenAI's custom Jalapeno AI inference ASIC is for OpenAI’s internal use, but company leaves the door open to broader rollout — firm says it will have its ‘hands full’ with Jalapeño for ‘a good long time’",
+      "summary": "OpenAI's custom Jalapeno AI inference ASIC is for OpenAI’s internal use, but company leaves the door open to broader rollout — firm says it will have its ‘hands full’ with Jalapeño for ‘a good long time’ tomshardware.com",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRl8zcTFFaVZkeklYREtRLUQ3MUNsSkZ0Z0daRklwY210OUVBT2Z1U0stVmxrMW5pZmE3WEN0MVJyZkQzQzZGQWZ3aWZjVkdaY19iX0V1bXEwOWlCT3E2YUpZTnBFNnpvYWpaRTVRUndpSjRzREM4cEpDRjVxdTMwOTBuRzF5MXlJQXRxU20xUVhVNmlKa0s5OF9zRzBCWnZVY0xJX0YzaGhOTktjSVBEVWhnZ0ZfQ2d5UHFpWFZJa25QTVQ2ZUxVcnJnWDRSdzlCRE1BX29adW5GNEk3amt6alVoNWRMY2tsc3UyNTZFTHlzS3dzSHpDWGNSZFRCa09LanIzeEFkbFBtTUZGcVVkVUFQNGtmU0FrSlEtYmJobFZ0X2FfeG5UajdWZVI5VVlIUFpLMzFIUUhxV3dOc1VhazNBbG9kTldnRUJSNUdKYVdRa1lVdlhCS0p1QkszRHA1amtHOFIwbzFRX3RGV3NCdTVxdXBuRTdk?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-09-28T15:45:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Thieves Chase GPU Paydirt In NVIDIA Trailer Heist, Steal 20 Tons Of Sand Instead",
+      "summary": "Thieves Chase GPU Paydirt In NVIDIA Trailer Heist, Steal 20 Tons Of Sand Instead HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1FZOWpzTThfcDVULTB2RzEzb0tVTGVvMk5xM1lZM1FQTFVmQ0ZMQVh1dE83a25CMWdNaGljWk9wUEZUb01GZ2RhWVZTZ2g5VGJaRElkMEpuUG1kN1FGd1NJN19KTXU2VGU3R0xaYmtKcHBxTlN0X2d3OTk0d3NUZndObmoyaG5KbWJsamxiQWEzVm1pVGhWaG9Cb2o5YmI2aUFmQTFaX2tSMVhN?oc=5",
+      "age": "22h ago",
+      "date_iso": "2026-09-28T14:53:00+00:00"
     },
     {
       "category": "infra",
       "title": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved — locals push back over noise and 'bribe' concerns",
-      "summary": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved — locals push back over noise and 'bribe' concerns Tom's Hardware",
+      "summary": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved — locals push back over noise and 'bribe' concerns tomshardware.com",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxORXUtS0FTYlZNLWIxMHlHbHd2Y2VBNFJpemp6NXBPdmZLZlh0YXFnTUh1WEVsYld0VDdDM0lhc1YxTFctWEtZbnM4SHg3Sy13OUxwOUJGRmhrQ0xvdEE3TnFuLVg1RHZKZFBWN0NZODNKNkNNQkJuM0xGMG9qekxRcnNKa29yRlI5M1MyR1dlMDZwb2dDUzI5UmVWZUtvak1pNHRNS0RCTzhYZS11QVBDVWVNcENjZDBUVHoteVdtYmljNjE5a2xXMlZVUThPam94Y3d2V2I4ZzJzZk5OVk1ZSkJzOFh1eTVaSkZHRjgweXc3SV9xYWtMRnJ4d1UyZTFFdnBkZzl4dDllMWNkRHFocU13UUVmdGVaRk9rRC1hZEtvS1NfcUJpZFFhanJNU2pG?oc=5",
-      "age": "3h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-28T11:40:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Sharon AI to lease capacity from Australia’s GreenSquareDC",
-      "summary": "Former IBM site to become host for Aussie neocloud",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/sharon-ai-to-lease-capacity-from-australias-greensquaredc/",
-      "age": "3h ago",
-      "date_iso": "2026-09-28T11:19:27+00:00"
+      "title": "New Jersey hits data center with 'record' $1.1m fine after drone exposes 62 unpermitted gas generators",
+      "summary": "New Jersey hits data center with 'record' $1.1m fine after drone exposes 62 unpermitted gas generators TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMEliWmVwald4LVFlX2U3YjBXTGxmQlN4bVlpOFJncE1zUVhFVVFNSXQxOXE0akFoRVpxaG1xQ0toc1BiTzBqRzBYS0JvUkdpbjNvVHp5cVhNWThMQVNmNWh2cUZ0TDE3MWpVN0pYWWhyTVMwSlRqTGNpVFZTVXhXMUhKLWQ0WUNmRjRkbkI5akdCTDJ5WHg1S0NLQU9JNHR5YzRocGVNb0tlN2R3eEJLSnNyeGFmZm9QMFdab3pma0FfeXY1RUNUZjBUeGpzZmFuRlE?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-09-28T10:35:43+00:00"
     },
     {
       "category": "edge",
@@ -44,44 +80,8 @@
       "summary": "Quote of the day by legendary computer scientist Geoffrey Hinton: 'If we don't figure out how to make it safe, there's a real possibility it could destroy us' — a stark alarm on the existential risks of AI TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQYlVpWUlpWVNGNTlNZ0hsd2ktTEhIQUo4aDE1SmxVb3VycmNBdFVxcmd5NlgyVS1tMGtheXp1QU1fNTU2NHY1Vm5xYTE1VkJxM3N1M2Y5R0YwQU5fV1pjLU95d3ZjZ0FFVllMR1lvYjlhTnFVdHlTcUVnVmktWm9pbjlmczc3QXpCWEJOSFN0anJISXFWRDJIMUJLSDNMOEhwT0lSa0RUTVhmeDljTWpGZENVWkhNTDhTeUs0NnhjNzZkN2dENTNKUGZlMUhrSWRuVUNnenlPcGNfQUxVaGZZeWNUSEV0eU9palBmODJQUERfT1hmSF9CeVJKQzFDZlVCYngwbnFSbGdUa042NUdBeU80aFFnX1lleWpKZW5sTVkxYlI5WWE2M0QyOW9QVHRtbFF0UEJPME8yRWdXallOR0lhcjVsMVFGWUlR?oc=5",
-      "age": "16h ago",
+      "age": "1d ago",
       "date_iso": "2026-09-27T22:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead — crooks duped by 20 tons of ballast sand",
-      "summary": "Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead — crooks duped by 20 tons of ballast sand Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORkxENWlQSHdFYjB1NWw0NW5hb1RrOUFaSnNwb2IzNFZTd2FZSWd0dmFIWHF0Nkp2M3BBWlpKUXY1blFNQ0tHTlVxcXlKY3daR3hZOTBKVDBMUVVkbk9PYThGdkVEQlZRUlRxN252SzRxM0tXWUxrNFRqRHZpMUVrdHpYZkQ4Z1V4d0NPd295cWRtYVdndTNCVVVicWxnWXc0S0c2UG5DbnIwbXFHd3hUTnVFbFRrekRpS2JtR0JwaXkzMExVTjRQYWxsSWthRG5FRkExTmJHUmZVbUYySnNFcjkydVFYbkZTaTZBRF9pWEJyZVN4ZFFiMFpSU1JkUFpaQXRQMUhDQi1zcVJYQzQtLVd4YkI3ekpET0ZUaFdlZ1hHVGc?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-27T14:14:40+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Qualcomm Unveils Snapdragon 8 Elite Gen 6 and Elite Extreme Gen 6: Next Gen Flagship Mobile Chips",
-      "summary": "Qualcomm Unveils Snapdragon 8 Elite Gen 6 and Elite Extreme Gen 6: Next Gen Flagship Mobile Chips ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0tleFE1RG5kSTdWVFdYZkZVWFk4aUNJWERpTllHM0RBVHJoZlI0djNhUUoxSkhkem5xTmVDNXVySFFsWERBYklSaDBCUm9QU1N1RENGaTRRSngtcGdTQ21CRzJXLTB3em5hdnpIS25ZdDVjbVpURmJyc1I0SEtKSzNaYlBnTVBrTFFVa0o1VmdOQ2dTblVzWk1DNDFIMUJKUWVWb2MwVjQ5aFQtS0JxWVphRDVySnhzSmc1Z2NsV3lPS3dV?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-26T19:00:12+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Qualcomm Unleashes Linux On Snapdragon X2 With NPU And GPU Support",
-      "summary": "Qualcomm Unleashes Linux On Snapdragon X2 With NPU And GPU Support HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2VtZFo0TUFrZGRGVm9aeU1fSHVHcWtMTVJ2bXN6aVdpaHh3cjhIcTRsZmZYb2tZWmJFcWQ5RmFfX1RLdFViaHJCMzM1N1RSZ1JWRHBtZFJORUNVcW0yMlhwMmVsT0JYTW1IUThTQWNDUWhOZXhMWExFdDl6N051U0o3akFMNVZWcVhMcFVhVEw0NG9zaHFpMUxrdw?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-09-25T20:35:00+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "AMD Takes the Lid off of Next-Gen EPYC 9006 Venice As Zen 6 Comes to Servers",
-      "summary": "AMD Takes the Lid off of Next-Gen EPYC 9006 Venice As Zen 6 Comes to Servers ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWNFb3NCRkhBeU12SDRGLVFBbmk5Szd1SFVMUzhhaDZhcjhMbjhwenI5SXVsekZweWp0eFlPcGVGazR0R1BxZWJXWmtDVTZ3bVFuSlVZWnF1NmdvTDJqU04xQ3UtUzBIOTRyRVlaeEJIbnFLd3JsRTQxeTZvS3haZ3BDZ0VSNVllT1RQR2FFN2U0NzhuWGx2MERHSjlGaFpuczlpei1XMkoxUQ?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-09-25T17:00:01+00:00"
     }
   ]
 }
