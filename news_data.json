@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-09-29T13:33:46.923051+00:00",
+  "generated_at": "2026-09-30T13:11:58.495364+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "infra",
-      "title": "Plans filed for 400MW data center campus outside Melbourne, Australia",
-      "summary": "New player HyperDC plans campus outside Geelong, near existing substation and BESS project",
+      "category": "gpu",
+      "title": "Optical interconnect startup CScale emerges from stealth following investment from Nvidia and Intel",
+      "summary": "Californian startup raised $145m in Series C funding round",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/",
+      "link": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-cscale-emerges-from-stealth-following-investment-from-nvidia-and-intel/",
       "age": "just now",
-      "date_iso": "2026-09-29T12:40:36+00:00"
+      "date_iso": "2026-09-30T13:00:36+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "CoreWeave makes Nvidia Vera Rubin NVL72 available, Cognition is early customer",
+      "summary": "Neocloud also to offer Vera CPU alone, and announces customer contract",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/coreweave-makes-nvidia-vera-rubin-nvl72-available-cognition-is-early-customer/",
+      "age": "just now",
+      "date_iso": "2026-09-30T13:00:35+00:00"
     },
     {
       "category": "infra",
-      "title": "Submer launches Corenix to offer modular data center infrastructure",
-      "summary": "New unit to provide custom modules for customers",
+      "title": "Australia's CDC plans gigawatt-scale data center campus in Wagga Wagga",
+      "summary": "Company files for four-building campus well outside usual NSW hubs of Sydney and Canberra",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/submer-launches-corenix-to-offer-modular-data-center-infrastructure/",
+      "link": "https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/",
+      "age": "just now",
+      "date_iso": "2026-09-30T12:30:27+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Google named as customer for Crusoe's data center campus in Amarillo, Texas",
+      "summary": "Campus set to span at least six single-story buildings",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/google-named-as-customer-for-crusoes-data-center-campus-in-amarillo-texas/",
       "age": "1h ago",
-      "date_iso": "2026-09-29T12:30:42+00:00"
+      "date_iso": "2026-09-30T11:59:59+00:00"
     },
     {
       "category": "infra",
-      "title": "Plans unveiled for ‘largest’ data center in Italy",
-      "summary": "An unnamed company has already submitted plans",
+      "title": "BrightRay plans 40MW data center in Macau",
+      "summary": "Company set to sell majority stake to BUUU",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/plans-unveiled-for-largest-data-center-in-italy/",
+      "link": "https://www.datacenterdynamics.com/en/news/brightray-plans-40mw-data-center-in-macau/",
+      "age": "1h ago",
+      "date_iso": "2026-09-30T11:49:57+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "America is planning more AI datacenters than its chip supply can fill",
+      "summary": "Satellite imagery shows construction accelerating, but advanced packaging could cap 2027 deployment in the low 20s of gigawatts",
+      "source": "The Register",
+      "link": "https://www.theregister.com/on-prem/2026/09/30/america-is-planning-more-ai-datacenters-than-its-chip-supply-can-fill/5299845",
       "age": "2h ago",
-      "date_iso": "2026-09-29T11:25:37+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AI Data Center Developer Promises $10K Checks To Residents, Locals Call It A Bribe",
-      "summary": "AI Data Center Developer Promises $10K Checks To Residents, Locals Call It A Bribe HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOU5KRGtRNUpGX0IyTGN0aEJUQUdEQVRpZVFKRXhvZkJ3LXdxQ0V0cmlEcWpWMWZJQmNxQTc4M1lPQVJsUko1UnVjRjVGdENPd25zajBlclF4elpNRGxPOE02SDdJSVpRRVkyRjlDQW4xdEtaVVRVcFlMV0p0MzZoYlViSWpVbG8xczFUOEs4Zw?oc=5",
-      "age": "19h ago",
-      "date_iso": "2026-09-28T18:15:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "OpenAI's custom Jalapeno AI inference ASIC is for OpenAI’s internal use, but company leaves the door open to broader rollout — firm says it will have its ‘hands full’ with Jalapeño for ‘a good long time’",
-      "summary": "OpenAI's custom Jalapeno AI inference ASIC is for OpenAI’s internal use, but company leaves the door open to broader rollout — firm says it will have its ‘hands full’ with Jalapeño for ‘a good long time’ tomshardware.com",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPRl8zcTFFaVZkeklYREtRLUQ3MUNsSkZ0Z0daRklwY210OUVBT2Z1U0stVmxrMW5pZmE3WEN0MVJyZkQzQzZGQWZ3aWZjVkdaY19iX0V1bXEwOWlCT3E2YUpZTnBFNnpvYWpaRTVRUndpSjRzREM4cEpDRjVxdTMwOTBuRzF5MXlJQXRxU20xUVhVNmlKa0s5OF9zRzBCWnZVY0xJX0YzaGhOTktjSVBEVWhnZ0ZfQ2d5UHFpWFZJa25QTVQ2ZUxVcnJnWDRSdzlCRE1BX29adW5GNEk3amt6alVoNWRMY2tsc3UyNTZFTHlzS3dzSHpDWGNSZFRCa09LanIzeEFkbFBtTUZGcVVkVUFQNGtmU0FrSlEtYmJobFZ0X2FfeG5UajdWZVI5VVlIUFpLMzFIUUhxV3dOc1VhazNBbG9kTldnRUJSNUdKYVdRa1lVdlhCS0p1QkszRHA1amtHOFIwbzFRX3RGV3NCdTVxdXBuRTdk?oc=5",
-      "age": "21h ago",
-      "date_iso": "2026-09-28T15:45:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Thieves Chase GPU Paydirt In NVIDIA Trailer Heist, Steal 20 Tons Of Sand Instead",
-      "summary": "Thieves Chase GPU Paydirt In NVIDIA Trailer Heist, Steal 20 Tons Of Sand Instead HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1FZOWpzTThfcDVULTB2RzEzb0tVTGVvMk5xM1lZM1FQTFVmQ0ZMQVh1dE83a25CMWdNaGljWk9wUEZUb01GZ2RhWVZTZ2g5VGJaRElkMEpuUG1kN1FGd1NJN19KTXU2VGU3R0xaYmtKcHBxTlN0X2d3OTk0d3NUZndObmoyaG5KbWJsamxiQWEzVm1pVGhWaG9Cb2o5YmI2aUFmQTFaX2tSMVhN?oc=5",
-      "age": "22h ago",
-      "date_iso": "2026-09-28T14:53:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved — locals push back over noise and 'bribe' concerns",
-      "summary": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved — locals push back over noise and 'bribe' concerns tomshardware.com",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxORXUtS0FTYlZNLWIxMHlHbHd2Y2VBNFJpemp6NXBPdmZLZlh0YXFnTUh1WEVsYld0VDdDM0lhc1YxTFctWEtZbnM4SHg3Sy13OUxwOUJGRmhrQ0xvdEE3TnFuLVg1RHZKZFBWN0NZODNKNkNNQkJuM0xGMG9qekxRcnNKa29yRlI5M1MyR1dlMDZwb2dDUzI5UmVWZUtvak1pNHRNS0RCTzhYZS11QVBDVWVNcENjZDBUVHoteVdtYmljNjE5a2xXMlZVUThPam94Y3d2V2I4ZzJzZk5OVk1ZSkJzOFh1eTVaSkZHRjgweXc3SV9xYWtMRnJ4d1UyZTFFdnBkZzl4dDllMWNkRHFocU13UUVmdGVaRk9rRC1hZEtvS1NfcUJpZFFhanJNU2pG?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-28T11:40:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "New Jersey hits data center with 'record' $1.1m fine after drone exposes 62 unpermitted gas generators",
-      "summary": "New Jersey hits data center with 'record' $1.1m fine after drone exposes 62 unpermitted gas generators TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMEliWmVwald4LVFlX2U3YjBXTGxmQlN4bVlpOFJncE1zUVhFVVFNSXQxOXE0akFoRVpxaG1xQ0toc1BiTzBqRzBYS0JvUkdpbjNvVHp5cVhNWThMQVNmNWh2cUZ0TDE3MWpVN0pYWWhyTVMwSlRqTGNpVFZTVXhXMUhKLWQ0WUNmRjRkbkI5akdCTDJ5WHg1S0NLQU9JNHR5YzRocGVNb0tlN2R3eEJLSnNyeGFmZm9QMFdab3pma0FfeXY1RUNUZjBUeGpzZmFuRlE?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-28T10:35:43+00:00"
+      "date_iso": "2026-09-30T10:45:00+00:00"
     },
     {
       "category": "edge",
-      "title": "Quote of the day by legendary computer scientist Geoffrey Hinton: 'If we don't figure out how to make it safe, there's a real possibility it could destroy us' — a stark alarm on the existential risks of AI",
-      "summary": "Quote of the day by legendary computer scientist Geoffrey Hinton: 'If we don't figure out how to make it safe, there's a real possibility it could destroy us' — a stark alarm on the existential risks of AI TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQYlVpWUlpWVNGNTlNZ0hsd2ktTEhIQUo4aDE1SmxVb3VycmNBdFVxcmd5NlgyVS1tMGtheXp1QU1fNTU2NHY1Vm5xYTE1VkJxM3N1M2Y5R0YwQU5fV1pjLU95d3ZjZ0FFVllMR1lvYjlhTnFVdHlTcUVnVmktWm9pbjlmczc3QXpCWEJOSFN0anJISXFWRDJIMUJLSDNMOEhwT0lSa0RUTVhmeDljTWpGZENVWkhNTDhTeUs0NnhjNzZkN2dENTNKUGZlMUhrSWRuVUNnenlPcGNfQUxVaGZZeWNUSEV0eU9palBmODJQUERfT1hmSF9CeVJKQzFDZlVCYngwbnFSbGdUa042NUdBeU80aFFnX1lleWpKZW5sTVkxYlI5WWE2M0QyOW9QVHRtbFF0UEJPME8yRWdXallOR0lhcjVsMVFGWUlR?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-27T22:00:00+00:00"
+      "title": "More than half of UK businesses lack confidence in basic cyber skills",
+      "summary": "Government survey puts the figure at 808k, says detecting and removing malware most common weakness",
+      "source": "The Register",
+      "link": "https://www.theregister.com/security/2026/09/30/more-than-half-of-uk-businesses-lack-confidence-in-basic-cyber-skills/5299991",
+      "age": "3h ago",
+      "date_iso": "2026-09-30T10:04:53+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "OpenClaw slips on a suit to evade widespread business bans",
+      "summary": "Red Hat, Nvidia, OpenAI and friends are working on an enterprise edition they say is ‘Kubernetes for agents’",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/30/openclaw-slips-on-a-suit-to-evade-widespread-business-bans/5299962",
+      "age": "8h ago",
+      "date_iso": "2026-09-30T05:04:22+00:00"
+    },
+    {
+      "category": "cpu",
+      "title": "Where We Expect AMD EPYC 9006 CPUs in the era of Agentic AI",
+      "summary": "Where We Expect AMD EPYC 9006 CPUs in the era of Agentic AI ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdkV3cXFkUzROMC1PWm05ZFdKS3Vna0lVQVdFU3Fuc2ZTdGgyTUotaE9TaEVhd05zandtZWVCekNqdFFxQ1dyRDNGNTJtbU9DY1ZLTTFiRUhuRlFWaF9uWFFvX2FSTDlqNEVOU3dycUtDekxkOTM5NEtKR0R2NFd0MndiRHlUWlZfR2RveUFiSU5rSkU?oc=5",
+      "age": "20h ago",
+      "date_iso": "2026-09-29T17:00:59+00:00"
     }
   ]
 }
