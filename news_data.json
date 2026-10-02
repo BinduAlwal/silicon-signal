@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-01T14:01:42.041183+00:00",
+  "generated_at": "2026-10-02T13:22:44.931762+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "DCD Survey: Data center construction",
-      "summary": "Examining the role of third-party material handling in modern data center construction projects",
+      "title": "Nation Data Center breaks ground on new French data center development",
+      "summary": "The project in Vélizy-Villacoublay town is part of a mixed-use project",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/research/dcd-survey-data-center-construction/",
+      "link": "https://www.datacenterdynamics.com/en/news/nation-data-center-breaks-ground-on-new-french-data-center-development/",
+      "age": "just now",
+      "date_iso": "2026-10-02T13:12:05+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch",
+      "summary": "Meanwhile 128 GB version jumps to $6,950, nearly 75% above its launch price",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622",
+      "age": "just now",
+      "date_iso": "2026-10-02T13:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "When racks outpace the infrastructure: Retrofitting data center power systems for AI-scale densities",
+      "summary": "And why there's constraints to overcome in order to meet AI workload demands",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/when-racks-outpace-the-infrastructure-retrofitting-data-center-power-systems-for-ai-scale-densities/",
+      "age": "just now",
+      "date_iso": "2026-10-02T12:41:07+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Enetron Park announces zoning approval for 250MW data center in Pyhäjoki, Finland, despite local government denial",
+      "summary": "Announcement at odds with government decision",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/enetron-park-announces-zoning-approval-for-250mw-data-center-in-pyh%C3%A4joki-finland-despite-local-government-denial/",
+      "age": "just now",
+      "date_iso": "2026-10-02T12:28:41+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Sharon AI and Lambda secure GPU-backed debt funding",
+      "summary": "Combined, the two neoclouds have raised $1.356bn",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/sharon-ai-and-lambda-secure-gpu-backed-debt-funding/",
       "age": "1h ago",
-      "date_iso": "2026-10-01T12:58:40+00:00"
+      "date_iso": "2026-10-02T12:14:36+00:00"
     },
     {
       "category": "infra",
-      "title": "9.4GW SMR-powered data center campus proposed in Utah",
-      "summary": "Valar Atomics aims to get first reactor live in 2028",
+      "title": "Zella DC launches stackable micro data center boxes",
+      "summary": "Company makes its micro DC offering even smaller",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/94gw-smr-powered-data-center-campus-proposed-in-utah/",
-      "age": "3h ago",
-      "date_iso": "2026-10-01T10:57:33+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/zella-dc-launches-stackable-micro-data-center-boxes/",
+      "age": "1h ago",
+      "date_iso": "2026-10-02T12:12:27+00:00"
     },
     {
       "category": "infra",
-      "title": "Virginia bans data center NDAs as part of new digital infrastructure framework",
-      "summary": "Governor Spanberger introduces range of measures including AI task force",
+      "title": "Skybox & Prologis file for fourth data center in Hutto, Texas",
+      "summary": "Set to be largest facility yet at the campus",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/virginia-bans-data-center-ndas-as-part-of-new-digital-infrastructure-framework/",
-      "age": "3h ago",
-      "date_iso": "2026-10-01T10:27:55+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/skybox-prologis-file-for-fourth-data-center-in-hutto-texas/",
+      "age": "1h ago",
+      "date_iso": "2026-10-02T12:08:57+00:00"
     },
     {
-      "category": "cpu",
-      "title": "Nuvacore reveals unconventional Core First CPU IP design strategy — chip startup led by Apple and Nuvia legends plans to delay ISA selection for as long as possible",
-      "summary": "Nuvacore reveals unconventional Core First CPU IP design strategy — chip startup led by Apple and Nuvia legends plans to delay ISA selection for as long as possible Tom's Hardware",
+      "category": "policy",
+      "title": "Micro Center requires photo ID and signed no-export pledge to buy RTX 5090 gaming GPU — buyer forced to sign declaration disclosing install location and promise GPU will remain in the US",
+      "summary": "Micro Center requires photo ID and signed no-export pledge to buy RTX 5090 gaming GPU — buyer forced to sign declaration disclosing install location and promise GPU will remain in the US Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQRFVTNGEyZlBCZlItYzVMLXNiRTQtNVZLYVItT3dhWmdvUEllMUJBejBtSnVrN2R2VmJ5Y0VBZm9fbXdHUndFTWs4aGZMLVM4SWJ2SVZyWi1JSlZnR1VHV3NRRmk1dnRYYjcwcF9ZUjBzYjlNWWxBUDBXU3dVWUZuaGcwTVpaNVpwc094Ql9LZ3BfSmxrb0JZMU95cl9xX1gzRzB5RExDXzZOSU42NXBWUFJranoyUFlZNm9ZanozWFI5ZjQzeDBBOVJKT1hDbUVsMFlpMlQxV3B0T3REbzEyQWJyclRaZmkwWk9OSXdXMWZ5M3J5bzNFYWVKYjZ3aUcyeUVRc3lhd0JnSUdnZDhTdFVtWjFKbG0yZFQzNmxDMW5UdDl4NnNBWFlaTnV1clpPUXJBdw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-30T11:00:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNOUpuOTk2ODlyRGU1VzVPN1NOTUFzeWtscmhSTmJybkZ0RzhLVmRfbTFaNHVrWjVBcV96YXJ6NElSZHRDMnpXSlFKMEJ6TS1qQ1J3QjhqbTlDSlNWVFNhU3RmOGNRMEJHeXZ0UDFPZE5acjBoXzdya2lKUW1RVk83b2RHbWdwZUh4bmxrVVZSMzUtTWlSSG8zUWdfNzZPQTNjOEtnbDM4U3ZZOUVtUUVrZGNhWjZPTmVUbHhpUXh4dWx0QU9MUEl1dEhlci1Gc001aXUzNldOWlpuV0hHTTlvUU5sQklYNFN6d3BscFlwNDFfeHZlWlBiSUFPdmlQajAxZjh2RWswdWJNS29TNDVfUDFmM29sd1ZEenB4T2Y4NTdsZjUtblVDalkxc1p2YlZacVhwanVYejRsZG9zQkhUZmxpS1lGTlFETkhLeHY3SDRodw?oc=5",
+      "age": "2h ago",
+      "date_iso": "2026-10-02T11:15:00+00:00"
     },
     {
-      "category": "gpu",
-      "title": "‘This is how AI should be used’ — OpenAI head of hardware breaks down the AI-assisted design of its Jalapeño ASIC",
-      "summary": "‘This is how AI should be used’ — OpenAI head of hardware breaks down the AI-assisted design of its Jalapeño ASIC Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQa29ybkh0TE1EQm9NNlNPVGlCZjczWGU2Q0JtSUNUNTRsaUNwVEdPRzN6TUxzVnJBVzhwZ3RxTUIzMXh3LUp0RXBlYmVQODJtR1cyLWlJTktwUkxlbXhwa3JtMDJjQmJCRXg4V3lvamwyYnQ3VWh4WFlrWUlhYm1QUVMyajdqc2JTQ3NSYTFzdVpfOS1KdklxSmx3ZWgwVkRYVVBhYmhUbm5jeVFncjgyZWNtUVYxSi1UeWtjcWFFb2Z2NTNPcTc4YjdPR1hGUTZETnc0ZnctUU5IQlhPdFJUZGpLT1JGYS1SbFZMaldCSQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-30T10:59:59+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Where We Expect AMD EPYC 9006 CPUs in the era of Agentic AI",
-      "summary": "Where We Expect AMD EPYC 9006 CPUs in the era of Agentic AI ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdkV3cXFkUzROMC1PWm05ZFdKS3Vna0lVQVdFU3Fuc2ZTdGgyTUotaE9TaEVhd05zandtZWVCekNqdFFxQ1dyRDNGNTJtbU9DY1ZLTTFiRUhuRlFWaF9uWFFvX2FSTDlqNEVOU3dycUtDekxkOTM5NEtKR0R2NFd0MndiRHlUWlZfR2RveUFiSU5rSkU?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-09-29T17:00:59+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Qualcomm’s System Level Architecture in the Snapdragon X2 Elite",
-      "summary": "Laptop chips have gotten very powerful in recent years, with increasing CPU core counts, more powerful iGPUs, and higher DRAM bandwidth to feed that compute.",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/qualcomms-system-level-architecture",
-      "age": "1d ago",
-      "date_iso": "2026-09-29T16:07:30+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Intel patent embeds MicroLEDs in chip packaging — technology may enable embedded optical interconnects through TGVs",
-      "summary": "Intel patent embeds MicroLEDs in chip packaging — technology may enable embedded optical interconnects through TGVs Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN2wtMmkwcDNCT0dlbDEzTlFTbWl0NklEN2xCaTY1dERCX1h0MUJTci1aLVkwOWp0QWdabU1EVDJDdjNsWDNHRzFEZnNwaTNYbTBDQ1QyNHhGNnFQTy0tdHlsb0FqZVIybVpjSXNfZ202b3hERl9WaWlBQWVmZllLQVAxRWVfQVBmZ3U2UU4xcmNwb1JOVWdHdXo3ODEyTUhabGZqZHV1YnFhMUFqZmVYZm1VRjA3eEhTV2U4bk1KbGotMk5RekNlTzdDazd0S1dSTTdzTUtoNXhwZnJ3RElwUnUyb19pRGhSZW50a2JLeW52OFlGSXJ6bFpn?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-09-29T10:30:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "NVIDIA Open Agent Safety Platform Launched",
-      "summary": "NVIDIA Open Agent Safety Platform Launched ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RdUVGbXpzQ2tYOTRzUlJFdHlsbWQ2QlhtbjBGQ0JDempyOURnZkhXNkRIYjFJVzMtMUtCTTE4YU55R1o4Mk5OWU5FZ3lub2JDM3R6UDNPeklCNGhuQVBxc0JIaHc2N1hKVEVvZi16WTZidE9YczVNeVNuMG0?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-09-29T03:00:04+00:00"
+      "category": "infra",
+      "title": "DCD Studio: Why the data center industry needs a voice in the media with Venessa Moffat, Data Center Alliance",
+      "summary": "Paul Lipscombe speaks with Venessa Moffat of Data Center Alliance on the industry challenges such as misinformation, planning reform, and workforce development for AI.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-why-the-data-center-industry-needs-a-voice-in-the-media-with-venessa-moffat-data-center-alliance/",
+      "age": "2h ago",
+      "date_iso": "2026-10-02T10:52:31+00:00"
     }
   ]
 }
