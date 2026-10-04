@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-10-03T12:08:57.403153+00:00",
+  "generated_at": "2026-10-04T12:57:27.458225+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "Sponsored: Overcoming five common direct liquid cooling specification challenges",
+      "summary": "The reality of AI infrastructure has arrived: the power-hungry chips of today, such as the NVIDIA Blackwell, have rendered traditional air cooling obsolete",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/overcoming-five-common-direct-liquid-cooling-specification-challenges/",
+      "age": "21h ago",
+      "date_iso": "2026-10-03T15:00:00+00:00"
+    },
     {
       "category": "gpu",
       "title": "US Navy puts its Mk 48 torpedo on British robotic submarine for the first time",
       "summary": "US Navy puts its Mk 48 torpedo on British robotic submarine for the first time TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcUhXOXFRTFBuc2oydWh5YzFzMTMtRjNfTExNN2EwcnNVR3hXdkhqWEN2Tzk0aU1iUGZjX2pVZHZVYkNyNDdxWUtSS3gzTTFHYkFVbDYzQVJub0dlSzRqOVNMWGwyZ2h5eXZYbWJrSjRKa3ZFMGJ6dC1rWS1FU2FBdUcxVGtYU1YtWHlGWHdfVVZRQkhTUUltaTNIdV9JeENLZTNmQ0pLeUt3cGFaZ3VObGU2TFRZT1ZhUkpVM2RQWmVvZHhpWXdvekV4REwwUWZpbzJTR1hmVkthcjNMdUJ3YkRLLWU3TklESEdnZTZJUVprUQ?oc=5",
-      "age": "12h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-02T23:30:00+00:00"
     },
     {
@@ -17,8 +26,26 @@
       "summary": "Feds Arrest Solution Provider Owner In Alleged $300M GPU Server Smuggling Scheme crn.com",
       "source": "CRN",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcy0xM3FzV1RoQU5Pc2lXU0xXTHYySGo0NnBLRmhKbmpNbG16U0ZfWDBibzFVVmgtQkhOMm0yUHN0TFBrR3lYaWd0OWc4d3R5SUpKdWo5RklkTnBIVVZ6S05STW5KSkplTE9pZE1UVjNlQnpFaVpTMjVUTTVaTDBkOXpwVjNtbThXbU9SakxIdnU4ck5oSVhZczg1TFJvR09nZWQ5Q2ptYXk1bWpkdDZzeXNqaDZfMURmR3k3QktR?oc=5",
-      "age": "15h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-02T21:01:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "This is BiCS NAND Close Up from Kioxia and Sandisk",
+      "summary": "This is BiCS NAND Close Up from Kioxia and Sandisk ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYUN1OVg4UEoycERPaFBpUHl4Y2VLTmYtaFBMMlBjQndJc3BwdjdTa0F3OU82bW1GMzkzaEYyX2ZIZ216X2lhSk44UENuZHlYN2E1WWd5X0JCNEt0bVUtNGlFclFyZ2RlUWZicFprd00xQThkY19zdTZ6MzljdFMtano2ejJmSU0?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-10-02T19:55:22+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Shut up and take our money: Amazon plows $1B+ into quashing datacenter dissent",
+      "summary": "Thou shalt love the datacenter! Verily, thou shalt rejoice in the house of the datacenter!",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/10/02/shut-up-and-take-our-money-amazon-plows-1b-into-quashing-datacenter-dissent/5300914",
+      "age": "1d ago",
+      "date_iso": "2026-10-02T19:30:56+00:00"
     },
     {
       "category": "gpu",
@@ -26,7 +53,7 @@
       "summary": "Will see Cerebras' wafer-scale compute coming to the AI cloud platform",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/general-compute-signs-multi-year-agreement-with-cerebras/",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-02T16:35:30+00:00"
     },
     {
@@ -35,7 +62,7 @@
       "summary": "The facility will be developed in two phases",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/intro-group-to-invest-270m-in-egypts-kemet-data-center/",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-02T16:33:42+00:00"
     },
     {
@@ -44,7 +71,7 @@
       "summary": "The data center network has received PLN 1.56 billion ($401m) from the European Funds for Digital Development program",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/polands-national-data-processing-center-receives-eu-funding-grant/",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-02T16:29:50+00:00"
     },
     {
@@ -53,35 +80,8 @@
       "summary": "Facility estimated to cost €24 million and open in 2030",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/ai-data-center-planned-for-karlsruhe-institute-of-technology-germany/",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-02T16:27:01+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Another data center in Kyiv taken offline by Russian strikes",
-      "summary": "Dline.ua facility taken down, follows strikes on numerous others data centers in the city",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/another-data-center-in-kyiv-taken-offline-by-russian-strikes/",
-      "age": "19h ago",
-      "date_iso": "2026-10-02T16:23:06+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AWS drops non-disclosure agreements for data center projects",
-      "summary": "Follows Microsoft's footsteps",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/aws-drops-non-disclosure-agreements-for-data-center-projects/",
-      "age": "19h ago",
-      "date_iso": "2026-10-02T16:21:36+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "VMware Partner: ‘We Love To See’ Broadcom’s $42B Anthropic AI Bet",
-      "summary": "VMware Partner: ‘We Love To See’ Broadcom’s $42B Anthropic AI Bet crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHZiQ3ZEdGxmQ0JJQXByOGltWWJKNUFBV3p6WDljSGhLWG0xekpLNkZzOEgzc3RDU1ktQVZqVkNEZl9xbHlHcjVqNGVETzh3TTBMSzRGMy1lLXRaQ2tZdnZ1NnJxRjZKalc5dWNKSVN6UFF0QktUSlZvTjNnTXppeVM1aUt2aG0zZ1Z5VlZzOHR1Rk1hcDVyeExR?oc=5",
-      "age": "20h ago",
-      "date_iso": "2026-10-02T15:50:00+00:00"
     }
   ]
 }
