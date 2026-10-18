@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-10-17T11:16:26.980706+00:00",
+  "generated_at": "2026-10-18T11:53:08.564113+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "gpu",
+      "title": "NVIDIA RTX Spark N1X Launch Overview: NVIDIA Arms Windows",
+      "summary": "NVIDIA RTX Spark N1X Launch Overview: NVIDIA Arms Windows ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnR6WkVnYXd0LUZ3RHExOU1NSEdKazFldS1nTGZnM2JiazJrYnYtLVpTYWVMZS1pTDNObjBxOU5ZdURmaFJzc1RkRHpLQV9tOTU3dm93OTNURHkxcmNEMGRxS05jR0N0MGw5RFRSN01jZl9pVUVPcXVyemlkT195MVhsZV9KXy12MUd5U1h5OA?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-10-17T17:00:47+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
+      "summary": "How prioritizing the small things with sustained investment and follow-through can help to pave the way to achieving true data center sustainability goals",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/",
+      "age": "20h ago",
+      "date_iso": "2026-10-17T15:00:00+00:00"
+    },
     {
       "category": "infra",
       "title": "Plans for data center in Moncalieri, Italy, put on hold by town mayor",
       "summary": "Before its application was halted, the project was billed as Italy’s ‘largest’ data center",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
-      "age": "2h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-17T09:00:36+00:00"
     },
     {
@@ -17,7 +35,7 @@
       "summary": "El Reg digs its claws into HP's N1X-powered OmniBook Ultra 16",
       "source": "The Register",
       "link": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621",
-      "age": "14h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-16T20:31:00+00:00"
     },
     {
@@ -26,7 +44,7 @@
       "summary": "The future is private, the present is plunder",
       "source": "The Register",
       "link": "https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658",
-      "age": "15h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-16T20:00:42+00:00"
     },
     {
@@ -35,7 +53,7 @@
       "summary": "Poland’s changing energy story means its well placed to benefit from the global data center boom",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/analysis/dcn-warsaw-2026-poland-deserves-a-greater-share-of-global-data-center-capacity/",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-16T16:19:59+00:00"
     },
     {
@@ -44,7 +62,7 @@
       "summary": "SK hynix denies playing hardball with Trump admin over 3D NAND fab — report claimed company demanded increased chipmaking equipment exports to China in exchange for US fab (updated) Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNbFFFNDlHa2dya0d2OFdGWS1lTmY2MUg3TlEtblBoVGh4VUpyTGNCcDBMQnpVcXFWZ0FGRHZIYmlnSE51ekRrWTNPNUhxa0RfS2tDSV9WbkpkZnNndjRjaWJqaHg1S1FQQ08zd1gyNTJGNVdHSDE5RjMxS2VsSE9BYkRGXy1ZN2U4c2l0LVYtUTJqeGZYNm5JdEhjcDd1dnBCdV8zVjl4UG5YN3BRVGt4TGtaV1AyUjRLYXVMOTZmR1dHdDBha1NrMUltTjVWYktIRlFYbExMNDhXNUJSMnBocHZzQng4OGs4SXBiM0xHUDlJRE9Gb01PYjduMGJpX0dQa1R3ZnViQS1vc0J1alNWNEdnOWpaSUZZQnA1d0paVkpzQWVmTTNfbEN6NTlzdw?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-10-16T11:08:01+00:00"
     },
     {
@@ -53,7 +71,7 @@
       "summary": "This is the AMD Helios HPE Juniper QFX5252 Switch Tray at OCP 2026 ServeTheHome",
       "source": "ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGtGcjJqa0NUdjRhTFpVNm9NbGI4SVFkNzBDMUJMN1lGWkZycm02Tk1penhXeERQY3l4d2lkaTE2SlEyOVJHckd1MTJZMUZhaTAzN3BnVksya3h2cG0yaUdmTnMwMGJScUk2UVRMZVd3MHhZNnJXTUR2RkxSUHUtQWZEQUtFOEREZ1YtbWNvekRuSWdSRUpLeXFiV1I?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-10-16T04:49:49+00:00"
     },
     {
@@ -62,26 +80,8 @@
       "summary": "RTX 5090 disappears from Nvidia marketplace amid reports of a production halt — flagship no longer carried as stock mysteriously vanishes (Updated) Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNY1NQUEdyNndVajlUbDJnX3lZd3BNaHFpOFV6Nm00RkFxellpOGl0ZVlVSkdRRVhWdWg0V1BnWVo1RWFoZ2U3alFwaXViZVliUVBsY3puNFJoYkpKaHh6TEJ0cl9YbFYwR1hYLURDdldHZVZBTlFDbU0wSW13aDhmb25fV0NEc0FrUnNZcE96TUN3cFk2WU1aZFZBYl9aMV84Q2U0dnBIeU5XZFNQNnp2MEpCT1B3SlRoYncwaVZCb3l2X20zMUF0WjlDa0ZOaEtEaFNSRUZUZk0yYm5oQm9mN3M4bl9FWDlncWdRZTd1bE5CMllpaUZCbVYzYTJJS2l3LVJGQndrSWVGckFMWk9HTUg0SmdnQlBGUVVYYzQ5Z0I?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-10-15T15:37:41+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "NVIDIA RTX Spark N1X Laptop Benchmarks: The Results Are In",
-      "summary": "NVIDIA RTX Spark N1X Laptop Benchmarks: The Results Are In HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ORmJQbUVxcnVCWEV0U3lkQ3dhMEFsb3FJVVBsRU5hajYtTDlieWFrMlZOcUoySXBrbXh4a3R4RThOWWZZblBxSkpNQnFQbGJudTFOT2F6RTF2dVdveEhPTVJwMmx2aEZhQ0U4TlA4WXBmQQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-10-15T13:09:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Elon Musk calls out memory makers over 'extortionate' chip pricing, says Micron is playing smart for long-term loyalty — yet Micron is pulling in 90% margins on consumer RAM",
-      "summary": "Elon Musk calls out memory makers over 'extortionate' chip pricing, says Micron is playing smart for long-term loyalty — yet Micron is pulling in 90% margins on consumer RAM Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlh4UVVKLV80Mk9wZXZjS1hWdEpUblZXWkY5QnJNaDdQbGJvOTdQZkhJTUJ5bGdsRmxIekxneWI1RHR6VXZMbzBZOHBQb1hSSDZ4c1o5eGltU041Mjk1TkpEcjZwVjhOU3JzTlVWN0pkbU5ybGVkN3U4cEdnNW5FbmtYa2IxeF8ydGgzZWdTS0pXLUtaSHJYVlBoZE9nVEFiSmhOT21ndUhpdUxhZW9ZZGw5WQ?oc=5",
       "age": "2d ago",
-      "date_iso": "2026-10-15T11:00:00+00:00"
+      "date_iso": "2026-10-15T15:37:41+00:00"
     }
   ]
 }
