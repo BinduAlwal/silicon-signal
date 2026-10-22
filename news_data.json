@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-10-21T12:35:41.380960+00:00",
+  "generated_at": "2026-10-22T12:38:04.393109+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "gpu",
-      "title": "Nvidia picks OpenShell to tame AI gents",
-      "summary": "Give your agents freedom to do useful work by locking them down",
+      "category": "infra",
+      "title": "Infineon and Nvidia to develop gallium nitride power conversion tech for 800VDC data center racks",
+      "summary": "Latest agreement in support of the move to 800VDC",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/infineon-and-nvidia-to-develop-gallium-nitride-power-conversion-tech-for-800vdc-data-center-racks/",
+      "age": "just now",
+      "date_iso": "2026-10-22T12:30:55+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure",
+      "summary": "Cloudflare reports millions of exploit attempts, while Amazon spotted attackers trying their luck four days before patches landed",
       "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
-      "age": "1h ago",
-      "date_iso": "2026-10-21T11:30:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
-      "summary": "GPUzilla boasts modular bit barns could speed up deployments from six months to just two weeks",
-      "source": "The Register",
-      "link": "https://www.theregister.com/on-prem/2026/10/21/nvidias-grand-plan-for-speeding-up-datacenter-deployments-ai-trailer-parks/5304303",
-      "age": "1h ago",
-      "date_iso": "2026-10-21T11:30:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Crusoe plans Spark Liquid modular data center to support latest Nvidia GPUs",
-      "summary": "3.5MW deployments expected to serve Crusoe Cloud in 20-50MW clusters",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/crusoe-plans-spark-liquid-modular-data-center-to-support-latest-nvidia-gpus/",
-      "age": "1h ago",
-      "date_iso": "2026-10-21T11:30:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "President Trump: Data center firms should offer local residents dividends to get communities on-side",
-      "summary": "President says to 'make deals and get data centers built'",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/president-trump-data-center-firms-should-offer-local-residents-dividends-to-get-communities-on-side/",
-      "age": "1h ago",
-      "date_iso": "2026-10-21T10:42:29+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Hitachi Energy teams up with Ansaldo to develop integrated power solutions for data center sector and grid",
-      "summary": "Japanese giant inks MoU with Italian energy firm",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/hitachi-energy-teams-up-with-ansaldo-to-develop-integrated-power-solutions-for-data-center-sector-and-grid/",
-      "age": "1h ago",
-      "date_iso": "2026-10-21T10:35:52+00:00"
+      "link": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749",
+      "age": "just now",
+      "date_iso": "2026-10-22T12:15:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Nvidia GTC Berlin keynote disrupted by Greenpeace activists",
-      "summary": "‘Nvidia, clean up your dirty business,’ - protesters heckle Jensen Huang",
+      "title": "T-Mobile claims world first AI-RAN call with Nokia and Nvidia",
+      "summary": "The call was completed from a commercial cell site in Bellevue, Washington",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-gtc-berlin-keynote-disrupted-by-greenpeace-activists/",
-      "age": "2h ago",
-      "date_iso": "2026-10-21T10:31:22+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/t-mobile-claims-world-first-ai-ran-call-with-nokia-and-nvidia/",
+      "age": "just now",
+      "date_iso": "2026-10-22T12:00:39+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Nvidia launches DSX POD, claims the Vera-Rubin reference architecture will make AI data centers more water and energy efficient",
-      "summary": "Details released at GTC Berlin event, taking place this week",
+      "category": "infra",
+      "title": "Nvidia in talks to invest in Firmus after failed IPO - report",
+      "summary": "Could invest hundreds of millions of dollars in neocloud",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/",
-      "age": "2h ago",
-      "date_iso": "2026-10-21T09:39:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-in-firmus-after-failed-ipo-report/",
+      "age": "just now",
+      "date_iso": "2026-10-22T11:58:08+00:00"
     },
     {
-      "category": "policy",
-      "title": "China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports — ByteDance, Alibaba and Tencent order 3 million cards despite warnings that only 10% of orders are fulfillable",
-      "summary": "China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports — ByteDance, Alibaba and Tencent order 3 million cards despite warnings that only 10% of orders are fulfillable…",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPeXNCWWZna2JjQlFmc0pnR1cyN21HMVN2Zlo5RkY3dC1SbE1YWEszODAzT1FORmtfLW10V3ZpNFRhQ3RLVm02M1N2d1RlTnFkUlBUTE9rdG10dUFDemxmN2UtNFBqa3k0LVpNRlpIQ1o1MWRrMUd2Ykdna1R2dXRYRS1tN1ZycFJjc2pzakRxNWJSd3pKdUUtMThRVWdXY1k3WXBZZW1OTlNXNDhZcHAxbThXcDUwSUg2LVloWDJYYWlwMzZNWnBEWHZBV3pXSEhrV2J1TnhjTnBqMXJBdWs3NkYtSVhzS3FhX2dySnVEb0N3M3NSUjAzc3RxWUpoQm5ldzJsYnQ4UElCVEtYYUZrdUZ3Yy1HNnhRS0JxNkc0Q3lXZDhmZERwUE45SkYxVzRmRFB1bnR1OUR4akJKaURnLVBFeUo4REdjRWtIWkhmTzFrZ1U0UWtrdVFWVnJkbFJHcDlDTzFCak8wUDRIbFlkdlYzaVdfRVFTdDQ5SFAyNUhDVzF6dnhCYzV1SG8xaVRpUHpMNk11dGtNRnZvenRVMVJ2ZDltMFhfcnNET09qRDdQR2FwQmc?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-10-20T12:10:00+00:00"
+      "category": "infra",
+      "title": "US considering 35 data center-related developments on public land, land records say",
+      "summary": "17 relate to campuses, 13 to broader AI infrastructure",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/us-considering-35-data-center-related-developments-on-public-land-land-records-say/",
+      "age": "just now",
+      "date_iso": "2026-10-22T11:49:43+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Nebius signs on for 50MW at Neom's Oxagon data center in Saudi Arabia",
+      "summary": "Deal signed with Humain and DataVolt",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/nebius-signs-on-for-50mw-at-neoms-oxagon-data-center-in-saudi-arabia/",
+      "age": "1h ago",
+      "date_iso": "2026-10-22T11:16:47+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Soluna and Applied Digital to build 50MW data center in Texas",
+      "summary": "Companies to build on Soluna’s Dorothy 3 site, lease capacity to Applied spin-out ChronoScale",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/soluna-and-applied-digital-to-build-50mw-data-center-in-texas/",
+      "age": "1h ago",
+      "date_iso": "2026-10-22T11:02:52+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Era4 reveals details of hyperscale data center planned for former steelworks in Newport, Wales",
+      "summary": "First GPUs set to come online next year, could eventually reach 1GW",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/era4-reveals-details-of-hyperscale-data-center-planned-for-former-steelworks-in-newport-wales/",
+      "age": "1h ago",
+      "date_iso": "2026-10-22T10:59:10+00:00"
     },
     {
       "category": "edge",
-      "title": "Intel asks FCC for waiver to buy foreign robots — chipmaker’s automated guided vehicles could run afoul of agency’s sweeping robot ban",
-      "summary": "Intel asks FCC for waiver to buy foreign robots — chipmaker’s automated guided vehicles could run afoul of agency’s sweeping robot ban Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbEFNSVdSX3NKZVRobGdpeVlkRGk1OWZqSTdYVEhObkJEcFhvLTl4UENnUG1tSDNYZ0w4OEdMWXJNRmctS3RiN1paMk9PN2piRm5jVjRwcjNhUTFhYVl2NWczVzJ2eXlzNTNuWVZ6bXBTeV9ZQzVfMnZ4cEFfNTdxV0NpdzR0NjMyZ0NabDVkVVVCMUs4cVJDRjRRMWhSNXBQbDVaUVV5U21ESUR0VkU1enNPSU9HWFlxOEhMV0R5Y0RXMk9GRm1iX0kwVzBiWFVEclQwYzg1TkZ5Zjhpc3A5SWE0TVFuTE5sWm9IR1BkQkJvVlNqdTlEQUFTSXg1ZGtaS3ZHM3BTMHZHU3dxRkpTaFp0UkloWE0?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-10-20T11:45:01+00:00"
+      "title": "UK government hasn't the foggiest how much it's spending on digital transformation",
+      "summary": "Years of promises, but officials unable to put a figure on investment",
+      "source": "The Register",
+      "link": "https://www.theregister.com/public-sector/2026/10/22/uk-government-hasnt-the-foggiest-how-much-its-spending-on-digital-transformation/5304662",
+      "age": "3h ago",
+      "date_iso": "2026-10-22T09:15:00+00:00"
     }
   ]
 }
