@@ -1,15 +1,78 @@
 {
-  "generated_at": "2026-10-24T11:43:29.334625+00:00",
+  "generated_at": "2026-10-25T12:13:03.795302+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
+      "summary": "Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments",
+      "source": "The Register",
+      "link": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
+      "age": "1h ago",
+      "date_iso": "2026-10-25T10:39:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "“Performance” Oryon: Qualcomm’s Little Core",
+      "summary": "Qualcomm’s Snapdragon X2 Elite uses a hybrid core setup, breaking away from the all-big-core strategy that the company previously used with in-house core designs.",
+      "source": "ChipsAndCheese",
+      "link": "https://chipsandcheese.com/p/performance-oryon-qualcomms-little",
+      "age": "12h ago",
+      "date_iso": "2026-10-24T23:13:33+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
+      "summary": "Designed to carry out 100,000 steps without human approval",
+      "source": "The Register",
+      "link": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+      "age": "23h ago",
+      "date_iso": "2026-10-24T13:02:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
+      "summary": "UK-based Fuse Energy also brings GPU compute online for customers",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
+      "age": "23h ago",
+      "date_iso": "2026-10-24T13:00:21+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects — site was left running for a month after Greg Abbott called for a pause on approvals",
+      "summary": "Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects — site was left running for a month after Greg Abbott called for a pause on approvals Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOYnpkN0VrZkpVVG8xLTlibHpEdXB3eTgwZk05SnNwOHRmY2dfbEs3dU11UEV5YTg0Q09hclRuZVJmODZTVGhCVi0tbll0em9OV1FQTkJqMDJZSktnZ1dLb2NraUpoWmZBeTI0S3VZTk82b0E3VUxGVDlDNVdUeU42U2J0WXZCSnJxSHp5V0lOR3YzNEhKcXJ0MjlPVWY0d0VlQkFmV3NhalZ2elZoYnR6T1FxSjhXMHpEUjVjeEhqSWZVQVZNcmRuQy1RRmlxRE1JNzR6NGlZaFViaVU4NElERV9wSjNFc2ZKc3I3cGtDLXBGLUVYX2xabk9VRmRjX01lSC1qT1hXRjkxcnVLcU5sWlNNMUtDam9WOVVLM3kxWGpOTW95OV9EY3V3aEFoRS1DSU1MdFBmRWh0UDRkb0VwWWhkQ3pFZ2xLMEFrMFN1NTJhbnNGMncwY0FnWjBIZmI1WHJfY0x3?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-10-24T11:35:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers — GPU die and memory desoldered and transplanted to blower designs; custom cards to Nvidia Founders Editions on the chopping b",
+      "summary": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers — GPU die and memory desoldered and transplanted to blower designs; custom cards to Nvidia Founders Editions on the chopping b Tom's…",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWEJjQi1za1l1bTI1SFNZcVBMeDJ6RFVQNWJ1RU5iWWVBQzFUN18wTndLek15MWplRmpTSW1rMklpSFBDbUZobk5WMXBsTlY2YzI5dVByWVdXTHYyNUp2OGUxaUk0c0NvSkZBcC1NbWtnQVR1ZXN6NDd6WmhBZ2lIbS1rVmhDVWlWbHJqZTh0UF9xLXpKSXYwNlYxUFJCUEJKTjNEVmVabTdRaDZ2RUIwNFBkUmd2T3FLNW1ZOHc5V1JDTkphb2JidEFhRjQ3Y3Q1RXRPajZRektKNG9KUVRQaVBQbkpJOXhXb2NrcVlnbW9ycTgwVE1CX0s1R3c5MVRDczZDRDZUNHlSTEVES1JlUzFENWprQTVWR2NNTlNtT05xUQ?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-10-24T11:15:00+00:00"
+    },
     {
       "category": "gpu",
       "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
       "summary": "We've totally got things under control",
       "source": "The Register",
       "link": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
-      "age": "13h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-23T22:36:11+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "32 TB RAM for your GPUs: Marvell shows revolutionary Photonic Fabric Memory Module that uses light to link up to 16 GPUs and slash CAPEX — but Nvidia won't stick around doing nothing",
+      "summary": "32 TB RAM for your GPUs: Marvell shows revolutionary Photonic Fabric Memory Module that uses light to link up to 16 GPUs and slash CAPEX — but Nvidia won't stick around doing nothing TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQVTE4X1NzYnBnMk0tcDgya1dkS3lRdmNVZlY1NXhFOUhLX2JfNVhhTFRpX3dmVnJUSUR3a0FqSUdyMmlVaElXc1p0UlFfZWxjY0ZYQlo3WU55NXBmeDB1a0pWQThzdkNXck84MnpNUXVZdHg5bXhHQkVqQjQxMXdJNnpqLU11ZzZGLVFJdlNNbnl0cGY2VEdFX1NKOWxqdVJkLTlZekphVFJjcjBZOGVkRmNkNnQtWnRRX2dWS2pQNDFEbVE3TjM3Q0lXa1dZbm45QnY0Skx5MG1SVGkzSFJOMU5jckJaZXhUdEpuTDVuQ19UNGw1cWs5YmF6Z3FISnR3czRxSGw2V3hSS2JrR2preGxfNFlucS0zN0FaNUIzMzRCQm4xT1lldzJpdkxTd25DWWc?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-10-23T21:35:00+00:00"
     },
     {
       "category": "infra",
@@ -17,71 +80,8 @@
       "summary": "Installation of the Medusa subsea cable also progresses in Benghazi",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/new-libyan-telecom-firm-to-launch-data-center-in-2027/",
-      "age": "19h ago",
-      "date_iso": "2026-10-23T16:10:43+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Short seller bets against Csquare, says data center firm's shares are worthless",
-      "summary": "Concerns over portfolio and capital structure",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/short-seller-bets-against-csquare-says-data-center-firms-shares-are-worthless/",
-      "age": "19h ago",
-      "date_iso": "2026-10-23T16:00:37+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Meta details Ohio Prometheus data center campus, with first phase live",
-      "summary": "Has already been used to train Muse",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/meta-details-ohio-prometheus-data-center-campus-with-first-phase-live/",
-      "age": "19h ago",
-      "date_iso": "2026-10-23T15:55:54+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network — Nvidia says chip smuggling is 'a drop in the bucket,' insists it remains a non-factor",
-      "summary": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network — Nvidia says chip smuggling is 'a drop in the bucket,' insists it remains a non-factor Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOOXl4bHBDVENMOE1PYWJZUEJXeEJfdUlzUjhNTVZoeFE3SERZMktlOHBqUDItMFhWcVdjLXZPOVB1RG9hNzhrMmd3ZWNlYVFDbzhab2V4dVA3aEVqSENLM1ZfQzNiNmx6R0VaTVUwRU9FUUFnMV9kcDluWEJTOE10OWx3N0RhRHNZZ1VZZzJLVTFzdW5ndXpkQjI0SU5TaExsclZaUEM5cnhSQTZhYlhEM3lpTUk5aFZkRFk4bzZPaENrVTRrbnBQMzhUSHMxSzRCNFFGSHhaRi1TMWNNamlQU0Jzc2tXTDBmRUxFQUljMlFGSkJlOTFwQnZXckNibC1zTFVXUm9MTGhuY1RPZHVscE5YUmFzRU9aZ1doSUtuSGF1dEVxNlpjWkl1SWRzOEJBNHAyY0dtZFJxUE41a3JRWURuZE1LUFVacUgyb2UxWQ?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-10-23T12:26:23+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "FCC issues first bans under new chip-level rule — dashcam and video transmitter carried Huawei AI silicon with face tracking",
-      "summary": "FCC issues first bans under new chip-level rule — dashcam and video transmitter carried Huawei AI silicon with face tracking Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOU0NWM3pWT0FSdTdtS2lJd2FfcnJNSl92Q3JLb3dFOWwxSkhUaFV0VHozczZObHhNNXZaazJ5WWJ3LVVsZHlUQVE4dVNYS1BabkRyVmo2Y0pLVkM4R1FJaFpKbHFTcDE4UFpGWkNRTDF5SlhGS0d5OE56TVZXelhrMEV2MjdjRDlFT2g1WGtNZU1FZmg0c2ttb1hzUmliQThOWnh2bW9IS3drQ0JBQnk1N3dQUWNVekx2TG1DN1YwRkFwY1hRVTdPRVVkR04yNVVQb29VdG8zUXhvdU9ZRllBdnVWdTI4cm95eTh4M1A5QUduNU80WEtFajVLT3dIV1AyeF9RZzVLdTA?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-10-23T12:15:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Why Micron Is Suddenly Ditching 4F² DRAM As Rivals Double Down",
-      "summary": "Why Micron Is Suddenly Ditching 4F² DRAM As Rivals Double Down HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wQ2lrazVnSkdFV0RXQmNnakJqUk1WcHRrQVpKcjhvcUl6RTdTcEREWE82Q1lTMGU0SFc3d25ucGduR0hnQUk1R1AzUmZyUGFNQk40VDZhTUo5SGVnYTM4NTBWb05HbGEyMF8yM3NmRGk1Zkx3ZHVr?oc=5",
       "age": "1d ago",
-      "date_iso": "2026-10-22T18:55:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance",
-      "summary": "Google’s TPUs for AI workloads now run in Meta's data centers — TPUs sold to external customers for the first time, threaten Nvidia's market dominance Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPcXllYmxLcElIQjE5U2NXOXNBb3pVNDl3N2dnQVB1OThuN3pGQlNCeTNFMzNVMDc0YUt0VHk5bFFVMV94eW41Yi1SdXBTRWxzeDMteUwwbGJlUmFER0dHVDdBdl9JY1J1ZmJ0WUtKNU5nNnRXbVVKQ1dadkN4ZDBhSERxYjJ1cUFEaF9NREN4WjlZWEhIWG1pZnJLLV9KaV9DQTRIQ2VWMEhzNFQxdzd6R1NoYlByU3RYS2lHV2JIcUlJTXRXU1JndkViaEdqVnZLRkl4Q2g1RTczenVPV2hGbGVueE5GVDRNZTg1ak5XSXM1UEszY0xhX3VRbkdTbmZKWW0xcktOZnREOXhqRWFVaVJKdVg1cmNwRkV0SklRby14aU9qSmJoNjZ4Rk84TGtWX2FrN1hiZW5DQQ?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-10-22T10:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "NVIDIA GTC Berlin 2026 NVIDIA Intros DSX PODs and More",
-      "summary": "NVIDIA GTC Berlin 2026 NVIDIA Intros DSX PODs and More ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmc5MjNtN1JRcWppekZDei0wVlNUb214LWdka0lrVkFMZkxzRGhIQW9vTzVqOHpEWF9hclJxazBRUnhKU1BhSFRpNXZPN3BaYnVuY3RkOVVka3hTWGljbGM3RU1MRG4tSm1xQl9kcVJ3UF9yMmNXRUozb2FXZG5rR2F6Uy1kc0VjWUI0ag?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-10-21T16:30:25+00:00"
+      "date_iso": "2026-10-23T16:10:43+00:00"
     }
   ]
 }
