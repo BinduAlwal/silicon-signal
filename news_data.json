@@ -1,15 +1,69 @@
 {
-  "generated_at": "2026-10-25T12:13:03.795302+00:00",
+  "generated_at": "2026-10-26T13:44:42.293565+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
-      "summary": "Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments",
-      "source": "The Register",
-      "link": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
+      "title": "DCD Studio: The future of data centers with Jim Simonelli, Schneider Electric",
+      "summary": "Seb Moss speaks with Jim Simonelli of Schneider Electric about data center evolution, covering liquid cooling, 800-volt systems, prefabricated construction, AI-driven design, and strategic partnerships.",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-future-of-data-centers-with-jim-simonelli-schneider-electric/",
+      "age": "just now",
+      "date_iso": "2026-10-26T13:33:16+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Thieves repeatedly steal copper and tools from Culpeper data center construction site",
+      "summary": "Two masked men wanted by local sheriffs",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/thieves-repeatedly-steal-copper-and-tools-from-culpeper-data-center-construction-site/",
       "age": "1h ago",
-      "date_iso": "2026-10-25T10:39:00+00:00"
+      "date_iso": "2026-10-26T12:20:31+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall",
+      "summary": "SRAM-like bandwidth, DRAM-like density, and NAND-like manufacturing: Z2RAM makes big promises, but the road ahead is arduous and littered with the ruins of failed memory vendors",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181",
+      "age": "1h ago",
+      "date_iso": "2026-10-26T12:00:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit",
+      "summary": "Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRk9fWEFQV3p0bGRZZkVBeDRra0ZqQW8zZTZKbjRqczhHVHVBMGF1dU5Lcm9fTU5JdFNzNXRJaTFUOTczNGNwbXZDLU9pVkFaNmFCVWpPNVhIVFQ2UGl5TEtpUFJDTFhHNjFieFdjVjF6QXo1am1KbVNuRzl5RlJ3cnc4SXJ1N1c1eFp2LV9nMA?oc=5",
+      "age": "15h ago",
+      "date_iso": "2026-10-25T21:51:55+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases — facility also holds other important state registry data",
+      "summary": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases — facility also holds other important state registry data Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOQjBRVDlPTm5ER0RsTkM0TFI1WDB3WFJfZXhrVmExYVhZcUVtQlM1eElTWGJfblZaZG1sQ3dlcWVDdDBaTjNVMDRCY3RyVHEyY2oyNmc4dU0xS2plekNmeFNZdGx3R1BERkRQc3BqanAtNkZ6aTJudnFIX1lqYXBqUzdBbDh4dXZ1NHVsVlRqLWhfZ1hDNjRpYVMzemcydXRuMF9aemQ2aHhDVUFNQVJYNkVwVTkzNmh5Vl9jT0F5U0dOWjV5QXZyaks5djVneDhtUGNUdVJlY1RBbEw0SmcwRUw2RzRYMzJya2hvVUZTX1VfTURHdHlRbGFoT2V2b1Q4UHM3UzhVZlNNdmxXRnR3a1R2Ynpma0pqYzNrSExzYk9ac1c5RzBYSUw3YTZfN2JmQTh5dElfdHFSQlJEOWYtS2hnbGpZbVZlU2tF?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-10-25T14:05:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories' — details unclear about potential overlaps, firm already charges more than twice that amount for its AI Enterprise software platform",
+      "summary": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories' — details unclear about potential overlaps, firm already charges more than twice that amount for its AI Enterprise software platform Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNVEpXZFd5Q2JyNFYyWHpGb1QwWWFZZ3paclJmT0NwTFNpakwwR2l5aDZDNkRyTWVoOUdFanJQd2dWMDJ3QlJxc2NRbllGXy0zU2JiUmJwSkVhaFlES1hXU2hhMFN6S0FLZjJKemtsS1JwWXdZb3QwQUV6QzRhUzZnVUllcHE4Mi0tQ2ZUUHBLc2hHM1ZNbm1xdkJMclUxcTBEcVdrZkZjYnRVRlpFODNNVTBoS0hZaGxwYVktTW85Z2djVWlId2dldzQ2dVVBLXk2dldmdUFGMnJrY19CUXQtbG16NzNiMFJmR3pGb0pOMDFacEJwdGJmYVVUYmVUZGhyeVNDaWNuZVlxZ1VPdlNlMGJGSlc1T3RfOEliZDZ3ZnJFRVZXWHltWFI4SUFsTE41eThnRUJkMU8zVE1mcWQ1N0JvM29BV3Q0MHZDUXdFVQ?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-10-25T13:00:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia eyes converting old nuclear plants into massive AI data centers — reusing shut-down German energy sites could reduce the cost and timeline of building from scratch",
+      "summary": "Nvidia eyes converting old nuclear plants into massive AI data centers — reusing shut-down German energy sites could reduce the cost and timeline of building from scratch Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUFVoWHcyVVlZWFNsbldGSXRpNFpFbVdkSzhBMlplM3dTUGxwYU9CamtweDJEWl9IcV9IVzEyR3lTcElvUU1IUUdsX2tNMEdvNlBvZ2JJT1ZidU5CVDZYSzh2N1VhN1NKcnNTTUh0OEM5ZFlPbzZDOFpHRjhndlowd1Y0clhCMFEtUGU3ZHRpVFZLM1VXaEpCRUt4b3UzbmJDSTZFMkxZOVA1X1dLV0hNYk82UG83WFZvRG1iUWQ4Q2tyUE9ZMldEWExKeTRBRXlUdmQycWtKNXZ5alFYakp6Z04zYXlLWmhKWDQ1Vy01TzVPRnJONnRjQVVESHlwYkxtYmN4SGEtZFBKRVdfVGpCZm0xcEUtYmx0eXptV1E5NGhnTHl4OFlRdUtBbnRzeTlhelNSa2wwREJ0RTRYdzNjX2lpSGppd2c?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-10-25T10:30:00+00:00"
     },
     {
       "category": "gpu",
@@ -17,26 +71,8 @@
       "summary": "Qualcomm’s Snapdragon X2 Elite uses a hybrid core setup, breaking away from the all-big-core strategy that the company previously used with in-house core designs.",
       "source": "ChipsAndCheese",
       "link": "https://chipsandcheese.com/p/performance-oryon-qualcomms-little",
-      "age": "12h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-24T23:13:33+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
-      "summary": "Designed to carry out 100,000 steps without human approval",
-      "source": "The Register",
-      "link": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
-      "age": "23h ago",
-      "date_iso": "2026-10-24T13:02:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
-      "summary": "UK-based Fuse Energy also brings GPU compute online for customers",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
-      "age": "23h ago",
-      "date_iso": "2026-10-24T13:00:21+00:00"
     },
     {
       "category": "infra",
@@ -44,44 +80,8 @@
       "summary": "Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects — site was left running for a month after Greg Abbott called for a pause on approvals Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOYnpkN0VrZkpVVG8xLTlibHpEdXB3eTgwZk05SnNwOHRmY2dfbEs3dU11UEV5YTg0Q09hclRuZVJmODZTVGhCVi0tbll0em9OV1FQTkJqMDJZSktnZ1dLb2NraUpoWmZBeTI0S3VZTk82b0E3VUxGVDlDNVdUeU42U2J0WXZCSnJxSHp5V0lOR3YzNEhKcXJ0MjlPVWY0d0VlQkFmV3NhalZ2elZoYnR6T1FxSjhXMHpEUjVjeEhqSWZVQVZNcmRuQy1RRmlxRE1JNzR6NGlZaFViaVU4NElERV9wSjNFc2ZKc3I3cGtDLXBGLUVYX2xabk9VRmRjX01lSC1qT1hXRjkxcnVLcU5sWlNNMUtDam9WOVVLM3kxWGpOTW95OV9EY3V3aEFoRS1DSU1MdFBmRWh0UDRkb0VwWWhkQ3pFZ2xLMEFrMFN1NTJhbnNGMncwY0FnWjBIZmI1WHJfY0x3?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-10-24T11:35:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers — GPU die and memory desoldered and transplanted to blower designs; custom cards to Nvidia Founders Editions on the chopping b",
-      "summary": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers — GPU die and memory desoldered and transplanted to blower designs; custom cards to Nvidia Founders Editions on the chopping b Tom's…",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWEJjQi1za1l1bTI1SFNZcVBMeDJ6RFVQNWJ1RU5iWWVBQzFUN18wTndLek15MWplRmpTSW1rMklpSFBDbUZobk5WMXBsTlY2YzI5dVByWVdXTHYyNUp2OGUxaUk0c0NvSkZBcC1NbWtnQVR1ZXN6NDd6WmhBZ2lIbS1rVmhDVWlWbHJqZTh0UF9xLXpKSXYwNlYxUFJCUEJKTjNEVmVabTdRaDZ2RUIwNFBkUmd2T3FLNW1ZOHc5V1JDTkphb2JidEFhRjQ3Y3Q1RXRPajZRektKNG9KUVRQaVBQbkpJOXhXb2NrcVlnbW9ycTgwVE1CX0s1R3c5MVRDczZDRDZUNHlSTEVES1JlUzFENWprQTVWR2NNTlNtT05xUQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-10-24T11:15:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
-      "summary": "We've totally got things under control",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
-      "age": "1d ago",
-      "date_iso": "2026-10-23T22:36:11+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "32 TB RAM for your GPUs: Marvell shows revolutionary Photonic Fabric Memory Module that uses light to link up to 16 GPUs and slash CAPEX — but Nvidia won't stick around doing nothing",
-      "summary": "32 TB RAM for your GPUs: Marvell shows revolutionary Photonic Fabric Memory Module that uses light to link up to 16 GPUs and slash CAPEX — but Nvidia won't stick around doing nothing TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQVTE4X1NzYnBnMk0tcDgya1dkS3lRdmNVZlY1NXhFOUhLX2JfNVhhTFRpX3dmVnJUSUR3a0FqSUdyMmlVaElXc1p0UlFfZWxjY0ZYQlo3WU55NXBmeDB1a0pWQThzdkNXck84MnpNUXVZdHg5bXhHQkVqQjQxMXdJNnpqLU11ZzZGLVFJdlNNbnl0cGY2VEdFX1NKOWxqdVJkLTlZekphVFJjcjBZOGVkRmNkNnQtWnRRX2dWS2pQNDFEbVE3TjM3Q0lXa1dZbm45QnY0Skx5MG1SVGkzSFJOMU5jckJaZXhUdEpuTDVuQ19UNGw1cWs5YmF6Z3FISnR3czRxSGw2V3hSS2JrR2preGxfNFlucS0zN0FaNUIzMzRCQm4xT1lldzJpdkxTd25DWWc?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-10-23T21:35:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "New Libyan telecom firm to launch data center in 2027",
-      "summary": "Installation of the Medusa subsea cable also progresses in Benghazi",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/new-libyan-telecom-firm-to-launch-data-center-in-2027/",
-      "age": "1d ago",
-      "date_iso": "2026-10-23T16:10:43+00:00"
     }
   ]
 }
