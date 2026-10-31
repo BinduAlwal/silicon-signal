@@ -1,51 +1,78 @@
 {
-  "generated_at": "2026-10-30T13:43:18.501342+00:00",
+  "generated_at": "2026-10-31T13:12:22.778887+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "DayOne inks MoU with Blue Whale Energy to explore feasibility of a distributed virtual power plant in Singapore",
-      "summary": "Would support DayOne's SG1 data center",
+      "title": "Europe’s AI ambitions are hitting a power bottleneck",
+      "summary": "Data center demand is surging, but outdated grid infrastructure is preventing Europe from making full use of renewable energy",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/dayone-inks-mou-with-blue-whale-energy-to-explore-feasibility-of-a-distributed-virtual-power-plant-in-singapore/",
-      "age": "just now",
-      "date_iso": "2026-10-30T13:14:44+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AWS earnings jump, but investors grow weary of AI spend as quarterly capex hits $77bn",
-      "summary": "Shares fall as Amazon forecasts a weaker retail Q4 and continued data center spend",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/aws-earnings-jump-but-investors-grow-weary-of-ai-spend-as-quarterly-capex-hits-77bn/",
-      "age": "just now",
-      "date_iso": "2026-10-30T13:10:04+00:00"
+      "link": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+      "age": "2h ago",
+      "date_iso": "2026-10-31T11:00:39+00:00"
     },
     {
       "category": "gpu",
-      "title": "Lightmatter's lead ASIC engineer Clifford Chao joins OpenAI as silicon lead",
-      "summary": "Also worked at Google on TPUs",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/lightmatters-lead-asic-engineer-clifford-chao-joins-openai-as-silicon-lead/",
-      "age": "just now",
-      "date_iso": "2026-10-30T13:07:00+00:00"
+      "title": "Backbone of a beast – charting Nvidia's rise to networking titan",
+      "summary": "How a $6.9B bet on Mellanox made Nvidia bigger than Cisco, and the world's most valuable company to boot",
+      "source": "The Register",
+      "link": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
+      "age": "5h ago",
+      "date_iso": "2026-10-31T08:03:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
+      "summary": "Blame plunging prices on tokens",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782",
+      "age": "16h ago",
+      "date_iso": "2026-10-30T20:32:32+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Modders Turn PS5 Into A Steam Machine And Unlock Extra GPU Cores",
+      "summary": "Modders Turn PS5 Into A Steam Machine And Unlock Extra GPU Cores HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zcDhUOExobVNEZGxUN2IwR3hxMHNSVGpqZjdFWjE4SGRGSU5DVmRqTXBIdUhfdjZ3dVdVU3ZyYk9MMHJiZ2xVWmdKVlVkRmk0WDdJS091cVZZaHNPTjhsYlBMZ001ZHF4aUNveEJWOFhocDlOMUNqdFNPbw?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-10-30T18:46:00+00:00"
     },
     {
       "category": "infra",
-      "title": "India's L&T breaks ground on second Chennai data center",
-      "summary": "52MW facility to support firm's cloud unit, Vyoma",
+      "title": "Data center mooted in Glasgow by Scottish automotive firm",
+      "summary": "Local automotive company sounding out local council about a project near Cowlairs Park",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/indias-lt-breaks-ground-on-second-chennai-data-center/",
-      "age": "just now",
-      "date_iso": "2026-10-30T13:00:44+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/data-center-mooted-in-glasgow-by-scottish-automotive-firm/",
+      "age": "19h ago",
+      "date_iso": "2026-10-30T17:38:07+00:00"
     },
     {
       "category": "infra",
-      "title": "South Korea's Hyundai to develop data center in Saemangeum, offer GPU services",
-      "summary": "Company developing facility at energy and robotics megaproject campus",
+      "title": "Modular data center provider DXN loses neocloud customer contract",
+      "summary": "Customer cancels deal after shift in business, company still paid for work completed",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/south-koreas-hyundai-to-develop-data-center-in-saemangeum-offer-gpu-services/",
-      "age": "just now",
-      "date_iso": "2026-10-30T12:59:47+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/modular-data-center-provider-dxn-loses-neocloud-customer-contract/",
+      "age": "20h ago",
+      "date_iso": "2026-10-30T16:20:43+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "PsiQuantum turns its photonics know-how into an optical switch for supercharging AI data center GPU networks — 8x8 lab prototype loses less light than rivals, with plans to develop larger devices",
+      "summary": "PsiQuantum turns its photonics know-how into an optical switch for supercharging AI data center GPU networks — 8x8 lab prototype loses less light than rivals, with plans to develop larger devices Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOT0l4NmE5T0NJWDFGRlRTTEVVdmh4Y0w1ZGZrRUJfdzAxS2lOTDBtVDZ4T1pJUExvTloyZHJWWW93MkxBSEo3cFpuSXZ2T2JPajVhbVhORF9lWXVXLUZhN0dOMGNCeERxeGhuVWg0ekxLTnpac2p5Z0dxVXdmaDJyc0hLLVdkZndZQTEtWHB1R2dRUVlzWU4yMUxQaWVSaGVDWUEzNVA4ajRPdnU3R3NkY0hpZV9BSUFkZG1ycVlhSW9zY3BtZUVsY1d5U1ExV3JjMHhGWkRfN1dWNmo2bXZvMjdUXzdnak1jQXFHbEJkTXk3UU1rZnV2UjJfY0xnMkszYXpCajB2OWM3b0pmbHp3TmJMOTdIMElOWno5ZmxHT1AyUVhZTWhwTlBGS1dWTXZVdUtyMVA1VEl2aXVKbVFvc3h3aWdWM05IQzhyZFZfMElST2dDX3MxZlg2dWtwbnF3aWlF?oc=5",
+      "age": "22h ago",
+      "date_iso": "2026-10-30T14:30:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Intel Data Center Revenue Soars 78% But Memory Crunch Tanks Stock",
+      "summary": "Intel Data Center Revenue Soars 78% But Memory Crunch Tanks Stock HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1dTbVhYWDZpWmNtbkJ6cS1EMlBIMHVxT2FzUE9zcUZNTTZoR2R5TTFhX01mRzRKdlJyLXM3Qk1rRjdzSG50WVFaVnlDQkZMR2gtSmxIYUI3bloyWGd2NEhvTVNXZHBzNTgxWnZobE5tZzNOanV5eElRSGRfVWoyUzlmazNIWnI0SE5CNm5SNUVKaU5z?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-10-30T13:40:00+00:00"
     },
     {
       "category": "cpu",
@@ -53,35 +80,8 @@
       "summary": "Benchmarking Nvidia’s Vera CPU for the data center — standalone Vera tested against Granite Rapids-AP and EPYC Turin Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRDk3MnJlakJ1Wll3TlZSdXFEOFFpc0FfMzBLbWhxMHJ3azJFVHJ2VnpBeU5NbHVaSjZSMVEzcnRYU1ZjV0FqQjgzcGpfN29MRHd2SGw1Wm9xd2FFNG45dm1wTlZPRDU1cDNKVl9MeGpGTzdmd18xQ184VEN5bERuNTVnTHhJRDhrR2xHbDQ4ckZxY1IwekZaeU1JQmhtTWNBRlBrX3BQSS1kTEt2TGVMRTZpa3dtYmtiWG02M21fSk85NU0wSnVVd1V1SHBva3RyLTAtZE9XRHNqNW5BVFlVWFZ1cjhyOExvZVBwTmx0eDhWckk?oc=5",
-      "age": "2h ago",
+      "age": "1d ago",
       "date_iso": "2026-10-30T11:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Google hit with criminal probe over unapproved AI data center deforestation — 816 acres of forest destroyed in Finland as wolves flee into local villages, facility threatens 40% power bill hikes",
-      "summary": "Google hit with criminal probe over unapproved AI data center deforestation — 816 acres of forest destroyed in Finland as wolves flee into local villages, facility threatens 40% power bill hikes Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQQTNPY0dqYS1yd1RwR2FkTkJnemFRMnNJZFFBZGszblZYeTlIN1A3S0dXQTFZME12a2I0dUZFOTBIeV93amFicEs1aURmaUppV3o4RkdDbjFuUFlhRzFzdDFjQkRLeEhqc19ia2M5ZWI3S25YUERVMDNlVzc2SHlFbFpCTDlyVWMzT0FfVk9uV29OOWRzOUo3TXR2VTFDaXNBV25HRG5WT1dtQ2I5ZTZfb3RmWTlocEFGQjhVaVdJQWozQzRsbWRGUHM5eUpRQzJydlRMNHMyb0c4VnhialN4RVFCZk80dVNXTTdfZS1JcjFBMURaRUtZSWhhTDZFZURNVF9iSkROeGQ5Z2NoQ3JFSjBFMWVuTGhGdmxXdTNXMkJoWmM2dDN6T2lFc0NYY20ydzlhRkJtZWhiRkRXdnVV?oc=5",
-      "age": "3h ago",
-      "date_iso": "2026-10-30T10:40:00+00:00"
-    },
-    {
-      "category": "edge",
-      "title": "Domestic droid gone amok? Don't worry, you're covered",
-      "summary": "Insurance firms look to insulate domestic humanoid robot owners against the inevitable chaos they will bring",
-      "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/10/30/domestic-droid-gone-amok-dont-worry-youre-covered/5306396",
-      "age": "3h ago",
-      "date_iso": "2026-10-30T10:14:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue",
-      "summary": "Before long, we could be writing about a cloud company with a retail side hustle",
-      "source": "The Register",
-      "link": "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
-      "age": "8h ago",
-      "date_iso": "2026-10-30T05:42:24+00:00"
     }
   ]
 }
