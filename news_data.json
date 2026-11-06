@@ -1,60 +1,69 @@
 {
-  "generated_at": "2026-11-05T15:02:48.650580+00:00",
+  "generated_at": "2026-11-06T14:42:16.831988+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "gpu",
-      "title": "21 injured in Mackenzie, B.C., bus crash involving Iren contractor",
-      "summary": "Several were seriously injured as air ambulances called",
+      "title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – report",
+      "summary": "Micron is latest memory chip maker to face push back from employees over profit sharing bonuses",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/21-injured-in-mackenzie-bc-bus-crash-involving-iren-contractor/",
+      "link": "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/",
+      "age": "just now",
+      "date_iso": "2026-11-06T14:11:31+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Almost 600,000 Nvidia H200s stranded in Hong Kong as Chinese gov’t stalls on import approvals – report",
+      "summary": "Some companies have secured limited amount of chips as large-volume shipments remain stalled",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/almost-600000-nvidia-h200s-stranded-in-hong-kong-as-chinese-govt-stalls-on-import-approvals-report/",
+      "age": "just now",
+      "date_iso": "2026-11-06T14:08:20+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Home Office cloud services contract may net AWS £1B",
+      "summary": "Planning notice puts renewal at nearly twice the 2023 value, just as Whitehall frets about US tech dependence",
+      "source": "The Register",
+      "link": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
       "age": "1h ago",
-      "date_iso": "2026-11-05T13:34:36+00:00"
+      "date_iso": "2026-11-06T12:47:00+00:00"
     },
     {
       "category": "infra",
-      "title": "OpenAI promises to drop NDAs and increase community transparency, following anti-data center wave",
-      "summary": "Publishes Compute Campus Policy and National Community Compact",
+      "title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+      "summary": "Set to be powered via fuel cells and gas generation, coupled with CCS",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/openai-promises-to-drop-ndas-and-increase-community-transparency-following-anti-data-center-wave/",
-      "age": "1h ago",
-      "date_iso": "2026-11-05T13:03:45+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand",
-      "summary": "Reported a huge increase in sales within its power and energy division",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
+      "link": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
       "age": "2h ago",
-      "date_iso": "2026-11-05T13:00:43+00:00"
+      "date_iso": "2026-11-06T11:56:37+00:00"
     },
     {
       "category": "infra",
-      "title": "More than half of US hyperscale data center projects face 'regulatory friction' after 2026 midterm elections - report",
-      "summary": "National moratorium remains a low-probability scenario, analyst report says",
+      "title": "Playmobil owner to enter data center market with new facility in Dietenhofen, Germany",
+      "summary": "The proposed facility will have power requirements of up to 100MW",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/more-than-half-of-us-hyperscale-data-center-projects-face-regulatory-friction-after-2026-midterm-elections-report/",
+      "link": "https://www.datacenterdynamics.com/en/news/playmobil-owner-to-enter-data-center-market-with-new-facility-in-dietenhofen-germany/",
       "age": "2h ago",
-      "date_iso": "2026-11-05T12:47:05+00:00"
+      "date_iso": "2026-11-06T11:52:51+00:00"
     },
     {
       "category": "infra",
-      "title": "Lambda to develop four-building data center campus in Lowndes County, Alabama",
-      "summary": "Company says it will invest $33.1bn in the state",
+      "title": "Microsoft design change delays Iren's data center delivery in Texas",
+      "summary": "$4bn ARR now targeting online date in January",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/lambda-to-develop-four-building-data-center-campus-in-lowndes-county-alabama/",
-      "age": "2h ago",
-      "date_iso": "2026-11-05T12:46:33+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-design-change-delays-irens-data-center-delivery-in-texas/",
+      "age": "3h ago",
+      "date_iso": "2026-11-06T11:31:00+00:00"
     },
     {
-      "category": "infra",
-      "title": "DCD Studio: Accelerating AI infrastructure deployment, with Dan Golding, ASG",
-      "summary": "James Raddings speaks with Dan Golding of ASG about vetting legitimate data center projects, AI-driven fiber demand, supply chain hurdles, power versus location dynamics, and community engagement.",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-accelerating-ai-infrastructure-deployment-with-dan-golding-asg/",
-      "age": "2h ago",
-      "date_iso": "2026-11-05T12:27:54+00:00"
+      "category": "gpu",
+      "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims — Kimi-maker primarily interested in inferencing capacity, but also asked about training clusters",
+      "summary": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims — Kimi-maker primarily interested in inferencing capacity, but also asked about training clusters Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMGdqdzl4Q2dwZHFmeExfX1BPZFV1T0cwR21HX2x6QlBKdnFxZ1NiTmYtcDdza3B2eUxlem8xUGN2VGJWbWlTWDVvWHJVRTRBa2MxaXJxcy1uem5ianBYUG9jQ3lONHFFaXhDdXJ1VHpobTg4T3MxQWk2WGl5aVZObHhvN0l2Si1Zck9adnAwY0puYnNMMW81QmJ0TWlaWkxuTG9ta050TzBGNEFZcGlEcGoxbzlHTWpWMlhSM25mTy1CTDE3T2RYMnVFQlVRLTZhblhOQ1h2R3ltLXlYcjdxNlRjMDRiamNNS3MwZ0ZtYm9UM2taNU1yQ01iTTZpME1BZUl6SE0yLTFHVnZJT3NYQWcyOVV6cE5EZ1g2ZGxNV2hPRjMtWUVfajRMUFFXREdnUDZPTmZMLWstR0NZYlhtTXNTMTB1SzZFX0ptQUJrLUpjNEZ1Z1FaZVpZbUREZFl4d3d0dFF5SQ?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-11-05T16:48:30+00:00"
     },
     {
       "category": "infra",
@@ -62,7 +71,7 @@
       "summary": "SpaceX plans to build more data center compute than Google's entire lifetime capacity in just 1.5 years — analysts say target is realistic, SpaceX to build staggering 10 gigawatts of compute in 2027 alone Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNeklOLXBSWVZyb2JITFRDS01CU29FdV94VmRwbEQzaE51LUJISHpfZTU3b29IdWowYm5YblJ3dHgwS3ZFanFWU0drcXNMODlYdFRvWWw4bzdhQVNwYndqNFE4OHZoTFA5eUJ0NnQtUHdkd0I5MnN2Vm82NWc2b0wtT1ZrdXZxVGRwMWxELWVYMEdBUVgtYklHdnoyeHBTV2tOZC1tdEs3d3NOaktycFJaZ19GaGo1Z3VmOWI3Vk9EZERueDF5MGRieXdqODduazRsbndXVklTb2FvX21Ta1pwX3FnUEFQbGFkVm1YbmlXWVVoQi14bWxQRmlncEpFT1JQcFlsQWlSMkNlcVFtRmNRNDBoQ21LTmUzYlNYSjBhSU5LeXB1TDd4R3FVak9KMWRiQjBFZmFoZExNVnVjcVFFU1hzU0hPLUZSdXpQVWtQQW43bVhncFRzb3dwUFVzMjl1a25jVUJtMDlQcWI2emtnRVFB?oc=5",
-      "age": "3h ago",
+      "age": "1d ago",
       "date_iso": "2026-11-05T11:30:00+00:00"
     },
     {
@@ -71,17 +80,8 @@
       "summary": "Canadian professor warns massive new data center would release ‘23 Hiroshima-sized atomic bombs worth of energy’ every day TechRadar",
       "source": "TechRadar Pro",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd3BRRlY4TmRrUnEtX2VMbVRyM0c2S2t5dGhYOFBfbEYtbzh3ekt6WXc5elhzQkRiWG9CT2NQelI2cENUX09BdmVEa1BDUHM4cGhhX0JFWXU2UTVaRGM3TXZ2Tmg2NVU3Q2V4MzNUWEJaWWpnS1Y1Q09YQmdDMDVfUkRGaXJWQmpTX2l1dGRtNEFQTU9UV05CTjNxQ2U3NUIzUWdaSkxvTzB0NGw1YldlVUw2d3FHbXk0aDhrS0RpTWprS0hmYUJmaEN6REZ2OHY5S1JaRk5xYVRuZ18xMWltTEIzaFc?oc=5",
-      "age": "13h ago",
-      "date_iso": "2026-11-05T01:23:19+00:00"
-    },
-    {
-      "category": "edge",
-      "title": "Qualcomm Dragonwing Nabs a Big SpaceX Starlink Mobile Nationwide US 5G Network Win",
-      "summary": "Qualcomm Dragonwing Nabs a Big SpaceX Starlink Mobile Nationwide US 5G Network Win ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWxBcllSb2ozQkdGeUN3allFNERKRWNSM0xBNVpKOXRhTjdDZFNPcFIySjVtTGthbnQ5RUFCVVlWbHl0OGtHVjlxYW5tdFV4OVRraVBrNzdXVjFOeVVVQzJMbXc2ZUJ5WkFONDBtSjYzVlB5eEd5cnlXNzRyZU5Zb01DYVQ3c1pwVVlqSEZNRjdpRzREU1JHV01HTEd3MXFKUE9TTVlCRlRZNldpYUp1ZG5n?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-11-04T21:32:22+00:00"
+      "age": "1d ago",
+      "date_iso": "2026-11-05T01:20:00+00:00"
     }
   ]
 }
