@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-06T14:42:16.831988+00:00",
+  "generated_at": "2026-11-07T13:39:40.762867+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "gpu",
-      "title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – report",
-      "summary": "Micron is latest memory chip maker to face push back from employees over profit sharing bonuses",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/",
-      "age": "just now",
-      "date_iso": "2026-11-06T14:11:31+00:00"
+      "title": "Broadcom CEO Explains $100B Chip Vision, Nvidia, VMware And Supply Chain Success",
+      "summary": "Broadcom CEO Explains $100B Chip Vision, Nvidia, VMware And Supply Chain Success crn.com",
+      "source": "CRN",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOendqOFZUUnJMWGRBM1kyVzZvWXI5UE9iSWFMTE1Va2lnU043Z1M4cTJEVy0wb0lMU0hOQmk5TGw5S1NfaGxvalQ1d3NRN0psUURUQmRrV3hWTzMzV2FwTzZqV2xDa3hQOEZSZGVRd09Sd3dvTEprNUlQTE1tT0F4MTF3djFqRFhwVUFwZTZ3ZjdnTndYRllFRTkxdWU4NXhWNkVaS2N3QWpSY2VPUDE0MUNJMWFXWlpi?oc=5",
+      "age": "14h ago",
+      "date_iso": "2026-11-06T22:50:20+00:00"
     },
     {
       "category": "gpu",
-      "title": "Almost 600,000 Nvidia H200s stranded in Hong Kong as Chinese gov’t stalls on import approvals – report",
-      "summary": "Some companies have secured limited amount of chips as large-volume shipments remain stalled",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/almost-600000-nvidia-h200s-stranded-in-hong-kong-as-chinese-govt-stalls-on-import-approvals-report/",
-      "age": "just now",
-      "date_iso": "2026-11-06T14:08:20+00:00"
+      "title": "AMD Zen 6 Medusa Point APU Drops The Hammer In Geekbench Leak",
+      "summary": "AMD Zen 6 Medusa Point APU Drops The Hammer In Geekbench Leak HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sWEhzcG1xM3lReGZPOFJiV1VnSmFWYTlHR2ZDc2t3eE1NVGJxUHFDTkpGczF4UVJybFpLeEdCUXJNZGJOZy1keHdwRDZkT1BBZUVycUk1SEZiVXFxSkloeC0xdE1US25tblJ3Tkl4aDM0dHhNUTJwNV9kam4?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-11-06T18:48:00+00:00"
     },
     {
-      "category": "infra",
-      "title": "Home Office cloud services contract may net AWS £1B",
-      "summary": "Planning notice puts renewal at nearly twice the 2023 value, just as Whitehall frets about US tech dependence",
+      "category": "gpu",
+      "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
+      "summary": "Technical debt shoveled aside to make large-scale AI training more resilient",
       "source": "The Register",
-      "link": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
-      "age": "1h ago",
-      "date_iso": "2026-11-06T12:47:00+00:00"
+      "link": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
+      "age": "19h ago",
+      "date_iso": "2026-11-06T18:36:42+00:00"
     },
     {
       "category": "infra",
-      "title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
-      "summary": "Set to be powered via fuel cells and gas generation, coupled with CCS",
+      "title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
+      "summary": "Construction work could start in March 2027",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
-      "age": "2h ago",
-      "date_iso": "2026-11-06T11:56:37+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Playmobil owner to enter data center market with new facility in Dietenhofen, Germany",
-      "summary": "The proposed facility will have power requirements of up to 100MW",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/playmobil-owner-to-enter-data-center-market-with-new-facility-in-dietenhofen-germany/",
-      "age": "2h ago",
-      "date_iso": "2026-11-06T11:52:51+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Microsoft design change delays Iren's data center delivery in Texas",
-      "summary": "$4bn ARR now targeting online date in January",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/microsoft-design-change-delays-irens-data-center-delivery-in-texas/",
-      "age": "3h ago",
-      "date_iso": "2026-11-06T11:31:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
+      "age": "20h ago",
+      "date_iso": "2026-11-06T17:34:34+00:00"
     },
     {
       "category": "gpu",
-      "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims — Kimi-maker primarily interested in inferencing capacity, but also asked about training clusters",
-      "summary": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims — Kimi-maker primarily interested in inferencing capacity, but also asked about training clusters Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMGdqdzl4Q2dwZHFmeExfX1BPZFV1T0cwR21HX2x6QlBKdnFxZ1NiTmYtcDdza3B2eUxlem8xUGN2VGJWbWlTWDVvWHJVRTRBa2MxaXJxcy1uem5ianBYUG9jQ3lONHFFaXhDdXJ1VHpobTg4T3MxQWk2WGl5aVZObHhvN0l2Si1Zck9adnAwY0puYnNMMW81QmJ0TWlaWkxuTG9ta050TzBGNEFZcGlEcGoxbzlHTWpWMlhSM25mTy1CTDE3T2RYMnVFQlVRLTZhblhOQ1h2R3ltLXlYcjdxNlRjMDRiamNNS3MwZ0ZtYm9UM2taNU1yQ01iTTZpME1BZUl6SE0yLTFHVnZJT3NYQWcyOVV6cE5EZ1g2ZGxNV2hPRjMtWUVfajRMUFFXREdnUDZPTmZMLWstR0NZYlhtTXNTMTB1SzZFX0ptQUJrLUpjNEZ1Z1FaZVpZbUREZFl4d3d0dFF5SQ?oc=5",
+      "title": "Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction",
+      "summary": "Co-design platform for quantum error correction melds IBM quantum kit with AMD CPUs and GPUs",
+      "source": "The Register",
+      "link": "https://www.theregister.com/hpc/2026/11/06/oak-ridge-labs-gets-hybrid-quantum-hpc-system-to-test-qubit-error-correction/5308187",
+      "age": "20h ago",
+      "date_iso": "2026-11-06T17:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sponsored: Why SLA risk = Credit risk",
+      "summary": "What happens when a neocloud loses several hours of compute capacity, but its next debt payment is still due in full?",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/why-sla-risk-credit-risk/",
       "age": "21h ago",
-      "date_iso": "2026-11-05T16:48:30+00:00"
+      "date_iso": "2026-11-06T16:00:00+00:00"
     },
     {
       "category": "infra",
-      "title": "SpaceX plans to build more data center compute than Google's entire lifetime capacity in just 1.5 years — analysts say target is realistic, SpaceX to build staggering 10 gigawatts of compute in 2027 alone",
-      "summary": "SpaceX plans to build more data center compute than Google's entire lifetime capacity in just 1.5 years — analysts say target is realistic, SpaceX to build staggering 10 gigawatts of compute in 2027 alone Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNeklOLXBSWVZyb2JITFRDS01CU29FdV94VmRwbEQzaE51LUJISHpfZTU3b29IdWowYm5YblJ3dHgwS3ZFanFWU0drcXNMODlYdFRvWWw4bzdhQVNwYndqNFE4OHZoTFA5eUJ0NnQtUHdkd0I5MnN2Vm82NWc2b0wtT1ZrdXZxVGRwMWxELWVYMEdBUVgtYklHdnoyeHBTV2tOZC1tdEs3d3NOaktycFJaZ19GaGo1Z3VmOWI3Vk9EZERueDF5MGRieXdqODduazRsbndXVklTb2FvX21Ta1pwX3FnUEFQbGFkVm1YbmlXWVVoQi14bWxQRmlncEpFT1JQcFlsQWlSMkNlcVFtRmNRNDBoQ21LTmUzYlNYSjBhSU5LeXB1TDd4R3FVak9KMWRiQjBFZmFoZExNVnVjcVFFU1hzU0hPLUZSdXpQVWtQQW43bVhncFRzb3dwUFVzMjl1a25jVUJtMDlQcWI2emtnRVFB?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-11-05T11:30:00+00:00"
+      "title": "Two days of anti-data center protests planned across Europe",
+      "summary": "Stop Dirty Data Centres 'days of action' follow anti-data center midterms in the US",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/two-days-of-anti-data-center-protest-planned-across-europe/",
+      "age": "22h ago",
+      "date_iso": "2026-11-06T15:33:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Canadian professor warns massive new data center would release ‘23 Hiroshima-sized atomic bombs worth of energy’ every day",
-      "summary": "Canadian professor warns massive new data center would release ‘23 Hiroshima-sized atomic bombs worth of energy’ every day TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd3BRRlY4TmRrUnEtX2VMbVRyM0c2S2t5dGhYOFBfbEYtbzh3ekt6WXc5elhzQkRiWG9CT2NQelI2cENUX09BdmVEa1BDUHM4cGhhX0JFWXU2UTVaRGM3TXZ2Tmg2NVU3Q2V4MzNUWEJaWWpnS1Y1Q09YQmdDMDVfUkRGaXJWQmpTX2l1dGRtNEFQTU9UV05CTjNxQ2U3NUIzUWdaSkxvTzB0NGw1YldlVUw2d3FHbXk0aDhrS0RpTWprS0hmYUJmaEN6REZ2OHY5S1JaRk5xYVRuZ18xMWltTEIzaFc?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-11-05T01:20:00+00:00"
+      "title": "ING Bank looks to sell $500m in data center loans at once, including at Stargate site",
+      "summary": "Further spooking investors in a wobbly market",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ing-bank-looks-to-sell-500m-in-data-center-loans-at-once-including-at-stargate-site/",
+      "age": "22h ago",
+      "date_iso": "2026-11-06T15:31:41+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "More than 100 protesters break into Microsoft data center construction site in Amsterdam",
+      "summary": "Protesting water use, AI, and ties to Israel",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/more-than-100-protesters-break-into-microsoft-data-center-construction-site-in-amsterdam/",
+      "age": "22h ago",
+      "date_iso": "2026-11-06T15:13:00+00:00"
     }
   ]
 }
