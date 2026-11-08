@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-11-07T13:39:40.762867+00:00",
+  "generated_at": "2026-11-08T13:58:31.293506+00:00",
   "item_count": 9,
   "items": [
+    {
+      "category": "infra",
+      "title": "Sponsored: Water stewardship starts with design, not offsets",
+      "summary": "How can data center development not only minimize its impact on local water resources, but contribute to the long-term resilience of the watersheds in which we operate?",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
+      "age": "21h ago",
+      "date_iso": "2026-11-07T16:00:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
+      "summary": "The case for managed inference, or automatically routing queries to the right model for the right job",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+      "age": "22h ago",
+      "date_iso": "2026-11-07T15:00:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia targets China's AI workarounds by imposing strict limits",
+      "summary": "Nvidia targets China's AI workarounds by imposing strict limits TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWJLaGVaNFdKZW9lbG5DbENZcXZZNDdXalRaUlA1UzdNZmxreko0VV9kR2FzOHlRc2pic1ZSOUZRVlIwN0lpQmUyZXpvMVk1cV9Zc3dDdnZycVVzMmVnRjdnUmlMQ3NhNzU0bTNCTnhOYmt4cVFoREZLSTdsMUo1ckIwMjZsMTNIamUwRmhxM2QtczJZdUdfNmlOR3U3V3JiMWhfN0JMOGtNMVBRV0o5WHd2STA?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-11-07T01:25:00+00:00"
+    },
     {
       "category": "gpu",
       "title": "Broadcom CEO Explains $100B Chip Vision, Nvidia, VMware And Supply Chain Success",
       "summary": "Broadcom CEO Explains $100B Chip Vision, Nvidia, VMware And Supply Chain Success crn.com",
       "source": "CRN",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOendqOFZUUnJMWGRBM1kyVzZvWXI5UE9iSWFMTE1Va2lnU043Z1M4cTJEVy0wb0lMU0hOQmk5TGw5S1NfaGxvalQ1d3NRN0psUURUQmRrV3hWTzMzV2FwTzZqV2xDa3hQOEZSZGVRd09Sd3dvTEprNUlQTE1tT0F4MTF3djFqRFhwVUFwZTZ3ZjdnTndYRllFRTkxdWU4NXhWNkVaS2N3QWpSY2VPUDE0MUNJMWFXWlpi?oc=5",
-      "age": "14h ago",
+      "age": "1d ago",
       "date_iso": "2026-11-06T22:50:20+00:00"
     },
     {
@@ -17,7 +44,7 @@
       "summary": "AMD Zen 6 Medusa Point APU Drops The Hammer In Geekbench Leak HotHardware",
       "source": "HotHardware",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sWEhzcG1xM3lReGZPOFJiV1VnSmFWYTlHR2ZDc2t3eE1NVGJxUHFDTkpGczF4UVJybFpLeEdCUXJNZGJOZy1keHdwRDZkT1BBZUVycUk1SEZiVXFxSkloeC0xdE1US25tblJ3Tkl4aDM0dHhNUTJwNV9kam4?oc=5",
-      "age": "18h ago",
+      "age": "1d ago",
       "date_iso": "2026-11-06T18:48:00+00:00"
     },
     {
@@ -26,7 +53,7 @@
       "summary": "Technical debt shoveled aside to make large-scale AI training more resilient",
       "source": "The Register",
       "link": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
-      "age": "19h ago",
+      "age": "1d ago",
       "date_iso": "2026-11-06T18:36:42+00:00"
     },
     {
@@ -35,17 +62,8 @@
       "summary": "Construction work could start in March 2027",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
-      "age": "20h ago",
+      "age": "1d ago",
       "date_iso": "2026-11-06T17:34:34+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction",
-      "summary": "Co-design platform for quantum error correction melds IBM quantum kit with AMD CPUs and GPUs",
-      "source": "The Register",
-      "link": "https://www.theregister.com/hpc/2026/11/06/oak-ridge-labs-gets-hybrid-quantum-hpc-system-to-test-qubit-error-correction/5308187",
-      "age": "20h ago",
-      "date_iso": "2026-11-06T17:00:00+00:00"
     },
     {
       "category": "infra",
@@ -53,7 +71,7 @@
       "summary": "What happens when a neocloud loses several hours of compute capacity, but its next debt payment is still due in full?",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/opinions/why-sla-risk-credit-risk/",
-      "age": "21h ago",
+      "age": "1d ago",
       "date_iso": "2026-11-06T16:00:00+00:00"
     },
     {
@@ -62,26 +80,8 @@
       "summary": "Stop Dirty Data Centres 'days of action' follow anti-data center midterms in the US",
       "source": "DataCenterDynamics",
       "link": "https://www.datacenterdynamics.com/en/news/two-days-of-anti-data-center-protest-planned-across-europe/",
-      "age": "22h ago",
+      "age": "1d ago",
       "date_iso": "2026-11-06T15:33:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "ING Bank looks to sell $500m in data center loans at once, including at Stargate site",
-      "summary": "Further spooking investors in a wobbly market",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ing-bank-looks-to-sell-500m-in-data-center-loans-at-once-including-at-stargate-site/",
-      "age": "22h ago",
-      "date_iso": "2026-11-06T15:31:41+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "More than 100 protesters break into Microsoft data center construction site in Amsterdam",
-      "summary": "Protesting water use, AI, and ties to Israel",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/more-than-100-protesters-break-into-microsoft-data-center-construction-site-in-amsterdam/",
-      "age": "22h ago",
-      "date_iso": "2026-11-06T15:13:00+00:00"
     }
   ]
 }
