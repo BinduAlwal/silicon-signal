@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-08T13:58:31.293506+00:00",
+  "generated_at": "2026-11-09T16:59:37.092438+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Sponsored: Water stewardship starts with design, not offsets",
-      "summary": "How can data center development not only minimize its impact on local water resources, but contribute to the long-term resilience of the watersheds in which we operate?",
+      "title": "Former US DOE staffers launch modular data center firm Mavria",
+      "summary": "Raises $130m to scale factory-built data center platform",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
-      "age": "21h ago",
-      "date_iso": "2026-11-07T16:00:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria/",
+      "age": "just now",
+      "date_iso": "2026-11-09T16:56:57+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Mastering compliance",
+      "summary": "Reporting strategies for data center sustainability",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/whitepapers/mastering-compliance/",
+      "age": "just now",
+      "date_iso": "2026-11-09T16:55:23+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "New Jersey Senate passes bill banning data center-related NDAs",
+      "summary": "Bill now goes to NJ Assembly",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/new-jersey-senate-passes-bill-banning-data-center-related-ndas/",
+      "age": "just now",
+      "date_iso": "2026-11-09T16:32:45+00:00"
     },
     {
       "category": "gpu",
-      "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
-      "summary": "The case for managed inference, or automatically routing queries to the right model for the right job",
+      "title": "IBM deploys Quantum System Two in Chicago, Illinois",
+      "summary": "Company has also partnered with AMD and ORNL to launch co-design platform for quantum error correction",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ibm-deploys-quantum-system-two-in-chicago-illinois/",
+      "age": "just now",
+      "date_iso": "2026-11-09T16:25:42+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "AirTrunk named as operator behind data center project in Melbourne, Australia",
+      "summary": "Also behind project to develop Kurri Kurri smelter into data center",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
+      "age": "just now",
+      "date_iso": "2026-11-09T16:01:34+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session",
+      "summary": "A mountain of CVEs, a certificate cleanup, and yet more work for Microsoft's patching teams",
       "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
-      "age": "22h ago",
-      "date_iso": "2026-11-07T15:00:00+00:00"
+      "link": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
+      "age": "1h ago",
+      "date_iso": "2026-11-09T15:02:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "China builds massive 800-megawatt AI data center campus to rival US Stargate project — Galaxy campus delivers first 120 megawatts in a year at one-fifth the cost",
+      "summary": "China builds massive 800-megawatt AI data center campus to rival US Stargate project — Galaxy campus delivers first 120 megawatts in a year at one-fifth the cost Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNclZHa3hJYlZSZi1nM0tHY3JnbEtzS3hMbTJ3SzVkLXczbTN2bG56QlFBWGFrM2dzdm1pMVhxaU1vR0pzU1RsSGk0RkQ5bWlBY0dRLUFLWHVaZnptbnJtaFVmYmZPUm5TeE42ZEowOE9vRm1xTzdPMXBvWjhMbW5RMEItTGpibldJZnl2YjdlQ19KcDdoWHVhNHA3QXN3TUF6M21NSHJ4R2poRV9jR2IxanlfMXdxNy1ucFh0Y2JzRDAyMmdUSWdwSFd3WEs2LUxTYWVoOXdzaHpwX215d1l3aW9DQkRwY1NZTHJGbEJvV3F5MWRFc1paVnJ2eGlOeUhOeFJCX1Z1WW9jdmZHLWJOMmoxbHV6cTFfLUp1WDNCck1jaVpWakJ4OWZEYm9hSXJyQklZT2JrTW00bVk?oc=5",
+      "age": "3h ago",
+      "date_iso": "2026-11-09T13:00:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Nvidia targets China's AI workarounds by imposing strict limits",
-      "summary": "Nvidia targets China's AI workarounds by imposing strict limits TechRadar",
+      "title": "Nvidia finds another way to deploy its next-generation AI chips",
+      "summary": "Nvidia finds another way to deploy its next-generation AI chips TechRadar",
       "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWJLaGVaNFdKZW9lbG5DbENZcXZZNDdXalRaUlA1UzdNZmxreko0VV9kR2FzOHlRc2pic1ZSOUZRVlIwN0lpQmUyZXpvMVk1cV9Zc3dDdnZycVVzMmVnRjdnUmlMQ3NhNzU0bTNCTnhOYmt4cVFoREZLSTdsMUo1ckIwMjZsMTNIamUwRmhxM2QtczJZdUdfNmlOR3U3V3JiMWhfN0JMOGtNMVBRV0o5WHd2STA?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-11-07T01:25:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNzd0TWZRcEI5T3VIVXVFMG01bGpWTVd5ZG5iWHI2aXJCSTJ4aDFnOERrVHlIdVlrbVA2bFZFUWsxcUhQRVRTa1lnMm1ubWlqTUd2Z1haZVRaS2MyZnJ2bWk2eGFQSWJMY2FON05LZXhVNllUWFo2ZkdmbEJ1UEptLWxaVGlPSldtYm5yVjBWcUo0elNsaVgxMmdSQ2tIekFGM0laSThKdzV1bThEQTQtSzFRT3B6a3J6V1lUeGRrS3BEcFhBOGdBRjhrRVIydW9qZkFrMldNX1psa1I5RExqMFY1UjhxeHZGMUFyaTJtUGprRUlQd0xINHpPUGxIbWJsTGV2WW9IZ3hTdw?oc=5",
+      "age": "17h ago",
+      "date_iso": "2026-11-08T23:15:00+00:00"
     },
     {
-      "category": "gpu",
-      "title": "Broadcom CEO Explains $100B Chip Vision, Nvidia, VMware And Supply Chain Success",
-      "summary": "Broadcom CEO Explains $100B Chip Vision, Nvidia, VMware And Supply Chain Success crn.com",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOendqOFZUUnJMWGRBM1kyVzZvWXI5UE9iSWFMTE1Va2lnU043Z1M4cTJEVy0wb0lMU0hOQmk5TGw5S1NfaGxvalQ1d3NRN0psUURUQmRrV3hWTzMzV2FwTzZqV2xDa3hQOEZSZGVRd09Sd3dvTEprNUlQTE1tT0F4MTF3djFqRFhwVUFwZTZ3ZjdnTndYRllFRTkxdWU4NXhWNkVaS2N3QWpSY2VPUDE0MUNJMWFXWlpi?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-11-06T22:50:20+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "AMD Zen 6 Medusa Point APU Drops The Hammer In Geekbench Leak",
-      "summary": "AMD Zen 6 Medusa Point APU Drops The Hammer In Geekbench Leak HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sWEhzcG1xM3lReGZPOFJiV1VnSmFWYTlHR2ZDc2t3eE1NVGJxUHFDTkpGczF4UVJybFpLeEdCUXJNZGJOZy1keHdwRDZkT1BBZUVycUk1SEZiVXFxSkloeC0xdE1US25tblJ3Tkl4aDM0dHhNUTJwNV9kam4?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-11-06T18:48:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
-      "summary": "Technical debt shoveled aside to make large-scale AI training more resilient",
-      "source": "The Register",
-      "link": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
-      "age": "1d ago",
-      "date_iso": "2026-11-06T18:36:42+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
-      "summary": "Construction work could start in March 2027",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
-      "age": "1d ago",
-      "date_iso": "2026-11-06T17:34:34+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Sponsored: Why SLA risk = Credit risk",
-      "summary": "What happens when a neocloud loses several hours of compute capacity, but its next debt payment is still due in full?",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/why-sla-risk-credit-risk/",
-      "age": "1d ago",
-      "date_iso": "2026-11-06T16:00:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Two days of anti-data center protests planned across Europe",
-      "summary": "Stop Dirty Data Centres 'days of action' follow anti-data center midterms in the US",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/two-days-of-anti-data-center-protest-planned-across-europe/",
-      "age": "1d ago",
-      "date_iso": "2026-11-06T15:33:00+00:00"
+      "category": "cpu",
+      "title": "Dell PowerEdge R770AP Review One Fast Intel Xeon 6 Server",
+      "summary": "Dell PowerEdge R770AP Review One Fast Intel Xeon 6 Server ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdWsxdFBVRDRqY2NZQ3UwenZiSEpEbDByUXY1b09hVlQxNVlJcFdmcmEtMzlwOFRBaWw2cEpyYWl0alVGTTVVTDhCQVZJc0JZMjRfaWtwTjlHQm1SRmphSERDWGx5NlN4U0dubGZ0S2JMOHFhclNkQ0hsZlBvUmJuNWxDQW0ta1A2V0lnN1N0clE?oc=5",
+      "age": "17h ago",
+      "date_iso": "2026-11-08T23:00:11+00:00"
     }
   ]
 }
