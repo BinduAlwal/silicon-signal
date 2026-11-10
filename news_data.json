@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-09T16:59:37.092438+00:00",
+  "generated_at": "2026-11-10T15:19:09.165701+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "Former US DOE staffers launch modular data center firm Mavria",
-      "summary": "Raises $130m to scale factory-built data center platform",
+      "title": "Fluidstack begins construction of 99-acre data center campus in Wythe County, Virginia",
+      "summary": "Set for land on Progress Park",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria/",
+      "link": "https://www.datacenterdynamics.com/en/news/fluidstack-begins-construction-of-99-acre-data-center-campus-in-wythe-county-virginia/",
       "age": "just now",
-      "date_iso": "2026-11-09T16:56:57+00:00"
+      "date_iso": "2026-11-10T15:11:03+00:00"
     },
     {
       "category": "infra",
-      "title": "Mastering compliance",
-      "summary": "Reporting strategies for data center sustainability",
+      "title": "Colt breaks ground on data center in Berlin, Germany",
+      "summary": "Berlin 1 due live in 2028",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/whitepapers/mastering-compliance/",
+      "link": "https://www.datacenterdynamics.com/en/news/colt-breaks-ground-on-data-center-in-berlin-germany/",
       "age": "just now",
-      "date_iso": "2026-11-09T16:55:23+00:00"
+      "date_iso": "2026-11-10T15:09:47+00:00"
     },
     {
       "category": "infra",
-      "title": "New Jersey Senate passes bill banning data center-related NDAs",
-      "summary": "Bill now goes to NJ Assembly",
+      "title": "Boosteroid, Gaw Capital, and Firebird AI plan 480MW data center in Kazakhstan",
+      "summary": "Would be part of phase two of “Data Center Valley” project in nation, targets 1GW by 2029",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/new-jersey-senate-passes-bill-banning-data-center-related-ndas/",
+      "link": "https://www.datacenterdynamics.com/en/news/boosteroid-gaw-capital-and-firebird-ai-plan-480mw-data-center-in-kazakhstan/",
       "age": "just now",
-      "date_iso": "2026-11-09T16:32:45+00:00"
+      "date_iso": "2026-11-10T15:08:25+00:00"
     },
     {
       "category": "gpu",
-      "title": "IBM deploys Quantum System Two in Chicago, Illinois",
-      "summary": "Company has also partnered with AMD and ORNL to launch co-design platform for quantum error correction",
+      "title": "TensorBay launches 1MW containerized AIPods",
+      "summary": "Powered by Nvidia Blackwell compute",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/ibm-deploys-quantum-system-two-in-chicago-illinois/",
+      "link": "https://www.datacenterdynamics.com/en/news/tensorbay-launches-1mw-containerized-aipods/",
       "age": "just now",
-      "date_iso": "2026-11-09T16:25:42+00:00"
+      "date_iso": "2026-11-10T14:50:33+00:00"
     },
     {
-      "category": "infra",
-      "title": "AirTrunk named as operator behind data center project in Melbourne, Australia",
-      "summary": "Also behind project to develop Kurri Kurri smelter into data center",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
-      "age": "just now",
-      "date_iso": "2026-11-09T16:01:34+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session",
-      "summary": "A mountain of CVEs, a certificate cleanup, and yet more work for Microsoft's patching teams",
+      "category": "gpu",
+      "title": "Chrome zero-day whack-a-mole continues as 2026 tally hits 8",
+      "summary": "Another Chrome memory bug gets squashed, but not before attackers got their hands on it",
       "source": "The Register",
-      "link": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
+      "link": "https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732",
       "age": "1h ago",
-      "date_iso": "2026-11-09T15:02:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "China builds massive 800-megawatt AI data center campus to rival US Stargate project — Galaxy campus delivers first 120 megawatts in a year at one-fifth the cost",
-      "summary": "China builds massive 800-megawatt AI data center campus to rival US Stargate project — Galaxy campus delivers first 120 megawatts in a year at one-fifth the cost Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNclZHa3hJYlZSZi1nM0tHY3JnbEtzS3hMbTJ3SzVkLXczbTN2bG56QlFBWGFrM2dzdm1pMVhxaU1vR0pzU1RsSGk0RkQ5bWlBY0dRLUFLWHVaZnptbnJtaFVmYmZPUm5TeE42ZEowOE9vRm1xTzdPMXBvWjhMbW5RMEItTGpibldJZnl2YjdlQ19KcDdoWHVhNHA3QXN3TUF6M21NSHJ4R2poRV9jR2IxanlfMXdxNy1ucFh0Y2JzRDAyMmdUSWdwSFd3WEs2LUxTYWVoOXdzaHpwX215d1l3aW9DQkRwY1NZTHJGbEJvV3F5MWRFc1paVnJ2eGlOeUhOeFJCX1Z1WW9jdmZHLWJOMmoxbHV6cTFfLUp1WDNCck1jaVpWakJ4OWZEYm9hSXJyQklZT2JrTW00bVk?oc=5",
-      "age": "3h ago",
-      "date_iso": "2026-11-09T13:00:00+00:00"
+      "date_iso": "2026-11-10T13:28:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Nvidia finds another way to deploy its next-generation AI chips",
-      "summary": "Nvidia finds another way to deploy its next-generation AI chips TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNzd0TWZRcEI5T3VIVXVFMG01bGpWTVd5ZG5iWHI2aXJCSTJ4aDFnOERrVHlIdVlrbVA2bFZFUWsxcUhQRVRTa1lnMm1ubWlqTUd2Z1haZVRaS2MyZnJ2bWk2eGFQSWJMY2FON05LZXhVNllUWFo2ZkdmbEJ1UEptLWxaVGlPSldtYm5yVjBWcUo0elNsaVgxMmdSQ2tIekFGM0laSThKdzV1bThEQTQtSzFRT3B6a3J6V1lUeGRrS3BEcFhBOGdBRjhrRVIydW9qZkFrMldNX1psa1I5RExqMFY1UjhxeHZGMUFyaTJtUGprRUlQd0xINHpPUGxIbWJsTGV2WW9IZ3hTdw?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-11-08T23:15:00+00:00"
+      "title": "Royal Navy stands up first autonomous boat squadron",
+      "summary": "Force deploys an operational squadron to gain experience in uncrewed systems as part of its Hybrid Navy vision",
+      "source": "The Register",
+      "link": "https://www.theregister.com/offbeat/2026/11/10/royal-navy-stands-up-first-autonomous-boat-squadron/5308494",
+      "age": "5h ago",
+      "date_iso": "2026-11-10T10:15:00+00:00"
     },
     {
-      "category": "cpu",
-      "title": "Dell PowerEdge R770AP Review One Fast Intel Xeon 6 Server",
-      "summary": "Dell PowerEdge R770AP Review One Fast Intel Xeon 6 Server ServeTheHome",
-      "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdWsxdFBVRDRqY2NZQ3UwenZiSEpEbDByUXY1b09hVlQxNVlJcFdmcmEtMzlwOFRBaWw2cEpyYWl0alVGTTVVTDhCQVZJc0JZMjRfaWtwTjlHQm1SRmphSERDWGx5NlN4U0dubGZ0S2JMOHFhclNkQ0hsZlBvUmJuNWxDQW0ta1A2V0lnN1N0clE?oc=5",
-      "age": "17h ago",
-      "date_iso": "2026-11-08T23:00:11+00:00"
+      "category": "gpu",
+      "title": "AMD's Radeon Software Bug Can Hammer SSDs Even When Your PC Is Idle",
+      "summary": "AMD's Radeon Software Bug Can Hammer SSDs Even When Your PC Is Idle HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rTjhod0RmdVFXNWhXVllhM3pQOHRLNHdENDVERi1VMXlpMzRNaFY1ODM5WFpUMnFFNVoxcjFIaWdSSTlKV1o0SC1XbHI1SFVqZFZGOXA5ZENsZFRDUzZhU2JST2lCSklIUWh0RWxFc2QxUQ?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-11-09T19:50:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition — competing chips melt butter TIM in strange new dairy-based benchmark, Deepx processor impresses with low thermals",
+      "summary": "Bizarre AI chip demo uses butter to highlight how new chip runs 40 degrees cooler than the competition — competing chips melt butter TIM in strange new dairy-based benchmark, Deepx processor impresses with low thermals Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPSVQ2alZtYjBjSWRhUmVQNkZVUUdxbHBEOUdUbE5rSkRyTjlOU2UtSnZrMDNJSk4yMVlsLTN1cmpseDF6ZHJPbkhDRzhhdDJTVkwtWHFiQXI0c0haejF5anQ0Tmg2TVhhYnpEQjRnanNWTXVUU3duSVV6Vm5SRUl5aC1yeVdhZWpsUGRLdkhiRWduT1BVNk5tWnNsLWp4TU9JaXgwLV9PNFZJMTRwQ3FOV3lLRzBaUjRtejUzdWFyMkNRZDUwTERZai0zLVk5UFJjWGlfVmJ5N2l3aHNVMjIxT2lqbXpQN2YzZFFfdFNfZVJwQlVNUFlRUndCWmluVXA3V2NaTlR1NGZubnR5M2RjaEF5UTU?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-11-09T15:15:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs — up to 215 tokens per second to keep legal files offline, costing about $2,400 per four-GPU board",
+      "summary": "Lawyer builds private AI server with eight used Nvidia V100 GPUs — up to 215 tokens per second to keep legal files offline, costing about $2,400 per four-GPU board Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPeDBtWGdneUhSNDVaeHBrT292WEdhZWRUQWltV3ZGR3l5R3F5VGNUdDV2dk4yWDY3aWFYNVp2TU4zZjZIbkNIdi1fNU9iNEZFNFhMbXdwUXYyQktQVlZpR3pRNTlYdURYbWZSTTU0Z1g3VjExaTctUEswc1BtWjFsNWVMNHNkNGliZUt5eV8tS2YxWG5QT0VlWXNmMzc3ODFsR3Y4REFhUURocFhSV3FkRThiWEx2S0R0VHRNZ1lDNTB0N0RaSEZRYVRrbzZYVkZJRzlBTkdXbXMyR3lnMFZzcmNTT25SVFdSMkU5WHZtbDRnOGk5QTNTUUJVNEMwbm84MmlHbndXZFZJbkV3RVRlS2NvMTByQV85a2g5bHNSQmlJZ3VldjBOblRNYUxLc3FjSngzcUpjYS1vd3d6WUN3ZnhvOTJWVm1UTHg1RktR?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-11-09T13:20:00+00:00"
     }
   ]
 }
