@@ -1,60 +1,78 @@
 {
-  "generated_at": "2026-11-12T15:41:08.069839+00:00",
+  "generated_at": "2026-11-13T14:59:40.742188+00:00",
   "item_count": 9,
   "items": [
     {
+      "category": "infra",
+      "title": "Syntys breaks ground on 20MW data center in Qatar",
+      "summary": "Facility to support high-density GPU workloads",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/syntys-breaks-ground-on-20mw-data-center-in-qatar/",
+      "age": "just now",
+      "date_iso": "2026-11-13T14:47:01+00:00"
+    },
+    {
       "category": "gpu",
-      "title": "Jensen Huang resigns as Nvidia chief executive",
-      "summary": "Company accepted resignation yesterday, it reveals in filing",
+      "title": "Most affairs don't matter except to the people involved. Ex- Nvidia CEO Jensen's blunder will rock the world",
+      "summary": "In the aftermath of Jensen Huang's resignation, not only may the AI bubble pop, but the world economy is in some peril",
       "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411",
-      "age": "1h ago",
-      "date_iso": "2026-11-12T14:21:35+00:00"
+      "link": "https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649",
+      "age": "just now",
+      "date_iso": "2026-11-13T14:45:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Nvidia CEO Jensen Huang resigns after multiple affairs",
-      "summary": "CFO Kress to take interim role",
+      "title": "Cerebras secures Microsoft as a customer",
+      "summary": "Wafer-scale chip and AI cloud company now has three hyperscalers in its books",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-resigns-after-multiple-affairs/",
-      "age": "1h ago",
-      "date_iso": "2026-11-12T13:58:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "US Dep’t of Energy’s Jefferson Lab decommissions SciPhi-XVI supercomputer",
-      "summary": "Intel-powered system was taken offline over summer after almost a decade of service",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/us-dept-of-energys-jefferson-lab-decommissions-sciphi-xvi-supercomputer/",
-      "age": "3h ago",
-      "date_iso": "2026-11-12T12:21:41+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "UK chip startup Fractile valued at $7bn following $720m Series C funding round",
-      "summary": "The UK government’s Sovereign AI venture fund and the British Business Bank both participated in the round",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/uk-chip-startup-fractile-valued-at-7bn-following-720m-series-c-funding-round/",
-      "age": "3h ago",
-      "date_iso": "2026-11-12T12:17:54+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/",
+      "age": "2h ago",
+      "date_iso": "2026-11-13T12:37:09+00:00"
     },
     {
       "category": "infra",
-      "title": "AWS launches Chile cloud region for \"select customers\"",
-      "summary": "General availability to follow",
+      "title": "Poste Italiane establishes €600m co-investment fund to support data center projects",
+      "summary": "As company seeks to bolster data center infrastructure",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/aws-launches-chile-cloud-region-for-select-customers/",
-      "age": "4h ago",
-      "date_iso": "2026-11-12T11:17:08+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/poste-italiane-establishes-600m-co-investment-fund-to-support-data-center-projects/",
+      "age": "2h ago",
+      "date_iso": "2026-11-13T12:26:27+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Three data center developments in Australia change course after community backlash",
+      "summary": "Developments in Lane Cove, Cooks River, and Tungkillo",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+      "age": "2h ago",
+      "date_iso": "2026-11-13T12:25:08+00:00"
     },
     {
       "category": "gpu",
-      "title": "Nvidia board weighs temporary CEO, starts search for potential replacement after Jensen Huang affairs",
-      "summary": "But the board has yet to decide whether to oust him",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/nvidia-board-weighs-temporary-ceo-starts-search-for-potential-replacements-after-jensen-huang-affairs/",
-      "age": "4h ago",
-      "date_iso": "2026-11-12T10:59:00+00:00"
+      "title": "Startup Claims Its New Neural Rendering Tech Is Superior To NVIDIA's DLSS",
+      "summary": "Startup Claims Its New Neural Rendering Tech Is Superior To NVIDIA's DLSS HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DbmJJMVlsV0lvaklseXJac3lCay02V2NPY0xtdGstUF9mNjFsOTl6b0t1R0M5UGVqYXRpQWVHRWYyWWdfd0o3YUhwT2gxdUhwVlp3aGhYUFVpbmxLWldhZFRtREk0QnUtdjBERlF5cGtxaVJLa25FRG5OVWNwTVE?oc=5",
+      "age": "21h ago",
+      "date_iso": "2026-11-12T17:45:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately",
+      "summary": "NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNXZBbUo1amJaZ1FtTnZVOHN6VWhkZ2dyeHVOMFRkMFNZMlIwQUNEdWNLT2s0NVk4ZU11ODcwQ3Nqb1hGT3FIRU1obFU2eFlfMndpQ2hISE9yWm9mM3VmT3VBZjRLUmdKMkt3cXZHalB1SDVXZHhGN1FWYXFyMmJGLS1MMXVralpzNUd0TTdIdE1NVzViR0hmYmc3aHRwY0E?oc=5",
+      "age": "23h ago",
+      "date_iso": "2026-11-12T15:08:54+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM — hack carefully blows onboard fuses to unlock entire VRAM and shader modules",
+      "summary": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM — hack carefully blows onboard fuses to unlock entire VRAM and shader modules Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbEI3M2xYVFQ1M2tKQjJVRUFOa2dHMUxFR2Z6TjdZV3hQbFA4a2poVDdiazlqRUxQN3dEZ0daZWpBdzQyRC1fZ3p3eHNGZTVkWWxqd3FhR1dscDgxV1Y0eHIyUTRNYV96MHFtaGdrd2lNZ0ZlRDJ2RWxmbWd3dlVPdVdDSDc0a0V5b25OaXhBR2tiRTExWUttVUZSazBLcEtYVFJUdm5PVE80S3Q5ODFtVGNhaDZWd293NndoXzdrSTRfY3RzTngza3FXeU5ieHFxaFpZa0dHSWFFbGdVSTloY3dDTnNsNms5SXdwcDFBaUZBRU93eU50d2gyTG5OdlF0LUNKZzRuc0dYcGF6Y0U4akpoekMxbDhOVkdoVWRPckFoSW5oNEJHNWtmWWJra2dJLS03TXBiRGJPZGVBZUE?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-11-12T10:30:00+00:00"
     },
     {
       "category": "infra",
@@ -62,26 +80,8 @@
       "summary": "Struggling marijuana farms pivot to becoming AI data center sites to escape falling weed revenue — existing water and power infrastructure makes cultivation sites ideal for decentralized ‘mini data center nodes’ Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNZUdid2hLNElRZm9SNjNiUFpsN05UWEVRWkxCYXZyRXdlM0xhMC1jc21XczY5X19rbjFxVGVGdEVEcDA3dHpfXzBCdVhlSHB2UXhSbE0zSUVHX2E3Q0d5QmJXQ1hkU085U25Ha19kTWxCVjVqY3Mxb0ZaTW1LanNkUFh2cDJHZF9PM2hHTWlpVWdWOFJ1RWdsdzNQS3c2RzJhRHlUdnR0dV9YcmltdU1vY0RIVUZFc2o4VXYtQlo3NWpZSlMyZ0ZlTzBOcTVfemQwTUxGOFllX1hxNGEzcGJNT3ZiR2RKaWUyUzhRb3NkQ3NwNXluNDV2QWJ1UVB4bU9GbEx5ZC1ZVk9mYjFaU2VUS1Z6czNaMWNQNXI0T25LRUxUdmpNejBJV19Na1hLS1VZbUd2TDU5X2R5SzYxUm5DaEkxRTgwN1MtQ0xqNlpIM0EyQQ?oc=5",
-      "age": "5h ago",
+      "age": "1d ago",
       "date_iso": "2026-11-12T10:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-      "summary": "Hello you fine Internet folks,",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-      "age": "17h ago",
-      "date_iso": "2026-11-11T22:22:57+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years — chips target HPC workloads with PCIe 6.0 and 1.6 TB/s memory bandwidth",
-      "summary": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years — chips target HPC workloads with PCIe 6.0 and 1.6 TB/s memory bandwidth Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPa2dxeUh5S01ER3ZjQ0FGcmd5TDluWkU5QlJzMUhTZnVKbHVDSk9qRE56MGdhcXRSeGh3blZDTWw4U2xUUkpNLXZDdWhaY0JYRElGVEdVRnJDQWVwbnhFNzAtM2lMeFFzTkRYRnhCd2VlT3RUSHR5bUlZN2M5SUlsVWZjM0FFUGIwMkgxLUNmcEpMSFFoc1BjOHlZY0w1aVNlWGNOblhoNFFvM015UWk4UW5QNDZOY281RGhRQ1RUbDVpY2R3U1NVZ3JfUEgxQUVLRlJUNkJhUUF1a3NFTDhYbEt3MFpndThJb243Nm91UGVXV2R2QUUySE9wekl1N0YwakJTSUN4SWlnUHp5OFFTUlp0SktFT25reGJ3dE5aZG9CVmhwOWN0S291LVYybThDNGc0ZzAzeXk?oc=5",
-      "age": "18h ago",
-      "date_iso": "2026-11-11T21:30:00+00:00"
     }
   ]
 }
