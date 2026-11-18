@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-17T16:35:17.451541+00:00",
+  "generated_at": "2026-11-18T16:03:43.037552+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "100MW data center planned in Sussex, UK",
-      "summary": "As Pace DC plans project in Bedfordshire",
+      "title": "Argentum AI and Kyndryl ink $630m AI infrastructure deal",
+      "summary": "Will deploy B300s at Kyndryl's data center in Boulder, Colorado",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/100mw-data-center-planned-in-sussex-uk/",
+      "link": "https://www.datacenterdynamics.com/en/news/argentum-ai-and-kyndryl-ink-630m-ai-infrastructure-deal/",
       "age": "just now",
-      "date_iso": "2026-11-17T16:22:31+00:00"
+      "date_iso": "2026-11-18T16:00:36+00:00"
     },
     {
       "category": "infra",
-      "title": "CBRE: Milan set to overtake Dublin as fifth-largest data center market in Europe by 2028",
-      "summary": "Milan could see 255MW of new capacity",
+      "title": "Cleanview: US data center construction slows in Q3 2026 following record-breaking Q2",
+      "summary": "But analysis from October implies Q4 will be another record quarter",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/cbre-milan-set-to-overtake-dublin-as-fifth-largest-data-center-market-in-europe-by-2028/",
-      "age": "1h ago",
-      "date_iso": "2026-11-17T15:21:18+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/",
+      "age": "just now",
+      "date_iso": "2026-11-18T15:40:23+00:00"
     },
     {
       "category": "infra",
-      "title": "Northern Europe Energy targets data center in Riihimäki, Finland",
-      "summary": "Ixian plans 50MW project in Lapinlahti, SR-Kiinteistöt eyes development in Kauhava",
+      "title": "Cameron County commissioners reject SpaceX tax break request for $24bn Texas data center",
+      "summary": "Commissioners voted against holding another meeting",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/northern-europe-energy-targets-data-center-in-riihim%C3%A4ki-finland/",
-      "age": "1h ago",
-      "date_iso": "2026-11-17T15:01:02+00:00"
-    },
-    {
-      "category": "policy",
-      "title": "Nvidia places chip exports under boardroom supervision after Huang's exit",
-      "summary": "Standing committee will oversee export compliance following allegations its GPUs were diverted to China",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/11/17/nvidia-places-chip-exports-under-boardroom-supervision-after-huangs-exit/5310429",
-      "age": "1h ago",
-      "date_iso": "2026-11-17T15:01:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/cameron-county-commissioners-reject-spacex-tax-break-request-for-24bn-texas-data-center/",
+      "age": "just now",
+      "date_iso": "2026-11-18T15:25:07+00:00"
     },
     {
       "category": "infra",
-      "title": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
-      "summary": "Amazon shunts some real estate off its books, a move Omdia analyst says may be about economics, as AI buildout weighs on hyperscaler finances",
-      "source": "The Register",
-      "link": "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
-      "age": "4h ago",
-      "date_iso": "2026-11-17T12:31:00+00:00"
+      "title": "DC Blox files for third building at Atlanta West data center campus",
+      "summary": "Company set to complete 80MW building in 2029",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/dc-blox-files-for-third-building-at-atlanta-west-data-center-campus/",
+      "age": "just now",
+      "date_iso": "2026-11-18T15:13:45+00:00"
     },
     {
-      "category": "policy",
-      "title": "New US rules aim to close loophole, restrict Chinese firms’ remote access to AI servers and infrastructure — seeks to combat cloud rental workarounds to export controls",
-      "summary": "New US rules aim to close loophole, restrict Chinese firms’ remote access to AI servers and infrastructure — seeks to combat cloud rental workarounds to export controls Tom's Hardware",
+      "category": "edge",
+      "title": "Space robot legend Voyager 1 is now more than 1 light-day away",
+      "summary": "As the world is hit by IT snafu after IT snafu, Voyager sails on, almost half a century after launch",
+      "source": "The Register",
+      "link": "https://www.theregister.com/science/2026/11/18/space-robot-legend-voyager-1-is-now-more-than-1-light-day-away/5310751",
+      "age": "1h ago",
+      "date_iso": "2026-11-18T14:57:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Business as usual, but Huang ain't coming back, says Nvidia",
+      "summary": "GPU giant puts on a brave face for investors, while analysts say doubts remain over the company's future",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/11/18/business-as-usual-but-huang-aint-coming-back-says-nvidia/5310772",
+      "age": "2h ago",
+      "date_iso": "2026-11-18T13:54:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "$3.26 million in SpaceX AI data center revenue will be pumped back into the City of Memphis — up to $25,000 on offer to low-income residents for repairs and home improvements",
+      "summary": "$3.26 million in SpaceX AI data center revenue will be pumped back into the City of Memphis — up to $25,000 on offer to low-income residents for repairs and home improvements Tom's Hardware",
       "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQcUk3QWgyeElRSjVVWmIwZDR4YURwWFl0am5NM1FtTjVrWlFUeEdOb2MxZzNhd1lIX3ctLVBibWRaWnpMQi13YU5HdWdha1RrcGtBUGgzeGZPYi13MFhzWWxlSlhiSDY5cHctWndFOWhfLUFiNmxKZ2tlRFczaGU2LWJWWTlTTUhYMlBKeEQwRnV2NGpGSHFLOHBBYVhRSXBkbERKanE5Z29RTU02N216OWJFd29MS202OXl3VFB1aXJxcEF0T205VmFVNTVmRklwSGVzWXRrQ0Y3SGw5UlY4dTFOaGZsLS1EZjZ6Y1g2el9PcmNlRHNFVjZaVzljOFpXWG9lT01XMFF4SVJMRDNmLVZ2TzUzMnczSVdLRUdmZnd6MHFiazVCN3dEdXFrcTA?oc=5",
-      "age": "18h ago",
-      "date_iso": "2026-11-16T21:50:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxObkpZam9ZdEFHRExONzhGZmJxVTZIVHBSSVhIeEFTamk3X1pTU3JOSkRjRUdjQ0ZOa243VmRfZFdVQmgzbWVWVGZRSktTQmxnQ3M2dTU0cDFkbUc5ZGJVMHFIRmg4b0drSzlXZzBxU0RWbDdTUC1PbUlYdFh6WFNpVVpseVdYOEtDb2kyUEFyYXlqU2JySGc3dlR5RjdEaEhfUUlGNG9oZzJkVkl5RTRqWUMtTzNHZmZEQW1uQVo0V3Jha21BMmtLVHBjRDVwamprTE5fcmlEaDMtU2t5ZHF0UkhIenNYV1AtQk91akhucFBwR1FVcVdVTncyVWlITEE5Y3dPTFFxVWwzbEw4RXdLZEtMY3VuU1hrd19fbDhYSFBVLVgzekxEeU1VMmVNX1Ayc2xrZ0FVZmRXTTdzNFFNeDhJVHRpaE56VG5aa0xvWEM4dw?oc=5",
+      "age": "6h ago",
+      "date_iso": "2026-11-18T10:00:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "NVIDIA and Lambda Disclose First Production Co-Packaged Optics Cluster... It is FINALLY real",
-      "summary": "NVIDIA and Lambda Disclose First Production Co-Packaged Optics Cluster... It is FINALLY real ServeTheHome",
+      "title": "Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy — will testify behind closed doors December 1, Nvidia lawyer will also appear",
+      "summary": "Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy — will testify behind closed doors December 1, Nvidia lawyer will also appear Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNdlVqWG5IYlJDY2ZPS3hBdGlmb29ZQ2tiWC1EWUotdEdZOXFaZHZ6cXplaTJyN0xtbkw3Wk5rMVo2NEFsX3VvRlN4QUFfaXpveFNPeUREU0lnVXY3RmlLb0dRNnZuY2RlMTJzNDBhVjZRUVRNSGt3dW5IY0wzd183d1dmcndIRU9icE9lYldpRTZlZi0xSzhraVpITmQtYVVUbGplUXpCcVNJb1Y2QmthVTlNWWZBS25TR0l0VkNiNTEtMEItY2JSRThrNXlhZGN0TURWZm1RSjdTVndmWDhTZ2hSTElxZzF4MFBTbjNWLVhhSlBLQ0t3S1dFTGUwdEN3RUtBem1seUREN2RmYlFLc2U2NllaMjlFWGJ3dHpZdEltSVpNRWt6TVNRZDI5WHJfT1F2cV9JckZmZC1pUmRBOUJiYnRxdXBvQzJzOEgxZmxMR3RIa2xlQ0RmRHFmcGxxc1Q5YlB0a2ZPYmxnTm01aXYtV3FqMzlMUWhqaUVsRTlGakk?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-11-17T15:50:51+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "NVIDIA Announces Rubin HPC: Science-Focused Server GPU to Arrive in 2028",
+      "summary": "NVIDIA Announces Rubin HPC: Science-Focused Server GPU to Arrive in 2028 ServeTheHome",
       "source": "ServeTheHome",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1h5bXZwTkZGQ3BtejVaSzJTTjQ0NVpuNzIxbS1TUl9Mc2FYYVo4MkZrR0tpY294dmRwWU0yQjNrY1U4UXp5dHRfemtRd1J3RWZ1Mkoya1QxOGNhOUF4WVlwSm9QbzZhZmdkQzFSY0doS3JQYjBHYXluZnpyc2J3czRXcWVSNXptZ2kySm5WU2lzTkV5d0k1VDRxakR1NE12ZU5mOUk3SkJfRUcwLWpUV1RpNWZDNHRPWHB3?oc=5",
-      "age": "19h ago",
-      "date_iso": "2026-11-16T21:24:47+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-      "summary": "Hello you fine Internet folks,",
-      "source": "ChipsAndCheese",
-      "link": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
-      "age": "20h ago",
-      "date_iso": "2026-11-16T20:32:28+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "TSMC confirms cyberattack and data breach — chip giant says personal employee data has been leaked online",
-      "summary": "TSMC confirms cyberattack and data breach — chip giant says personal employee data has been leaked online TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQmJhN3dRSllqNnNxVzUwMXZiejh5R0pCcVVONXdjbXVGNEZzUkxVYy03THlMTHpmclo2WFJ6dlV1TjV3Z1QtQ1czbGJGNmQ4N0NuVGxCMXh3WTVUQjNTNkpOYVM2alhzaU9ZcVpjMG9vTDhoN3lsa3ZDR3AzY0UzLUJ2dVpkQkVNWTYxTEVydllGazBaZXNxOTV0X21nbDN6SXF2MTV0RkkzOUVQUkhpZFZXSlhrOWVBLU93MjFTcmt3NVRsNV9FdFRMNzhtRTVRRC1FdWJkdWZ0QQ?oc=5",
-      "age": "23h ago",
-      "date_iso": "2026-11-16T17:05:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR284TGNDTVNUOHVXUnM0NkZraTZOTk9JZlhidUVQY1JKLVF3UjA3ZTdrWkszNVozRG8ybE1CU1dkaEJVSy16UG9ld1FFNWhkZjE0MjBoS2FjNmlsQktRYlZ2V1dLYWJZNzc0TDllQU1RMm5wUmZEdGhvdG1adVNNSUNDc0loY3VGTzRIak0wd1Ixa3V2ZHVhWk8zUm4yNF9pd2RZ?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-11-17T15:45:19+00:00"
     }
   ]
 }
