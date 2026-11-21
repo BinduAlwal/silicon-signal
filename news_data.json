@@ -1,87 +1,87 @@
 {
-  "generated_at": "2026-11-20T15:50:48.528676+00:00",
+  "generated_at": "2026-11-21T15:00:21.500994+00:00",
   "item_count": 9,
   "items": [
     {
       "category": "infra",
-      "title": "AMD set to lease planned 5C data center in Pennsylvania",
-      "summary": "5C looking to buy site in Mount Carmel from FIT Energy",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/amd-set-to-lease-planned-5c-data-center-in-pennsylvania/",
+      "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+      "summary": "If a service falls in the forest and nobody hears it...",
+      "source": "The Register",
+      "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
       "age": "just now",
-      "date_iso": "2026-11-20T15:19:41+00:00"
+      "date_iso": "2026-11-21T14:35:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Egypt’s Forbes International Tower to house a data center",
-      "summary": "US government contractor Aedan Looking Glass ALG will lead technology and infrastructure delivery",
+      "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+      "summary": "Demonstrating compliance is what turns it into power",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/egypts-forbes-international-tower-to-house-a-data-center/",
-      "age": "just now",
-      "date_iso": "2026-11-20T15:17:40+00:00"
+      "link": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+      "age": "3h ago",
+      "date_iso": "2026-11-21T11:00:28+00:00"
+    },
+    {
+      "category": "policy",
+      "title": "Amazon's split personality: AWS embraces bot commerce while main site enforces bans",
+      "summary": "Bot-based buying is here or not, depending on where you stand in the Amazon empire",
+      "source": "The Register",
+      "link": "https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493",
+      "age": "15h ago",
+      "date_iso": "2026-11-20T23:41:14+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "JEDEC Previews DDR6 Memory Standard: 2.35x More Bandwidth, 44% Narrower DIMMs",
+      "summary": "JEDEC Previews DDR6 Memory Standard: 2.35x More Bandwidth, 44% Narrower DIMMs ServeTheHome",
+      "source": "ServeTheHome",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjRxVFg0cDU0UlF2SjgtWVRWdDFIS0YwaFBmQ0xKUklmTXJ3VGFyaEs3dUcwblc2V1VBamhoR2MyMjg4UGMxMHNQYnhjRDlIUVRRakxVaXBJdWUzRE8yX0JBWmRtYk5aSHpPVThhRTVfdFRheG9ZNGxNWFVleWtoaDRQai1XREVFa3NGcjZCSFBKUGE1UmNPd0tVTklydWlYSEhjczE0cw?oc=5",
+      "age": "15h ago",
+      "date_iso": "2026-11-20T23:40:12+00:00"
     },
     {
       "category": "cpu",
-      "title": "Microsoft becomes first company to use Intel’s EMIB packaging technology for Azure hardware",
-      "summary": "Agreement also confirms long-term supply of Xeon processors to Microsoft, companies said",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/microsoft-becomes-first-company-to-use-intels-emib-packaging-technology-for-azure-hardware/",
-      "age": "1h ago",
-      "date_iso": "2026-11-20T14:07:17+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Nebius expands Israel data center lease with Mega Or by 134MW",
-      "summary": "Facilities set to be completed by Q2 2028",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/nebius-expands-israel-data-center-lease-with-mega-or-by-134mw/",
-      "age": "2h ago",
-      "date_iso": "2026-11-20T13:07:03+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain — 93 large ‘AI factories’ with projected capacity of around 50 gigawatts",
-      "summary": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain — 93 large ‘AI factories’ with projected capacity of around 50 gigawatts Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOX3NrVWp2THdyTkdBS1Q5R0QxWERURVlIRFFVNU5ycnBocEhNQlZaTzJMUWt6R0Z5bl9aaERsMGM5SDc5RFUtQkpGaXZwb09STE9vZm5oQ3JWYjhpYzdHX09LX29rTmRURlZkZXdseU5VQnE1QXlJUGlNb3R6SFloWm13QjhoVHoxZ0VDTkFicEZ6MC1GbkZNOHBJal9IX25GY2pnX3AwVUdzX1lMdk9JS1RKM3JnaUtXS2FSS0NoOTJ5RVllaTJueHZEa1RNRkVTc3dmWmxxcy1LdUJzblNVb1ZESXlWcUJ5QUtySW8wcEZJSUpIUGxHV3IwMzMzMGxQR1NXdG00eEdzTE85aHdEZGdHM1RzaXk2RDV1N0ExVnJ0aFpoSFoxNGIyUC1FTlFfWWtCMjQ4YzFWT0dhQnowSXlpckpuS3BzZUc2VXRzY05VbVoyV1ZOTVFxSGp4M05jcVpDbFNDaHBGMnIxQ3ZzdWJ3?oc=5",
-      "age": "18h ago",
-      "date_iso": "2026-11-19T21:00:00+00:00"
+      "title": "Quote of the day by Nvidia co-founder Jensen Huang: 'The GPU won't destroy the CPU. Without the CPU, there's no computer' — reflecting on the symbiosis of modern computing",
+      "summary": "Quote of the day by Nvidia co-founder Jensen Huang: 'The GPU won't destroy the CPU. Without the CPU, there's no computer' — reflecting on the symbiosis of modern computing TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNZXROSHRPVnZaMWFrcjBwbTgzNjFYZlJ0UnRPZkFCeEdPRElsNXp6dy02VENGOVRXcGRUQmJIRnZXYTN2WE5XamhmRkRDelN6TTlQY3M1VTNrX3NRXzllc2s1NG5VRHp2b0lyZFkwdjV0bG1uZDVET2RmcVVwalNZdEVoWkVPc3I5VVRWampvam5Pb1djbjlZWGk2LTVGdVBBenhFTGVGWk4ybVk2SHZ1TFlVN0R5Smo5SDlHUThEUUFfU0taRXpzUi05dXFaM0hkQXVndG9aWVVnVmw1b0FMVWlLcXh5X3RSYmUwQjJmY1lpRUdGckJmR2ctaGhJenJUSHowZTBRbXZnNUJJY1p5SWp6blFVZU9nMWRJdw?oc=5",
+      "age": "16h ago",
+      "date_iso": "2026-11-20T23:00:00+00:00"
     },
     {
       "category": "gpu",
-      "title": "Hackers Give NVIDIA Until November 28 As Ransomware Gang Threatens Data Leak",
-      "summary": "Hackers Give NVIDIA Until November 28 As Ransomware Gang Threatens Data Leak HotHardware",
+      "title": "NVIDIA's Latest GPU Drivers Reportedly Thrash SSDs At Up To 30GB Per Hour",
+      "summary": "NVIDIA's Latest GPU Drivers Reportedly Thrash SSDs At Up To 30GB Per Hour HotHardware",
       "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByc1RsWWZJQ1l6dElPaVc2LWVncE02WVJuWlM0MmdERWxhLWJxVXdFTnNCMVlJV0hGOWpwUXF6RThtMmt6Ym5QQ2gyamdVbWNIZl9XaUd0OWZPcmE3ajgxT1BZbmJETG4xdEdDVjhuMWhhZ3c?oc=5",
-      "age": "22h ago",
-      "date_iso": "2026-11-19T17:08:00+00:00"
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xb2NGbTR3WUVlaGthTHhtaEF6cUFReWdrV0h2TXhpQ1ZiR3JTNEhTd2ZpaUw2b1J5cDdnbENKVGNEejA2NWk3akVWdjA4TGxGZDYxUUlsSHJkcnYyZVVPbUlJdk9TM2E0cU9sZzc3SndldXM?oc=5",
+      "age": "19h ago",
+      "date_iso": "2026-11-20T19:05:00+00:00"
     },
     {
-      "category": "gpu",
-      "title": "AMD’s Twitter brag that it ‘loves gamers’ met with savage Community Note",
-      "summary": "AMD’s Twitter brag that it ‘loves gamers’ met with savage Community Note Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcG9IVzRzQ2E1SDhxWnlIcF9Ma09nRFNaZTlySEh6cHgtQ2FDV1ZuRndZTGNiY3l4NTRwaGRlbXN1NzdUTVVydW1sd1hBR0U2V28ybFB6STRpeUc0N1FzLVNHVlA0NW9ERF80RXpBZkhIWXVxZUxDaUpsdVJKeGhadWlaeXZhb2NPSVV4T3FmcDJRRk5hVlB1M3JkUFdMa3VFWTBOS0kwMW9VVzRoakd0ODJ1YVItS1VCV0U4cVJ4T28tNkZtZUVWeEt1UnVDdmdTTzk5ODdTb2M2N1dvU0JEclNvYjZtTEZjSzZFTlJXTjczdFBRUzJoRw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-11-18T21:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Head of Intel’s US Government Business Leaves After Less Than A Year",
-      "summary": "Head of Intel’s US Government Business Leaves After Less Than A Year CRN",
-      "source": "CRN",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQelFjS2hiZ1pUMTEyb2MxMWdJZTJRd0RuRldxenpWU2laWUY1aW5scmNmLW1EQ0NmRU40d1gzQ1RyTEZtTHh4MExRYUN6b0ZXdkpCOW9neEsyMFlSbmlDYUdZaGNIQ1YzU29meDVlT25xNWMxNXRvd1RFSFBtaHlXRXV2TER5UDUwcFJyQW83Nkh1WEsyV21IaUdNazZVRmg5TnM5bG50Nkw3RnBUUlZKU3hMdDZkV2txNWt6aDZn?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-11-18T20:53:00+00:00"
+      "category": "cpu",
+      "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
+      "summary": "A deeper look at Vera",
+      "source": "The Register",
+      "link": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
+      "age": "20h ago",
+      "date_iso": "2026-11-20T18:45:50+00:00"
     },
     {
       "category": "infra",
-      "title": "Leaked Ohio bill could allow AI data center companies to seize private land for their buildouts using eminent domain law — proposed law would expand list of beneficiaries",
-      "summary": "Leaked Ohio bill could allow AI data center companies to seize private land for their buildouts using eminent domain law — proposed law would expand list of beneficiaries Tom's Hardware",
-      "source": "Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPWDhxendxcDVzRVNBaFVyZDZlZVNUSFhhb3F4TDYzM2tRQ05JQkFtVUw4YTNfV25oSWszcnNNVHVESDlyaU95RFc2SFJnaUZvTU5kRXg0MkJkeFZGU01FakRqRGlDYUpfRFhUN3dWYmZNekZMWGd0dkxfYkNZTGg5MjljbXlJa3FJc2E4VC05SnhlbjFBREo4SDhQT3RfMnFJUVM3V0R4UUV2UWFDNEVVS2Z6X3p5S3V4Vm1RZXg2V3JVRno2LUlVV1dIMGRwZS1Ca2MzNy1IbGNpUW8yS1JnU1lfSVVvYTkzMnFoa0M3a0FXME1oMXF4RmtXTEZza0tZZmN3R2pUV1o2amJSd3JKNEVzYUdKNlB4WW1PZmRpdjJTUTJtdnBVb0NTY0lEbGlKeGs5MGhUZ080ejc3d3FWRk82OWdLeDA?oc=5",
-      "age": "2d ago",
-      "date_iso": "2026-11-18T15:30:00+00:00"
+      "title": "UK competition body probes hyperscaler security and cloud lock-in",
+      "summary": "CMA continues digital sovereignty investigation with consultation into IAM and Kubernetes",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/",
+      "age": "21h ago",
+      "date_iso": "2026-11-20T17:09:15+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia",
+      "summary": "Aims to build five data center buildings on site",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-3167-acre-data-center-campus-in-mecklenburg-county-virginia/",
+      "age": "21h ago",
+      "date_iso": "2026-11-20T17:06:21+00:00"
     }
   ]
 }
