@@ -1,42 +1,78 @@
 {
-  "generated_at": "2026-11-22T14:58:31.374291+00:00",
+  "generated_at": "2026-11-23T18:52:28.522280+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "infra",
-      "title": "Sponsored: The hidden efficiency gap in data center containment",
-      "summary": "How a small seam above the hot aisle or missing roof over the cold aisle has been covertly inflating cooling costs, and how to close it without breaking fire code",
+      "category": "gpu",
+      "title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+      "summary": "Funds will be used to purchase Nvidia Vera Rubin chips",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/",
-      "age": "22h ago",
-      "date_iso": "2026-11-21T16:00:00+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+      "age": "1h ago",
+      "date_iso": "2026-11-23T17:14:29+00:00"
     },
     {
-      "category": "infra",
-      "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
-      "summary": "If a service falls in the forest and nobody hears it...",
-      "source": "The Register",
-      "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-      "age": "1d ago",
-      "date_iso": "2026-11-21T14:35:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
-      "summary": "Demonstrating compliance is what turns it into power",
+      "category": "gpu",
+      "title": "AI server OEMs hiking prices by 45% as memory shortage bites - report",
+      "summary": "Hardware supply constraint pain passed onto customers",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
-      "age": "1d ago",
-      "date_iso": "2026-11-21T11:00:28+00:00"
+      "link": "https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/",
+      "age": "1h ago",
+      "date_iso": "2026-11-23T17:08:00+00:00"
     },
     {
-      "category": "policy",
-      "title": "Amazon's split personality: AWS embraces bot commerce while main site enforces bans",
-      "summary": "Bot-based buying is here or not, depending on where you stand in the Amazon empire",
+      "category": "infra",
+      "title": "Sponsored: Solving cabling challenges behind AI data center growth",
+      "summary": "As data centers grow larger and denser, operators need cabling infrastructure designed to overcome the constraints of rapid expansion",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/marketwatch/solving-cabling-challenges-behind-ai-data-center-growth/",
+      "age": "1h ago",
+      "date_iso": "2026-11-23T17:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "CtrlS moves forward with 150MW data center project in Bihar, India",
+      "summary": "Company signs MoU for $1 billion project",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ctrls-moves-forward-with-150mw-data-center-project-in-bihar-india/",
+      "age": "3h ago",
+      "date_iso": "2026-11-23T15:49:53+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia board puts Jensen Huang back as boss",
+      "summary": "On the 11th day, Jensen Huang rose from the ranks of CEOs past and, with the full confidence of the board, returned to helm Nvidia",
       "source": "The Register",
-      "link": "https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493",
+      "link": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674",
+      "age": "4h ago",
+      "date_iso": "2026-11-23T14:35:50+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Google says autonomous AI tools can now exploit fresh patches in minutes",
+      "summary": "Google says autonomous AI tools can now exploit fresh patches in minutes TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOS1BNdWlkYVFqcEM2MXV1VWtkY0ZrTDVvUUp3QW5LNkZVdGRzSmR3R2p3ODc4eFpGV2U3Y3JUdWJDbTN4TjZjVk80dlpQbTZUc01tMFJNZktyUjNNa0MzY3FDT1RiRmNvOEx4QkNSV0tEQ0FDWkwwVU5SVk9GZEM3X3VNdVlfdXRLZEZ0b3lDdXdfQUhBQmdZcDhISXV3SDRHdjF4bmhwaHFCTU1NTWI3T3NPano2bmI5dzE3Z3BocjlzU3pQV3lNY2F1M2JFTFBXUV9OcnJWeTFTbnA5UGV0MkFjb1hydE4zMklib2UwaTJwekFBN3NZVDdYOGFFVF9wdGpkVENVdW8?oc=5",
       "age": "1d ago",
-      "date_iso": "2026-11-20T23:41:14+00:00"
+      "date_iso": "2026-11-22T17:05:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee",
+      "summary": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee Tom's Hardware",
+      "source": "Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQbzd2d0p5cWMyX3ZMd19ZV0ZnYWhLSlZSMlpIbUVtM0c2UmVHS2JUNW9EeHcya3NzUEJMaVdHNkQ3VmNxeWlET3diWjBYV3Y1c1JHUkJTWjZkbVZ0ZldpSDJNYlZqVXIxSXF3c0hhb0lQOVRvWWkwSEJNWlhDODQ2R2NwTE96eHJ4dGdXd21qNHRPcjh1eXJyRTk3b2tBay1ILWlrNnFvWTdWOHV0RTNOOUpkY0ZGTHJBVXVkYUlNdGw2a1B2alNjZFZ4VWQxWk5CcWFxaXpHQU41dldOb052QTNGanhPLXVHUENXX0g1RWJLR2JFM29GV1dia2x1MDF3b213SUZzeVgzQklzZWtyUlhiRVlmeFJxV3NZbm9LQlhpVkZTN2R5dlVuT09WTjc5UUtJUFNNUk1icjU0QUZYc3Fqbmtha2VxVzNma2JBN3lxNlVpOTRFU0ZOSVhhcFVrNXFqazZ2OVJreU5CSXdWNVJHTTdJd2lnM2RsZHBvcDdkVkNrQlBVZmVZbTgtdw?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-11-22T12:00:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Nvidia expands its Vera Rubin platform at SC26 supercomputing conference",
+      "summary": "Nvidia expands its Vera Rubin platform at SC26 supercomputing conference TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZmZZUl9zcllnaF9ad0c2SFdtSkRJZzBIQTV3eXlpUW40a0Mya0d4Z01CcFhKQlNMOTEtOWl4aVdKVjR2T3BFM1ZBU0lHOVNCRVpFSTVEYTQ5bHRkNm1SeFNfdVVVNjhFc1V4c01OMl9MWmZKU2ZPc1RNRm1VOHc5U1VBUjd6bzY4YmczNzQ2YTVTcTRQR0hwU2RBU0RWOGlLU0pVRFJjV1JhTzJ3V2NmNDhPQmVPbHlnWjNiRHdRUjNFSFllMjlsS05UMURpVnprTHB6eDl3YzNPbmFVQWwzbDU3ZUhJQ1g4ZEg4WXZOODBUUVZyUG9fbnVKN3JKZw?oc=5",
+      "age": "1d ago",
+      "date_iso": "2026-11-22T00:25:00+00:00"
     },
     {
       "category": "gpu",
@@ -44,44 +80,8 @@
       "summary": "JEDEC Previews DDR6 Memory Standard: 2.35x More Bandwidth, 44% Narrower DIMMs ServeTheHome",
       "source": "ServeTheHome",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjRxVFg0cDU0UlF2SjgtWVRWdDFIS0YwaFBmQ0xKUklmTXJ3VGFyaEs3dUcwblc2V1VBamhoR2MyMjg4UGMxMHNQYnhjRDlIUVRRakxVaXBJdWUzRE8yX0JBWmRtYk5aSHpPVThhRTVfdFRheG9ZNGxNWFVleWtoaDRQai1XREVFa3NGcjZCSFBKUGE1UmNPd0tVTklydWlYSEhjczE0cw?oc=5",
-      "age": "1d ago",
+      "age": "2d ago",
       "date_iso": "2026-11-20T23:40:12+00:00"
-    },
-    {
-      "category": "cpu",
-      "title": "Quote of the day by Nvidia co-founder Jensen Huang: 'The GPU won't destroy the CPU. Without the CPU, there's no computer' — reflecting on the symbiosis of modern computing",
-      "summary": "Quote of the day by Nvidia co-founder Jensen Huang: 'The GPU won't destroy the CPU. Without the CPU, there's no computer' — reflecting on the symbiosis of modern computing TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNZXROSHRPVnZaMWFrcjBwbTgzNjFYZlJ0UnRPZkFCeEdPRElsNXp6dy02VENGOVRXcGRUQmJIRnZXYTN2WE5XamhmRkRDelN6TTlQY3M1VTNrX3NRXzllc2s1NG5VRHp2b0lyZFkwdjV0bG1uZDVET2RmcVVwalNZdEVoWkVPc3I5VVRWampvam5Pb1djbjlZWGk2LTVGdVBBenhFTGVGWk4ybVk2SHZ1TFlVN0R5Smo5SDlHUThEUUFfU0taRXpzUi05dXFaM0hkQXVndG9aWVVnVmw1b0FMVWlLcXh5X3RSYmUwQjJmY1lpRUdGckJmR2ctaGhJenJUSHowZTBRbXZnNUJJY1p5SWp6blFVZU9nMWRJdw?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-11-20T23:00:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "NVIDIA's Latest GPU Drivers Reportedly Thrash SSDs At Up To 30GB Per Hour",
-      "summary": "NVIDIA's Latest GPU Drivers Reportedly Thrash SSDs At Up To 30GB Per Hour HotHardware",
-      "source": "HotHardware",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xb2NGbTR3WUVlaGthTHhtaEF6cUFReWdrV0h2TXhpQ1ZiR3JTNEhTd2ZpaUw2b1J5cDdnbENKVGNEejA2NWk3akVWdjA4TGxGZDYxUUlsSHJkcnYyZVVPbUlJdk9TM2E0cU9sZzc3SndldXM?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-11-20T19:05:00+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "UK competition body probes hyperscaler security and cloud lock-in",
-      "summary": "CMA continues digital sovereignty investigation with consultation into IAM and Kubernetes",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/",
-      "age": "1d ago",
-      "date_iso": "2026-11-20T17:09:15+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia",
-      "summary": "Aims to build five data center buildings on site",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-3167-acre-data-center-campus-in-mecklenburg-county-virginia/",
-      "age": "1d ago",
-      "date_iso": "2026-11-20T17:06:21+00:00"
     }
   ]
 }
