@@ -1,69 +1,78 @@
 {
-  "generated_at": "2026-11-24T18:28:40.377762+00:00",
+  "generated_at": "2026-11-25T17:42:48.536713+00:00",
   "item_count": 9,
   "items": [
     {
-      "category": "gpu",
-      "title": "Arm strongarms site that hosts ad-free documentation and it may disappear",
-      "summary": "Easy-to-use, popular, not collecting data for us, or serving our ads? Down with you!",
-      "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925",
+      "category": "infra",
+      "title": "GDS Holdings posts 10 percent net revenue increase YoY, revises down capex expectations",
+      "summary": "Says it is reacting to changing market conditions",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/gds-holdings-posts-10-percent-net-revenue-increase-yoy-revises-down-capex-expectations/",
       "age": "just now",
-      "date_iso": "2026-11-24T17:57:41+00:00"
-    },
-    {
-      "category": "edge",
-      "title": "Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium",
-      "summary": "Would have been the largest data center in Colorado",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/",
-      "age": "1h ago",
-      "date_iso": "2026-11-24T16:57:00+00:00"
-    },
-    {
-      "category": "policy",
-      "title": "US gov’t adds Singapore’s Megaspeed and subsidiaries to export block list",
-      "summary": "Follows reinstatement of Nvidia CEO who admitted earlier this month to an affair with former Megaspeed exec",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/us-govt-adds-singapores-megaspeed-and-subsidiaries-to-export-block-list/",
-      "age": "2h ago",
-      "date_iso": "2026-11-24T16:00:41+00:00"
-    },
-    {
-      "category": "infra",
-      "title": "Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina",
-      "summary": "Scale of deployment not shared",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/massed-compute-deploys-gpus-at-american-tower-data-center-in-raleigh-north-carolina/",
-      "age": "2h ago",
-      "date_iso": "2026-11-24T15:49:26+00:00"
+      "date_iso": "2026-11-25T17:00:54+00:00"
     },
     {
       "category": "gpu",
-      "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
-      "summary": "Chip boss gets his old job back, but Washington isn't done investigating one of his former flame's businesses",
+      "title": "HP sees premium-priced AI PCs as its meal ticket in a shrinking market",
+      "summary": "PC shipments set to fall further thanks to the memory shortage, but high-margin models for AI at the edge keep profits up",
       "source": "The Register",
-      "link": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901",
-      "age": "3h ago",
-      "date_iso": "2026-11-24T15:15:00+00:00"
+      "link": "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
+      "age": "just now",
+      "date_iso": "2026-11-25T17:00:00+00:00"
     },
     {
       "category": "infra",
-      "title": "Applied Digital signs $5.4bn 18-year lease with unnamed hyperscaler",
-      "summary": "Will provide hyperscaler with 150MW of capacity",
+      "title": "Trio of Japanese real estate developers invest in 15MW Hokkaido data center development",
+      "summary": "Daibiru, Sankei Building, and Osaka Gas Urban Development take a dip into data centers",
       "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/applied-digital-signs-54bn-18-year-lease-with-unnamed-hyperscaler/",
+      "link": "https://www.datacenterdynamics.com/en/news/trio-of-japanese-real-estate-developers-invest-in-15mw-hokkaido-data-center-development/",
+      "age": "just now",
+      "date_iso": "2026-11-25T16:53:02+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County",
+      "summary": "Project approved despite local opposition",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-up-to-800mw-gas-plant-set-to-power-edgeconnex-data-center-in-pickaway-county/",
+      "age": "1h ago",
+      "date_iso": "2026-11-25T16:20:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Sponsored: The case for an integrated power and cooling approach for AI workloads",
+      "summary": "As compute densities continue to scale, power availability, and heat rejection set the bar for data center performance",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/opinions/the-case-for-an-integrated-power-and-cooling-approach-for-ai-workloads/",
+      "age": "1h ago",
+      "date_iso": "2026-11-25T16:00:00+00:00"
+    },
+    {
+      "category": "infra",
+      "title": "Promera acquires Irish electrical contractor B&G to expand data center offering",
+      "summary": "B&G provides critical power infrastructure services for the data center market",
+      "source": "DataCenterDynamics",
+      "link": "https://www.datacenterdynamics.com/en/news/promera-acquires-irish-electrical-contractor-bg-to-expand-data-center-offering/",
       "age": "3h ago",
-      "date_iso": "2026-11-24T14:53:30+00:00"
+      "date_iso": "2026-11-25T14:10:39+00:00"
     },
     {
       "category": "gpu",
-      "title": "TSMC files application for proposed 2nm chip fab in Brazos County, Texas",
-      "summary": "Chipmaker said no final decision had been made about building a fab in county that neighbors SpaceX’s TeraFab project",
-      "source": "DataCenterDynamics",
-      "link": "https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/",
-      "age": "4h ago",
-      "date_iso": "2026-11-24T14:10:27+00:00"
+      "title": "NAND prices could finally be set to fall, in the first bit of good news for component fans for some time — but DRAM is refusing to budge so far",
+      "summary": "NAND prices could finally be set to fall, in the first bit of good news for component fans for some time — but DRAM is refusing to budge so far TechRadar",
+      "source": "TechRadar Pro",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMlF4RHBRMmdFYXBBU0xjaDBPcGNrVXZ0SXNxN2o5ZFNjR2hvYklnQzRQRV9iSE15aHFaNWNUN2lQZHFncUtuZjIyWFBEeHRIRUZiaG5Dak1ZRFJmNXVneGNtaHlENGpUWnZINnVZb1U5OExkSGFUYk9lWkhmZElJSmVOY1BFMjl5LTh0X2NrdHdZYVJvbG00N2c3VUxDSm42RGZSc3pJUUNwRGtqVHFRMk1wamd4eU5rdko2VEl2RVlSaENJQ3VqeWhIRTI0VlIxY0VocVFOeDlWa3RTUmJpSWlOZzhTVjIxM3NxeHBkTTIzSkZMdWdJNWhCT3o4U1U?oc=5",
+      "age": "18h ago",
+      "date_iso": "2026-11-24T23:15:00+00:00"
+    },
+    {
+      "category": "gpu",
+      "title": "Moore Threads Lushan GPU Teases Massive VRAM And 15X Gaming Gains",
+      "summary": "Moore Threads Lushan GPU Teases Massive VRAM And 15X Gaming Gains HotHardware",
+      "source": "HotHardware",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkhEUmVkSkx2Q2tPeDlwY1F5dVFyN0xxYlpISEtXWThtMnBYaGktbU01RTc4ZDBXcWxpdXBybGwtNTQ2Rjg4eUNUNEhuMjJQdlYwZndmZHNBSmUza050aTdLdjhfYlBhWEZ0eExCaHVTclpSV2ViQ1dQdjdsaWVBV1cxRnFmQQ?oc=5",
+      "age": "22h ago",
+      "date_iso": "2026-11-24T18:50:00+00:00"
     },
     {
       "category": "cpu",
@@ -71,17 +80,8 @@
       "summary": "AI server makers hike prices up to 45% months after contracts are signed as RAM shortage triples memory-heavy CPU node costs — financial firms still pay up as 'the compute is valuable' Tom's Hardware",
       "source": "Tom's Hardware",
       "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPSUlKR3lSbU5ERFp5RVR4S1lVNlZOU3hmUHZlZmJLX3VWaHNUWU5XdUZkU1hJdW5XY052eGNqR0V4anlJV1EtdnA4emdfZVlDUTRpMkwwSEZfcXg3R2lzR0NISGltc2dVQjF1cGNzV1VpZ0RDbUVzSlU5SlF3eHRfRWsyZm1EU1ZaZ1VqR3p1TEpVTEZFbGNCY2JIM2J5OUp6QW56T1FqNmFnc0NGam82YVBOLU5YeWRDWXVnaHNYdkwtN3FzXzJBdi1rMDljbHFyTUJyVXNRUU9BQ2MxTXBrU2tFc0FKMTM3dEl1NnFHNW1MTWtZbDRHTGp1b0d3Wl9zVDRhOFhBbFkyVHRQLWpXTUh4QlYweFFsd21BOFlCdjZONk5xbjE1QmI4Z3htOC1YcE84NktKVDEzTkJXVjFwVS1UTUtMNFd5a1NOV3N4YmcycllBSGpRdWJ0QQ?oc=5",
-      "age": "1d ago",
-      "date_iso": "2026-11-23T12:30:00+00:00"
-    },
-    {
-      "category": "gpu",
-      "title": "Google says autonomous AI tools can now exploit fresh patches in minutes",
-      "summary": "Google says autonomous AI tools can now exploit fresh patches in minutes TechRadar",
-      "source": "TechRadar Pro",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOS1BNdWlkYVFqcEM2MXV1VWtkY0ZrTDVvUUp3QW5LNkZVdGRzSmR3R2p3ODc4eFpGV2U3Y3JUdWJDbTN4TjZjVk80dlpQbTZUc01tMFJNZktyUjNNa0MzY3FDT1RiRmNvOEx4QkNSV0tEQ0FDWkwwVU5SVk9GZEM3X3VNdVlfdXRLZEZ0b3lDdXdfQUhBQmdZcDhISXV3SDRHdjF4bmhwaHFCTU1NTWI3T3NPano2bmI5dzE3Z3BocjlzU3pQV3lNY2F1M2JFTFBXUV9OcnJWeTFTbnA5UGV0MkFjb1hydE4zMklib2UwaTJwekFBN3NZVDdYOGFFVF9wdGpkVENVdW8?oc=5",
       "age": "2d ago",
-      "date_iso": "2026-11-22T17:05:00+00:00"
+      "date_iso": "2026-11-23T12:30:00+00:00"
     }
   ]
 }
